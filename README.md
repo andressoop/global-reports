@@ -65,3 +65,25 @@ List of all global reports published by international organisations.
 - [Human Development Report 1991](http://www.hdr.undp.org/en/reports/global/hdr1991) – Financing Human Development
 
 - [Human Development Report 1990](http://www.hdr.undp.org/en/reports/global/hdr1990) – Concept and Measurement of Human Development
+
+  
+
+## Global Gender Gap Report
+
+> World Economic Forum
+
+- [Global Gender Gap Report 2020](https://www.weforum.org/reports/gender-gap-2020-report-100-years-pay-equality)
+- 2019 - none was released
+- [Global Gender Gap Report 2018](https://www.weforum.org/reports/the-global-gender-gap-report-2018)
+- [Global Gender Gap Report 2017](https://www.weforum.org/reports/the-global-gender-gap-report-2017)
+- [Global Gender Gap Report 2016](https://www.weforum.org/reports/the-global-gender-gap-report-2016)
+- [Global Gender Gap Report 2015](https://www.weforum.org/reports/global-gender-gap-report-2015) – 10th Anniversary Edition
+- [Global Gender Gap Report 2014](https://www.weforum.org/reports/global-gender-gap-report-2014)
+- [Global Gender Gap Report 2013](https://www.weforum.org/reports/global-gender-gap-report-2013)
+- [Global Gender Gap Report 2012](https://www.weforum.org/reports/global-gender-gap-report-2012)
+- [Global Gender Gap Report 2011](http://reports.weforum.org/global-gender-gap-2011/)
+- [Global Gender Gap Report 2010](https://www.weforum.org/reports/global-gender-gap-report-2010)
+- [Global Gender Gap Report 2009](https://www.weforum.org/reports/global-gender-gap-report-2009)
+- [Global Gender Gap Report 2008](https://www.weforum.org/reports/global-gender-gap-report-2008)
+- [Global Gender Gap Report 2007](http://www3.weforum.org/docs/WEF_GenderGap_Report_2007.pdf)
+- [Global Gender Gap Report 2006](https://www.weforum.org/reports/global-gender-gap-report-2006)
