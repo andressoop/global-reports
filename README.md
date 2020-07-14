@@ -11,7 +11,7 @@ List of all global reports published by international organisations.
 > World Economic Forum
 
 - [2020 Global Gender Gap Report](https://www.weforum.org/reports/gender-gap-2020-report-100-years-pay-equality)
-- 2019 - none was released
+- 2019 n/a
 - [2018 Global Gender Gap Report](https://www.weforum.org/reports/the-global-gender-gap-report-2018)
 - [2017 Global Gender Gap Report](https://www.weforum.org/reports/the-global-gender-gap-report-2017)
 - [2016 Global Gender Gap Report](https://www.weforum.org/reports/the-global-gender-gap-report-2016)
@@ -34,12 +34,12 @@ List of all global reports published by international organisations.
 
 - [2019 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2019) – Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century
 - [2018 Statistical Update](http://www.hdr.undp.org/en/content/human-development-indices-indicators-2018-statistical-update) – Human Development Indices and Indicators
-- 2017 – none was released
+- 2017 n/a
 - [2016 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2016) – Human Development for Everyone
 - [2015 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2015) – Work for Human Development
 - [2014 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2014) – Sustaining Human Progress: Reducing Vulnerabilities and Building Resilience
 - [2013 Human Development Report](http://www.hdr.undp.org/en/en/content/human-development-report-2013) – The Rise of the South: Human Progress in a Diverse World
-- 2012 – none was released 
+- 2012 n/a
 - [2011 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2011) – Sustainability and Equity: A Better Future for All
 - [2010 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2010) – The Real Wealth of Nations: Pathways to Human Development
 - [2009 Human Development Report](http://www.hdr.undp.org/en/content/human-development-report-2009) – Overcoming barriers: Human mobility and development
@@ -70,7 +70,7 @@ List of all global reports published by international organisations.
 
 - 2020 World Energy Outlook
   - [Sustainable Recovery](https://webstore.iea.org/sustainable-recovery-weo-special-report)
-- [2019 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2019) 💲
+- [2019 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2019) **$**
   - [The Role of Gas in Today's Energy Transitions]()
   - [Offshore Wind Outlook](https://webstore.iea.org/offshore-wind-outlook-2019-world-energy-outlook-special-report)
   - [Africa Energy Outlook](https://webstore.iea.org/africa-energy-outlook-2019)
