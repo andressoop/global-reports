@@ -85,6 +85,16 @@ List of all global reports published by international organisations.
 
 
 
+## Postal Development Report
+
+> Universal Postal Union
+
+- [2019 Postal Development Report](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf) – Perspectives on the performance of postal operators worldwide
+- [2018 Postal Development Report](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf) – Benchmarking a critical infrastructure for sustainable development
+- [2017 Integrated Index for Postal Development (2IPD)](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017En.pdf)
+
+
+
 ## The World's Women
 
 > United Nations Department of Economic and Social Affairs
