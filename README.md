@@ -6,6 +6,14 @@ List of all global reports published by international organisations.
 
 
 
+## A World at Risk
+
+> Global Preparedness Monitoring Board
+
+- [2019 A World at Risk](https://apps.who.int/gpmb/annual_report.html) – Annual report on global preparedness for health emergencies
+
+
+
 ## Global Gender Gap Report
 
 > World Economic Forum
