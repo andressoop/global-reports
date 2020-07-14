@@ -72,6 +72,19 @@ List of all global reports published by international organisations.
 
 
 
+## The World's Women
+
+> United Nations Department of Economic and Social Affairs
+
+- [2015 The World's Women](https://unstats.un.org/unsd/gender/downloads.html) – Trends and Statistics
+- [2010 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2010pub/) – Trends and Statistics
+- [2005 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2005pub/) – Progress in Statistics
+- [2000 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2000pub/) – Trends and Statistics
+- [1995 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1995.pdf) – Trends and Statistics
+- [1970–1990 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1990.pdf) – Trends and Statistics
+
+
+
 ## World Energy Outlook
 
 > International Energy Agency
