@@ -36,6 +36,19 @@ List of all global reports published by international organisations.
 
 
 
+## Global Wage Report
+
+> International Labour Organization
+
+- [2018/2019 Global Wage Report](https://www.ilo.org/global/publications/books/WCMS_650553/lang--en/index.htm) – What lies behind gender pay gaps
+- [2016/2017 Global Wage Report](https://www.ilo.org/global/research/global-reports/global-wage-report/2016/WCMS_537846/lang--en/index.htm) – Wage inequality in the workplace
+- [2014/2015 Global Wage Report](https://www.ilo.org/global/publications/books/WCMS_324678/lang--en/index.htm) – Wages and income inequality
+- [2012/2013 Global Wage Report](https://www.ilo.org/global/research/global-reports/global-wage-report/2012/WCMS_194843/lang--en/index.htm) – Wages and Equitable Growth
+- [2010/2011 Global Wage Report](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_145265/lang--en/index.htm) – Wage policies in times of crisis
+- [2008/2009 Global Wage Report](https://www.ilo.org/global/publications/WCMS_100786/lang--en/index.htm) – Minimum wages and collective bargaining: Towards policy coherence
+
+
+
 ## Human Development Report 
 
 > United Nations Development Program
