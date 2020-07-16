@@ -14,6 +14,18 @@ List of all global reports published by international organisations.
 
 
 
+## Global Catastrophic Risks
+
+> Global Challenges Foundation
+
+- [2020 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/Global-Catastrophic-Risks-2020-Annual-Report-WEB-V2-1.pdf)
+- 2019 n/a
+- [2018 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/GCF-Annual-report-2018-1.pdf)
+- [2017 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/2019/07/Global-Catastrophic-Risks-2017.pdf)
+- [2016 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/2019/07/Global-Catastrophic-Risk-Annual-Report-2016.pdf)
+
+
+
 ## Global Gender Gap Report
 
 > World Economic Forum
