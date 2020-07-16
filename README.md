@@ -187,3 +187,18 @@ List of all global reports published by international organisations.
   - [Focus on Energy Poverty](https://webstore.iea.org/weo-2007-special-report-focus-on-energy-poverty)
   - [Focus on China and India](https://webstore.iea.org/weo-2007-special-report-focus-on-china-and-india)
 - [2006 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2006)
+
+
+
+## Worldwide Cost of Living
+
+> Economist Intelligence Unit
+
+- [2020 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2020/) **$**
+- [2019 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2019/) **$**
+- [2018 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2018/) **$**
+- [2017 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2017/) **$**
+- [2016 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2016/) **$**
+- [2015 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2015/) **$**
+- [2014 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2014/) **$**
+- [2013 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2013/) **$**
