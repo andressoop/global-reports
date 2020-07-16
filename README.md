@@ -26,6 +26,24 @@ List of all global reports published by international organisations.
 
 
 
+## Global Food Security Index
+
+> Economist Intelligence Unit
+
+- [2019 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=Global%20Food%20Security%20Index%202019%20report.pdf) – Strengthening food systems and the environment through innovation and investment
+- [2018 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202018%20Findings%20%26%20Methodology.pdf) – Building resilience in the face of rising food-security risks
+- [2017 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202017%20Findings%20%26%20Methodology.pdf) – Measuring food security and the impact of resource risks
+- [2016 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202016%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+- [2015 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202015%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+  - [The role of innovation in meeting food security challenges](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_Dupont_GFSI_2015_Innovation_WEBr4.pdf)
+- [2014 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202014%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+  - [The burden of obesity: Its relationship with food security](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_GFSI%202014_Special%20report_Obesity.pdf)
+  - [Food loss and its intersection with food security](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_GFSI%202014_Special%20report_Food%20loss.pdf)
+- [2013 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202013%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+- [2012 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202012%20Findings%20%26%20Methodology.pdf) – An assessment of food affordability, availability and quality
+
+
+
 ## Global Gender Gap Report
 
 > World Economic Forum
