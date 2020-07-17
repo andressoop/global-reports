@@ -29,6 +29,23 @@ List of all global reports published by international organisations.
 
 
 
+## Corruption Perceptions Index
+
+> Transparency International
+
+- [2019 Corruption Perceptions Index](https://images.transparencycdn.org/images/2019_CPI_Report_EN.pdf)
+- [2018 Corruption Perceptions Index](https://images.transparencycdn.org/images/2018_CPI_Executive_Summary.pdf)
+- [2017 Corruption Perceptions Index](https://images.transparencycdn.org/images/2017_CPI_Brochure_EN.pdf)
+- [2016 Corruption Perceptions Index](https://images.transparencycdn.org/images/2016_CPIReport_EN.pdf)
+- [2015 Corruption Perceptions Index](https://images.transparencycdn.org/images/2015_CorruptionPerceptionsIndex_Report_EN.pdf)
+- [2014 Corruption Perceptions Index](https://images.transparencycdn.org/images/2014_CPIBrochure_EN.pdf)
+- [2013 Corruption Perceptions Index](https://images.transparencycdn.org/images/2013_CPIBrochure_EN.pdf)
+- [2012 Corruption Perceptions Index](https://images.transparencycdn.org/images/2012_CPI_brochure_EN.pdf)
+- [2011 Corruption Perceptions Index](https://images.transparencycdn.org/images/2011_CPI_EN.pdf)
+- [2010 Corruption Perceptions Index](https://images.transparencycdn.org/images/2010_CPI_EN.pdf)
+
+
+
 ## Global Catastrophic Risks
 
 > Global Challenges Foundation
