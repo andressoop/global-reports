@@ -6,6 +6,21 @@ List of all global reports published by international organisations.
 
 
 
+## Table of Contents
+
+* [A World at Risk](#a-world-at-risk)
+* [Global Catastrophic Risks](#global-catastrophic-risks)
+* [Global Food Security Index](#global-food-security-index)
+* [Global Gender Gap Report](#global-gender-gap-report)
+* [Global Wage Report](#global-wage-report)
+* [Human Development Report](#human-development-report)
+* [Postal Development Report](#postal-development-report)
+* [The World's Women](#the-world-s-women)
+* [World Energy Outlook](#world-energy-outlook)
+* [Worldwide Cost of Living](#worldwide-cost-of-living)
+
+
+
 ## A World at Risk
 
 > Global Preparedness Monitoring Board
