@@ -13,7 +13,7 @@ For any questions, thoughts, ideas, issues, etc, use the [Issues](https://github
 
 ## Reports not to include
 > So the project wont get too big. For now.
-- Summaries
+- Summaries `If the full report is not available online or can't be found, then summary will do`
 - Excerpts and specials that **do not** cover global scale
 - Regional reports `up for discussion if we should include them in the future`
 - Country reports
