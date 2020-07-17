@@ -9,6 +9,7 @@ List of all global reports published by international organisations.
 ## Table of Contents
 
 * [A World at Risk](#a-world-at-risk)
+* [Corruption Perceptions Index](#corruption-perceptions-index)
 * [Global Catastrophic Risks](#global-catastrophic-risks)
 * [Global Food Security Index](#global-food-security-index)
 * [Global Gender Gap Report](#global-gender-gap-report)
