@@ -1,20 +1,26 @@
 # Global Reports
 
-List of all major global reports published by international organisations. 
+List of all major global reports published on a regular basis by international organisations. 
 
 
 
 ## Table of Contents
 
 * [A World at Risk](#a-world-at-risk)
+* [Brown to Green Report](#brown-to-green-report)
 * [Corruption Perceptions Index](#corruption-perceptions-index)
+* [Cost of Living Survey](#cost-of-living-survey)
+* [Death Sentences and Executions](#death-sentences-and-executions)
+* [Energy Technology Perspectives](#energy-technology-perspectives)
 * [Global Catastrophic Risks](#global-catastrophic-risks)
+* [Global Energy Review](#global-energy-review)
 * [Global Food Security Index](#global-food-security-index)
 * [Global Gender Gap Report](#global-gender-gap-report)
 * [Global Wage Report](#global-wage-report)
 * [Human Development Report](#human-development-report)
 * [Postal Development Report](#postal-development-report)
 * [The World's Women](#the-worlds-women)
+* [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
 * [World Energy Outlook](#world-energy-outlook)
 * [Worldwide Cost of Living](#worldwide-cost-of-living)
 
@@ -25,6 +31,18 @@ List of all major global reports published by international organisations.
 > Global Preparedness Monitoring Board [reports](https://apps.who.int/gpmb/annual_report.html)
 
 - [2019 A World at Risk](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf) – Annual report on global preparedness for health emergencies  [[ar](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Arabic.pdf), [es](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Exec_Summary_Foreword_and_About_Spanish.pdf), [fr](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_French.pdf), [ru](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Russian.pdf), [zh](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Chinese.pdf)]
+
+
+
+## Brown to Green Report
+
+> Climate Transparency [reports](https://www.climate-transparency.org/g20-climate-performance)
+
+- [2019 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2019/11/Brown-to-Green-Report-2019.pdf) – The G20 transition to a net-zero emissions economy 
+- [2018 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2019/01/2018-BROWN-TO-GREEN-REPORT-FINAL.pdf) – The G20 transition to a low-carbon economy
+- [2017 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2017/07/Brown-to-Green-Report-2017_web.pdf) – The G20 transition to a low-carbon economy
+- [2016 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2016/09/Brown-to-Green-Assessing-the-G20-transition-to-a-low-carbon-economy.pdf) – Assessing the G20 transition to a low-carbon economy
+- [2015 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_FullReport_2015.pdf) – G20 climate action: a turning point?
 
 
 
@@ -60,6 +78,90 @@ List of all major global reports published by international organisations.
 
 
 
+## Cost of Living Survey
+
+> Mercer
+
+- [2020 Cost of Living Survey](https://www.mercer.com/content/dam/mercer/attachments/private/gl-2020-2020-col-ranking-mercer.pdf)
+- 2019 Cost of Living Survey
+- 2018 Cost of Living Survey
+- 2017 Cost of Living Survey
+- [2016 Cost of Living Survey](https://www.mercer.com/content/dam/mercer/attachments/global/Talent/cost-of-living/gl-2016-cost-of-living-mobility-survey-mercer.pdf)
+- 2015 Cost of Living Survey
+- 2014 Cost of Living Survey
+- 2013 Cost of Living Survey
+- 2012 Cost of Living Survey
+- 2011 Cost of Living Survey
+- 2010 Cost of Living Survey
+- 2009 Cost of Living Survey
+- 2008 Cost of Living Survey
+- 2007 Cost of Living Survey
+- 2006 Cost of Living Survey
+- 2005 Cost of Living Survey
+- 2004 Cost of Living Survey
+- 2003 Cost of Living Survey
+- 2002 Cost of Living Survey
+- 2001 Cost of Living Survey
+- 2000 Cost of Living Survey
+- 1999 Cost of Living Survey
+- 1998 Cost of Living Survey
+- 1997 Cost of Living Survey
+- 1996 Cost of Living Survey
+- 1995 Cost of Living Survey
+
+
+
+## Death Sentences and Executions
+
+> Amnesty International [source](https://www.amnesty.org/en/search/?q=%22Death+Sentences+and+Executions%22&sort=date&issue=1583&documentType=Annual+Report&documentType=Report)
+
+- [2019 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5018472020ENGLISH.PDF)
+- [2018 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5098702019ENGLISH.PDF)
+- [2017 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5079552018ENGLISH.PDF)
+- [2016 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5057402017ENGLISH.PDF)
+- [2015 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5034872016ENGLISH.PDF)
+- [2014 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5000012015ENGLISH.PDF)
+- [2013 Death Sentences and Executions](https://www.amnesty.org/download/Documents/4000/act500012014en.pdf)
+- [2012 Death Sentences and Executions](https://www.amnesty.org/download/Documents/8000/act500012013en.pdf)
+- [2011 Death Sentences and Executions](https://www.amnesty.org/download/Documents/16000/act500012012en.pdf)
+- [2010 Death Sentences and Executions](https://www.amnesty.org/download/Documents/24000/act500012011en.pdf)
+- [2009 Death Sentences and Executions](https://www.amnesty.org/download/Documents/36000/act500012010en.pdf)
+- [2008 Death Sentences and Executions](https://www.amnesty.org/download/Documents/44000/act500032009en.pdf)
+- [2007 Death Sentences and Executions](https://www.amnesty.org/download/Documents/48000/act500012008eng.pdf)
+- [2006 Death Sentences and Executions](https://www.amnesty.org/download/Documents/56000/act500042007en.pdf)
+- [2005 Death Sentences and Executions](https://www.amnesty.org/download/Documents/68000/act500022006en.pdf)
+- [2004 Death Sentences and Executions](https://www.amnesty.org/download/Documents/80000/act500052005en.pdf)
+- [2003 Death Sentences and Executions](https://www.amnesty.org/download/Documents/88000/act500062004en.pdf)
+- [2002 Death Sentences and Executions](https://www.amnesty.org/download/Documents/100000/act510012003en.pdf)
+- [2001 Death Sentences and Executions](https://www.amnesty.org/download/Documents/112000/act510012002en.pdf)
+- [2000 Death Sentences and Executions](https://www.amnesty.org/download/Documents/120000/act510022001en.pdf)
+- [1999 Death Sentences and Executions](https://www.amnesty.org/download/Documents/132000/act500082000en.pdf)
+- [1998 Death Sentences and Executions](https://www.amnesty.org/download/Documents/140000/act510011999en.pdf)
+- [1997 Death Sentences and Executions](https://www.amnesty.org/download/Documents/148000/act510011998en.pdf)
+- [1996 Death Sentences and Executions](https://www.amnesty.org/download/Documents/156000/act510011997en.pdf)
+- [1995 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT510011996ENGLISH.pdf)
+- [1994 Death Sentences and Executions](https://www.amnesty.org/download/Documents/172000/act510011995en.pdf)
+- [1993 Death Sentences and Executions](https://www.amnesty.org/download/Documents/184000/act510011994en.pdf)
+- [1992 Death Sentences and Executions](https://www.amnesty.org/download/Documents/192000/act510011993en.pdf)
+- [1991 Death Sentences and Executions](https://www.amnesty.org/download/Documents/196000/act510011992en.pdf)
+
+
+
+## Energy Technology Perspectives
+
+> International Energy Agency [reports](https://www.iea.org/topics/energy-technology-perspectives)
+
+- [2017 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2017) – Catalysing Energy Technology Transformations
+- [2016 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2016) – Towards Sustainable Urban Energy Systems
+- [2015 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2015) – Mobilising Innovation to Accelerate Climate Action
+- [2014 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2014) – Harnessing Electricity’s Potential
+- [2012 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2012) – Pathways to a Clean Energy System
+- [2010 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2010) – Scenarios and strategies to 2050
+- [2008 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2008) – Scenarios and strategies to 2050
+- [2006 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2006) – Scenarios and strategies to 2050
+
+
+
 ## Global Catastrophic Risks
 
 > Global Challenges Foundation [reports](https://globalchallenges.org/initiatives/analysis-research/reports/)
@@ -72,6 +174,17 @@ List of all major global reports published by international organisations.
 
 
 
+## Global Energy Review
+
+> International Energy Agency [reports](https://www.iea.org/topics/global-energy-review)
+
+- [2020 Global Energy Review](https://webstore.iea.org/global-energy-review-2020) – The impacts of the Covid-19 crisis on global energy demand and CO2 emissions
+- [2019 Global Energy Review](https://webstore.iea.org/global-energy-review-2019)
+- [2018 Global Energy & CO2 Status Report](https://webstore.iea.org/global-energy-co2-status-report-2018)
+- [2017 Global Energy & CO2 Status Report](https://webstore.iea.org/global-energy-co2-status-report-2017)
+
+
+
 ## Global Food Security Index
 
 > Economist Intelligence Unit [reports](https://foodsecurityindex.eiu.com/Resources)
@@ -79,13 +192,13 @@ List of all major global reports published by international organisations.
 - [2019 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=Global%20Food%20Security%20Index%202019%20report.pdf) – Strengthening food systems and the environment through innovation and investment
 - [2018 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202018%20Findings%20%26%20Methodology.pdf) – Building resilience in the face of rising food-security risks
 - [2017 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202017%20Findings%20%26%20Methodology.pdf) – Measuring food security and the impact of resource risks
-- [2016 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202016%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
-- [2015 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202015%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+- [2016 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202016%20Findings%20%26%20Methodology.pdf)
+- [2015 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202015%20Findings%20%26%20Methodology.pdf)
   - [The role of innovation in meeting food security challenges](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_Dupont_GFSI_2015_Innovation_WEBr4.pdf)
-- [2014 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202014%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+- [2014 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202014%20Findings%20%26%20Methodology.pdf)
   - [The burden of obesity: Its relationship with food security](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_GFSI%202014_Special%20report_Obesity.pdf)
   - [Food loss and its intersection with food security](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_GFSI%202014_Special%20report_Food%20loss.pdf)
-- [2013 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202013%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
+- [2013 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202013%20Findings%20%26%20Methodology.pdf)
 - [2012 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202012%20Findings%20%26%20Methodology.pdf) – An assessment of food affordability, availability and quality
 
 
@@ -175,12 +288,25 @@ List of all major global reports published by international organisations.
 
 > United Nations Department of Economic and Social Affairs [reports](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml )
 
-- [2015 The World's Women](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_report.pdf) – Trends and Statistics [[ar](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Arabic.pdf), [fr](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_French.pdf), [ru](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Russian.pdf), [zh](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Chinese.pdf)]
-- [2010 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW_full%20report_color.pdf) – Trends and Statistics [[ar](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19a.pdf), [es](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19s.pdf), [fr](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19f.pdf), [ru](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19r.pdf), [zh](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19c.pdf)]
+- [2015 The World's Women](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_report.pdf) [[ar](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Arabic.pdf), [fr](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_French.pdf), [ru](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Russian.pdf), [zh](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Chinese.pdf)]
+- [2010 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW_full%20report_color.pdf) [[ar](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19a.pdf), [es](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19s.pdf), [fr](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19f.pdf), [ru](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19r.pdf), [zh](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19c.pdf)]
 - [2005 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2005pub/) – Progress in Statistics [ar, [es](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_17s.pdf), fr, [ru](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_17r.pdf), [zh](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_17c.pdf)]
-- [2000 The World's Women](https://unstats.un.org/unsd/publication/SeriesK/seriesk_16e.pdf) – Trends and Statistics
-- [1995 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1995.pdf) – Trends and Statistics
-- [1970–1990 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1990.pdf) – Trends and Statistics
+- [2000 The World's Women](https://unstats.un.org/unsd/publication/SeriesK/seriesk_16e.pdf)
+- [1995 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1995.pdf)
+- [1970–1990 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1990.pdf)
+
+
+
+## Tracking Clean Energy Progress
+
+> International Energy Agency [reports](https://webstore.iea.org/search?q=tracking+clean+energy)
+
+- [2017 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2017)
+- [2016 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2016)
+- [2015 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2015)
+- [2014 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2014)
+- [2013 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2013)
+- [2012 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2012)
 
 
 
