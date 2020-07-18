@@ -24,17 +24,15 @@ List of all global reports published by international organisations.
 
 ## A World at Risk
 
-> Global Preparedness Monitoring Board
+> Global Preparedness Monitoring Board [reports](https://apps.who.int/gpmb/annual_report.html)
 
 - [2019 A World at Risk](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf) – Annual report on global preparedness for health emergencies  [[ar](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Arabic.pdf), [es](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Exec_Summary_Foreword_and_About_Spanish.pdf), [fr](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_French.pdf), [ru](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Russian.pdf), [zh](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Chinese.pdf)]
-
-[source]: https://apps.who.int/gpmb/annual_report.html
 
 
 
 ## Corruption Perceptions Index
 
-> Transparency International
+> Transparency International [reports](https://www.transparency.org/en/cpi)
 
 - [2019 Corruption Perceptions Index](https://images.transparencycdn.org/images/2019_CPI_Report_EN.pdf)  [[ar](https://images.transparencycdn.org/images/2019_CPI_Report_AR_200331_141623.pdf), [es](https://images.transparencycdn.org/images/2019_CPI_Report_ES_200406_105829.pdf), [fr](https://images.transparencycdn.org/images/2019_CPI_Report_FR_200406_105620.pdf), [ru](https://images.transparencycdn.org/images/2019_CPI_Report_RU_200406_110022.pdf)]
 - [2018 Corruption Perceptions Index](https://images.transparencycdn.org/images/2018_CPI_Executive_Summary.pdf)  [[ar](https://images.transparencycdn.org/images/CPI_2018_Executive_summary_web_AR.pdf), [es](https://images.transparencycdn.org/images/CPI_2018_Executive_summary_web_ES.pdf), [fr](https://images.transparencycdn.org/images/CPI_2018__Executive_summary_web_FR.pdf), [ru](https://images.transparencycdn.org/images/CPI_2018_Executive_summary_web_RU.pdf)]
@@ -62,13 +60,11 @@ List of all global reports published by international organisations.
 - [1996 Corruption Perceptions Index](https://images.transparencycdn.org/images/1996_CPI_EN.pdf)
 - [1995 Corruption Perceptions Index](https://images.transparencycdn.org/images/1995_CPI_EN.pdf)
 
-[source]: https://www.transparency.org/en/cpi
-
 
 
 ## Global Catastrophic Risks
 
-> Global Challenges Foundation
+> Global Challenges Foundation [reports](https://globalchallenges.org/initiatives/analysis-research/reports/)
 
 - [2020 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/Global-Catastrophic-Risks-2020-Annual-Report-WEB-V2-1.pdf)
 - 2019 n/a
@@ -76,13 +72,11 @@ List of all global reports published by international organisations.
 - [2017 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/2019/07/Global-Catastrophic-Risks-2017.pdf)
 - [2016 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/2019/07/Global-Catastrophic-Risk-Annual-Report-2016.pdf)
 
-[source]: https://globalchallenges.org/initiatives/analysis-research/reports/
-
 
 
 ## Global Food Security Index
 
-> Economist Intelligence Unit
+> Economist Intelligence Unit [reports](https://foodsecurityindex.eiu.com/Resources)
 
 - [2019 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=Global%20Food%20Security%20Index%202019%20report.pdf) – Strengthening food systems and the environment through innovation and investment
 - [2018 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202018%20Findings%20%26%20Methodology.pdf) – Building resilience in the face of rising food-security risks
@@ -96,13 +90,11 @@ List of all global reports published by international organisations.
 - [2013 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202013%20Findings%20%26%20Methodology.pdf) – An annual measure of the state of global food security
 - [2012 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202012%20Findings%20%26%20Methodology.pdf) – An assessment of food affordability, availability and quality
 
-[source]: https://foodsecurityindex.eiu.com/Resources
-
 
 
 ## Global Gender Gap Report
 
-> World Economic Forum
+> World Economic Forum [reports](https://www.weforum.org/search?query=Global+Gender+Gap+Report)
 
 - [2020 Global Gender Gap Report](http://www3.weforum.org/docs/WEF_GGGR_2020.pdf)
 - 2019 n/a
@@ -120,13 +112,11 @@ List of all global reports published by international organisations.
 - [2007 Global Gender Gap Report](http://www3.weforum.org/docs/WEF_GenderGap_Report_2007.pdf)
 - [2006 Global Gender Gap Report](http://www3.weforum.org/docs/WEF_GenderGap_Report_2006.pdf)
 
-[source]: https://www.weforum.org/search?query=Global+Gender+Gap+Report
-
 
 
 ## Global Wage Report
 
-> International Labour Organization
+> International Labour Organization [reports](https://www.ilo.org/global/research/global-reports/global-wage-report/lang--en/index.htm)
 
 - [2018/2019 Global Wage Report](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_650553.pdf) – What lies behind gender pay gaps  [[es](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_712957.pdf), [fr](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_737029.pdf), [pt](https://www.ilo.org/wcmsp5/groups/public/---europe/---ro-geneva/---ilo-lisbon/documents/publication/wcms_734393.pdf), [zh](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-beijing/documents/publication/wcms_679534.pdf)]
 - [2016/2017 Global Wage Report](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_537846.pdf) – Wage inequality in the workplace  [[ar](https://www.ilo.org/wcmsp5/groups/public/---africa/---ro-abidjan/---sro-cairo/documents/publication/wcms_618864.pdf), [cnr](https://www.ilo.org/wcmsp5/groups/public/---europe/---ro-geneva/---sro-budapest/documents/publication/wcms_555314.pdf), [es](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_541632.pdf), [fr](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_545416.pdf), [pt](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_549533.pdf), [ro](https://www.ilo.org/wcmsp5/groups/public/---europe/---ro-geneva/---sro-budapest/documents/genericdocument/wcms_572473.pdf), [ru](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_544096.pdf)]
@@ -135,13 +125,11 @@ List of all global reports published by international organisations.
 - [2010/2011 Global Wage Report](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_145265.pdf) – Wage policies in times of crisis  [[ar](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_174968.pdf), [es](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_146710.pdf), [fr](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_146706.pdf), [pt](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_151525.pdf), [ru](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_150366.pdf), [zh](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-beijing/documents/publication/wcms_150048.pdf)]
 - [2008/2009 Global Wage Report](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_100786.pdf) – Minimum wages and collective bargaining: Towards policy coherence  [[fr](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_543331.pdf)]
 
-[source]: https://www.ilo.org/global/research/global-reports/global-wage-report/lang--en/index.htm
-
 
 
 ## Human Development Report 
 
-> United Nations Development Program
+> United Nations Development Program [reports](http://www.hdr.undp.org/en/global-reports)
 
 - [2019 Human Development Report](http://www.hdr.undp.org/sites/default/files/hdr2019.pdf) – Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century  [[ar](http://www.hdr.undp.org/sites/default/files/hdr_2019_arabic_0.pdf), [es](http://www.hdr.undp.org/sites/default/files/hdr_2019_es_0.pdf), [fr](http://www.hdr.undp.org/sites/default/files/hdr_2019_fr_0.pdf), [pt](http://www.hdr.undp.org/sites/default/files/hdr_2019_pt.pdf), [ru](http://www.hdr.undp.org/sites/default/files/hdr_2019_ru_0.pdf), [zh](http://www.hdr.undp.org/sites/default/files/hdr_2019_cn_0.pdf)]
 - [2018 Statistical Update](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf) – Human Development Indices and Indicators  [[ar](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update_ar.pdf), [es](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update_es.pdf), [fr](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update_fr.pdf), [ru](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update_ru.pdf), [zh](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update_cn.pdf)]
@@ -173,25 +161,21 @@ List of all global reports published by international organisations.
 - [1991 Human Development Report](http://www.hdr.undp.org/sites/default/files/reports/220/hdr_1991_en_complete_nostats.pdf) – Financing Human Development  [[es](http://www.hdr.undp.org/sites/default/files/hdr_1991_es_completo_nostats.pdf), [fr](http://www.hdr.undp.org/sites/default/files/hdr_1991_fr_complet_nostats.pdf)]
 - [1990 Human Development Report](http://www.hdr.undp.org/sites/default/files/reports/219/hdr_1990_en_complete_nostats.pdf) – Concept and Measurement of Human Development  [[es](http://www.hdr.undp.org/sites/default/files/hdr_1990_es_completo_nostats.pdf), [fr](http://www.hdr.undp.org/sites/default/files/hdr_1990_fr_complet_nostats.pdf)]
 
-[source]: http://www.hdr.undp.org/en/global-reports
-
 
 
 ## Postal Development Report
 
-> Universal Postal Union
+> Universal Postal Union [reports](http://www.upu.int/en/the-upu/strategy/2ipd.html)
 
 - [2019 Postal Development Report](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf) – Perspectives on the performance of postal operators worldwide
 - [2018 Postal Development Report](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf) – Benchmarking a critical infrastructure for sustainable development  [[es](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018Es.pdf)]
 - [2017 Integrated Index for Postal Development (2IPD)](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017En.pdf)  [[es](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017Es.pdf)]
 
-[source]: http://www.upu.int/en/the-upu/strategy/2ipd.html
-
 
 
 ## The World's Women
 
-> United Nations Department of Economic and Social Affairs
+> United Nations Department of Economic and Social Affairs [reports](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml )
 
 - [2015 The World's Women](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_report.pdf) – Trends and Statistics  [[ar](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Arabic.pdf), [fr](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_French.pdf), [ru](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Russian.pdf), [zh](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_Chinese.pdf)]
 - [2010 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW_full%20report_color.pdf) – Trends and Statistics  [[ar](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19a.pdf), [es](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19s.pdf), [fr](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19f.pdf), [ru](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19r.pdf), [zh](https://unstats.un.org/unsd/publication/SeriesK/SeriesK_19c.pdf)]
@@ -200,13 +184,11 @@ List of all global reports published by international organisations.
 - [1995 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1995.pdf) – Trends and Statistics
 - [1970–1990 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww1990.pdf) – Trends and Statistics
 
-[source]: https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml
-
 
 
 ## World Energy Outlook
 
-> International Energy Agency
+> International Energy Agency [reports](https://webstore.iea.org/world-energy-outlook)
 
 - 2020 World Energy Outlook
   - [Sustainable Recovery](https://webstore.iea.org/sustainable-recovery-weo-special-report)
@@ -244,13 +226,11 @@ List of all global reports published by international organisations.
   - [Focus on Energy Poverty](https://webstore.iea.org/weo-2007-special-report-focus-on-energy-poverty)
 - [2006 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2006)
 
-[source]: https://webstore.iea.org/world-energy-outlook
-
 
 
 ## Worldwide Cost of Living
 
-> Economist Intelligence Unit
+> Economist Intelligence Unit [reports](https://store.eiu.com/products/all-products/ )
 
 - [2020 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2020/)  **$**
 - [2019 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2019/)  **$**
@@ -260,6 +240,4 @@ List of all global reports published by international organisations.
 - [2015 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2015/)  **$**
 - [2014 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2014/)  **$**
 - [2013 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2013/)  **$**
-
-[source]: https://store.eiu.com/products/all-products/
 
