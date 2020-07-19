@@ -11,13 +11,21 @@ List of all major global reports published on a regular basis by international o
 * [Corruption Perceptions Index](#corruption-perceptions-index)
 * [Cost of Living Survey](#cost-of-living-survey)
 * [Death Sentences and Executions](#death-sentences-and-executions)
+* [Doing Business](#doing-business)
+* [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
+* [E-Government Survey](#e-government-survey)
+* [Emissions Gap Report](#emissions-gap-report)
 * [Energy Technology Perspectives](#energy-technology-perspectives)
+* [Frontiers](#frontiers)
 * [Global Catastrophic Risks](#global-catastrophic-risks)
+* [Global Education Monitoring Report](#global-education-monitoring-report)
 * [Global Energy Review](#global-energy-review)
+* [Global Environment Outlook](#global-environment-outlook)
 * [Global Food Security Index](#global-food-security-index)
 * [Global Gender Gap Report](#global-gender-gap-report)
 * [Global Wage Report](#global-wage-report)
 * [Human Development Report](#human-development-report)
+* [Paying Taxes](#paying-taxes)
 * [Postal Development Report](#postal-development-report)
 * [The World's Women](#the-worlds-women)
 * [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
@@ -147,6 +155,94 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## Doing Business
+
+> World Bank Group [reports](https://www.doingbusiness.org/en/reports/global-reports/doing-business-2020)
+
+- [2020 Doing Business](https://openknowledge.worldbank.org/bitstream/handle/10986/32436/9781464814402.pdf)
+- [2019 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB2019-report_web-version.pdf) – Training for Reform
+- [2018 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB2018-Full-Report.pdf) – Reforming to Create Jobs
+- [2017 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB17-Report.pdf) – Equal Opportunity for All
+- [2016 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB16-Full-Report.pdf) – Measuring Regulatory Quality and Efficiency
+- [2015 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB15-Full-Report.pdf) – Going Beyond Efficiency
+- [2014 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB14-Full-Report.pdf) – Understanding Regulations for Small and Medium-Size Enterprises
+- [2013 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB13-full-report.pdf) – Smarter Regulations for Small and Medium-Size Enterprises
+- [2012 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB12-FullReport.pdf) – Doing Business in a More Transparent World
+- [2011 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB11-FullReport.pdf) – Making a difference for entrepreneurs
+- [2010 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB10-FullReport.pdf) – Reforming through difficult times
+- [2009 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB09-FullReport.pdf)
+- [2008 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB08-FullReport.pdf)
+- [2007 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB07-FullReport.pdf) – How to reform
+- [2006 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB06-FullReport.pdf) – Creating Jobs
+- [2005 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB05-FullReport.pdf) – Removing obstacles to growth
+- [2004 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB04-FullReport.pdf) – Understanding regulations
+
+
+
+## Education for All Global Monitoring Report
+
+> UNESCO [reports](https://en.unesco.org/gem-report/allreports)
+
+- [2015 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000232205/PDF/232205eng.pdf.multi) – Education for All 2000-2015: achievements and challenges
+  - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000232581/PDF/232581eng.pdf.multi)
+  - [Gender Summary](https://unesdoc.unesco.org/ark:/48223/pf0000234809/PDF/234809eng.pdf.multi)
+- [2013/2014 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000225660/PDF/225660eng.pdf.multi) – Teaching and learning: achieving quality for all
+  - [Gender Summary](https://unesdoc.unesco.org/ark:/48223/pf0000226662/PDF/226662eng.pdf.multi)
+- [2012 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000218003/PDF/218003eng.pdf.multi) – Youth and skills: putting education to work
+  - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000218409/PDF/218409eng.pdf.multi)
+  - [Gender Overview](https://unesdoc.unesco.org/ark:/48223/pf0000218569/PDF/218569eng.pdf.multi)
+- [2011 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000190743/PDF/190743eng.pdf.multi) – The Hidden crisis: armed conflict and education
+  - [Gender Overview](https://unesdoc.unesco.org/ark:/48223/pf0000212003/PDF/212003eng.pdf.multi)
+- [2010 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000186606/PDF/186606eng.pdf.multi) – Reaching the marginalized
+- [2009 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000177683/PDF/177683eng.pdf.multi) – Overcoming inequality: why governance matters
+- [2008 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000154743/PDF/154743eng.pdf.multi) – Education for All by 2015: will we make it?
+- [2007 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000147794/PDF/147794eng.pdf.multi) – Strong foundations: early childhood care and education
+- [2006 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000141639/PDF/141639eng.pdf.multi) – Literacy for life
+- [2005 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000137333/PDF/137333eng.pdf.multi) – The quality imperative
+- [2003/2004 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000132513/PDF/132513eng.pdf.multi) – Gender and education for all: the leap to equality
+- [2002 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000129053/PDF/129053eng.pdf.multi) – Education for All: is the world on track?
+
+
+
+## E-Government Survey
+
+> United Nations Department of Economic and Social Affairs [reports](https://publicadministration.un.org/egovkb/en-us/Reports/Benchmarking-E-Government-2011)
+
+- [2020 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2020-Survey/2020%20UN%20E-Government%20Survey%20(Full%20Report).pdf) – Digital Government in the Decade of Action for Sustainable Development
+- [2018 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2018-Survey/E-Government%20Survey%202018_FINAL%20for%20web.pdf) – Gearing E-Government to Support Transformation Towards Sustainable and Resilient Societies
+- [2016 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2016-Survey/E-Government%20Survey%202016.pdf) – E-Government in Support of Sustainable Development
+- [2014 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2014-Survey/E-Gov_Complete_Survey-2014.pdf) – E-Government for the Future We Want 
+- [2012 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2012-Survey/Complete-Survey.pdf) – E-Government for the People
+- [2010 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2010-Survey/Complete-survey.pdf) – Leveraging E-government at a Time of Financial and Economic Crisis
+- [2008 E-Government Survey](https://publicadministration.un.org/egovkb/portals/egovkb/Documents/un/2008-Survey/unpan028607.pdf) – From E-Government to Connected Governance
+- 2007 n/a
+- 2006 n/a
+- [2005 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2005-Survey/Complete-survey.pdf) – From E-Government to E-Inclusion
+- [2004 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2004-Survey/Complete-Survey.pdf) – Towards Access for Opportunity
+- [2003 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2003-Survey/Complete-Survey.pdf)
+- 2002 n/a
+- [2001 Benchmarking E-government](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/English.pdf) – A Global Perspective
+
+
+
+## Emissions Gap Report
+
+> United Nations Environment Programme
+
+- [2019 Emissions Gap Report](https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y)
+  - [Lessons from a decade of emissions gap assessments](https://wedocs.unep.org/bitstream/handle/20.500.11822/30022/EGR10.pdf?sequence=1&isAllowed=y)
+- [2018 Emissions Gap Report](https://wedocs.unep.org/bitstream/handle/20.500.11822/26895/EGR2018_FullReport_EN.pdf?sequence=1&isAllowed=y)
+- [2017 Emissions Gap Report](https://wedocs.unep.org/bitstream/handle/20.500.11822/22070/EGR_2017.pdf?sequence=1&isAllowed=y)
+- [2016 Emissions Gap Report](http://wedocs.unep.org/bitstream/handle/20.500.11822/10016/emission_gap_report_2016.pdf?sequence=1&isAllowed=y)
+- [2015 Emissions Gap Report](https://uneplive.unep.org/media/docs/theme/13/EGR_2015_301115_lores.pdf)
+- [2014 Emissions Gap Report](https://climateanalytics.org/media/unep_emissions_gap_report_2014.pdf)
+- [2013 Emissions Gap Report](http://wedocs.unep.org/bitstream/handle/20.500.11822/8345/-The%20emissions%20gap%20report%202013_%20a%20UNEP%20synthesis%20report-2013EmissionsGapReport%202013.pdf?sequence=3&isAllowed=y)
+- [2012 Emissions Gap Report](https://climateanalytics.org/media/2012gapreport.pdf)
+- 2011 Emissions Gap Report
+- [2010 Emissions Gap Report](http://wedocs.unep.org/bitstream/handle/20.500.11822/7929/-The_emissions_gap_report_are_the_Copenhagen_accord_pledges_sufficient_to_limit_global_warming_to_2c_or_15c-2010TheEmissionsGapReport_2010.pdf.pdf?sequence=3&isAllowed=y) – Are the Copenhagen Accord Pledges Sufficient to Limit Global Warming to 2° C or 1.5° C?
+
+
+
 ## Energy Technology Perspectives
 
 > International Energy Agency [reports](https://www.iea.org/topics/energy-technology-perspectives)
@@ -162,6 +258,16 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## Frontiers
+
+> United Nations Environment Programme
+
+- [2018/2019 Frontiers](https://wedocs.unep.org/bitstream/handle/20.500.11822/27538/Frontiers1819.pdf?sequence=1&isAllowed=y) – Emerging Issues of Environmental Concern
+- [2017 Frontiers](https://wedocs.unep.org/bitstream/handle/20.500.11822/22255/Frontiers_2017_EN.pdf?sequence=1&isAllowed=y) – Emerging Issues of Environmental Concern
+- [2016 Frontiers](https://wedocs.unep.org/bitstream/handle/20.500.11822/7664/Frontiers_2016.pdf?sequence=1&isAllowed=y) – Emerging Issues of Environmental Concern
+
+
+
 ## Global Catastrophic Risks
 
 > Global Challenges Foundation [reports](https://globalchallenges.org/initiatives/analysis-research/reports/)
@@ -174,6 +280,28 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## Global Education Monitoring Report
+
+> UNESCO [reports](https://en.unesco.org/gem-report/allreports)
+
+- [2020 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000373718/PDF/373718eng.pdf.multi) – Inclusion and education: all means all
+  - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000373878/PDF/373878eng.pdf.multi)
+- [2019 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000265866/PDF/265866eng.pdf.multi) – Migration, displacement and education: building bridges, not walls
+  - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000266274/PDF/266274eng.pdf.multi)
+  - [Gender Report](https://unesdoc.unesco.org/ark:/48223/pf0000368753/PDF/368753eng.pdf.multi) – Building bridges for gender equality
+- [2017/2018 Global Education Monitoring Report](2017/2018 Global Education Monitoring Report) – Accountability in education: meeting our commitments
+  - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000260653/PDF/260653eng.pdf.multi)
+  - [Gender Review](https://unesdoc.unesco.org/ark:/48223/pf0000261593/PDF/261593eng.pdf.multi) – Meeting our commitments to gender equality in education
+- [2016 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000245752/PDF/245752eng.pdf.multi) – Education for people and planet: creating sustainable futures for all
+  - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000245742/PDF/245742eng.pdf.multi)
+  - [Gender Review](https://unesdoc.unesco.org/ark:/48223/pf0000246045/PDF/246045eng.pdf.multi)
+  - [Planet](https://unesdoc.unesco.org/ark:/48223/pf0000246429/PDF/246429eng.pdf.multi) – Education for environmental sustainability and green growth
+  - [Place](https://unesdoc.unesco.org/ark:/48223/pf0000246230/PDF/246230eng.pdf.multi) – Inclusive and sustainable cities
+  - [Partnering for Prosperity](https://unesdoc.unesco.org/ark:/48223/pf0000246918/PDF/246918eng.pdf.multi) – Education for green and inclusive growth
+  - [Peace](https://unesdoc.unesco.org/ark:/48223/pf0000247430/PDF/247430eng.pdf.multi) – Building sustainable peace and global citizenship through education
+
+
+
 ## Global Energy Review
 
 > International Energy Agency [reports](https://www.iea.org/topics/global-energy-review)
@@ -182,6 +310,25 @@ List of all major global reports published on a regular basis by international o
 - [2019 Global Energy Review](https://webstore.iea.org/global-energy-review-2019)
 - [2018 Global Energy & CO2 Status Report](https://webstore.iea.org/global-energy-co2-status-report-2018)
 - [2017 Global Energy & CO2 Status Report](https://webstore.iea.org/global-energy-co2-status-report-2017)
+
+
+
+## Global Environment Outlook
+
+> United Nations Environment Programme [reports](https://www.unenvironment.org/resources/global-environment-outlook-6)
+
+- [2019 Global Environment Outlook 6](https://wedocs.unep.org/bitstream/handle/20.500.11822/27539/GEO6_2019.pdf?sequence=1&isAllowed=y) – Healthy planet, healthy people
+  - GEO-6 for Business
+  - GEO-6 for Cities
+  - GEO-6 for Youth
+- [2012 Global Environment Outlook 5](https://wedocs.unep.org/bitstream/handle/20.500.11822/8021/GEO5_report_full_en.pdf?sequence=5&isAllowed=y) – Environment for the future we want
+  - [GEO-5 for Business](https://wedocs.unep.org/bitstream/handle/20.500.11822/8247/-GEO-5%20for%20Business_%20Impacts%20of%20a%20Changing%20Environment%20on%20the%20Corporate%20Sector-2013GEO5_for_Business.pdf?sequence=4&amp%3BisAllowed=y%2C%20Chinese%7C%7Chttps%3A//wedocs.unep.org/bitstream/handle/20.500.11822/) – Impacts of a Changing Environment on the Corporate Sector
+  - [GEO-5 for Local Government](http://wedocs.unep.org/bitstream/handle/20.500.11822/8068/-Global%20Environment%20Outlook%205%20for%20Local%20Government_%20solving%20global%20problems%20locally-20121110.pdf?sequence=3&isAllowed=y) – Solving global problems locally
+  - [GEO-5 for Youth](https://wedocs.unep.org/bitstream/handle/20.500.11822/8235/-GEO-5%20for%20youth_%20Acting%20for%20a%20better%20worldgeo_for_youth.pdf?sequence=4&isAllowed=y) – Acting for a better world
+- [2007 Global Environment Outlook 4](https://wedocs.unep.org/bitstream/handle/20.500.11822/7646/-Global%20Environment%20Outlook%20%204%20(GEO-4)-2007768.pdf?sequence=3&isAllowed=y) – Environment for development
+- [2002 Global Environment Outlook 3](https://wedocs.unep.org/bitstream/handle/20.500.11822/8609/GEO-3%20REPORT_English.pdf?sequence=7&isAllowed=y) – Past, present and future perspectives
+- 2000 Global Environment Outlook 2000
+- [1997 Global Environment Outlook](https://wedocs.unep.org/bitstream/handle/20.500.11822/30202/GEO_1_life_on_earth.pdf?sequence=1&isAllowed=y) – For life on Earth
 
 
 
@@ -271,6 +418,27 @@ List of all major global reports published on a regular basis by international o
 - [1992 Human Development Report](http://www.hdr.undp.org/sites/default/files/reports/221/hdr_1992_en_complete_nostats.pdf) – Global Dimensions of Human Development [[es](http://www.hdr.undp.org/sites/default/files/hdr_1992_es_completo_nostats.pdf), [fr](http://www.hdr.undp.org/sites/default/files/hdr_1992_fr_complet_nostats.pdf)]
 - [1991 Human Development Report](http://www.hdr.undp.org/sites/default/files/reports/220/hdr_1991_en_complete_nostats.pdf) – Financing Human Development [[es](http://www.hdr.undp.org/sites/default/files/hdr_1991_es_completo_nostats.pdf), [fr](http://www.hdr.undp.org/sites/default/files/hdr_1991_fr_complet_nostats.pdf)]
 - [1990 Human Development Report](http://www.hdr.undp.org/sites/default/files/reports/219/hdr_1990_en_complete_nostats.pdf) – Concept and Measurement of Human Development [[es](http://www.hdr.undp.org/sites/default/files/hdr_1990_es_completo_nostats.pdf), [fr](http://www.hdr.undp.org/sites/default/files/hdr_1990_fr_complet_nostats.pdf)]
+
+
+
+## Paying Taxes
+
+> World Bank Group & PwC [reports](https://www.worldbank.org/en/search?q=Paying+taxes&currentTab=1&label=2710001431)
+
+- [2020 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf)
+- [2019 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/PwC---Paying-Taxes-2019---Smaller-19112018.pdf) – How is technology affecting tax administration and policy?
+- [2018 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/2018-Paying-Taxes.pdf)
+- [2017 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB17-Paying-Taxes.pdf) – Now including a new measure: the post-filing index.
+- [2016 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB16-Paying-Taxes.pdf)
+- [2015 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB15-Paying-Taxes.pdf)
+- [2014 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB14-Paying-Taxes.pdf)
+- [2013 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB13-Paying-Taxes.pdf)
+- [2012 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB12-Paying-Taxes.pdf) – A fair, sustainable tax system – how can governments create an environment that fosters business investment and economic growth?
+- [2011 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB11-Paying-Taxes.pdf)
+- [2010 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB10-Paying-Taxes.pdf)
+- [2009 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB09-Paying-Taxes.pdf)
+- [2008 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB08-Paying-Taxes.pdf)
+- [2007 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB07-Paying-Taxes.pdf)
 
 
 
