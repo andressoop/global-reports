@@ -289,7 +289,7 @@ List of all major global reports published on a regular basis by international o
 - [2019 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000265866/PDF/265866eng.pdf.multi) – Migration, displacement and education: building bridges, not walls
   - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000266274/PDF/266274eng.pdf.multi)
   - [Gender Report](https://unesdoc.unesco.org/ark:/48223/pf0000368753/PDF/368753eng.pdf.multi) – Building bridges for gender equality
-- [2017/2018 Global Education Monitoring Report](2017/2018 Global Education Monitoring Report) – Accountability in education: meeting our commitments
+- [2017/2018 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000259338/PDF/259338eng.pdf.multi) – Accountability in education: meeting our commitments
   - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000260653/PDF/260653eng.pdf.multi)
   - [Gender Review](https://unesdoc.unesco.org/ark:/48223/pf0000261593/PDF/261593eng.pdf.multi) – Meeting our commitments to gender equality in education
 - [2016 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000245752/PDF/245752eng.pdf.multi) – Education for people and planet: creating sustainable futures for all
