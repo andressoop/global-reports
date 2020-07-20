@@ -484,7 +484,7 @@ List of all major global reports published on a regular basis by international o
 
 - 2020 World Energy Outlook
   - [Sustainable Recovery](https://webstore.iea.org/sustainable-recovery-weo-special-report)
-- [2019 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2019)  **$**
+- [2019 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2019) **$**
   - [The Role of Gas in Today's Energy Transitions]()
   - [Offshore Wind Outlook](https://webstore.iea.org/offshore-wind-outlook-2019-world-energy-outlook-special-report)
 - [2018 World Energy Outlook](https://webstore.iea.org/world-energy-outlook-2018)
