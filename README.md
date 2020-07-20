@@ -36,7 +36,7 @@ List of all major global reports published on a regular basis by international o
 
 ## A World at Risk
 
-> Global Preparedness Monitoring Board [reports](https://apps.who.int/gpmb/annual_report.html)
+> Global Preparedness Monitoring Board *([source](https://apps.who.int/gpmb/annual_report.html))*
 
 - [2019 A World at Risk](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf) – Annual report on global preparedness for health emergencies
 
@@ -44,7 +44,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Brown to Green Report
 
-> Climate Transparency [reports](https://www.climate-transparency.org/g20-climate-performance)
+> Climate Transparency *([source](https://www.climate-transparency.org/g20-climate-performance))*
 
 - [2019 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2019/11/Brown-to-Green-Report-2019.pdf) – The G20 transition to a net-zero emissions economy 
 - [2018 Brown to Green Report](https://www.climate-transparency.org/wp-content/uploads/2019/01/2018-BROWN-TO-GREEN-REPORT-FINAL.pdf) – The G20 transition to a low-carbon economy
@@ -56,7 +56,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Corruption Perceptions Index
 
-> Transparency International [reports](https://www.transparency.org/en/cpi)
+> Transparency International *([source](https://www.transparency.org/en/publications?type=report))*
 
 - [2019 Corruption Perceptions Index](https://images.transparencycdn.org/images/2019_CPI_Report_EN.pdf)
 - [2018 Corruption Perceptions Index](https://images.transparencycdn.org/images/2018_CPI_Executive_Summary.pdf)
@@ -88,7 +88,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Cost of Living Survey
 
-> Mercer
+> Mercer 
 
 - [2020 Cost of Living Survey](https://www.mercer.com/content/dam/mercer/attachments/private/gl-2020-2020-col-ranking-mercer.pdf)
 - 2019 Cost of Living Survey
@@ -121,7 +121,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Death Sentences and Executions
 
-> Amnesty International [source](https://www.amnesty.org/en/search/?q=%22Death+Sentences+and+Executions%22&sort=date&issue=1583&documentType=Annual+Report&documentType=Report)
+> Amnesty International *([source](https://www.amnesty.org/en/search/?q=%22Death+Sentences+and+Executions%22&sort=date&issue=1583&documentType=Annual+Report&documentType=Report))*
 
 - [2019 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5018472020ENGLISH.PDF)
 - [2018 Death Sentences and Executions](https://www.amnesty.org/download/Documents/ACT5098702019ENGLISH.PDF)
@@ -157,7 +157,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Doing Business
 
-> World Bank Group [reports](https://www.doingbusiness.org/en/reports/global-reports/doing-business-2020)
+> World Bank Group *([source](https://www.doingbusiness.org/en/reports/global-reports/doing-business-2020))*
 
 - [2020 Doing Business](https://openknowledge.worldbank.org/bitstream/handle/10986/32436/9781464814402.pdf)
 - [2019 Doing Business](https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB2019-report_web-version.pdf) – Training for Reform
@@ -181,7 +181,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Education for All Global Monitoring Report
 
-> UNESCO [reports](https://en.unesco.org/gem-report/allreports)
+> UNESCO *([source](https://en.unesco.org/gem-report/allreports))*
 
 - [2015 EFA Global Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000232205/PDF/232205eng.pdf.multi) – Education for All 2000-2015: achievements and challenges
   - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000232581/PDF/232581eng.pdf.multi)
@@ -206,7 +206,7 @@ List of all major global reports published on a regular basis by international o
 
 ## E-Government Survey
 
-> United Nations Department of Economic and Social Affairs [reports](https://publicadministration.un.org/egovkb/en-us/Reports/Benchmarking-E-Government-2011)
+> United Nations Department of Economic and Social Affairs *([source](https://publicadministration.un.org/en/Research/UN-e-Government-Surveys))*
 
 - [2020 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2020-Survey/2020%20UN%20E-Government%20Survey%20(Full%20Report).pdf) – Digital Government in the Decade of Action for Sustainable Development
 - [2018 E-Government Survey](https://publicadministration.un.org/egovkb/Portals/egovkb/Documents/un/2018-Survey/E-Government%20Survey%202018_FINAL%20for%20web.pdf) – Gearing E-Government to Support Transformation Towards Sustainable and Resilient Societies
@@ -227,7 +227,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Emissions Gap Report
 
-> United Nations Environment Programme
+> United Nations Environment Programme *([source](https://wedocs.unep.org/discover?query=Emissions+gap+Report&filtertype=author&filter_relational_operator=equals&filter=United+Nations+Environment+Programme))*
 
 - [2019 Emissions Gap Report](https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y)
   - [Lessons from a decade of emissions gap assessments](https://wedocs.unep.org/bitstream/handle/20.500.11822/30022/EGR10.pdf?sequence=1&isAllowed=y)
@@ -245,7 +245,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Energy Technology Perspectives
 
-> International Energy Agency [reports](https://www.iea.org/topics/energy-technology-perspectives)
+> International Energy Agency *([source](https://www.iea.org/topics/energy-technology-perspectives))*
 
 - [2017 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2017) – Catalysing Energy Technology Transformations
 - [2016 Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2016) – Towards Sustainable Urban Energy Systems
@@ -260,7 +260,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Frontiers
 
-> United Nations Environment Programme
+> United Nations Environment Programme *([source](https://www.unenvironment.org/resources/frontiers-201819-emerging-issues-environmental-concern))*
 
 - [2018/2019 Frontiers](https://wedocs.unep.org/bitstream/handle/20.500.11822/27538/Frontiers1819.pdf?sequence=1&isAllowed=y) – Emerging Issues of Environmental Concern
 - [2017 Frontiers](https://wedocs.unep.org/bitstream/handle/20.500.11822/22255/Frontiers_2017_EN.pdf?sequence=1&isAllowed=y) – Emerging Issues of Environmental Concern
@@ -270,7 +270,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Catastrophic Risks
 
-> Global Challenges Foundation [reports](https://globalchallenges.org/initiatives/analysis-research/reports/)
+> Global Challenges Foundation *([source](https://globalchallenges.org/initiatives/analysis-research/reports/))*
 
 - [2020 Global Catastrophic Risks](https://globalchallenges.org/wp-content/uploads/Global-Catastrophic-Risks-2020-Annual-Report-WEB-V2-1.pdf)
 - 2019 n/a
@@ -282,7 +282,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Education Monitoring Report
 
-> UNESCO [reports](https://en.unesco.org/gem-report/allreports)
+> UNESCO *([source](https://en.unesco.org/gem-report/allreports))*
 
 - [2020 Global Education Monitoring Report](https://unesdoc.unesco.org/ark:/48223/pf0000373718/PDF/373718eng.pdf.multi) – Inclusion and education: all means all
   - [Youth Version](https://unesdoc.unesco.org/ark:/48223/pf0000373878/PDF/373878eng.pdf.multi)
@@ -304,7 +304,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Energy Review
 
-> International Energy Agency [reports](https://www.iea.org/topics/global-energy-review)
+> International Energy Agency *([source](https://www.iea.org/topics/global-energy-review))*
 
 - [2020 Global Energy Review](https://webstore.iea.org/global-energy-review-2020) – The impacts of the Covid-19 crisis on global energy demand and CO2 emissions
 - [2019 Global Energy Review](https://webstore.iea.org/global-energy-review-2019)
@@ -315,7 +315,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Environment Outlook
 
-> United Nations Environment Programme [reports](https://www.unenvironment.org/resources/global-environment-outlook-6)
+> United Nations Environment Programme *([source](https://www.unenvironment.org/resources/global-environment-outlook-6))*
 
 - [2019 Global Environment Outlook 6](https://wedocs.unep.org/bitstream/handle/20.500.11822/27539/GEO6_2019.pdf?sequence=1&isAllowed=y) – Healthy planet, healthy people
   - GEO-6 for Business
@@ -334,7 +334,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Food Security Index
 
-> Economist Intelligence Unit [reports](https://foodsecurityindex.eiu.com/Resources)
+> Economist Intelligence Unit *([source](https://foodsecurityindex.eiu.com/Resources))*
 
 - [2019 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=Global%20Food%20Security%20Index%202019%20report.pdf) – Strengthening food systems and the environment through innovation and investment
 - [2018 Global Food Security Index](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202018%20Findings%20%26%20Methodology.pdf) – Building resilience in the face of rising food-security risks
@@ -352,7 +352,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Gender Gap Report
 
-> World Economic Forum [reports](https://www.weforum.org/search?query=Global+Gender+Gap+Report)
+> World Economic Forum *([source](https://www.weforum.org/search?query=Global+Gender+Gap+Report))*
 
 - [2020 Global Gender Gap Report](http://www3.weforum.org/docs/WEF_GGGR_2020.pdf)
 - 2019 n/a
@@ -374,7 +374,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Global Wage Report
 
-> International Labour Organization [reports](https://www.ilo.org/global/research/global-reports/global-wage-report/lang--en/index.htm)
+> International Labour Organization *([source](https://www.ilo.org/global/research/global-reports/global-wage-report/lang--en/index.htm))*
 
 - [2018/2019 Global Wage Report](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_650553.pdf) – What lies behind gender pay gaps
 - [2016/2017 Global Wage Report](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_537846.pdf) – Wage inequality in the workplace
@@ -387,7 +387,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Human Development Report 
 
-> United Nations Development Program [reports](http://www.hdr.undp.org/en/global-reports)
+> United Nations Development Program *([source](http://www.hdr.undp.org/en/global-reports))*
 
 - [2019 Human Development Report](http://www.hdr.undp.org/sites/default/files/hdr2019.pdf) – Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century
 - [2018 Statistical Update](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf) – Human Development Indices and Indicators
@@ -423,7 +423,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Paying Taxes
 
-> World Bank Group & PwC [reports](https://www.worldbank.org/en/search?q=Paying+taxes&currentTab=1&label=2710001431)
+> World Bank Group & PwC *([source](https://www.worldbank.org/en/search?q=Paying+taxes&currentTab=1&label=2710001431))*
 
 - [2020 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf)
 - [2019 Paying Taxes](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/PwC---Paying-Taxes-2019---Smaller-19112018.pdf) – How is technology affecting tax administration and policy?
@@ -444,7 +444,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Postal Development Report
 
-> Universal Postal Union [reports](http://www.upu.int/en/the-upu/strategy/2ipd.html)
+> Universal Postal Union *([source](http://www.upu.int/en/the-upu/strategy/2ipd.html))*
 
 - [2019 Postal Development Report](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf) – Perspectives on the performance of postal operators worldwide
 - [2018 Postal Development Report](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf) – Benchmarking a critical infrastructure for sustainable development
@@ -454,7 +454,7 @@ List of all major global reports published on a regular basis by international o
 
 ## The World's Women
 
-> United Nations Department of Economic and Social Affairs [reports](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml )
+> United Nations Department of Economic and Social Affairs *([source](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml))*
 
 - [2015 The World's Women](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_report.pdf)
 - [2010 The World's Women](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW_full%20report_color.pdf)
@@ -467,7 +467,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Tracking Clean Energy Progress
 
-> International Energy Agency [reports](https://webstore.iea.org/search?q=tracking+clean+energy)
+> International Energy Agency *([source](https://webstore.iea.org/search?q=tracking+clean+energy))*
 
 - [2017 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2017)
 - [2016 Tracking Clean Energy Progress](https://webstore.iea.org/tracking-clean-energy-progress-2016)
@@ -480,7 +480,7 @@ List of all major global reports published on a regular basis by international o
 
 ## World Energy Outlook
 
-> International Energy Agency [reports](https://webstore.iea.org/world-energy-outlook)
+> International Energy Agency *([source](https://webstore.iea.org/world-energy-outlook))*
 
 - 2020 World Energy Outlook
   - [Sustainable Recovery](https://webstore.iea.org/sustainable-recovery-weo-special-report)
@@ -522,7 +522,7 @@ List of all major global reports published on a regular basis by international o
 
 ## Worldwide Cost of Living
 
-> Economist Intelligence Unit [reports](https://store.eiu.com/products/all-products/ )
+> Economist Intelligence Unit *([source](https://store.eiu.com/products/all-products/ ))*
 
 - [2020 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2020/) **$**
 - [2019 Worldwide Cost of Living](https://store.eiu.com/product/worldwide-cost-of-living-2019/) **$**
