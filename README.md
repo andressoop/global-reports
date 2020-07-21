@@ -238,7 +238,8 @@ List of all major global reports published on a regular basis by international o
 - **2014** Emissions Gap Report ([full](https://climateanalytics.org/media/unep_emissions_gap_report_2014.pdf), [web](https://www.unenvironment.org/resources/emissions-gap-report-2014))
 - **2013** Emissions Gap Report ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/8345/-The%20emissions%20gap%20report%202013_%20a%20UNEP%20synthesis%20report-2013EmissionsGapReport%202013.pdf?sequence=3&isAllowed=y), [web](https://www.unenvironment.org/resources/emissions-gap-report-2013))
 - **2012** Emissions Gap Report ([full](https://climateanalytics.org/media/2012gapreport.pdf), [summary](http://wedocs.unep.org/bitstream/handle/20.500.11822/32425/EGR12_ES.pdf?sequence=1&isAllowed=y))
-- **2011** Emissions Gap Report – Are the Copenhagen Accord Pledges Sufficient to Limit Global Warming to 2° C or 1.5° C? ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/7929/-The_emissions_gap_report_are_the_Copenhagen_accord_pledges_sufficient_to_limit_global_warming_to_2c_or_15c-2010TheEmissionsGapReport_2010.pdf.pdf?sequence=3&isAllowed=y))
+- **2011** Emissions Gap Report ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/7996/-Bridging%20the%20Emissions%20Gap_%20%20%20A%20UNEP%20Synthesis%20Report-20111075.pdf?sequence=3&isAllowed=y))
+- **2010** Emissions Gap Report – Are the Copenhagen Accord Pledges Sufficient to Limit Global Warming to 2° C or 1.5° C? ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/7929/-The_emissions_gap_report_are_the_Copenhagen_accord_pledges_sufficient_to_limit_global_warming_to_2c_or_15c-2010TheEmissionsGapReport_2010.pdf.pdf?sequence=3&isAllowed=y))
 
 
 
