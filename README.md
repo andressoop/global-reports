@@ -38,7 +38,7 @@ List of all major global reports published on a regular basis by international o
 
 > Global Preparedness Monitoring Board ([source](https://apps.who.int/gpmb/annual_report.html))
 
-- **2019** A World at Risk – Annual report on global preparedness for health emergencies ([full](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf), [summary](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Exec_Summary_Foreword_and_About_English.pdf), [web](https://apps.who.int/gpmb/annual_report.html))
+- 2019 A World at Risk – Annual report on global preparedness for health emergencies ([full](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf), [summary](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Exec_Summary_Foreword_and_About_English.pdf), [web](https://apps.who.int/gpmb/annual_report.html))
 
 
 
