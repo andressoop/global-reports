@@ -46,43 +46,43 @@ List of all major global reports published on a regular basis by international o
 
 > Climate Transparency ([source](https://www.climate-transparency.org/g20-climate-performance))
 
-- **2019** Brown to Green Report – The G20 transition to a net-zero emissions economy ([full](https://www.climate-transparency.org/wp-content/uploads/2019/11/Brown-to-Green-Report-2019.pdf), summary, web)
-- **2018** Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2019/01/2018-BROWN-TO-GREEN-REPORT-FINAL.pdf), summary, web)
-- **2017** Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2017/07/Brown-to-Green-Report-2017_web.pdf), summary, web)
-- **2016** Brown to Green Report – Assessing the G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2016/09/Brown-to-Green-Assessing-the-G20-transition-to-a-low-carbon-economy.pdf), summary, web)
-- **2015** Brown to Green Report – G20 climate action: a turning point? ([full](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_FullReport_2015.pdf), summary, web)
+- **2019** Brown to Green Report – The G20 transition to a net-zero emissions economy ([full](https://www.climate-transparency.org/wp-content/uploads/2019/11/Brown-to-Green-Report-2019.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2019))
+- **2018** Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2019/01/2018-BROWN-TO-GREEN-REPORT-FINAL.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2018))
+- **2017** Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2017/07/Brown-to-Green-Report-2017_web.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2017))
+- **2016** Brown to Green Report – Assessing the G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2016/09/Brown-to-Green-Assessing-the-G20-transition-to-a-low-carbon-economy.pdf), web](https://www.climate-transparency.org/g20-climate-performance/g20report2016))
+- **2015** Brown to Green Report – G20 climate action: a turning point? ([full](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_FullReport_2015.pdf), [summary](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_Summary_2015.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2015))
 
 
 
 ## Corruption Perceptions Index
 
-> Transparency International ([source](https://www.transparency.org/en/publications?type=report))
+> Transparency International ([source](https://www.transparency.org/en/cpi))
 
-- **2019** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2019_CPI_Report_EN.pdf)), web)
-- **2018** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2018_CPI_Executive_Summary.pdf), web)
-- **2017** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2017_CPI_Brochure_EN.pdf), web)
-- **2016** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2016_CPIReport_EN.pdf), web)
-- **2015** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2015_CorruptionPerceptionsIndex_Report_EN.pdf), web)
-- **2014** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2014_CPIBrochure_EN.pdf), web)
-- **2013** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2013_CPIBrochure_EN.pdf), web)
-- **2012** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2012_CPI_brochure_EN.pdf), web)
-- **2011** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2011_CPI_EN.pdf), web)
-- **2010** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2010_CPI_EN.pdf), web)
-- **2009** Corruption Perceptions Index
-- **2008** Corruption Perceptions Index
-- **2007** Corruption Perceptions Index
-- **2006** Corruption Perceptions Index
-- **2005** Corruption Perceptions Index
-- **2004** Corruption Perceptions Index
-- **2003** Corruption Perceptions Index
-- **2002** Corruption Perceptions Index
-- **2001** Corruption Perceptions Index
-- **2000** Corruption Perceptions Index
-- **1999** Corruption Perceptions Index
-- **1998** Corruption Perceptions Index
-- **1997** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1997_CPI_EN_200407_145431.pdf), web)
-- **1996** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1996_CPI_EN.pdf), web)
-- **1995** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1995_CPI_EN.pdf), web)
+- **2019** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2019_CPI_Report_EN.pdf), [web](https://www.transparency.org/en/cpi/2019))
+- **2018** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2018_CPI_Executive_Summary.pdf), [web](https://www.transparency.org/en/cpi/2018))
+- **2017** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2017_CPI_Brochure_EN.pdf), [web](https://www.transparency.org/en/cpi/2017))
+- **2016** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2016_CPIReport_EN.pdf), [web](https://www.transparency.org/en/cpi/2016))
+- **2015** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2015_CorruptionPerceptionsIndex_Report_EN.pdf), [web](https://www.transparency.org/en/cpi/2015))
+- **2014** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2014_CPIBrochure_EN.pdf), [web](https://www.transparency.org/en/cpi/2014))
+- **2013** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2013_CPIBrochure_EN.pdf), [web](https://www.transparency.org/en/cpi/2013))
+- **2012** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2012_CPI_brochure_EN.pdf), [web](https://www.transparency.org/en/cpi/2012))
+- **2011** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2011_CPI_EN.pdf), [web](https://www.transparency.org/en/cpi/2011))
+- **2010** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/2010_CPI_EN.pdf), [web](https://www.transparency.org/en/cpi/2010))
+- **2009** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2009))
+- **2008** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2008))
+- **2007** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2007))
+- **2006** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2006))
+- **2005** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2005))
+- **2004** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2004))
+- **2003** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2003))
+- **2002** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2002))
+- **2001** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2001))
+- **2000** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2000))
+- **1999** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/1999))
+- **1998** Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/1998))
+- **1997** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1997_CPI_EN_200407_145431.pdf), [web](https://www.transparency.org/en/cpi/1997))
+- **1996** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1996_CPI_EN.pdf), [web](https://www.transparency.org/en/cpi/1996))
+- **1995** Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1995_CPI_EN.pdf), [web](https://www.transparency.org/en/cpi/1995))
 
 
 
@@ -123,35 +123,35 @@ List of all major global reports published on a regular basis by international o
 
 > Amnesty International ([source](https://www.amnesty.org/en/search/?q=%22Death+Sentences+and+Executions%22&sort=date&issue=1583&documentType=Annual+Report&documentType=Report))
 
-- **2019** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5018472020ENGLISH.PDF), web)
-- **2018** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5098702019ENGLISH.PDF), web)
-- **2017** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5079552018ENGLISH.PDF), web)
-- **2016** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5057402017ENGLISH.PDF), web)
-- **2015** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5034872016ENGLISH.PDF), web)
-- **2014** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5000012015ENGLISH.PDF), web)
-- **2013** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/4000/act500012014en.pdf), web)
-- **2012** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/8000/act500012013en.pdf), web)
-- **2011** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/16000/act500012012en.pdf), web)
-- **2010** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/24000/act500012011en.pdf), web)
-- **2009** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/36000/act500012010en.pdf), web)
-- **2008** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/44000/act500032009en.pdf), web)
-- **2007** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/48000/act500012008eng.pdf), web)
-- **2006** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/56000/act500042007en.pdf), web)
-- **2005** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/68000/act500022006en.pdf), web)
-- **2004** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/80000/act500052005en.pdf), web)
-- **2003** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/88000/act500062004en.pdf), web)
-- **2002** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/100000/act510012003en.pdf), web)
-- **2001** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/112000/act510012002en.pdf), web)
-- **2000** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/120000/act510022001en.pdf), web)
-- **1999** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/132000/act500082000en.pdf), web)
-- **1998** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/140000/act510011999en.pdf), web)
-- **1997** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/148000/act510011998en.pdf), web)
-- **1996** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/156000/act510011997en.pdf), web)
-- **1995** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT510011996ENGLISH.pdf), web)
-- **1994** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/172000/act510011995en.pdf), web)
-- **1993** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/184000/act510011994en.pdf), web)
-- **1992** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/192000/act510011993en.pdf), web)
-- **1991** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/196000/act510011992en.pdf), web)
+- **2019** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5018472020ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/1847/2020/en/))
+- **2018** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5098702019ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/9870/2019/en/))
+- **2017** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5079552018ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/7955/2018/en/))
+- **2016** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5057402017ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/5740/2017/en/))
+- **2015** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5034872016ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/3487/2016/en/))
+- **2014** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT5000012015ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/0001/2015/en/))
+- **2013** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/4000/act500012014en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2014/en/))
+- **2012** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/8000/act500012013en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2013/en/))
+- **2011** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/16000/act500012012en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2012/en/))
+- **2010** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/24000/act500012011en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2011/en/))
+- **2009** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/36000/act500012010en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2010/en/))
+- **2008** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/44000/act500032009en.pdf), [web](https://www.amnesty.org/en/documents/act50/003/2009/en/))
+- **2007** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/48000/act500012008eng.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2008/en/))
+- **2006** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/56000/act500042007en.pdf), [web](https://www.amnesty.org/en/documents/act50/004/2007/en/))
+- **2005** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/68000/act500022006en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/002/2006/en/))
+- **2004** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/80000/act500052005en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/005/2005/en/))
+- **2003** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/88000/act500062004en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/006/2004/en/))
+- **2002** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/100000/act510012003en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/2003/en/))
+- **2001** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/112000/act510012002en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/2002/en/))
+- **2000** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/120000/act510022001en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/002/2001/en/))
+- **1999** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/132000/act500082000en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/008/2000/ar/))
+- **1998** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/140000/act510011999en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1999/en/))
+- **1997** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/148000/act510011998en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1998/en/))
+- **1996** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/156000/act510011997en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1997/en/))
+- **1995** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT510011996ENGLISH.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1996/en/))
+- **1994** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/172000/act510011995en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1995/en/))
+- **1993** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/184000/act510011994en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1994/en/))
+- **1992** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/192000/act510011993en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1993/en/))
+- **1991** Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/196000/act510011992en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1992/en/))
 
 
 
