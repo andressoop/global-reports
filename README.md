@@ -9,7 +9,6 @@ List of all major global reports published on a regular basis by international o
 * [A World at Risk](#a-world-at-risk)
 * [Brown to Green Report](#brown-to-green-report)
 * [Corruption Perceptions Index](#corruption-perceptions-index)
-* [Cost of Living Survey](#cost-of-living-survey)
 * [Death Sentences and Executions](#death-sentences-and-executions)
 * [Doing Business](#doing-business)
 * [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
@@ -83,39 +82,6 @@ List of all major global reports published on a regular basis by international o
 - 1997 Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1997_CPI_EN_200407_145431.pdf), [web](https://www.transparency.org/en/cpi/1997))
 - 1996 Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1996_CPI_EN.pdf), [web](https://www.transparency.org/en/cpi/1996))
 - 1995 Corruption Perceptions Index ([full](https://images.transparencycdn.org/images/1995_CPI_EN.pdf), [web](https://www.transparency.org/en/cpi/1995))
-
-
-
-## Cost of Living Survey
-
-> Mercer 
-
-- 2020 Cost of Living Survey ([full](https://www.mercer.com/content/dam/mercer/attachments/private/gl-2020-2020-col-ranking-mercer.pdf))
-- 2019 Cost of Living Survey
-- 2018 Cost of Living Survey
-- 2017 Cost of Living Survey
-- 2016 Cost of Living Survey ([full](https://www.mercer.com/content/dam/mercer/attachments/global/Talent/cost-of-living/gl-2016-cost-of-living-mobility-survey-mercer.pdf))
-- 2015 Cost of Living Survey
-- 2014 Cost of Living Survey
-- 2013 Cost of Living Survey
-- 2012 Cost of Living Survey
-- 2011 Cost of Living Survey
-- 2010 Cost of Living Survey
-- 2009 Cost of Living Survey
-- 2008 Cost of Living Survey
-- 2007 Cost of Living Survey
-- 2006 Cost of Living Survey
-- 2005 Cost of Living Survey
-- 2004 Cost of Living Survey
-- 2003 Cost of Living Survey
-- 2002 Cost of Living Survey
-- 2001 Cost of Living Survey
-- 2000 Cost of Living Survey
-- 1999 Cost of Living Survey
-- 1998 Cost of Living Survey
-- 1997 Cost of Living Survey
-- 1996 Cost of Living Survey
-- 1995 Cost of Living Survey
 
 
 
