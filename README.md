@@ -197,7 +197,7 @@ List of all major global reports published on a regular basis by international o
 
 - 2019 Emissions Gap Report ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/30798/EGR19ESEN.pdf?sequence=13), [web](https://www.unenvironment.org/resources/emissions-gap-report-2019))
   - Lessons from a decade of emissions gap assessments ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/30022/EGR10.pdf?sequence=1&isAllowed=y))
-- 2018 Emissions Gap Report ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/26895/EGR2018_FullReport_EN.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/26879/EGR2018_ESEN.pdf?sequence=10&isAllowed=y))
+- 2018 Emissions Gap Report ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/26895/EGR2018_FullReport_EN.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/26879/EGR2018_ESEN.pdf?sequence=10&isAllowed=y), [web](https://www.unenvironment.org/resources/emissions-gap-report-2018))
 - 2017 Emissions Gap Report ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/22070/EGR_2017.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/22101/EGR_2017_ES.pdf?sequence=1&isAllowed=y), [web](https://www.unenvironment.org/resources/emissions-gap-report-2017))
 - 2016 Emissions Gap Report ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/10016/emission_gap_report_2016.pdf?sequence=1&isAllowed=y), [web](https://www.unenvironment.org/resources/emissions-gap-report-2016))
 - 2015 Emissions Gap Report ([full](https://uneplive.unep.org/media/docs/theme/13/EGR_2015_301115_lores.pdf), [summary](http://wedocs.unep.org/bitstream/handle/20.500.11822/7450/_The_Emissions_Gap_Report_2015_1.pdf?sequence=4&isAllowed=y), [web](https://www.unenvironment.org/resources/emissions-gap-report-2015))
@@ -247,6 +247,22 @@ List of all major global reports published on a regular basis by international o
 - 2018 Global Catastrophic Risks ([full](https://globalchallenges.org/wp-content/uploads/GCF-Annual-report-2018-1.pdf))
 - 2017 Global Catastrophic Risks ([full](https://globalchallenges.org/wp-content/uploads/2019/07/Global-Catastrophic-Risks-2017.pdf))
 - 2016 Global Catastrophic Risks ([full](https://globalchallenges.org/wp-content/uploads/2019/07/Global-Catastrophic-Risk-Annual-Report-2016.pdf))
+
+
+
+## Global Corruption Barometer
+
+> Transparency International ([source](https://www.transparency.org/en/gcb))
+
+- 2017 Global Corruption Barometer – People and corruption: citizen's voices from around the world ([full](https://images.transparencycdn.org/images/GCB_Citizens_voices_FINAL.pdf), [web](https://www.transparency.org/en/gcb/global/global-corruption-barometer-2017))
+- 2013 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2013_GlobalCorruptionBarometer_EN_200525_112757.pdf), [web](https://www.transparency.org/en/gcb/global/global-corruption-barometer-2013))
+- 2010/2011 Global Corruption Barometer
+- 2009 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2009_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-barometer-20091))
+- 2007 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2007_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2007))
+- 2006 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2006_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2006))
+- 2005 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2005_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2005))
+- 2004 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2004_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2004))
+- 2003 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2003_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2003))
 
 
 
@@ -420,6 +436,69 @@ List of all major global reports published on a regular basis by international o
 - 2019 Postal Development Report – Perspectives on the performance of postal operators worldwide ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf))
 - 2018 Postal Development Report – Benchmarking a critical infrastructure for sustainable development ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf))
 - 2017 Integrated Index for Postal Development (2IPD) ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017En.pdf))
+
+
+
+## The State of the World's Human Rights
+
+> Amnesty International ([source](https://www.amnesty.org/en/search/?q=&documentType=Annual+Report))
+
+- 2017/2018 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL1067002018ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/POL10/6700/2018/En/))
+- 2016/2017 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL1048002017ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/4800/2017/en/))
+- 2015/2016 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL1025522016ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/2552/2016/en/))
+- 2014/2015 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL1000012015ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/2015/en/))
+- 2013 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/16000/pol100012013en.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/2013/en/))
+- 2012 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/24000/pol100012012en.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/2012/en/))
+- 2011 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/32000/pol100012011en.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/2011/en/))
+- 2010 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/40000/pol100012010en.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/2010/en/))
+- 2009 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/48000/pol100012009en.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/2009/en/))
+- 2008 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL100012008ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/2008/en/))
+- 2007 Amnesty International Report – The State of the World's Human Rights ([part 1](https://www.amnesty.org/download/Documents/68000/pol100032007en.pdf), [part 2,](https://www.amnesty.org/download/Documents/POL100012007ENGLISH.PDF) [web](https://www.amnesty.org/en/documents/pol10/001/2007/en/))
+- 2006 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL1000012006ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/2006/en/))
+- 2005 Amnesty International Report – The State of the World's Human Rights ([full](https://www.amnesty.org/download/Documents/POL1000012005ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/2005/en/))
+- 2004 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000042004ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0004/2004/en/))
+- 2003 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000032003ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0003/2003/en/))
+- 2002 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000012002ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/2002/en/))
+- 2001 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000012001ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/2001/en/))
+- 2000 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000012000ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/2000/en/))
+- 1999 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011999ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1999/en/))
+- 1998 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011998ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1998/en/))
+- 1997 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011997ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1997/en/))
+- 1996 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000021996ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0002/1996/en/))
+- 1995 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011995ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1995/en/))
+- 1994 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000021994ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0002/1994/en/))
+- 1993 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011993ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1993/en/))
+- 1992 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011992ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1992/en/))
+- 1991 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011991ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1991/en/))
+- 1990 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000031990ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0003/1990/en/))
+- 1989 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000021989ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0002/1989/en/))
+- 1988 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011988ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1988/en/))
+- 1987 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000021987ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0002/1987/en/))
+- 1986 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000031986ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0003/1986/en/))
+- 1985 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/200000/pol100021985eng.pdf), [web](https://www.amnesty.org/en/documents/POL10/002/1985/en/))
+- 1984 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000041984ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0004/1984/en/))
+- 1983 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011983ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1983/en/))
+- 1982 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000041982ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0004/1982/en/))
+- 1981 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000011981ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1981/en/))
+- 1980 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL1000031980ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0003/1980/en/))
+- 1979 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL100011979ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1979/en/))
+- 1978 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL100011978ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1978/en/))
+- 1977 Amnesty International Report ([full](https://www.amnesty.org/download/Documents/POL100061977ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/006/1977/en/))
+- 1975/1976 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL1000011976ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/0001/1976/en/))
+- 1974/1975 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011975ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1975/en/))
+- 1973/1974 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011974ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1974/en/))
+- 1972/1973 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011973ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1973/en/))
+- 1971/1972 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011972ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1972/en/))
+- 1970/1971 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011971ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1971/en/))
+- 1969/1970 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011970ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1970/en/))
+- 1968/1969 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/POL100011969ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/pol10/001/1969/en/))
+- 1967/1968 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011968eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1968/en/))
+- 1966/1967 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011967eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1967/en/))
+- 1965/1966 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011966eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1966/en/))
+- 1964/1965 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011965eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1965/en/))
+- 1963/1964 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011964eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1964/en/))
+- 1962/1963 Amnesty International Second Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011963eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1963/en/))
+- 1961/1962 Amnesty First Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011962eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1962/en/))
 
 
 
