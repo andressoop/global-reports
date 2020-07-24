@@ -14,6 +14,8 @@ List of all major global reports published on a regular basis by international o
 - [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
 - [E-Government Survey](#e-government-survey)
 - [Emissions Gap Report](#emissions-gap-report)
+- [Enabling the Business of Agriculture](#enabling-the-business-of-agriculture)
+- [Energy Progress Report](#energy-progress-report)
 - [Energy Technology Perspectives](#energy-technology-perspectives)
 - [Frontiers](#frontiers)
 - [Global Catastrophic Risks](#global-catastrophic-risks)
@@ -27,9 +29,11 @@ List of all major global reports published on a regular basis by international o
 - [Human Development Report](#human-development-report)
 - [Paying Taxes](#paying-taxes)
 - [Postal Development Report](#postal-development-report)
+- [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
 - [The State of the World's Human Rights](#the-state-of-the-worlds-human-rights)
 - [The World's Women](#the-worlds-women)
 - [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
+- [Women, Business and the Law](#women-business-and-the-law)
 - [World Energy Outlook](#world-energy-outlook)
 - [Worldwide Cost of Living](#worldwide-cost-of-living)
 
@@ -103,20 +107,20 @@ List of all major global reports published on a regular basis by international o
 - 2010 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/24000/act500012011en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2011/en/))
 - 2009 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/36000/act500012010en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2010/en/))
 - 2008 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/44000/act500032009en.pdf), [web](https://www.amnesty.org/en/documents/act50/003/2009/en/))
-- 2007 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/48000/act500012008eng.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2008/en/))
-- 2006 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/56000/act500042007en.pdf), [web](https://www.amnesty.org/en/documents/act50/004/2007/en/))
-- 2005 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/68000/act500022006en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/002/2006/en/))
-- 2004 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/80000/act500052005en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/005/2005/en/))
-- 2003 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/88000/act500062004en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/006/2004/en/))
-- 2002 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/100000/act510012003en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/2003/en/))
-- 2001 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/112000/act510012002en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/2002/en/))
-- 2000 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/120000/act510022001en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/002/2001/en/))
-- 1999 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/132000/act500082000en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/008/2000/ar/))
-- 1998 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/140000/act510011999en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1999/en/))
-- 1997 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/148000/act510011998en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1998/en/))
-- 1996 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/156000/act510011997en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1997/en/))
-- 1995 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/ACT510011996ENGLISH.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1996/en/))
-- 1994 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/172000/act510011995en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1995/en/))
+- 2007 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/48000/act500012008eng.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2008/en/), [part 2](https://www.amnesty.org/download/Documents/ACT500022008ENGLISH.pdf), [web](https://www.amnesty.org/en/documents/act50/002/2008/en/))
+- 2006 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/56000/act500042007en.pdf), [web](https://www.amnesty.org/en/documents/act50/004/2007/en/), [part 2](https://www.amnesty.org/download/Documents/56000/act500052007en.pdf), [web](https://www.amnesty.org/en/documents/act50/005/2007/en/))
+- 2005 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/68000/act500022006en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/002/2006/en/), [part 2](https://www.amnesty.org/download/Documents/68000/act500052006en.pdf), [web](https://www.amnesty.org/en/documents/act50/005/2006/en/))
+- 2004 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/80000/act500052005en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/005/2005/en/), [part 2](https://www.amnesty.org/download/Documents/80000/act500012005en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2005/en/))
+- 2003 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/88000/act500062004en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/006/2004/en/), [part 2](https://www.amnesty.org/download/Documents/88000/act500072004en.pdf), [web](https://www.amnesty.org/en/documents/act50/007/2004/en/))
+- 2002 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/100000/act510012003en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/2003/en/), [part 2](https://www.amnesty.org/download/Documents/100000/act500022003en.pdf), [web](https://www.amnesty.org/en/documents/act50/002/2003/en/))
+- 2001 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/112000/act510012002en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/2002/en/), [part 2](https://www.amnesty.org/download/Documents/ACT5000012002ENGLISH.PDF), [web](https://www.amnesty.org/en/documents/act50/0001/2002/en/))
+- 2000 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/120000/act510022001en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/002/2001/en/), [part 2](https://www.amnesty.org/download/Documents/120000/act500012001en.pdf), [web](https://www.amnesty.org/en/documents/act50/001/2001/en/))
+- 1999 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/132000/act500082000en.pdf), [web](https://www.amnesty.org/en/documents/ACT50/008/2000/ar/), [part 2](https://www.amnesty.org/download/Documents/132000/act500042000en.pdf), [web](https://www.amnesty.org/en/documents/act50/004/2000/en/))
+- 1998 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/140000/act510011999en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1999/en/), [part 2](https://www.amnesty.org/download/Documents/140000/act500041999en.pdf), [web](https://www.amnesty.org/en/documents/act50/004/1999/en/))
+- 1997 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/148000/act510011998en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1998/en/), [part 2](https://www.amnesty.org/download/Documents/148000/act500041998en.pdf), [web](https://www.amnesty.org/en/documents/act50/004/1998/en/))
+- 1996 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/156000/act510011997en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1997/en/), [part 2](https://www.amnesty.org/download/Documents/156000/act500051997en.pdf), [web](https://www.amnesty.org/en/documents/act50/005/1997/en/))
+- 1995 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/ACT510011996ENGLISH.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1996/en/), [part 2](https://www.amnesty.org/download/Documents/164000/act500071996en.pdf), [web](https://www.amnesty.org/en/documents/act50/007/1996/en/))
+- 1994 Death Sentences and Executions ([part 1](https://www.amnesty.org/download/Documents/172000/act510011995en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1995/en/), [part 2](https://www.amnesty.org/download/Documents/172000/act500071995en.pdf), [web](https://www.amnesty.org/en/documents/act50/007/1995/en/))
 - 1993 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/184000/act510011994en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1994/en/))
 - 1992 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/192000/act510011993en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1993/en/))
 - 1991 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/196000/act510011992en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1992/en/))
@@ -208,6 +212,32 @@ List of all major global reports published on a regular basis by international o
 - 2012 Emissions Gap Report ([full](https://climateanalytics.org/media/2012gapreport.pdf), [summary](http://wedocs.unep.org/bitstream/handle/20.500.11822/32425/EGR12_ES.pdf?sequence=1&isAllowed=y))
 - 2011 Emissions Gap Report ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/7996/-Bridging%20the%20Emissions%20Gap_%20%20%20A%20UNEP%20Synthesis%20Report-20111075.pdf?sequence=3&isAllowed=y))
 - 2010 Emissions Gap Report – Are the Copenhagen Accord Pledges Sufficient to Limit Global Warming to 2° C or 1.5° C? ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/7929/-The_emissions_gap_report_are_the_Copenhagen_accord_pledges_sufficient_to_limit_global_warming_to_2c_or_15c-2010TheEmissionsGapReport_2010.pdf.pdf?sequence=3&isAllowed=y))
+
+
+
+## Enabling the Business of Agriculture
+
+> World Bank Group ([source](https://eba.worldbank.org/en/reports))
+
+- 2019 Enabling the Business of Agriculture ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31804/9781464813870.pdf), [web](https://eba.worldbank.org/en/reports))
+- 2018 n/a
+- 2017 Enabling the Business of Agriculture ([full](http://pubdocs.worldbank.org/en/929581534213514304/EBA17-Full-Report17.pdf), [web](https://eba.worldbank.org/en/reports/2019))
+- 2016 Enabling the Business of Agriculture ([full](http://pubdocs.worldbank.org/en/574871534213082636/EBA16-Full-Report.pdf), [web](https://eba.worldbank.org/en/reports/2016))
+- 2015 Enabling the Business of Agriculture ([full](http://pubdocs.worldbank.org/en/730321534212740878/EBA15-Full-Report.pdf), [web](https://eba.worldbank.org/en/reports/2015))
+
+
+
+## Energy Progress Report
+
+> International Energy Agency, International Renewable Energy Agency, UN Statistics Division, World Bank Group, World Health Organization ([source](https://trackingsdg7.esmap.org/downloads))
+
+- 2019 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/2019-tracking_sdg7-complete-rev030320.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/2019-tracking_sdg7-execsumm-withoutembargoed.pdf))
+- 2018 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/tracking_sdg7-the_energy_progress_report_full_report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/executive_summary.pdf))
+- 2017 Global Tracking Framework – Progress toward Sustainable Energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/eegp17-01_gtf_full_report_for_web_0516.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/eegp17-01_gtf_summary_final_for_web_posting_0331.pdf))
+- 2016 n/a
+- 2015 Global Tracking Framework – Progress toward Sustainable Energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2105-full-report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2015-summary-report.pdf))
+- 2014 n/a 
+- 2013 Global Tracking Framework – Progress toward Sustainable Energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2013-full-report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2013-es-english.pdf))
 
 
 
@@ -441,6 +471,31 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## State and Trends of Carbon Pricing
+
+> World Bank Group ([source](https://openknowledge.worldbank.org/handle/10986/13334))
+
+- 2020 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/33809/9781464815867.pdf?sequence=4&isAllowed=y), [summary](https://openknowledge.worldbank.org/bitstream/handle/10986/33809/211586figures.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/33809))
+- 2019 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31755/9781464814358.pdf?sequence=8&isAllowed=y), [summary](https://openknowledge.worldbank.org/bitstream/handle/10986/31755/211435KeyFigures.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/31755))
+- 2018 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/29687/9781464812927.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/29687))
+- 2017 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/28510/wb_report_171027.pdf?sequence=7&isAllowed=y), [summary](https://openknowledge.worldbank.org/bitstream/handle/10986/26565/9781464811296.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/28510))
+- 2016 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/25160/9781464810015.pdf?sequence=7&isAllowed=y), [summary](https://openknowledge.worldbank.org/bitstream/handle/10986/24288/CarbonPricingWatch2016.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/25160))
+- 2015 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/22630/9781464807251.pdf?sequence=5&isAllowed=y), [summary](https://openknowledge.worldbank.org/bitstream/handle/10986/21986/CarbonPricingWatch2015.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/22630))
+- 2014 State and Trends of Carbon Pricing ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/18415/State%20and%20Trends%20of%20Carbon%20Pricing%202014%20low%20res.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/18415))
+- 2013 Mapping Carbon Pricing Initiatives – Developments and Prospects ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/15771/77955.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/15771))
+- 2012 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13336/76837.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13336))
+- 2011 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13400/63270.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13400))
+- 2010 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13401/55419.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13401))
+- 2009 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13403/48998.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13403))
+- 2008 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13405/44607.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13405))
+- 2007 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13407/399230Carbon1Trends.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13407))
+- 2006 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13409/37579.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13409))
+- 2005 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13411/332360CarbonMarketStudy2005.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13411))
+- 2004 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/7457/343880PAPER0Ca101OFFICIAL0USE0ONLY1.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/7457))
+- 2003 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13416/36010.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13416))
+
+
+
 ## The State of the World's Human Rights
 
 > Amnesty International ([source](https://www.amnesty.org/en/search/?q=&documentType=Annual+Report))
@@ -527,6 +582,24 @@ List of all major global reports published on a regular basis by international o
 - 2014 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2014))
 - 2013 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2013))
 - 2012 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2012))
+
+
+
+## Women, Business and the Law
+
+> World Bank Group ([source](https://wbl.worldbank.org/en/reports))
+
+- 2020 Women, Business and the Law ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf))
+- 2019 Women, Business and the Law – A Decade of Reform ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31327/WBL2019.pdf?sequence=4&isAllowed=y))
+- 2018 Women, Business and the Law  ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/29498/9781464812521.pdf), [summary](http://pubdocs.worldbank.org/en/999211524236982958/WBL-Key-Findings-Web-FINAL-2.pdf))
+- 2017 n/a
+- 2016 Women, Business and the Law – Getting to Equal ([full](http://pubdocs.worldbank.org/en/810421519921949813/Women-Business-and-the-Law-2016.pdf), [summary](http://pubdocs.worldbank.org/en/555061519930693642/WBL2016-Key-Findings-EN.pdf))
+- 2015 n/a
+- 2014 Women, Business and the Law – Removing Restrictions to Enhance Gender Equality ([full](http://pubdocs.worldbank.org/en/709981519930723025/Women-Business-and-the-Law-2014.pdf), [summary](http://pubdocs.worldbank.org/en/703541519930685103/WBL2014-Key-Findings-EN.pdf))
+- 2013 n/a
+- 2012 Women, Business and the Law – Removing Barriers to Economic Inclusion ([full](http://pubdocs.worldbank.org/en/107821519930717245/Women-Business-and-the-Law-2012.pdf))
+- 2011 n/a
+- 2010 Women, Business and the Law – Measuring Legal Gender Parity ([full](http://pubdocs.worldbank.org/en/680581519930712916/Women-Business-and-the-Law-2010.pdf))
 
 
 
