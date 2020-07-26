@@ -23,6 +23,7 @@ List of all major global reports published on a regular basis by international o
 - [Global Education Monitoring Report](#global-education-monitoring-report)
 - [Global Energy Review](#global-energy-review)
 - [Global Environment Outlook](#global-environment-outlook)
+- [Global Financial Development Report](#global-financial-development-report)
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
 - [Global Wage Report](#global-wage-report)
@@ -348,6 +349,18 @@ List of all major global reports published on a regular basis by international o
 - 2002 Global Environment Outlook 3 – Past, present and future perspectives ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/8609/GEO-3%20REPORT_English.pdf?sequence=7&isAllowed=y), [web](https://www.unenvironment.org/resources/global-environment-outlook-3))
 - 2000 Global Environment Outlook 2000 ([summary](http://wedocs.unep.org/bitstream/handle/20.500.11822/8219/-Global%20Environment%20Outlook%202000%20-19991609.pdf?sequence=8&isAllowed=y), [web](https://www.unenvironment.org/resources/global-environment-outlook-2000))
 - 1997 Global Environment Outlook – For life on Earth ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/30202/GEO_1_life_on_earth.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/27652/GEO6SPM_EN.pdf?sequence=1&isAllowed=y), [web](https://www.unenvironment.org/resources/report/global-environment-outlook-1-life-earth))
+
+
+
+## Global Financial Development Report
+
+> World Bank Group ([source](https://www.worldbank.org/en/publication/gfdr/pastreports))
+
+- 2019/2020 Global Financial Development Report – Bank Regulation and Supervision a Decade after the Global Financial Crisis ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32595/9781464814471.pdf), [summary](https://openknowledge.worldbank.org/bitstream/handle/10986/32595/211447ov.pdf), [web](https://www.worldbank.org/en/publication/gfdr))
+- 2017/2018 Global Financial Development Report – Bankers without Borders ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/28482/9781464811487.pdf), summary, [web](https://www.worldbank.org/en/publication/gfdr/gfdr-2018))
+- 2015/2016 Global Financial Development Report – Long-Term Finance ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/22543/9781464804724.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/22543))
+- 2014 Global Financial Development Report – Financial Inclusion ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/16238/9780821399859.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/16238))
+- 2013 Global Financial Development Report – Rethinking the Role of the State in Finance ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/11848/Global%20Financial%20Development%20Report%202013.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/11848))
 
 
 
