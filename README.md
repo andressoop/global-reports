@@ -8,6 +8,7 @@ List of all major global reports published on a regular basis by international o
 
 - [A World at Risk](#a-world-at-risk)
 - [Brown to Green Report](#brown-to-green-report)
+- [Connecting to Compete](#connecting-to-compete)
 - [Corruption Perceptions Index](#corruption-perceptions-index)
 - [Death Sentences and Executions](#death-sentences-and-executions)
 - [Doing Business](#doing-business)
@@ -28,6 +29,7 @@ List of all major global reports published on a regular basis by international o
 - [Global Gender Gap Report](#global-gender-gap-report)
 - [Global Wage Report](#global-wage-report)
 - [Human Development Report](#human-development-report)
+- [International Debt Statistics](#international-debt-statistics)
 - [Paying Taxes](#paying-taxes)
 - [Postal Development Report](#postal-development-report)
 - [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
@@ -57,6 +59,19 @@ List of all major global reports published on a regular basis by international o
 - 2017 Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2017/07/Brown-to-Green-Report-2017_web.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2017))
 - 2016 Brown to Green Report – Assessing the G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2016/09/Brown-to-Green-Assessing-the-G20-transition-to-a-low-carbon-economy.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2016))
 - 2015 Brown to Green Report – G20 climate action: a turning point? ([full](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_FullReport_2015.pdf), [summary](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_Summary_2015.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2015))
+
+
+
+## Connecting to Compete
+
+> World Bank Group ([source](https://openknowledge.worldbank.org/discover?rpp=10&etal=0&query=%22connecting+to+compete%22&scope=/&group_by=none&page=1&sort_by=score&order=desc))
+
+- 2018 Connecting to Compete – Trade Logistics in the Global Economy ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/29971/LPI2018.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/29971))
+- 2016 Connecting to Compete – Trade Logistics in the Global Economy ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/24598/Connecting0to00n0the0global0economy.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/24598))
+- 2014 Connecting to Compete – Trade Logistics in the Global Economy ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/20399/904190WP0LPI0R00Box385316B00PUBLIC0.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/20399))
+- 2012 Connecting to Compete – Trade Logistics in the Global Economy ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/12689/704170ESW00P120BLIC00LPI020120final.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/12689))
+- 2010 Connecting to Compete – Trade Logistics in the Global Economy ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/24599/558520WP0P10181LIC10LPI20101for1web.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/24599))
+- 2007 Connecting to Compete – Trade Logistics in the Global Economy ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/24600/430050WP0Conne1e0Box32734401PUBLIC1.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/24600))
 
 
 
@@ -450,6 +465,29 @@ List of all major global reports published on a regular basis by international o
 - 1992 Human Development Report – Global Dimensions of Human Development ([full](http://www.hdr.undp.org/sites/default/files/reports/221/hdr_1992_en_complete_nostats.pdf), [web](http://www.hdr.undp.org/en/reports/global/hdr1992))
 - 1991 Human Development Report – Financing Human Development ([full](http://www.hdr.undp.org/sites/default/files/reports/220/hdr_1991_en_complete_nostats.pdf), [web](http://www.hdr.undp.org/en/reports/global/hdr1991))
 - 1990 Human Development Report – Concept and Measurement of Human Development ([full](http://www.hdr.undp.org/sites/default/files/reports/219/hdr_1990_en_complete_nostats.pdf), [web](http://www.hdr.undp.org/en/reports/global/hdr1990))
+
+
+
+## International Debt Statistics
+
+> World Bank Group ([source](https://data.worldbank.org/products/ids))
+
+- 2020 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32382/9781464814617.pdf?sequence=7&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/32382))
+- 2019 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/30851/IDS2019.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/30851))
+- 2018 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/30968/IDS2018.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/30968))
+- 2017 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/25697/9781464809941.pdf?sequence=5&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/25697))
+- 2016 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/23328/9781464806810.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/23328))
+- 2015 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/20722/9781464804137.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/20722))
+- 2014 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/17048/9781464800511.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/17048))
+- 2013 International Debt Statistics ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/12226/NonAsciiFileName0.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/12226))
+- 2012 International Debt Statistics
+- 2011 International Debt Statistics
+- 2010 International Debt Statistics
+- 2009 International Debt Statistics
+- 2008 International Debt Statistics
+- 2007 International Debt Statistics
+- 2006 International Debt Statistics
+- 2005 International Debt Statistics
 
 
 
