@@ -39,6 +39,7 @@ List of all major global reports published on a regular basis by international o
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
 - [World Energy Outlook](#world-energy-outlook)
+- [World Water Development Report](#world-water-development-report)
 - [Worldwide Cost of Living](#worldwide-cost-of-living)
 
 
@@ -743,6 +744,24 @@ List of all major global reports published on a regular basis by international o
 - 2007 World Energy Outlook ([web](https://webstore.iea.org/world-energy-outlook-2007))
   - Focus on Energy Poverty ([web](https://webstore.iea.org/weo-2007-special-report-focus-on-energy-poverty))
 - 2006 World Energy Outlook ([web](https://webstore.iea.org/world-energy-outlook-2006))
+
+
+
+## World Water Development Report
+
+> UN-Water, UNESCO ([source](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/))
+
+- 2020 World Water Development Report – Water and Climate Change ([full](https://unesdoc.unesco.org/ark:/48223/pf0000372985/PDF/372985eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000372882/PDF/372882eng.pdf.multi.page=1&zoom=auto,-16,842), [web](https://en.unesco.org/themes/water-security/wwap/wwdr/2020))
+- 2019 World Water Development Report – Leaving No One Behind ([full](https://unesdoc.unesco.org/ark:/48223/pf0000367306/PDF/367306eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000367303/PDF/367303eng.pdf.multi), [web](https://en.unesco.org/themes/water-security/wwap/wwdr/2019))
+- 2018 World Water Development Report – Nature-based Solutions for Water ([full](https://unesdoc.unesco.org/ark:/48223/pf0000261424/PDF/261424eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000261594/PDF/261594eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/2018-nature-based-solutions/))
+- 2017 World Water Development Report – Wastewater: The Untapped Resource ([full](https://unesdoc.unesco.org/ark:/48223/pf0000247153/PDF/247153eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000247552/PDF/247552eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/2017-wastewater-the-untapped-resource/))
+- 2016 World Water Development Report – Water and Jobs ([full](https://unesdoc.unesco.org/ark:/48223/pf0000243938/PDF/243938eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000244040/PDF/244040eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/2016-water-and-jobs/))
+- 2015 World Water Development Report – Water for a Sustainable World ([part 1](https://unesdoc.unesco.org/ark:/48223/pf0000231823/PDF/231823eng.pdf.multi), [part 2](https://unesdoc.unesco.org/ark:/48223/pf0000232179/PDF/232179eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/2015-water-for-a-sustainable-world/))
+- 2014 World Water Development Report – Water and Energy ([full](https://unesdoc.unesco.org/ark:/48223/pf0000225741/PDF/225741eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/2014-water-and-energy/))
+- 2012 World Water Development Report – Managing Water under Uncertainty and Risk ([full](https://unesdoc.unesco.org/ark:/48223/pf0000215644/PDF/215644eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr4-2012/))
+- 2009 World Water Development Report – Water in a Changing World ([full](https://unesdoc.unesco.org/ark:/48223/pf0000181993/PDF/181993eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr3-2009/))
+- 2006 World Water Development Report – Water, a Shared Responsibility ([full](https://unesdoc.unesco.org/ark:/48223/pf0000145405/PDF/145405eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000144409/PDF/144409eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr2-2006/))
+- 2003 World Water Development Report – Water for People, Water for Life ([full](https://unesdoc.unesco.org/ark:/48223/pf0000129726/PDF/129726eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000129556/PDF/129556eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr1-2003/))
 
 
 
