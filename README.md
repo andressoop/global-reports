@@ -18,6 +18,7 @@ List of all major global reports published on a regular basis by international o
 - [Enabling the Business of Agriculture](#enabling-the-business-of-agriculture)
 - [Energy Progress Report](#energy-progress-report)
 - [Energy Technology Perspectives](#energy-technology-perspectives)
+- [Financing for Sustainable Development Report](#financing-for-sustainable-development-report)
 - [Frontiers](#frontiers)
 - [Global Catastrophic Risks](#global-catastrophic-risks)
 - [Global Corruption Barometer](#global-corruption-barometer)
@@ -27,19 +28,33 @@ List of all major global reports published on a regular basis by international o
 - [Global Financial Development Report](#global-financial-development-report)
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
+- [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Wage Report](#global-wage-report)
 - [Human Development Report](#human-development-report)
 - [International Debt Statistics](#international-debt-statistics)
 - [Paying Taxes](#paying-taxes)
 - [Postal Development Report](#postal-development-report)
+- [Re|Shaping Cultural Policies](#reshaping-cultural-policies)
 - [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
+- [The Future of Jobs Report](#the-future-of-jobs-report)
+- [The Global Competitiveness Report](#the-global-competitiveness-report)
+- [The Global Risks Report](#the-global-risks-report)
+- [The State of Artistic Freedom](#the-state-of-artistic-freedom)
 - [The State of the World's Human Rights](#the-state-of-the-worlds-human-rights)
+- [The Sustainable Development Goals Report](#the-sustainable-development-goals-report)
+- [The Travel & Tourism Competitiveness Report](#the-travel--tourism-competitiveness-report)
 - [The World's Women](#the-worlds-women)
 - [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
+- [UNESCO Science Report](#unesco-science-report)
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
+- [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
 - [World Energy Outlook](#world-energy-outlook)
+- [World Public Sector Report](#world-public-sector-report)
+- [World Social Report](#world-social-report)
+- [World Social Science Report](#world-social-science-report)
 - [World Water Development Report](#world-water-development-report)
+- [World Youth Report](#world-youth-report)
 - [Worldwide Cost of Living](#worldwide-cost-of-living)
 
 
@@ -278,6 +293,18 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## Financing for Sustainable Development Report
+
+> United Nations Inter-agency Task Force on Financing for Development ([source](https://developmentfinance.un.org/report))
+
+- 2020 Financing for Sustainable Development Report ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/FSDR_2020.pdf), [summary](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/FSDR2020_Overview.pdf), [web](https://developmentfinance.un.org/fsdr2020))
+- 2019 Financing for Sustainable Development Report ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/FSDR2019.pdf), [summary](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/FSDR2019_Overview.pdf), [web](https://developmentfinance.un.org/fsdr2019))
+- 2018 Financing for Development – Progress and Prospects ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF_2018.pdf), [summary](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF_2018_Overview.pdf), [web](https://developmentfinance.un.org/iatf2018))
+- 2017 Financing for Development – Progress and Prospects ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF-2017.pdf), [summary](https://developmentfinance.un.org/system/files/Report_IATF-2017_summary.pdf), [web](https://developmentfinance.un.org/iatf2017))
+- 2016 Inaugural Report – ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF-2016-full.pdf), [web](https://developmentfinance.un.org/iatf-2016-report))
+
+
+
 ## Frontiers
 
 > United Nations Environment Programme ([source](https://www.unenvironment.org/resources/frontiers-201819-emerging-issues-environmental-concern))
@@ -421,6 +448,17 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## Global Sustainable Development Report
+
+> United Nations Department of Economic and Social Affairs ([source](https://sustainabledevelopment.un.org/globalsdreport))
+
+- 2019 Global Sustainable Development Report – The Future Is Now ([full](https://sustainabledevelopment.un.org/content/documents/24797GSDR_report_2019.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2019))
+- 2016 Global Sustainable Development Report ([full](https://sustainabledevelopment.un.org/content/documents/2328Global%20Sustainable%20development%20report%202016%20(final).pdf), [summary](https://sustainabledevelopment.un.org/content/documents/10816Executive_Summary_GSDR2016_booklet.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2016))
+- 2015 Global Sustainable Development Report ([full](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf), [summary](https://sustainabledevelopment.un.org/content/documents/1870GSDR%202015%20Briefs.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2015))
+- 2014 Global Sustainable Development Report – Prototype Edition ([full](https://sustainabledevelopment.un.org/content/documents/1454Prototype%20Global%20SD%20Report2.pdf), [summary](https://sustainabledevelopment.un.org/content/documents/1449GSDR%20Executive%20Summary.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2014))
+
+
+
 ## Global Wage Report
 
 > International Labour Organization ([source](https://www.ilo.org/global/research/global-reports/global-wage-report/lang--en/index.htm))
@@ -524,6 +562,17 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## Re|Shaping Cultural Policies
+
+> UNESCO ([source](https://en.unesco.org/creativity/publications?search=&type=1710&src=All&goal=All&sdg=All))
+
+- 2021 Re|Shaping Cultural Policies
+  - Freedom & Creativity – Defending Art, Defending Diversity ([full](https://unesdoc.unesco.org/ark:/48223/pf0000373357/PDF/373357eng.pdf.multi), [web](https://en.unesco.org/creativity/publications/freedom-creativity-defending-art-defending))
+- 2018 Re|Shaping Cultural Policies – Advancing Creativity for Development ([full](https://unesdoc.unesco.org/ark:/48223/pf0000260592/PDF/260592eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000260678/PDF/260678eng.pdf.multi), [web](https://en.unesco.org/creativity/global-report-2018))
+- 2015 Re|Shaping Cultural Policies – A Decade Promoting the Diversity of Cultural Expressions for Development ([full](https://unesdoc.unesco.org/ark:/48223/pf0000242866/PDF/242866eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000243029/PDF/243029eng.pdf.multi), [web](https://en.unesco.org/creativity/global-report-2015))
+
+
+
 ## State and Trends of Carbon Pricing
 
 > World Bank Group ([source](https://openknowledge.worldbank.org/handle/10986/13334))
@@ -546,6 +595,68 @@ List of all major global reports published on a regular basis by international o
 - 2005 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13411/332360CarbonMarketStudy2005.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13411))
 - 2004 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/7457/343880PAPER0Ca101OFFICIAL0USE0ONLY1.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/7457))
 - 2003 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13416/36010.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13416))
+
+
+
+## The Future of Jobs Report
+
+> World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Future+of+Jobs))
+
+- 2018 The Future of Jobs Report ([full](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf), [web](https://www.weforum.org/reports/the-future-of-jobs-report-2018))
+- 2016 The Future of Jobs – Employment, Skills and Workforce Strategy for the Fourth Industrial Revolution ([full](http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf), [summary](http://www3.weforum.org/docs/WEF_FOJ_Executive_Summary_Jobs.pdf), [web](https://www.weforum.org/reports/the-future-of-jobs))
+
+
+
+## The Global Competitiveness Report
+
+> World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Competitiveness+Report))
+
+- 2019 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf), [web](https://www.weforum.org/reports/how-to-end-a-decade-of-lost-productivity-growth))
+- 2018 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/GCR2018/05FullReport/TheGlobalCompetitivenessReport2018.pdf), [web](https://www.weforum.org/reports/the-global-competitveness-report-2018))
+- 2017-2018 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/GCR2017-2018/05FullReport/TheGlobalCompetitivenessReport2017%E2%80%932018.pdf), [web](https://www.weforum.org/reports/the-global-competitiveness-report-2017-2018))
+- 2016-2017 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/GCR2016-2017/05FullReport/TheGlobalCompetitivenessReport2016-2017_FINAL.pdf), [web](https://www.weforum.org/reports/the-global-competitiveness-report-2016-2017-1))
+- 2015-2016 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/gcr/2015-2016/Global_Competitiveness_Report_2015-2016.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2015))
+- 2014-2015 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2014-15.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2014-2015))
+- 2013-2014 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2013-14.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2013-2014))
+- 2012-2013 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2012-13.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2012-2013))
+- 2011-2012 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GCR_Report_2011-12.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2011-2012))
+- 2010-2011 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2010-11.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2010-2011))
+- 2009-2010 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2009-10.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2009-2010))
+- 2008-2009 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2008-09.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2008-2009))
+
+
+
+## The Global Risks Report
+
+> World Economic Forum ([source](https://www.weforum.org/global-risks/archive))
+
+- 2020 The Global Risks Report ([full](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf), [web](https://www.weforum.org/reports/the-global-risks-report-2020))
+  - COVID-19 Risks Outlook – A Preliminary Mapping and its Implications ([full](http://www3.weforum.org/docs/WEF_COVID_19_Risks_Outlook_Special_Edition_Pages.pdf), [web](https://www.weforum.org/reports/covid-19-risks-outlook-a-preliminary-mapping-and-its-implications))
+  - Challenges and Opportunities in the Post-COVID-19 World ([full](http://www3.weforum.org/docs/WEF_Challenges_and_Opportunities_Post_COVID_19.pdf))
+- 2019 The Global Risks Report ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf), [web](https://www.weforum.org/reports/the-global-risks-report-2019))
+- 2018 The Global Risks Report ([full](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf), [web](https://www.weforum.org/reports/the-global-risks-report-2018))
+- 2017 The Global Risks Report ([full](http://www3.weforum.org/docs/GRR17_Report_web.pdf), [web](https://www.weforum.org/reports/the-global-risks-report-2017))
+- 2016 The Global Risks Report ([full](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf), [web](https://www.weforum.org/reports/the-global-risks-report-2016))
+- 2015 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf), [summary](http://reports.weforum.org/global-risks-2015/wp-content/blogs.dir/68/mp/files/pages/files/grr15-executive-summary-english.pdf), [web](http://reports.weforum.org/global-risks-2015/))
+- 2014 Global Risks ([full](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf), [web](http://reports.weforum.org/global-risks-2014/?doing_wp_cron=1557754618.4111540317535400390625))
+- 2013 Global Risks ([full](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2013.pdf), [summary](http://www3.weforum.org/docs/WEF_GlobalRisks_ExecutiveSummary_2013.pdf), [web](http://reports.weforum.org/global-risks-2013/?doing_wp_cron=1555334914.4366910457611083984375))
+- 2012 Global Risks ([full](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2012.pdf), [web](http://reports.weforum.org/global-risks-2012/))
+- 2011 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2011.pdf), [web](https://www.weforum.org/reports/global-risks-report-2011))
+- 2010 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2010.pdf), [web](https://www.weforum.org/reports/global-risks-2010))
+- 2009 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2009.pdf))
+- 2008 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2008.pdf))
+- 2007 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2007.pdf))
+- 2006 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2006.pdf))
+
+
+
+## The State of Artistic Freedom
+
+> Freemuse ([source](https://freemuse.org/?s=The+State+of+Artistic+Freedom+))
+
+- 2020 The State of Artistic Freedom ([full](https://dutchculture.nl/sites/default/files/atoms/files/state-of-artistic-freedom-2020.pdf), [web](https://freemuse.org/resources/%item_category%/state-of-artistic-freedom-2020-freemuse/))
+- 2019 The State of Artistic Freedom – Whose Narratives Count? ([full](https://freemuse.org/wp-content/uploads/2019/03/saf-2019-online.pdf), [web](https://freemuse.org/resources/item/the-state-of-artistic-freedom-2019/))
+- 2018 The State of Artistic Freedom ([full](https://freemuse.org/wp-content/uploads/2018/05/Freemuse-The-state-of-artistic-freedom-2018-online-version.pdf), [web](https://freemuse.org/resources/item/state-artistic-freedom-2018/))
 
 
 
@@ -612,6 +723,32 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## The Sustainable Development Goals Report
+
+> United Nations Department of Economic and Social Affairs ([source](https://unstats.un.org/sdgs))
+
+- 2020 The Sustainable Development Goals Report ([full](https://unstats.un.org/sdgs/report/2020/The-Sustainable-Development-Goals-Report-2020.pdf), [web](https://unstats.un.org/sdgs/report/2020/))
+- 2019 The Sustainable Development Goals Report ([full](https://unstats.un.org/sdgs/report/2019/The-Sustainable-Development-Goals-Report-2019.pdf), [web](https://unstats.un.org/sdgs/report/2019/))
+- 2018 The Sustainable Development Goals Report ([full](https://unstats.un.org/sdgs/files/report/2018/TheSustainableDevelopmentGoalsReport2018-EN.pdf), [web](https://unstats.un.org/sdgs/report/2018/))
+- 2017 The Sustainable Development Goals Report ([full](https://unstats.un.org/sdgs/files/report/2017/TheSustainableDevelopmentGoalsReport2017.pdf), [web](https://unstats.un.org/sdgs/report/2017/))
+- 2016 The Sustainable Development Goals Report ([full](https://unstats.un.org/sdgs/report/2016/The%20Sustainable%20Development%20Goals%20Report%202016.pdf), [web](https://unstats.un.org/sdgs/report/2016/))
+
+
+
+## The Travel & Tourism Competitiveness Report
+
+> World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Travel+and+Tourism+Competitiveness+Report))
+
+- 2019 The Travel & Tourism Competitiveness Report – Travel and Tourism at a Tipping Point ([full](http://www3.weforum.org/docs/WEF_TTCR_2019.pdf), [web](https://www.weforum.org/reports/the-travel-tourism-competitiveness-report-2019))
+- 2017 The Travel & Tourism Competitiveness Report – Paving the way for a more sustainable and inclusive future ([full](http://www3.weforum.org/docs/WEF_TTCR_2017_web_0401.pdf), [web](https://www.weforum.org/reports/the-travel-tourism-competitiveness-report-2017))
+- 2015 The Travel & Tourism Competitiveness Report – Growth through Shocks ([full](http://www3.weforum.org/docs/TT15/WEF_Global_Travel&Tourism_Report_2015.pdf), [web](https://www.weforum.org/reports/travel-and-tourism-competitiveness-report-2015))
+- 2013 The Travel & Tourism Competitiveness Report – Reducing Barriers to Economic Growth and Job Creation ([full](http://www3.weforum.org/docs/WEF_TT_Competitiveness_Report_2013.pdf), [web](https://www.weforum.org/reports/travel-and-tourism-competitiveness-report-2013))
+- 2011 The Travel & Tourism Competitiveness Report – Beyond the Downturn ([full](https://globalwellnesssummit.com/wp-content/uploads/Industry-Research/Global/2011-WEF-Travel-Tourism-Competitiveness-Report.pdf), [summary](http://www3.weforum.org/docs/TTCR11/WEF_TravelTourismCompetitiveness_Report_Frontmatter_ExecutiveSummary_2011.pdf))
+- 2009 The Travel & Tourism Competitiveness Report – Managing in a Time of Turbulence ([full](http://www.ontit.it/opencms/export/sites/default/ont/it/documenti/files/ONT_2009-03-04_02101.pdf))
+- 2008 The Travel & Tourism Competitiveness Report – Balancing Economic Development and Environmental Sustainability ([full](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.7976&rep=rep1&type=pdf))
+
+
+
 ## The World's Women
 
 > United Nations Department of Economic and Social Affairs ([source](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml))
@@ -635,6 +772,20 @@ List of all major global reports published on a regular basis by international o
 - 2014 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2014))
 - 2013 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2013))
 - 2012 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2012))
+
+
+
+## UNESCO Science Report
+
+> UNESCO ([source](https://en.unesco.org/unesco_science_report/collection))
+
+- 2020 UNESCO Science Report
+- 2015 UNESCO Science Report – Towards 2030 ([full](https://unesdoc.unesco.org/ark:/48223/pf0000235406/PDF/235406eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000235407/PDF/235407eng.pdf.multi), [web](https://en.unesco.org/unescosciencereport))
+- 2010 UNESCO Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000189958/PDF/189958eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000189883/PDF/189883eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/unesco-science-report-2010))
+- 2005 UNESCO Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000143007/PDF/143007eng.pdf.multi.page=1&zoom=auto,-18,896), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/unesco-science-report-2005/))
+- 1998 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000112616/PDF/112616engo.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/world-science-report-1998/))
+- 1996 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000102819/PDF/102819engo.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/world-science-report-1996/))
+- 1993 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000095612/PDF/095612engo.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/world-science-report-1993/))
 
 
 
@@ -705,6 +856,35 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## World Economic Situation and Prospects
+
+> United Nations ([source 1](https://www.un.org/en/development/desa/policy/wesp/archive.shtml), [source 2](https://unctad.org/en/pages/publications/World-Economic-Situation-and-Prospects-(Series).aspx))
+
+- 2020 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2020_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wesp2020_summary_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2020/))
+- 2019 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wesp2019summary_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2019/))
+- 2018 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2018_en.pdf), [summary](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2018_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2018/))
+- 2017 World Economic Situation and Prospects ([full](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/publication/2017wesp_full_en.pdf), [summary](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/2017wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2017/))
+- 2016 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2016_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2016wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2016/))
+- 2015 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2015_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2015wesp-es-en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2015/))
+- 2014 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/wesp2014.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2014wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2014/))
+- 2013 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2013_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2013wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2013/))
+- 2012 World Economic Situation and Prospects ([full](https://unctad.org/en/Docs/wesp2012_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2012wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2012/))
+- 2011 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2011wesp.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2011wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2011/))
+- 2010 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2010wesp.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2010wesp_es_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=599))
+- 2009 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2009wesp.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2009wesp_es_eng1.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=597))
+- 2008 World Economic Situation and Prospects ([full](https://unctad.org/en/Docs/wesp2008_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2008wesp_es_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2008/))
+- 2007 World Economic Situation and Prospects ([full](https://unctad.org/en/Docs/wesp2007_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2007wesp_es_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=595))
+- 2006 World Economic Situation and Prospects ([full](https://unctad.org/en/Docs/wesp2006_en.pdf), [summary](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2006wesp_es_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=588))
+- 2005 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2005wesp.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2005/))
+- 2004 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2004wesp.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2004/))
+- 2003 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2003wesp.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2003/))
+- 2002 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2002wesp.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2002/))
+- 2001 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2001wesp.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2001/))
+- 2000 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/2000wesp.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2000/))
+- 1999 World Economic Situation and Prospects ([full](https://www.un.org/en/development/desa/policy/wesp/wesp_archive/1999wesp.pdf))
+
+
+
 ## World Energy Outlook
 
 > International Energy Agency ([source](https://webstore.iea.org/world-energy-outlook))
@@ -747,6 +927,51 @@ List of all major global reports published on a regular basis by international o
 
 
 
+## World Public Sector Report
+
+> United Nations Department of Economic and Social Affairs ([source](https://publicadministration.un.org/en/Research/World-Public-Sector-Reports))
+
+- 2021 World Public Sector Report – Institutions for the Sustainable Development Goals: a five-year stocktaking
+- 2019 World Public Sector Report – Sustainable Development Goal 16: Focus on public institutions ([full](https://publicadministration.un.org/Portals/1/Images/WorldPublicSector/World%20Public%20Sector%20Report%202019.pdf), [summary](https://publicadministration.un.org/Portals/1/Images/WorldPublicSector/Executive%20Summary.pdf))
+- 2018 World Public Sector Report – Working Together: Integration, Institutions and the Sustainable Development Goals ([full](https://publicadministration.un.org/Portals/1/Images/WorldPublicSector/World%20Public%20Sector%20report%202018%20Full%20report.pdf), [summary](https://publicadministration.un.org/Portals/1/Images/WorldPublicSector/Executive%20Summary.pdf))
+- 2015 World Public Sector Report – Responsive and Accountable Public Governance ([full](https://publicadministration.un.org/publications/content/PDFs/World%20Public%20Sector%20Report2015.pdf))
+- 2010 World Public Sector Report – Reconstructing Public Administration after Conflict ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2010.pdf))
+- 2008 World Public Sector Report – People Matter: Civic Engagement in Public Governance ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2008.pdf))
+- 2005 World Public Sector Report – Unlocking the Human Potential for Public Sector Performance ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2005.pdf))
+- 2003 World Public Sector Report – E-Government at the Crossroads ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2003.pdf))
+- 2001 World Public Sector Report – Globalization and the State ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2001.pdf))
+
+
+
+## World Social Report
+
+> United Nations Department of Economic and Social Affairs ([source](https://www.un.org/development/desa/dspd/world-social-report.html))
+
+- 2020 World Social Report – Inequality in a Rapidly Changing World ([full](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/02/World-Social-Report2020-FullReport.pdf), [summary](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2020/02/World-Social-Report2020-ExecutiveSummary.pdf), [web](https://www.un.org/development/desa/dspd/world-social-report/2020-2.html))
+- 2018 Report on the World Social Situation – Promoting Inclusion Through Social Protection ([full](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2018/07/1-1.pdf), [summary](https://www.un.org/development/desa/dspd/wp-content/uploads/sites/22/2018/07/rwss2018-executive-summary.pdf), [web](https://www.un.org/development/desa/dspd/world-social-report/2018-2.html))
+- 2016 Report on the World Social Situation – Leaving No One Behind: The Imperative of Inclusive Development  ([full](https://www.un.org/development/desa/dspd/world-social-report/rwss2016.html), [summary](https://www.un.org/esa/socdev/rwss/2016/executive-summary.pdf), [web](https://www.un.org/development/desa/dspd/world-social-report/rwss2016.html))
+- 2013 Report on the World Social Situation – Inequality Matters ([full](https://www.un.org/esa/socdev/documents/reports/InequalityMatters.pdf), summary, [web](https://www.un.org/development/desa/dspd/world-social-report/2013-report-on-the-world-social-situation.html))
+- 2011 Report on the World Social Situation – The Global Social Crisis ([full](https://www.un.org/esa/socdev/rwss/docs/2011/rwss2011.pdf), summary, [web](https://www.un.org/development/desa/dspd/world-social-report/2011-2.html))
+- 2010 Report on the World Social Situation – Rethinking Poverty ([full](https://www.un.org/esa/socdev/rwss/docs/2010/fullreport.pdf), [summary](https://www.un.org/esa/socdev/rwss/docs/2010/summary.pdf), [web](https://www.un.org/development/desa/dspd/world-social-report/2010-2.html))
+- 2007 Report on the World Social Situation – The Employment Imperative ([full](https://www.un.org/esa/socdev/rwss/docs/2007/rwss07_fullreport.pdf), [summary](https://undocs.org/A/62/168), [web](https://www.un.org/development/desa/dspd/world-social-report/2007-report-on-the-world-social-situation.html))
+- 2005 Report on the World Social Situation – The Inequality Predicament ([full](https://www.un.org/esa/socdev/rwss/docs/2005/rwss05.pdf), [summary](https://www.un.org/esa/socdev/rwss/docs/2005/Executivesummary.pdf), [web](https://www.un.org/development/desa/dspd/world-social-report/2005-4.html))
+- 2003 Report on the World Social Situation – Social Vulnerability: Sources and Challenges ([full](https://www.un.org/esa/socdev/rwss/docs/2003/fullreport.pdf), [summary](https://www.un.org/esa/socdev/rwss/docs/2003/ExecSumm.pdf), [web](https://www.un.org/development/desa/dspd/world-social-report/2003-report-on-the-world-social-situation.html))
+- 2001 Report on the World Social Situation – (full, [summary](https://undocs.org/E/2001/104), [web](https://www.un.org/development/desa/dspd/world-social-report/2001-report-on-the-world-social-situation/media-kit-2001-report-on-the-world-social-situation.html))
+- 1997 Report on the World Social Situation – ([full](https://undocs.org/E/1997/15), summary, [web](https://www.un.org/development/desa/dspd/world-social-report/1997-report-on-the-world-social-situation-social-development.html))
+
+
+
+## World Social Science Report
+
+> UNESCO ([source](https://unesdoc.unesco.org/search/ee52362e-1b0b-4530-8794-9f2b5db5a1b2))
+
+- 2016 World Social Science Report – Challenging Inequalities: Pathways to a Just World ([full](https://unesdoc.unesco.org/ark:/48223/pf0000245825/PDF/245825eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000245995/PDF/245995eng.pdf.multi), [web](https://en.unesco.org/wssr2016))
+- 2013 World Social Science Report – Changing Global Environments ([full](https://unesdoc.unesco.org/ark:/48223/pf0000224677/PDF/224677eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000223388/PDF/223388eng.pdf.multi), [web](https://en.unesco.org/wssr2013))
+- 2010 World Social Science Report – Knowledge Divides ([full](https://unesdoc.unesco.org/ark:/48223/pf0000188333/PDF/188333eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000188395/PDF/188395eng.pdf.multi.page=1&zoom=auto,-7,822), [web](https://en.unesco.org/wssr2010))
+- 1999 World Social Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000116325/PDF/116325eng.pdf.multi), [web](https://unesdoc.unesco.org/ark:/48223/pf0000116325?posInSet=1&queryId=0f9263eb-7cfa-4b5d-977b-8cfb895efcb9))
+
+
+
 ## World Water Development Report
 
 > UN-Water, UNESCO ([source](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/))
@@ -762,6 +987,22 @@ List of all major global reports published on a regular basis by international o
 - 2009 World Water Development Report – Water in a Changing World ([full](https://unesdoc.unesco.org/ark:/48223/pf0000181993/PDF/181993eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr3-2009/))
 - 2006 World Water Development Report – Water, a Shared Responsibility ([full](https://unesdoc.unesco.org/ark:/48223/pf0000145405/PDF/145405eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000144409/PDF/144409eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr2-2006/))
 - 2003 World Water Development Report – Water for People, Water for Life ([full](https://unesdoc.unesco.org/ark:/48223/pf0000129726/PDF/129726eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000129556/PDF/129556eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr1-2003/))
+
+
+
+## World Youth Report
+
+> United Nations Department of Economic and Social Affairs ([source](https://www.un.org/development/desa/youth/world-youth-report.html))
+
+- 2020 World Youth Report – Youth Social Entrepreneurship and the 2030 Agenda ([full](https://www.un.org/development/desa/youth/wp-content/uploads/sites/21/2020/07/2020-World-Youth-Report-FULL-FINAL.pdf), [summary](https://www.un.org/development/desa/youth/wp-content/uploads/sites/21/2020/07/2020-World-Youth-Report-Exec-Summary-FINAL.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/wyr2020.html))
+- 2018 World Youth Report – Youth and the 2030 Agenda for Sustainable Development ([full](https://www.un.org/development/desa/youth/wp-content/uploads/sites/21/2018/12/WorldYouthReport-2030Agenda.pdf), [summary](https://www.un.org/development/desa/youth/wp-content/uploads/sites/21/2018/12/Executive-Summary_World-Youth-Report_07.12.18-1.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/wyr2018.html))
+- 2015 World Youth Report – Youth Civic Engagement ([full](https://www.un.org/development/desa/youth/wp-content/uploads/sites/21/2018/12/un_world_youth_report_youth_civic_engagement.pdf), [summary](https://www.un.org/development/desa/youth/wp-content/uploads/sites/21/2018/12/wyr_civic_engagement_executive_summary.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/2015-2.html))
+- 2013 World Youth Report – Youth and Migration ([full](https://www.un.org/esa/socdev/unyin/wyr/2013/report.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/2013-2.html))
+- 2011 World Youth Report – Youth Employment: Youth Perspectives on the Pursuit of Decent Work in Changing Times ([full](https://www.un.org/esa/socdev/unyin/wyr/2011/report.pdf), [summary](https://www.un.org/esa/socdev/unyin/documents/wyr11/summaryreport.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2011.html))
+- 2010 World Youth Report – Youth and Climate Change ([full](https://www.un.org/esa/socdev/unyin/documents/wyr10/YouthReport-FINAL-web-single.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2010.html))
+- 2007 World Youth Report – Young People’s Transition to Adulthood: Progress and Challenges ([full](https://www.un.org/esa/socdev/unyin/documents/wyr07_complete.pdf), [summary](https://www.un.org/esa/socdev/unyin/documents/wyr07_overview.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2007.html))
+- 2005 World Youth Report – Young People Today, and in 2015 ([full](https://www.un.org/esa/socdev/unyin/documents/wyr05book.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2005.html))
+- 2003 World Youth Report – The Global Situation of Young People ([full](https://www.un.org/esa/socdev/unyin/documents/worldyouthreport.pdf), [summary](https://www.un.org/esa/socdev/unyin/documents/covercontentsoverview.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2003.html))
 
 
 
