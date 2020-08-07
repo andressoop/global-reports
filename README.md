@@ -1,7 +1,4 @@
-# Global Reports
-
-List of all major global reports published on a regular basis by international organisations. 
-
+![List of major global reports published by international organisations](header.png)
 
 
 ## Table of Contents
