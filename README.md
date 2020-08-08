@@ -35,6 +35,7 @@
 - [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
 - [The Future of Jobs Report](#the-future-of-jobs-report)
 - [The Global Competitiveness Report](#the-global-competitiveness-report)
+- [The Global Enabling Trade Report](#the-global-enabling-trade-report)
 - [The Global Risks Report](#the-global-risks-report)
 - [The State of Artistic Freedom](#the-state-of-artistic-freedom)
 - [The State of the World's Human Rights](#the-state-of-the-worlds-human-rights)
@@ -264,9 +265,7 @@
 - 2019 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/2019-tracking_sdg7-complete-rev030320.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/2019-tracking_sdg7-execsumm-withoutembargoed.pdf))
 - 2018 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/tracking_sdg7-the_energy_progress_report_full_report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/executive_summary.pdf))
 - 2017 Global Tracking Framework – Progress toward Sustainable Energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/eegp17-01_gtf_full_report_for_web_0516.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/eegp17-01_gtf_summary_final_for_web_posting_0331.pdf))
-- 2016 n/a
 - 2015 Global Tracking Framework – Progress toward Sustainable Energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2105-full-report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2015-summary-report.pdf))
-- 2014 n/a 
 - 2013 Global Tracking Framework – Progress toward Sustainable Energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2013-full-report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/gtf-2013-es-english.pdf))
 
 
@@ -279,13 +278,9 @@
 - 2016 Energy Technology Perspectives – Towards Sustainable Urban Energy Systems ([web](https://www.iea.org/reports/energy-technology-perspectives-2016))
 - 2015 Energy Technology Perspectives – Mobilising Innovation to Accelerate Climate Action ([web](https://www.iea.org/reports/energy-technology-perspectives-2015))
 - 2014 Energy Technology Perspectives – Harnessing Electricity’s Potential ([web](https://www.iea.org/reports/energy-technology-perspectives-2014))
-- 2013 n/a
 - 2012 Energy Technology Perspectives – Pathways to a Clean Energy System ([web](https://www.iea.org/reports/energy-technology-perspectives-2012))
-- 2011 n/a
 - 2010 Energy Technology Perspectives – Scenarios and strategies to 2050 ([web](https://www.iea.org/reports/energy-technology-perspectives-2010))
-- 2009 n/a
 - 2008 Energy Technology Perspectives – Scenarios and strategies to 2050 ([web](https://www.iea.org/reports/energy-technology-perspectives-2008))
-- 2007 n/a
 - 2006 Energy Technology Perspectives – Scenarios and strategies to 2050 ([web](https://www.iea.org/reports/energy-technology-perspectives-2006))
 
 
@@ -623,6 +618,19 @@
 
 
 
+## The Global Enabling Trade Report
+
+> World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Enabling+Trade+Report))
+
+- 2016 The Global Enabling Trade Report ([full](http://www3.weforum.org/docs/WEF_GETR_2016_report.pdf), [web](https://www.weforum.org/reports/the-global-enabling-trade-report-2016))
+- 2014 The Global Enabling Trade Report ([full](http://www3.weforum.org/docs/WEF_GlobalEnablingTrade_Report_2014.pdf), [web](https://www.weforum.org/reports/global-enabling-trade-report-2014))
+- 2012 The Global Enabling Trade Report ([full](http://www3.weforum.org/docs/GETR/2012/GlobalEnablingTrade_Report.pdf), [web](https://www.weforum.org/reports/global-enabling-trade-report-2012))
+- 2010 The Global Enabling Trade Report ([full](https://www.scribd.com/document/102846166/Global-Enabling-Trade-Report-2010))
+- 2009 The Global Enabling Trade Report ([full](https://books.google.ee/books?id=MuMSrtqkApUC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false))
+- 2008 The Global Enabling Trade Report ([full](https://books.google.ee/books?id=PRq2n50PqSYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false))
+
+
+
 ## The Global Risks Report
 
 > World Economic Forum ([source](https://www.weforum.org/global-risks/archive))
@@ -793,13 +801,9 @@
 - 2020 Women, Business and the Law ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf))
 - 2019 Women, Business and the Law – A Decade of Reform ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31327/WBL2019.pdf?sequence=4&isAllowed=y))
 - 2018 Women, Business and the Law  ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/29498/9781464812521.pdf), [summary](http://pubdocs.worldbank.org/en/999211524236982958/WBL-Key-Findings-Web-FINAL-2.pdf))
-- 2017 n/a
 - 2016 Women, Business and the Law – Getting to Equal ([full](http://pubdocs.worldbank.org/en/810421519921949813/Women-Business-and-the-Law-2016.pdf), [summary](http://pubdocs.worldbank.org/en/555061519930693642/WBL2016-Key-Findings-EN.pdf))
-- 2015 n/a
 - 2014 Women, Business and the Law – Removing Restrictions to Enhance Gender Equality ([full](http://pubdocs.worldbank.org/en/709981519930723025/Women-Business-and-the-Law-2014.pdf), [summary](http://pubdocs.worldbank.org/en/703541519930685103/WBL2014-Key-Findings-EN.pdf))
-- 2013 n/a
 - 2012 Women, Business and the Law – Removing Barriers to Economic Inclusion ([full](http://pubdocs.worldbank.org/en/107821519930717245/Women-Business-and-the-Law-2012.pdf))
-- 2011 n/a
 - 2010 Women, Business and the Law – Measuring Legal Gender Parity ([full](http://pubdocs.worldbank.org/en/680581519930712916/Women-Business-and-the-Law-2010.pdf))
 
 
