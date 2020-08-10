@@ -47,8 +47,10 @@
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
+- [World Employment and Social Outlook](#world-employment-and-social-outlook)
 - [World Energy Outlook](#world-energy-outlook)
 - [World Public Sector Report](#world-public-sector-report)
+- [World Social Protection Report](#world-social-protection-report)
 - [World Social Report](#world-social-report)
 - [World Social Science Report](#world-social-science-report)
 - [World Water Development Report](#world-water-development-report)
@@ -886,6 +888,35 @@
 
 
 
+## World Employment and Social Outlook
+
+> International Labour Organization ([source](https://www.ilo.org/global/publications/books/lang--en/index.htm))
+
+- 2020 World Employment and Social Outlook
+  - Trends ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_734455.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_734479.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2020/WCMS_734455/lang--en/index.htm))
+- 2019 World Employment and Social Outlook
+  - Trends ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_670542.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_670554.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2019/WCMS_670542/lang--en/index.htm))
+- 2018 World Employment and Social Outlook – Greening with jobs ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_628654.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_628708.pdf), [web](https://www.ilo.org/global/publications/books/WCMS_628654/lang--en/index.htm))
+  - Trends ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_615594.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_615672.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2018/WCMS_615594/lang--en/index.htm))
+  - Trends for Women ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_619577.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/trends-for-women2018/WCMS_619577/lang--en/index.htm))
+- 2017 World Employment and Social Outlook – Sustainable enterprises and jobs: Formal enterprises and decent work ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_579893.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_580101.pdf), [web](https://www.ilo.org/global/publications/books/WCMS_579893/lang--en/index.htm))
+  - Trends ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_541211.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_540899.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2017/WCMS_541211/lang--en/index.htm))
+  - Trends for Women ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_557245.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---inst/documents/publication/wcms_557077.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/trends-for-women2017/WCMS_557245/lang--en/index.htm))
+- 2016 World Employment and Social Outlook – Transforming jobs to end poverty ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_481534.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_480911.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2016-transforming-jobs/WCMS_481534/lang--en/index.htm))
+  - Trends ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_443480.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_443472.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2016/WCMS_443480/lang--pt/index.htm))
+  - Trends for Youth ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_513739.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_513741.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2016/WCMS_513739/lang--it/index.htm))
+- 2015 World Employment and Social Outlook – The changing nature of jobs ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_368626.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_368640.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2015-changing-nature-of-jobs/WCMS_368626/lang--en/index.htm))
+  - Trends ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_337069.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_337070.pdf), [web](https://www.ilo.org/global/research/global-reports/weso/2015/WCMS_337069/lang--en/index.htm))
+- 2014 World of Work – Developing with jobs ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_243961.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_243962.pdf), [web](https://www.ilo.org/global/research/global-reports/world-of-work/2014/WCMS_243961/lang--en/index.htm))
+- 2013 World of Work – Repairing the economic and social fabric ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_214476.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_214673.pdf), [web](https://www.ilo.org/global/research/global-reports/world-of-work/2013/WCMS_214476/lang--en/index.htm))
+- 2012 World of Work – Better Jobs for a better economy ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_179453.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_179450.pdf), [web](https://www.ilo.org/global/research/global-reports/world-of-work/WCMS_179453/lang--it/index.htm))
+- 2011 World of Work – Making markets work for jobs ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_166021.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/genericdocument/wcms_166402.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_166021/lang--en/index.htm))
+- 2010 World of Work – From one crisis to the next? ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_145259.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_145112.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_145259/lang--en/index.htm))
+- 2009 World of Work – The global job crisis and beyond ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_120079.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/presentation/wcms_118385.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_120079/lang--en/index.htm))
+- 2008 World of Work – Income inequalities in the age of financial globalization ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_100354.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/article/wcms_100613.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_100354/lang--en/index.htm))
+
+
+
 ## World Energy Outlook
 
 > International Energy Agency ([source](https://webstore.iea.org/world-energy-outlook))
@@ -941,6 +972,15 @@
 - 2005 World Public Sector Report – Unlocking the Human Potential for Public Sector Performance ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2005.pdf))
 - 2003 World Public Sector Report – E-Government at the Crossroads ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2003.pdf))
 - 2001 World Public Sector Report – Globalization and the State ([full](https://publicadministration.un.org/publications/content/PDFs/E-Library%20Archives/World%20Public%20Sector%20Report%20series/World%20Public%20Sector%20Report.2001.pdf))
+
+
+
+## World Social Protection Report
+
+> International Labour Organization ([source](https://www.ilo.org/global/research/global-reports/world-social-security-report/lang--en/index.htm))
+
+- 2017-2019 World Social Protection Report – Universal social protection to achieve the Sustainable Development Goals ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_604882.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_605078.pdf), [web](https://www.ilo.org/global/research/global-reports/world-social-security-report/2017-19/lang--en/index.htm))
+- 2014-2015 World Social Protection Report – Building economic recovery, inclusive development and social justice ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_245201.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_245131.pdf), [web](https://www.ilo.org/global/research/global-reports/world-social-security-report/2014/lang--en/index.htm))
 
 
 
