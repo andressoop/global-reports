@@ -43,6 +43,7 @@
 - [The Travel & Tourism Competitiveness Report](#the-travel--tourism-competitiveness-report)
 - [The World's Women](#the-worlds-women)
 - [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
+- [Trade and Development Report](#trade-and-development-report)
 - [UNESCO Science Report](#unesco-science-report)
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
@@ -779,6 +780,53 @@
 - 2014 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2014))
 - 2013 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2013))
 - 2012 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2012))
+
+
+
+## Trade and Development Report
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/TradeandDevelopmentReport.aspx))
+
+- 2019 Trade and Development Report – Financing a global green new deal ([full](https://unctad.org/en/PublicationsLibrary/tdr2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2019overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2526))
+- 2018 Trade and Development Report – Power, platforms and the free trade delusion ([full](https://unctad.org/en/PublicationsLibrary/tdr2018_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2018overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2227))
+- 2017 Trade and Development Report – Beyond austerity: Towards a global new deal ([full](https://unctad.org/en/PublicationsLibrary/tdr2017_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2017overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1852))
+- 2016 Trade and Development Report – Structural transformation for inclusive and sustained growth ([full](https://unctad.org/en/PublicationsLibrary/tdr2016_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2016overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1610))
+- 2015 Trade and Development Report – Making the international financial architecture work for development ([full](https://unctad.org/en/PublicationsLibrary/tdr2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2015overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1358))
+- 2014 Trade and Development Report – Global governance and policy space for development ([full](https://unctad.org/en/PublicationsLibrary/tdr2014_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2014overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=981))
+- 2013 Trade and Development Report – Adjusting to the changing dynamics of the world economy ([full](https://unctad.org/en/PublicationsLibrary/tdr2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=636))
+- 2012 Trade and Development Report – Policies for inclusive and balanced growth ([full](https://unctad.org/en/PublicationsLibrary/tdr2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tdr2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=210))
+- 2011 Trade and Development Report – Post-crisis policy challenges in the world economy ([full](https://unctad.org/en/Docs/tdr2011_en.pdf), [summary](https://unctad.org/en/Docs/tdr2011overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2186))
+  - Three decades of thinking development ([full](https://unctad.org/en/PublicationsLibrary/gds2012d1_en.pdf))
+- 2010 Trade and Development Report – Employment, globalization and development ([full](https://unctad.org/en/Docs/tdr2010_en.pdf), [summary](https://unctad.org/en/Docs/tdr2010overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2176))
+- 2009 Trade and Development Report – Responding to the global crisis, climate change mitigation and development ([full](https://unctad.org/en/Docs/tdr2009_en.pdf), [summary](https://unctad.org/en/Docs/tdr2009overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2167))
+- 2008 Trade and Development Report – Commodity prices, capital flows and the financing of investment ([full](https://unctad.org/en/Docs/tdr2008_en.pdf), [summary](https://unctad.org/en/Docs/tdr2008overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2155))
+- 2007 Trade and Development Report – Regional cooperation for development ([full](https://unctad.org/en/Docs/tdr2007_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2146))
+- 2006 Trade and Development Report – Global partnership and national policies for development ([full](https://unctad.org/en/Docs/tdr2006_en.pdf), [summary](https://unctad.org/en/Docs/tdr2006overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2138))
+- 2005 Trade and Development Report – New features of global interdependence ([full](https://unctad.org/en/Docs/tdr2005_en.pdf), [summary](https://unctad.org/en/Docs/tdr2005overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2130))
+- 2004 Trade and Development Report – Policy coherence, development strategies and integration into the world economy ([full](https://unctad.org/en/Docs/tdr2004_en.pdf), [summary](https://unctad.org/en/Docs/tdr2004overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2122))
+- 2003 Trade and Development Report – Capital accumulation, growth and structural change ([full](https://unctad.org/en/Docs/tdr2003_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2114))
+- 2002 Trade and Development Report – Global trends and prospects, developing countries in world trade ([full](https://unctad.org/en/PublicationsLibrary/tdr2002_en.pdf))
+- 2001 Trade and Development Report – Global trends and prospects, financial architecture ([part 1](https://unctad.org/en/Docs/tdr2001_en.pdf), [part 2](https://unctad.org/en/Docs/tdr2001p2_en.pdf), [summary](https://unctad.org/en/Docs/tdr2001overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2100))
+- 2000 Trade and Development Report – Global economic growth and imbalances ([full](https://unctad.org/en/Docs/tdr2000_en.pdf), [summary](https://unctad.org/en/Docs/tdr2000overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2098))
+- 1999 Trade and Development Report – Fragile recovery and risks trade, finance and growth ([full](https://unctad.org/en/Docs/tdr1999_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2095))
+- 1998 Trade and Development Report – Financial instability, growth in Africa ([full](https://unctad.org/en/Docs/tdr1998_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2093))
+- 1997 Trade and Development Report – Globalization, distribution and growth ([full](https://unctad.org/en/Docs/tdr1997_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2091))
+- 1996 Trade and Development Report ([full](https://www.rrojasdatabank.info/tdr1996_en.pdf), [summary](https://unctad.org/en/Docs/tdr1996overview_en.pdf))
+- 1995 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr15_en.pdf))
+- 1994 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr14_en.pdf))
+- 1993 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr13_en.pdf))
+- 1992 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr12_en.pdf))
+- 1991 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr11_en.pdf))
+- 1990 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr10_en.pdf))
+- 1989 Trade and Development Report ([part 1](https://unctad.org/en/PublicationsLibrary/tdr9_en.pdf), [part 2](https://unctad.org/en/PublicationsLibrary/tdr9part2_en.pdf))
+- 1988 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr8_en.pdf))
+- 1987 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr7_en.pdf))
+- 1986 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr6_en.pdf))
+- 1985 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr5_en.pdf))
+- 1984 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr4rev1_en.pdf))
+- 1983 Trade and Development Report
+- 1982 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr2rev1_en.pdf))
+- 1981 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdb863_rev.1_en.pdf))
 
 
 
