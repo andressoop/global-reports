@@ -53,8 +53,9 @@ For any questions, thoughts, ideas, issues, etc, use the [issues](https://github
 - [summary] should link directly to the pdf version of the report's summary
 - [web] should link to the reports specific web page where you find more information and resources
 - If in a specific year no report was published, but should have been, mark it in this fashion: **2015 n/a**
-- If the report has been published, but there is no publication of it online, leave the name of the report without the link
+- If the report has been published, but there is no publication of it online, leave the name of the report without any links
 - Indent related reports under the main report 
-- Use ` – ` symbol for resource title and subtitle separation, `: ` for further name separation
-- Add ` $ ` symbol to the end of resource line if the report is not free
+- Use **Title Case** for the reports main title and **Sentence case** for subtitle and everything else that follows
+- Use en dash ` – ` for resource title and subtitle separation, `: ` for further name separation
+- Add ` $ ` to the end of resource line if the report is not free
 - Don't forget Table of Contents
