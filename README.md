@@ -20,6 +20,8 @@
 - [Environmental Performance Index](#environmental-performance-index)
 - [External Sector Report](#external-sector-report)
 - [Financing for Sustainable Development Report](#financing-for-sustainable-development-report)
+- [Freedom in the World](#freedom-in-the-world)
+- [Freedom on the Net](#freedom-on-the-net)
 - [Frontiers](#frontiers)
 - [Global Catastrophic Risks](#global-catastrophic-risks)
 - [Global Corruption Barometer](#global-corruption-barometer)
@@ -365,6 +367,73 @@
 - 2018 Financing for Development – Progress and prospects ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF_2018.pdf), [summary](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF_2018_Overview.pdf), [web](https://developmentfinance.un.org/iatf2018))
 - 2017 Financing for Development – Progress and prospects ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF-2017.pdf), [summary](https://developmentfinance.un.org/system/files/Report_IATF-2017_summary.pdf), [web](https://developmentfinance.un.org/iatf2017))
 - 2016 Inaugural Report – ([full](https://developmentfinance.un.org/sites/developmentfinance.un.org/files/Report_IATF-2016-full.pdf), [web](https://developmentfinance.un.org/iatf-2016-report))
+
+
+
+## Freedom in the World
+
+> Freedom House ([source](https://freedomhouse.org/report/freedom-world))
+
+- 2020 Freedom in the World – A leaderless struggle for democracy ([summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2020_REPORT_BOOKLET_Final.pdf), [web](https://freedomhouse.org/report/freedom-world/2020/leaderless-struggle-democracy))
+- 2019 Freedom in the World – Democracy in retreat ([summary](https://freedomhouse.org/sites/default/files/Feb2019_FH_FITW_2019_Report_ForWeb-compressed.pdf), [web](https://freedomhouse.org/report/freedom-world/2019/democracy-retreat))
+- 2018 Freedom in the World – Democracy in crisis ([full](https://freedomhouse.org/sites/default/files/2020-02/FreedomintheWorld2018COMPLETEBOOK.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FIW_Report_2018_Final.pdf), [web](https://freedomhouse.org/report/freedom-world/2018/democracy-crisis))
+- 2017 Freedom in the World – Populists and autocrats: The dual threat to global democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2017_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FIW_2017_Report_Final.pdf), [web](https://freedomhouse.org/report/freedom-world/2017/populists-and-autocrats-dual-threat-global-democracy))
+- 2016 Freedom in the World – Anxious dictators, wavering democracies: Global freedom under pressure ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2016_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FITW_Report_2016.pdf), [web](https://freedomhouse.org/report/freedom-world/2016/anxious-dictators-wavering-democracies-global-freedom-under-pressure))
+- 2015 Freedom in the World – Discarding democracy: Return to the iron fist ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2015_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/01152015_FIW_2015_final.pdf), [web](https://freedomhouse.org/report/freedom-world/2015/discarding-democracy-return-iron-fi)
+- 2014 Freedom in the World – The democratic leadership gap ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2014_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2014_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2014/democratic-leadership-gap))
+- 2013 Freedom in the World – Democratic breakthroughs in the balance ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2013_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2013_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2013/democratic-breakthroughs-balance))
+- 2012 Freedom in the World – The Arab uprisings and their global repercussions ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2012_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2012_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2012/arab-uprisings-and-their-global-repercussions))
+- 2011 Freedom in the World – The authoritarian challenge to democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2011_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2011_Report_PDF.pdf), [web](https://freedomhouse.org/report/freedom-world/2011/authoritarian-challenge-democracy))
+- 2010 Freedom in the World – Global erosion of freedom ([full](https://freedomhouse.org/sites/default/files/2020-03/FIW_2010_Complete_Book_Scan.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2010_Overview_Essay.pdf), [web](https://freedomhouse.org/report/freedom-world/2010/global-erosion-freedom))
+- 2009 Freedom in the World – Setbacks and Resilience ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2009_complete_book.pdf))
+- 2008 Freedom in the World – Freedom in retreat: Is the tide turning? ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2008_complete_book.pdf))
+- 2007 Freedom in the World – Freedom stagnation amid pushback against democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2007_complete_book.pdf))
+- 2006 Freedom in the World – Middle East progress amid global gains ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2006_complete_book.pdf), [summary](http://faculty.nps.edu/relooney/00_New_175.pdf))
+- 2005 Freedom in the World – Civic power and electoral politics ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2005_complete_book.pdf), [summary](https://reliefweb.int/sites/reliefweb.int/files/resources/75CE2198B0E92B49C1256FC800491066-Freedom_World_Civic_Power_Elect_Pol_Mar_2005.pdf))
+- 2004 Freedom in the World – Gains for freedom amid terror and uncertainty ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2004_complete_book.pdf))
+- 2003 Freedom in the World – Liberty's expansion in a turbulent world: Thirty years of the Survey of Freedom ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2003_complete_book.pdf))
+- 2001/02 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2001-2002_complete_book.pdf))
+- 2000/01 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2000-2001_complete_book.pdf))
+- 1999/00 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1999-2000_complete_book.pdf))
+- 1998/99 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1998-1999_complete_book.pdf))
+- 1997/98 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1997-1998_complete_book.pdf))
+- 1996/97 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1996-1997_complete_book.pdf))
+- 1995/96 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1995-1996_complete_book.pdf))
+- 1994/95 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1994-1995_complete_book.pdf))
+- 1993/94 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1993-1994_complete_book.pdf))
+- 1992/93 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1992-1993_complete_book.pdf))
+- 1991/92 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1991-1992_complete_book.pdf))
+- 1990/91 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1990-1991_complete_book.pdf))
+- 1989/90 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1989-1990_complete_book.pdf))
+- 1988/89 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1988-1989_complete_book.pdf))
+- 1987/88 Freedom in the World
+- 1986/87 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1986-1987_complete_book.pdf))
+- 1985/86 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1985-1986_complete_book.pdf))
+- 1984/85 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1984-1985_complete_book.pdf))
+- 1983/84 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1983-1984_complete_book.pdf))
+- 1982 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1982_complete_book.pdf))
+- 1981 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1981_complete_book.pdf))
+- 1980 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1980_complete_book.pdf))
+- 1979 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1979_complete_book.pdf))
+- 1978 Freedom in the World ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_1978_complete_book.pdf))
+
+
+
+## Freedom on the Net
+
+> Freedom House ([source](https://freedomhouse.org/report/freedom-net))
+
+- 2019 Freedom on the Net – The crisis of social media ([summary](https://freedomhouse.org/sites/default/files/2019-11/11042019_Report_FH_FOTN_2019_final_Public_Download.pdf), [web](https://freedomhouse.org/report/freedom-net/2019/crisis-social-media))
+- 2018 Freedom on the Net – The rise of digital authoritarianism ([summary](https://freedomhouse.org/sites/default/files/2020-02/10192018_FOTN_2018_Final_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-net/2018/rise-digital-authoritarianism))
+- 2017 Freedom on the Net – Manipulating social media to undermine democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_on_the_Net_2017_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2017_Final_compressed.pdf), [web](https://freedomhouse.org/report/freedom-net/2017/manipulating-social-media-undermine-democracy))
+- 2016 Freedom on the Net – Silencing the messenger: Communication apps under pressure ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_on_the_Net_2016_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2016_BOOKLET_FINAL.pdf), [web](https://freedomhouse.org/report/freedom-net/2016/silencing-messenger-communication-apps-under-pressure))
+- 2015 Freedom on the Net – Privatizing censorship, eroding privacy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_on_the_Net_2015_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FOTN_2015Report_OverviewEssayFinal.pdf), [web](https://freedomhouse.org/report/freedom-net/2015/privatizing-censorship-eroding-privacy))
+- 2014 Freedom on the Net – Tightening the net: Governments expand online controls ([full](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2014_Full_Report_compressedv2.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2014_Summary_Findings.pdf), [web](https://freedomhouse.org/report/freedom-net/2014/tightening-net-governments-expand-online-controls))
+- 2013 Freedom on the Net – Despite pushback, internet freedom deteriorates ([full](https://freedomhouse.org/sites/default/files/2020-02/FOTN%202013_Full%20Report.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2013_Summary_Findings.pdf), [web](https://freedomhouse.org/report/freedom-net/2013/despite-pushback-internet-freedom-deteriorates))
+- 2012 Freedom on the Net – Evolving tactics of internet control ([full](https://freedomhouse.org/sites/default/files/2020-02/FOTN%202012%20-%20Full%20Report.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2012_Summary_Findings.pdf), [web](https://freedomhouse.org/report/freedom-net/2012/evolving-tactics-internet-control))
+- 2011 Freedom on the Net – New technologies, innovative repression ([full](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2011_Booklet.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2011_Summary_Findings.pdf), [web](https://freedomhouse.org/report/freedom-net/2011/new-technologies-innovative-repression))
+- 2010 n/a
+- 2009 Freedom on the Net – Access and control: A growing diversity of threats to internet freedom ([full](https://freedomhouse.org/sites/default/files/2020-02/FOTN_Freedom_OnThe%20Net_Full%20Report_2009.pdf))
 
 
 
