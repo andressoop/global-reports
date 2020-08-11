@@ -5,9 +5,11 @@
 
 - [A World at Risk](#a-world-at-risk)
 - [Brown to Green Report](#brown-to-green-report)
+- [Commodities and Development Report](#commodities-and-development-report)
 - [Connecting to Compete](#connecting-to-compete)
 - [Corruption Perceptions Index](#corruption-perceptions-index)
 - [Death Sentences and Executions](#death-sentences-and-executions)
+- [Digital Economy Report](#digital-economy-report)
 - [Doing Business](#doing-business)
 - [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
 - [E-Government Survey](#e-government-survey)
@@ -32,11 +34,14 @@
 - [Paying Taxes](#paying-taxes)
 - [Postal Development Report](#postal-development-report)
 - [Re|Shaping Cultural Policies](#reshaping-cultural-policies)
+- [Review of Maritime Transport](#review-of-maritime-transport)
 - [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
+- [Technology and Innovation Report](#technology-and-innovation-report)
 - [The Future of Jobs Report](#the-future-of-jobs-report)
 - [The Global Competitiveness Report](#the-global-competitiveness-report)
 - [The Global Enabling Trade Report](#the-global-enabling-trade-report)
 - [The Global Risks Report](#the-global-risks-report)
+- [The Least Developed Countries Report](#the-least-developed-countries-report)
 - [The State of Artistic Freedom](#the-state-of-artistic-freedom)
 - [The State of the World's Human Rights](#the-state-of-the-worlds-human-rights)
 - [The Sustainable Development Goals Report](#the-sustainable-development-goals-report)
@@ -50,6 +55,7 @@
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
 - [World Employment and Social Outlook](#world-employment-and-social-outlook)
 - [World Energy Outlook](#world-energy-outlook)
+- [World Investment Report](#world-investment-report)
 - [World Public Sector Report](#world-public-sector-report)
 - [World Social Protection Report](#world-social-protection-report)
 - [World Social Report](#world-social-report)
@@ -77,6 +83,17 @@
 - 2017 Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2017/07/Brown-to-Green-Report-2017_web.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2017))
 - 2016 Brown to Green Report – Assessing the G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2016/09/Brown-to-Green-Assessing-the-G20-transition-to-a-low-carbon-economy.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2016))
 - 2015 Brown to Green Report – G20 climate action: a turning point? ([full](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_FullReport_2015.pdf), [summary](https://www.climate-transparency.org/wp-content/uploads/2016/02/ClimTransp_Summary_2015.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2015))
+
+
+
+## Commodities and Development Report
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/SUC/Commodities/Commodities-Strategic-Reports.aspx))
+
+- 2019 Commodities and Development Report – Commodity dependence, climate change and the Paris Agreement ([full](https://unctad.org/en/PublicationsLibrary/ditccom2019d3_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2499))
+- 2017 Commodities and Development Report – Commodity markets, economic growth and development ([full](https://unctad.org/en/PublicationsLibrary/suc2017d1_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/suc2017d1_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1916))
+- 2015 Commodities and Development Report – Smallholder farmers and sustainable commodity development ([full](https://unctad.org/en/PublicationsLibrary/suc2014d5_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1431))
+- 2012 Commodities and Development Report – Perennial problems, new challenges and evolving perspectives ([full](https://unctad.org/en/PublicationsLibrary/suc2011d9_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/suc2011d9_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=503))
 
 
 
@@ -158,6 +175,24 @@
 - 1993 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/184000/act510011994en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1994/en/))
 - 1992 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/192000/act510011993en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1993/en/))
 - 1991 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/196000/act510011992en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1992/en/))
+
+
+
+## Digital Economy Report
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/DTL/STI_and_ICTs/ICT4D-Report.aspx))
+
+- 2019 Digital Economy Report – Value creation and capture: Implications for developing countries ([full](https://unctad.org/en/PublicationsLibrary/der2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/der2019_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2466))
+- 2017 Information Economy Report – Digitalization, trade and development ([full](https://unctad.org/en/PublicationsLibrary/ier2017_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ier2017_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1872))
+- 2015 Information Economy Report – Unlocking the potential of e-commerce for developing countries ([full](https://unctad.org/en/PublicationsLibrary/ier2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ier2015overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1146))
+- 2013 Information Economy Report – The cloud economy and developing countries ([full](https://unctad.org/en/PublicationsLibrary/ier2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ier2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=710))
+- 2012 Information Economy Report – The software industry and developing countries ([full](https://unctad.org/en/PublicationsLibrary/ier2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ier2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=271))
+- 2011 Information Economy Report – ICTs as an enabler for private sector development ([full](https://unctad.org/en/PublicationsLibrary/ier2011_en.pdf), [summary](https://unctad.org/en/Docs/ier2011overview_en.pdf))
+- 2010 Information Economy Report – ICTs, enterprises and poverty alleviation ([full](https://unctad.org/en/Docs/ier2010_en.pdf), [summary](https://unctad.org/en/Docs/ier2010overview_embargo2010_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1575))
+- 2009 Information Economy Report – Trends and outlook in turbulent times ([full](https://unctad.org/en/Docs/ier2009_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1574))
+- 2007/2008 Information Economy Report – Science and technology for development: The new paradigm of ICT ([full](https://unctad.org/en/Docs/sdteecb20071_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20071overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1563))
+- 2006 Information Economy Report – The development perspective ([full](https://unctad.org/en/Docs/sdteecb20061_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20061overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1549))
+- 2005 Information Economy Report – ([full](https://unctad.org/en/Docs/sdteedc20051_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20051overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1540))
 
 
 
@@ -568,6 +603,65 @@
 
 
 
+## Review of Maritime Transport
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/Review-of-Maritime-Transport-(Series).aspx))
+
+- 2019 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2019_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2019fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2563))
+- 2018 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2018_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2018fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2245))
+  - 50 years of Review of Maritime Transport – Reflecting on the past, exploring the future ([full](https://unctad.org/en/PublicationsLibrary/dtl2018d1_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2289))
+- 2017 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2017_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2017fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1890))
+- 2016 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2016_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2016fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1650))
+- 2015 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2015_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2015Esummary_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1374))
+- 2014 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2014_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2014fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1068))
+- 2013 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2013_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=753))
+- 2012 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2012_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=380))
+- 2011 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2011_en.pdf), [summary](https://unctad.org/en/Docs/rmt2011fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1734))
+- 2010 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2010_en.pdf), [summary](https://unctad.org/en/Docs/rmt2010fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1708))
+- 2009 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2009_en.pdf), [summary](https://unctad.org/en/Docs/rmt2009fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1696))
+- 2008 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2008_en.pdf), [summary](https://unctad.org/en/Docs/rmt2008fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1686))
+- 2007 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2007_en.pdf), [summary](https://unctad.org/en/Docs/rmt2007fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1676))
+- 2006 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2006_en.pdf), [summary](https://unctad.org/en/Docs/rmt2006fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1666))
+- 2005 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2005_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1656))
+- 2004 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2004_en.pdf), [summary](https://unctad.org/en/Docs/rmt2004fas_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1647))
+- 2003 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2003_en.pdf), [summary](https://unctad.org/en/Docs/rmt2003summary_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1637))
+- 2002 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2002_en.pdf), [summary](https://unctad.org/en/Docs/rmt2002summary_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1628))
+- 2001 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2001_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1618))
+- 2000 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2000_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1609))
+- 1999 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt1999_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1601))
+- 1998 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt1998_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1592))
+- 1997 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt1997_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1583))
+- 1996 n/a
+- 1995 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1995_en.pdf))
+- 1994 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1994_en.pdf))
+- 1993 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1993_en.pdf))
+- 1992 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1992_en.pdf))
+- 1991 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1991_en.pdf))
+- 1990 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1990_en.pdf))
+- 1989 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1989_en.pdf))
+- 1988 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1988_en.pdf))
+- 1987 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1987_en.pdf))
+- 1986 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1986_en.pdf))
+- 1985 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1985_en.pdf))
+- 1984 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1984_en.pdf))
+- 1983 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1983_en.pdf))
+- 1982 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1982_en.pdf))
+- 1981 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1981_en.pdf))
+- 1980 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1980_en.pdf))
+- 1979 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/tdbc4d198rev1_rmt_en.pdf))
+- 1978 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1978_en.pdf))
+- 1977 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1977_en.pdf))
+- 1976 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1976_en.pdf))
+- 1975 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1975_en.pdf))
+- 1974 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1974_en.pdf))
+- 1972/1973 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1972-73_en.pdf))
+- 1971 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1971_en.pdf))
+- 1970 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1970_en.pdf))
+- 1969 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/tdbc4d66_rmt_en.pdf))
+- 1968 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt1968_en.pdf))
+
+
+
 ## State and Trends of Carbon Pricing
 
 > World Bank Group ([source](https://openknowledge.worldbank.org/handle/10986/13334))
@@ -590,6 +684,18 @@
 - 2005 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13411/332360CarbonMarketStudy2005.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13411))
 - 2004 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/7457/343880PAPER0Ca101OFFICIAL0USE0ONLY1.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/7457))
 - 2003 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13416/36010.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13416))
+
+
+
+## Technology and Innovation Report
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/pages/publications/Technology-Innovation-Report.aspx))
+
+- 2018 Technology and Innovation Report – Harnessing frontier technologies for sustainable development ([full](https://unctad.org/en/PublicationsLibrary/tir2018_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tir2018overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2110))
+- 2015 Technology and Innovation Report – Fostering innovation policies for industrial development ([full](https://unctad.org/en/PublicationsLibrary/tir2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tir2015overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1416))
+- 2012 Technology and Innovation Report – Innovation, technology and South-South collaboration ([full](https://unctad.org/en/PublicationsLibrary/tir2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/tir2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=253))
+- 2011 Technology and Innovation Report – Powering development with renewable energy technologies ([full](https://unctad.org/en/Docs/tir2011_en.pdf), [summary](https://unctad.org/en/Docs/tir2011overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1770))
+- 2010 Technology and Innovation Report – Enhancing food security in Africa through science, technology and innovation ([full](https://unctad.org/en/Docs/tir2009_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1769))
 
 
 
@@ -655,6 +761,38 @@
 - 2008 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2008.pdf))
 - 2007 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2007.pdf))
 - 2006 Global Risks ([full](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2006.pdf))
+
+
+
+## The Least Developed Countries Report
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/TheLeastDevelopedCountriesReport.aspx))
+
+- 2019 The Least Developed Countries Report – The present and future of external development finance: Old dependence, new challenges ([full](https://unctad.org/en/PublicationsLibrary/ldcr2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2019overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2571))
+- 2018 The Least Developed Countries Report – Entrepreneurship for structural transformation: Beyond business as usual ([full](https://unctad.org/en/PublicationsLibrary/ldcr2018_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2018overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2280))
+- 2017 The Least Developed Countries Report – Transformational energy access ([full](https://unctad.org/en/PublicationsLibrary/ldcr2017_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2017overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1902))
+- 2016 The Least Developed Countries Report – The path to graduation and beyond: Making the most of the process ([full](https://unctad.org/en/PublicationsLibrary/ldc2016_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2016overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1664))
+- 2015 The Least Developed Countries Report – Transforming rural economies ([full](https://unctad.org/en/PublicationsLibrary/ldc2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2015overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1393))
+- 2014 The Least Developed Countries Report – Growth with structural transformation: A post-2015 development agenda ([full](https://unctad.org/en/PublicationsLibrary/ldc2014_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2014overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1067))
+- 2013 The Least Developed Countries Report – Growth with employment for inclusive and sustainable development ([full](https://unctad.org/en/PublicationsLibrary/ldc2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=700))
+- 2012 The Least Developed Countries Report – Harnessing remittances and diaspora knowledge to build productive capacities ([full](https://unctad.org/en/PublicationsLibrary/ldc2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=249))
+- 2011 The Least Developed Countries Report – The potential role of South-South cooperation for inclusive and sustainable development ([full](https://unctad.org/en/Docs/ldc2011_en.pdf), [summary](https://unctad.org/en/Docs/ldc2011overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=188))
+- 2010 The Least Developed Countries Report – Towards a new international development architecture for LDCs ([full](https://unctad.org/en/Docs/ldc2010_en.pdf), [summary](https://unctad.org/en/Docs/ldc2010overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=175))
+- 2009 The Least Developed Countries Report – The state and development governance ([full](https://unctad.org/en/Docs/ldc2009_en.pdf), [summary](https://unctad.org/en/Docs/ldc2009overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=173))
+- 2008 The Least Developed Countries Report – Growth, poverty and the terms of development partnership ([full](https://unctad.org/en/Docs/ldc2008_en.pdf), [summary](https://unctad.org/en/Docs/ldc2008overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=166))
+- 2007 The Least Developed Countries Report – Knowledge, technological learning and innovation for development ([full](https://unctad.org/en/Docs/ldc2007_en.pdf), [summary](https://unctad.org/en/Docs/ldc2007overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=158))
+- 2006 The Least Developed Countries Report – Developing productive capacities ([full](https://unctad.org/en/Docs/ldc2006_en.pdf), [summary](https://unctad.org/en/Docs/ldc2006overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=145))
+- 2005 n/a
+- 2004 The Least Developed Countries Report – Linking international trade with poverty reduction ([full](https://unctad.org/en/Docs/ldc2004_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=132))
+- 2003 n/a
+- 2002 The Least Developed Countries Report – Escaping the poverty trap ([full](https://unctad.org/en/Docs/ldc2002_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=121))
+- 2001 n/a
+- 2000 The Least Developed Countries Report – Aid, private capital flows and external debt: The challenge of financing development in the LDCs ([full](https://unctad.org/en/Docs/ldc2000_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=119))
+- 1999 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1999_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=117))
+- 1998 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1998_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=115))
+- 1997 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1997_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=113))
+- 1996 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1996_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=109))
+- 1995 The Least Developed Countries Report ([summary](https://unctad.org/en/Docs/tb41(2)d4.en.pdf))
 
 
 
@@ -1004,6 +1142,43 @@
 - 2007 World Energy Outlook ([web](https://webstore.iea.org/world-energy-outlook-2007))
   - Focus on Energy Poverty ([web](https://webstore.iea.org/weo-2007-special-report-focus-on-energy-poverty))
 - 2006 World Energy Outlook ([web](https://webstore.iea.org/world-energy-outlook-2006))
+
+
+
+## World Investment Report
+
+> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/DIAE/World%20Investment%20Report/World_Investment_Report.aspx))
+
+- 2020 World Investment Report – International production beyond the pandemic ([full](https://unctad.org/en/PublicationsLibrary/wir2020_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2020_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2769))
+- 2019 World Investment Report – Special economic zones ([full](https://unctad.org/en/PublicationsLibrary/wir2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2019_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2460))
+- 2018 World Investment Report – Investment and new industrial policies ([full](https://unctad.org/en/PublicationsLibrary/wir2018_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2018_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2130))
+- 2017 World Investment Report – Investment and the digital economy ([full](https://unctad.org/en/PublicationsLibrary/wir2017_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2017_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1782))
+- 2016 World Investment Report – Investor nationality: Policy challenges ([full](https://unctad.org/en/PublicationsLibrary/wir2016_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2016_Overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1555))
+- 2015 World Investment Report – Reforming international investment governance ([full](https://unctad.org/en/PublicationsLibrary/wir2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2015_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1245))
+- 2014 World Investment Report – Investing in the SDGs: An action plan ([full](https://unctad.org/en/PublicationsLibrary/wir2014_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2014_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=937))
+- 2013 World Investment Report – Global value chains: Investment and trade for development ([full](https://unctad.org/en/PublicationsLibrary/wir2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=588))
+- 2012 World Investment Report – Towards a new generation of investment policies ([full](https://unctad.org/en/PublicationsLibrary/wir2012_embargoed_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=171))
+- 2011 World Investment Report – Non-equity modes of international production and development ([full](https://unctad.org/en/PublicationsLibrary/wir2011_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wir2011overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=84))
+- 2010 World Investment Report – Investing in a low-carbon economy ([full](https://unctad.org/en/Docs/wir2010_en.pdf), [summary](https://unctad.org/en/Docs/wir2010overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=753))
+- 2009 World Investment Report – Transnational corporations, agricultural production and development ([full](https://unctad.org/en/Docs/wir2009_en.pdf), [summary](https://unctad.org/en/Docs/wir2009overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=743))
+- 2008 World Investment Report – Transnational corporations and the infrastructure challenge ([full](https://unctad.org/en/Docs/wir2008_en.pdf), [summary](https://unctad.org/en/Docs/wir2008overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=732))
+- 2007 World Investment Report – Transnational corporations, extractive industries and development ([full](https://unctad.org/en/Docs/wir2007_en.pdf), [summary](https://unctad.org/en/Docs/wir2007overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=724))
+- 2006 World Investment Report – FDI from developing and transition economies: Implications for development ([full](https://unctad.org/en/Docs/wir2006_en.pdf), [summary](https://unctad.org/en/Docs/wir2006overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=709))
+- 2005 World Investment Report – Transnational corporations and the internationalization of R&D ([full](https://unctad.org/en/Docs/wir2005_en.pdf), [summary](https://unctad.org/en/Docs/wir2005overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=693))
+- 2004 World Investment Report – The shift towards services ([full](https://unctad.org/en/Docs/wir2004_en.pdf), [summary](https://unctad.org/en/Docs/wir2004overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=680))
+- 2003 World Investment Report – FDI policies for development: National and international perspectives ([full](https://unctad.org/en/Docs/wir2003_en.pdf), [summary](https://unctad.org/en/Docs/wir2003overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=669))
+- 2002 World Investment Report – Transnational corporations and export competitiveness ([full](https://unctad.org/en/Docs/wir2002_en.pdf), [summary](https://unctad.org/en/Docs/wir2002overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=658))
+- 2001 World Investment Report – Promoting linkages ([full](https://unctad.org/en/Docs/wir2001_en.pdf), [summary](https://unctad.org/en/Docs/wir2001overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=656))
+- 2000 World Investment Report – Cross-border mergers and acquisitions and development ([full](https://unctad.org/en/Docs/wir2000_en.pdf), [summary](https://unctad.org/en/Docs/wir2000overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=654))
+- 1999 World Investment Report – Foreign direct investment and the challenge of development ([full](https://unctad.org/en/Docs/wir1999_en.pdf), [summary](https://unctad.org/en/Docs/wir1999overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=652))
+- 1998 World Investment Report – Trends and determinants ([full](https://unctad.org/en/Docs/wir1998_en.pdf), [summary](https://unctad.org/en/Docs/wir1998overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=650))
+- 1997 World Investment Report – Transnational corporations, market structure and competition policy ([full](https://unctad.org/en/Docs/wir1997_en.pdf), [summary](https://unctad.org/en/Docs/wir1997overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=648))
+- 1996 World Investment Report – Investment, trade and international policy agreements ([full](https://unctad.org/en/Docs/wir1996_en.pdf), [summary](https://unctad.org/en/Docs/wir1996overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=646))
+- 1995 World Investment Report – Transnational corporations and competitiveness ([full](https://unctad.org/en/Docs/wir1995_en.pdf), [summary](https://unctad.org/en/Docs/wir1995overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=644))
+- 1994 World Investment Report – Transnational corporations, employment and the workplace ([full](https://unctad.org/en/Docs/wir1994_en.pdf), [summary](https://unctad.org/en/Docs/wir1994overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=642))
+- 1993 World Investment Report – Transnational corporations and integrated international production ([full](https://unctad.org/en/Docs/wir1993_en.pdf), [summary](https://unctad.org/en/Docs/wir1993overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=640))
+- 1992 World Investment Report – Transnational corporations as engines of growth ([full](https://unctad.org/en/Docs/wir1992_en.pdf), [summary](https://unctad.org/en/Docs/wir1992overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=623))
+- 1991 World Investment Report – The Triad in foreign direct investment ([full](https://unctad.org/en/Docs/wir1991overview_en.pdf), summary, [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=622))
 
 
 
