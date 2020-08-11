@@ -18,6 +18,7 @@
 - [Energy Progress Report](#energy-progress-report)
 - [Energy Technology Perspectives](#energy-technology-perspectives)
 - [Environmental Performance Index](#environmental-performance-index)
+- [External Sector Report](#external-sector-report)
 - [Financing for Sustainable Development Report](#financing-for-sustainable-development-report)
 - [Frontiers](#frontiers)
 - [Global Catastrophic Risks](#global-catastrophic-risks)
@@ -336,6 +337,22 @@
 - 2010 Environmental Performance Index ([full](http://www.ciesin.org/documents/EPI_2010_report.pdf), [summary](http://ciesin.columbia.edu/repository/epi/data/2010EPI_summary.pdf), [web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2010))
 - 2008 Environmental Performance Index ([full](http://www.sustentabilidad.uai.edu.ar/pdf/negocios/2008EPI_Text.pdf), [web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2008))
 - 2006 Environmental Performance Index ([full](http://ciesin.columbia.edu/repository/epi/data/2006EPI_Report_Full.pdf), [web](https://sedac.ciesin.columbia.edu/data/set/epi-pilot-environmental-performance-index-2006))
+
+
+
+## External Sector Report
+
+> International Monetary Fund ([source](https://www.imf.org/en/Publications/SPROLLs/External-Sector-Reports#sort=%40imfdate%20descending))
+
+- 2020 External Sector Report – Global imbalances and the COVID-19 crisis ([full](https://www.imf.org/~/media/Files/Publications/ESR/2020/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/ESR/2020/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/ESR/Issues/2020/07/28/2020-external-sector-report))
+- 2019 External Sector Report – The dynamics of external adjustment ([full](https://www.imf.org/~/media/Files/Publications/ESR/2019/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/ESR/2019/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/ESR/Issues/2019/07/03/2019-external-sector-report))
+- 2018 External Sector Report – Tackling global imbalances amid rising trade tensions ([full](https://www.imf.org/~/media/Files/Publications/ESR/2018/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/ESR/2018/esr-summingup.ashx?la=en), [web](https://www.imf.org/en/Publications/ESR/Issues/2018/07/19/2018-external-sector-report))
+- 2017 External Sector Report ([full](https://www.imf.org/~/media/Files/Publications/PP/2017/2017-external-sector-report.ashx), [web](https://www.imf.org/en/Publications/Policy-Papers/Issues/2017/07/27/2017-external-sector-report))
+- 2016 External Sector Report ([full](https://www.imf.org/~/media/Websites/IMF/imported-full-text-pdf/external/np/pp/eng/2016/_072716.ashx), [web](https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/2016-External-Sector-Report-PP5057))
+- 2015 External Sector Report ([full](https://www.imf.org/~/media/Websites/IMF/imported-full-text-pdf/external/np/pp/eng/2015/_062615.ashx), [web](https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/2015-External-Sector-Report-PP4972))
+- 2014 External Sector Report ([full](https://www.imf.org/~/media/Websites/IMF/imported-full-text-pdf/external/np/pp/eng/2014/_062614.ashx), [web](https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/2014-Pilot-External-Sector-Report-PP4879))
+- 2013 External Sector Report ([full](https://www.imf.org/~/media/Websites/IMF/imported-full-text-pdf/external/np/pp/eng/2013/_062013.ashx), [web](https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/2013-Pilot-External-Sector-Report-PP4789))
+- 2012 External Sector Report ([full](https://www.imf.org/~/media/Websites/IMF/imported-full-text-pdf/external/np/pp/eng/2012/_070212.ashx), [web](https://www.imf.org/en/Publications/Policy-Papers/Issues/2016/12/31/Pilot-External-Sector-Report-PP4674))
 
 
 
