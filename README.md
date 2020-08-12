@@ -50,6 +50,7 @@
 - [Technology and Innovation Report](#technology-and-innovation-report)
 - [The Future of Jobs Report](#the-future-of-jobs-report)
 - [The Global Competitiveness Report](#the-global-competitiveness-report)
+- [The Global E-waste Monitor](#the-global-e-waste-monitor)
 - [The Global Enabling Trade Report](#the-global-enabling-trade-report)
 - [The Global Risks Report](#the-global-risks-report)
 - [The Least Developed Countries Report](#the-least-developed-countries-report)
@@ -950,6 +951,16 @@
 - 2010/11 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2010-11.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2010-2011))
 - 2009/10 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2009-10.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2009-2010))
 - 2008/09 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_GlobalCompetitivenessReport_2008-09.pdf), [web](https://www.weforum.org/reports/global-competitiveness-report-2008-2009))
+
+
+
+## The Global E-waste Monitor
+
+> United Nations University, United Nations Institute for Training and Research, International Telecommunication Union, International Solid Waste Association ([source](http://ewastemonitor.info/download-2020/))
+
+- 2020 The Global E-waste Monitor – Quantities, flows, and the circular economy potential ([full](http://ewastemonitor.info/wp-content/uploads/2020/07/GEM_2020_def_july1_low.pdf), [summary](http://ewastemonitor.info/wp-content/uploads/2020/06/GEM_2020_Executive_summery.pdf), [web](http://ewastemonitor.info/))
+- 2017 The Global E-waste Monitor – Quantities, flows, and resources ([full](https://collections.unu.edu/eserv/UNU:6341/Global-E-waste_Monitor_2017__electronic_single_pages_.pdf), [summary](http://ewastemonitor.info/wp-content/uploads/2017/12/Global-E-waste-Monitor-2017-electronic-spreads_Executive_Summery_4_7.pdf), [web](http://ewastemonitor.info/home-new-with-more-news/))
+- 2014 The Global E-waste Monitor – Quantities, flows and resources ([full](https://i.unu.edu/media/unu.edu/news/52624/UNU-1stGlobal-E-Waste-Monitor-2014-small.pdf), [summary](http://ewastemonitor.info/pdf/samplechaptersglobal/summary.pdf), [web](http://ewastemonitor.info/download/global-e-waste-monitor/))
 
 
 
