@@ -55,8 +55,13 @@
 - [The Global Enabling Trade Report](#the-global-enabling-trade-report)
 - [The Global Risks Report](#the-global-risks-report)
 - [The Least Developed Countries Report](#the-least-developed-countries-report)
+- [The State of Agricultural Commodity Markets](#the-state-of-agricultural-commodity-markets)
 - [The State of Artistic Freedom](#the-state-of-artistic-freedom)
+- [The State of Food and Agriculture](#the-state-of-food-and-agriculture)
+- [The State of Food Security and Nutrition](#the-state-of-food-security-and-nutrition)
 - [The State of the World's Human Rights](#the-state-of-the-worlds-human-rights)
+- [The State of the World’s Forests](#the-state-of-the-worlds-forests)
+- [The State of World Fisheries and Aquaculture](#the-state-of-world-fisheries-and-aquaculture)
 - [The Sustainable Development Goals Report](#the-sustainable-development-goals-report)
 - [The Travel & Tourism Competitiveness Report](#the-travel--tourism-competitiveness-report)
 - [The World's Women](#the-worlds-women)
@@ -1050,6 +1055,18 @@
 
 
 
+## The State of Agricultural Commodity Markets
+
+> Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/soco/en/))
+
+- 2018 The State of Agricultural Commodity Markets – Agricultural trade, climate change and food security ([full](http://www.fao.org/3/I9542EN/i9542en.pdf), [summary](http://www.fao.org/3/CA1364EN/ca1364en.pdf), [web](http://www.fao.org/documents/card/en/c/I9542EN))
+- 2015/16 The State of Agricultural Commodity Markets – Trade and food security: Achieving a better balance between national priorities and the collective good ([full](http://www.fao.org/3/a-i5090e.pdf), [summary](http://www.fao.org/3/a-i5129e.pdf), [web](http://www.fao.org/publications/soco/the-state-of-agricultural-commodity-markets-2015-16/en/))
+- 2009 The State of Agricultural Commodity Markets – High food prices and the food crisis: Experiences and lessons learned ([full](http://www.fao.org/3/i0854e/i0854e.pdf), [summary](http://www.fao.org/3/i0854e/i0854e00.pdf), [web](http://www.fao.org/publications/card/en/c/b1a1ad94-3fff-5e79-8437-e0d1fd7ab7cb/))
+- 2006 The State of Agricultural Commodity Markets ([full](http://www.fao.org/3/a-a0950e.pdf), [web](http://www.fao.org/publications/card/en/c/c4bf2719-f2b2-52fe-9e03-4da948743eea/))
+- 2004 The State of Agricultural Commodity Markets ([full](http://www.fao.org/3/a-y5419e.pdf), [web](http://www.fao.org/publications/card/en/c/16719173-6e53-5ffd-9689-836e6408c3f8/))
+
+
+
 ## The State of Artistic Freedom
 
 > Freemuse ([source](https://freemuse.org/?s=The+State+of+Artistic+Freedom+))
@@ -1057,6 +1074,112 @@
 - 2020 The State of Artistic Freedom ([full](https://dutchculture.nl/sites/default/files/atoms/files/state-of-artistic-freedom-2020.pdf), [web](https://freemuse.org/resources/%item_category%/state-of-artistic-freedom-2020-freemuse/))
 - 2019 The State of Artistic Freedom – Whose narratives count? ([full](https://freemuse.org/wp-content/uploads/2019/03/saf-2019-online.pdf), [web](https://freemuse.org/resources/item/the-state-of-artistic-freedom-2019/))
 - 2018 The State of Artistic Freedom ([full](https://freemuse.org/wp-content/uploads/2018/05/Freemuse-The-state-of-artistic-freedom-2018-online-version.pdf), [web](https://freemuse.org/resources/item/state-artistic-freedom-2018/))
+
+
+
+## The State of Food and Agriculture
+
+> Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofa/en/))
+
+- 2019 The State of Food and Agriculture – Moving forward on food loss and waste reduction ([full](http://www.fao.org/3/ca6030en/ca6030en.pdf), [summary](http://www.fao.org/3/ca6122en/ca6122en.pdf), [web](http://www.fao.org/state-of-food-agriculture/en/))
+- 2018 The State of Food and Agriculture – Migration, agriculture and rural development ([full](http://www.fao.org/3/I9549EN/i9549en.pdf), [summary](http://www.fao.org/3/CA1554EN/ca1554en.pdf), [web](http://www.fao.org/state-of-food-agriculture/2018/en/))
+- 2017 The State of Food and Agriculture – Leveraging food systems for inclusive rural transformations ([full](http://www.fao.org/3/a-i7658e.pdf), [summary](http://www.fao.org/3/a-i7833en.pdf), [web](http://www.fao.org/state-of-food-agriculture/2017/en/))
+- 2016 The State of Food and Agriculture – Climate change, agriculture and food security ([full](http://www.fao.org/3/a-i6030e.pdf), [summary](http://www.fao.org/3/a-i6132e.pdf), [web](http://www.fao.org/publications/sofa/2016/en/))
+- 2015 The State of Food and Agriculture – Social protection and agriculture: Breaking the cycle of rural poverty ([full](http://www.fao.org/3/a-i4910e.pdf), [summary](http://www.fao.org/3/a-i4953e.pdf), [web](http://www.fao.org/publications/sofa/2015/en/))
+- 2014 The State of Food and Agriculture – Innovation in family farming ([full](http://www.fao.org/3/a-i4040e.pdf), [summary](http://www.fao.org/3/a-i4036e.pdf), [web](http://www.fao.org/publications/sofa/2014/en/))
+- 2013 The State of Food and Agriculture – Food systems for better nutrition ([full](http://www.fao.org/3/i3300e/i3300e.pdf), [summary](http://www.fao.org/3/i3301e/i3301e.pdf), [web](http://www.fao.org/publications/sofa/2013/en/))
+- 2012 The State of Food and Agriculture – Investing in agriculture for a better future ([full](http://www.fao.org/3/i3028e/i3028e.pdf), [summary](http://www.fao.org/3/i2885e/i2885e00.pdf), [web](http://www.fao.org/publications/sofa/2012/en/))
+- 2010/11 The State of Food and Agriculture – Women in agriculture: Closing the gender gap for development ([full](http://www.fao.org/3/i2050e/i2050e.pdf), [summary](http://www.fao.org/3/i2050e/i2082e00.pdf), [web](http://www.fao.org/publications/sofa/2010-11/en/))
+- 2009 The State of Food and Agriculture – Livestock in the balance ([full](http://www.fao.org/3/i0680e/i0680e.pdf), [summary](http://www.fao.org/fileadmin/user_upload/sofa/docs/SOFA2009_En.pdf), [web](http://www.fao.org/publications/sofa/2009/en/))
+- 2008 The State of Food and Agriculture – Biofuels: Prospects, risks and opportunities ([full](http://www.fao.org/3/i0100e/i0100e.pdf), [summary](http://www.fao.org/tempref/docrep/fao/011/i0100e/i0290e.pdf), [web](http://www.fao.org/publications/sofa/2008/en/))
+- 2007 The State of Food and Agriculture – Paying farmers for environmental services ([full](http://www.fao.org/3/a1200e/a1200e00.pdf), [summary](http://www.fao.org/tempref/docrep/fao/010/a1200e/a1312e00.pdf), [web](http://www.fao.org/publications/sofa/2007/en/))
+- 2006 The State of Food and Agriculture – Food aid for food security? ([full](http://www.fao.org/3/a0800e/a0800e.pdf), [summary](http://www.fao.org/tempref/docrep/fao/009/a0800e/a0886e.pdf), [web](http://www.fao.org/publications/sofa/2006/en/))
+- 2005 The State of Food and Agriculture – Agricultural trade and poverty: Can trade work for the poor? ([full](http://www.fao.org/3/a0050e/a0050e_full.pdf), [summary](http://www.fao.org/3/a0050e/a0161e.pdf), [web](http://www.fao.org/3/a0050e/a0050e00.htm))
+- 2003/04 The State of Food and Agriculture – Agricultural biotechnology : Meeting the needs of the poor? ([full](http://www.fao.org/tempref/docrep/fao/006/y5160e/y5160e.pdf), [web](http://www.fao.org/3/Y5160E/Y5160E00.htm))
+- 2002 The State of Food and Agriculture – Agriculture and global public goods ten years after the Earth Summit ([full](http://www.fao.org/tempref/agl/AGLW/ESPIM/CD-ROM/documents/2B_e.pdf), [web](http://www.fao.org/3/y6000e/y6000e00.htm))
+- 2001 The State of Food and Agriculture – Economic impacts of transboundary plant pests and animal diseases ([full](http://www.fao.org/3/a-x9800e.pdf), [web](http://www.fao.org/3/x9800e/x9800e00.htm#TopOfPage))
+- 2000 The State of Food and Agriculture – World food and agriculture: Lessons from the past 50 years ([full](http://www.fao.org/3/x4400e/x4400e.pdf))
+- 1999 The State of Food and Agriculture ([full](http://www.fao.org/3/x3150e/x3150e.pdf))
+- 1998 The State of Food and Agriculture – Rural non-farm income in developing countries ([full](http://www.fao.org/3/w9500e/w9500e.pdf))
+- 1997 The State of Food and Agriculture – The agroprocessing industry and economic development ([full](http://www.fao.org/3/a-w5800e.pdf))
+- 1996 The State of Food and Agriculture – Food security: Some macroeconomic dimensions ([full](http://www.fao.org/3/w1358e/w1358e.pdf), [web](http://www.fao.org/3/w1358e/w1358e00.htm))
+- 1995 The State of Food and Agriculture – Agricultural trade: Entering a new era? ([full](http://www.fao.org/3/v6800e/v6800e.pdf))
+- 1994 The State of Food and Agriculture – Forest development and policy dilemmas ([full](http://www.fao.org/3/a-t4450e.pdf))
+- 1993 The State of Food and Agriculture – Water policies and agriculture ([full](http://www.fao.org/3/t0800e/t0800e.pdf), [web](http://www.fao.org/3/t0800e/t0800e00.htm))
+- 1992 The State of Food and Agriculture – Marine fisheries and the law of the sea: A decade of change ([full](http://www.fao.org/3/a-t0656e.pdf))
+- 1991 The State of Food and Agriculture – Agricultural policies and issues: Lessons from the 1980s and prospects for the 1990s ([full](http://www.fao.org/3/a-t0496e.pdf))
+- 1990 The State of Food and Agriculture – Structural adjustment and agriculture ([full](http://www.fao.org/3/a-t0366e.pdf))
+- 1989 The State of Food and Agriculture – Sustainable development and natural resource management ([full](http://www.fao.org/3/a-t0162e.pdf))
+- 1987/88 The State of Food and Agriculture – Changing priorities for agricultural science and technology in developing countries ([full](http://www.fao.org/3/a-ap667e.pdf))
+- 1986 The State of Food and Agriculture – Financing agricultural development ([full](http://www.fao.org/3/a-ap666e.pdf))
+- 1985 The State of Food and Agriculture – Mid-decade review of food and agriculture ([full](http://www.fao.org/3/a-ap665e.pdf))
+- 1984 The State of Food and Agriculture – The ten years since the World Food Conference; Urbanization, agriculture and food systems ([full](http://www.fao.org/3/a-ap664e.pdf))
+- 1983 The State of Food and Agriculture – The situation in Sub-Saharan Africa; Women in developing agriculture ([full](http://www.fao.org/3/a-ap663e.pdf))
+- 1982 The State of Food and Agriculture – Livestock production: A world perspective ([full](http://www.fao.org/3/a-ap662e.pdf))
+- 1981 The State of Food and Agriculture – The least developed countries and World Review; Alleviating rural poverty ([full](http://www.fao.org/3/a-ap661e.pdf))
+- 1980 The State of Food and Agriculture – World food security; World fisheries and the Law of the Sea ([full](http://www.fao.org/3/a-ap660e.pdf))
+- 1979 The State of Food and Agriculture ([full](http://www.fao.org/3/ap659e/ap659e.pdf))
+- 1978 The State of Food and Agriculture ([full](http://www.fao.org/3/ap658e/ap658e.pdf))
+- 1977 The State of Food and Agriculture ([full](http://www.fao.org/3/ap657e/ap657e.pdf))
+- 1976 The State of Food and Agriculture ([full](http://www.fao.org/3/ap656e/ap656e.pdf))
+- 1975 The State of Food and Agriculture ([full](http://www.fao.org/3/h3100e/h3100e.pdf))
+- 1974 The State of Food and Agriculture ([full](http://www.fao.org/3/f3350e/f3350e.pdf))
+- 1973 The State of Food and Agriculture ([full](http://www.fao.org/3/e1900e/e1900e.pdf))
+- 1972 The State of Food and Agriculture ([full](http://www.fao.org/3/c8930e/c8930e.pdf))
+- 1971 The State of Food and Agriculture ([full](http://www.fao.org/3/b6720e/b6720e.pdf))
+- 1970 The State of Food and Agriculture ([full](http://www.fao.org/3/a4700e/a4700e.pdf))
+- 1969 The State of Food and Agriculture ([full](http://www.fao.org/3/89250e/89250e.pdf))
+- 1968 The State of Food and Agriculture ([full](http://www.fao.org/3/74303e/74303e.pdf))
+- 1967 The State of Food and Agriculture ([full](http://www.fao.org/3/ap655e/ap655e.pdf))
+- 1966 The State of Food and Agriculture ([full](http://www.fao.org/3/ap654e/ap654e.pdf))
+- 1965 The State of Food and Agriculture ([full](http://www.fao.org/3/ap653e/ap653e.pdf))
+- 1964 The State of Food and Agriculture ([full](http://www.fao.org/3/ap652e/ap652e.pdf))
+- 1963 The State of Food and Agriculture ([full](http://www.fao.org/3/ap651e/ap651e.pdf))
+- 1962 The State of Food and Agriculture ([full](http://www.fao.org/3/ap650e/ap650e.pdf))
+- 1961 The State of Food and Agriculture ([full](http://www.fao.org/3/ap649e/ap649e.pdf))
+- 1960 The State of Food and Agriculture ([full](http://www.fao.org/3/ap648e/ap648e.pdf))
+- 1959 The State of Food and Agriculture ([full](http://www.fao.org/3/ap647e/ap647e.pdf))
+- 1958 The State of Food and Agriculture ([full](http://www.fao.org/3/ap646e/ap646e.pdf))
+- 1957 The State of Food and Agriculture ([full](http://www.fao.org/3/ap645e/ap645e.pdf))
+- 1956 The State of Food and Agriculture ([full](http://www.fao.org/3/ap644e/ap644e.pdf))
+- 1955 The State of Food and Agriculture ([full](http://www.fao.org/3/ap643e/ap643e.pdf))
+- 1954 The State of Food and Agriculture ([full](http://www.fao.org/3/ap642e/ap642e.pdf))
+- 1953 The State of Food and Agriculture ([full](http://www.fao.org/3/ap641e/ap641e.pdf))
+- 1952 The State of Food and Agriculture ([full](http://www.fao.org/3/ap640e/ap640e.pdf))
+- 1951 The State of Food and Agriculture ([full](http://www.fao.org/3/ap639e/ap639e.pdf))
+- 1950 The State of Food and Agriculture ([full](http://www.fao.org/3/ap638e/ap638e.pdf))
+- 1949 The State of Food and Agriculture ([full](http://www.fao.org/3/ap637e/ap637e.pdf))
+- 1948 The State of Food and Agriculture ([full](http://www.fao.org/3/ap636e/ap636e.pdf))
+- 1947 The State of Food and Agriculture ([full](http://www.fao.org/3/ap635e/ap635e.pdf))
+
+
+
+## The State of Food Security and Nutrition
+
+> Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofi/en/))
+
+- 2020 The State of Food Security and Nutrition – Transforming food systems for affordable healthy diets ([full](http://www.fao.org/3/ca9692en/CA9692EN.pdf), [summary](http://www.fao.org/3/ca9699en/CA9699EN.pdf), [web](http://www.fao.org/3/ca9692en/online/ca9692en.html))
+- 2019 The State of Food Security and Nutrition – Safeguarding against economic slowdowns and downturns ([full](http://www.fao.org/3/ca5162en/ca5162en.pdf), [summary](http://www.fao.org/3/CA5249EN/CA5249EN.pdf), [web](http://www.fao.org/state-of-food-security-nutrition))
+- 2018 The State of Food Security and Nutrition – Building climate resilience for food security and nutrition ([full](http://www.fao.org/3/I9553EN/i9553en.pdf), [summary](http://www.fao.org/3/CA1354EN/ca1354en.pdf), [web](http://www.fao.org/state-of-food-security-nutrition/2018/en))
+- 2017 The State of Food Security and Nutrition – Building resilience for peace and food security ([full](http://www.fao.org/3/a-I7695e.pdf), [summary](http://www.fao.org/3/a-I7787e.pdf), [web](http://www.fao.org/state-of-food-security-nutrition/2017/en))
+- 2016 n/a
+- 2015 The State of Food Insecurity – Meeting the 2015 international hunger targets: Taking stock of uneven progress ([full](http://www.fao.org/3/a-i4646e.pdf), [summary](http://www.fao.org/3/a-i4671e.pdf), [web](http://www.fao.org/publications/sofi/2015/en/))
+- 2014 The State of Food Insecurity – Strengthening the enabling environment for food security and nutrition ([full](http://www.fao.org/3/a-i4030e.pdf), [summary](http://www.fao.org/3/a-i4037e.pdf), [web](http://www.fao.org/publications/sofi/2014/en/))
+- 2013 The State of Food Insecurity – The multiple dimensions of food security ([full](http://www.fao.org/3/a-i3434e.pdf), [summary](http://www.fao.org/3/i3458e/i3458e.pdf), [web](http://www.fao.org/publications/sofi/2013/en/))
+- 2012 The State of Food Insecurity – Economic growth is necessary but not sufficient to accelerate reduction of hunger and malnutrition ([full](http://www.fao.org/3/a-i3027e.pdf), [summary](http://www.fao.org/3/i2845e/i2845e00.pdf), [web](http://www.fao.org/publications/sofi/2012/en/))
+- 2011 The State of Food Insecurity – How does international price volatility affect domestic economies and food security? ([full](http://www.fao.org/3/a-i2330e.pdf), [summary](http://www.fao.org/3/i2330e/i2381e00.pdf), [web](http://www.fao.org/publications/sofi/2011/en/))
+- 2010 The State of Food Insecurity – Addressing food insecurity in protracted crises ([full](http://www.fao.org/3/a-i1683e.pdf), [summary](http://www.fao.org/fileadmin/templates/publications/pdf/i1683e_flyer.pdf), [web](http://www.fao.org/publications/sofi/2010/en/))
+- 2009 The State of Food Insecurity – Economic crises: Impacts and lessons learned ([full](http://www.fao.org/3/a-i0876e.pdf), [summary](http://www.fao.org/3/i0876e/i0876e00.pdf), [web](http://www.fao.org/3/i0876e/i0876e00.htm))
+- 2008 The State of Food Insecurity – High food prices and food security: Threats and opportunities ([full](http://www.fao.org/3/a-i0291e.pdf), [summary](http://www.fao.org/3/i0291e/i0291e00a.pdf), [web](http://www.fao.org/3/i0291e/i0291e00.htm))
+- 2007 n/a
+- 2006 The State of Food Insecurity – Eradicating world hunger: Taking stock ten years after the World Food Summit ([full](http://www.fao.org/3/a-a0750e.pdf), [summary](http://www.fao.org/3/a0750e/a0750e00a.pdf), [web](http://www.fao.org/3/a0750e/a0750e00.htm))
+- 2005 The State of Food Insecurity – Eradicating world hunger: Key to achieving the Millennium Development Goals  ([full](http://www.fao.org/3/a-a0200e.pdf), [summary](http://www.fao.org/3/a0200e/a0199e.pdf), [web](http://www.fao.org/3/a0200e/a0200e00.htm))
+- 2004 The State of Food Insecurity – Monitoring progress towards the World Food Summit and Millennium Development Goals ([full](http://www.fao.org/3/y5650e/y5650e00.pdf), [summary](http://www.fao.org/3/y5650e/y5709e00.pdf), [web](http://www.fao.org/3/y5650e/y5650e00.htm))
+- 2003 The State of Food Insecurity – Monitoring progress towards the World Food Summit and Millennium Development Goals ([full](http://www.fao.org/3/j0083e/j0083e00.pdf), [summary](http://www.fao.org/3/j0083e/j0494e00.pdf), [web](http://www.fao.org/3/j0083e/j0083e00.htm))
+- 2002 The State of Food Insecurity – Food insecurity: When people live with hunger and fear starvation ([summary](http://www.fao.org/3/y7352e/y7250e.pdf), [web](http://www.fao.org/3/y7352e/y7352e00.htm))
+- 2001 The State of Food Insecurity – Food insecurity: When people live with hunger and fear starvation ([full](http://www.fao.org/3/a-y1500e.pdf) [web](http://www.fao.org/3/y1500e/y1500e00.htm))
+- 2000 The State of Food Insecurity – Food insecurity: When people live with hunger and fear starvation ([full](http://www.fao.org/3/a-x8200e.pdf), [summary](http://www.fao.org/3/x8200e/x8664e00.pdf), [web](http://www.fao.org/3/x8200e/x8200e00.htm))
+- 1999 The State of Food Insecurity – Food insecurity: When people live with hunger and fear starvation ([full](http://www.fao.org/3/a-x3114e.pdf), [summary](http://www.fao.org/3/x3114e/x0277e00.pdf), [web](http://www.fao.org/3/x3114e/x3114e00.htm))
 
 
 
@@ -1120,6 +1243,48 @@
 - 1963/64 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011964eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1964/en/))
 - 1962/63 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011963eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1963/en/))
 - 1961/62 Amnesty International Annual Report ([full](https://www.amnesty.org/download/Documents/204000/pol100011962eng.pdf), [web](https://www.amnesty.org/en/documents/pol10/001/1962/en/))
+
+
+
+## The State of the World’s Forests
+
+> Food and Agriculture Organization of the United Nations, United Nations Environment Programme ([source](http://www.fao.org/publications/sofo/en/))
+
+- 2020 The State of the World’s Forests – Forests, biodiversity and people ([full](http://www.fao.org/3/ca8642en/CA8642EN.pdf), [summary](http://www.fao.org/3/ca8985en/CA8985EN.pdf), [web](http://www.fao.org/documents/card/en/c/ca8642en))
+- 2018 The State of the World’s Forests – Forest pathways to sustainable development ([full](http://www.fao.org/3/I9535EN/i9535en.pdf), [summary](http://www.fao.org/3/CA0188EN/CA0188EN.pdf), [web](http://www.fao.org/documents/card/en/c/I9535EN/))
+- 2016 The State of the World’s Forests – Forests and agriculture: Land-use challenges and opportunities ([full](http://www.fao.org/3/i5588e/i5588e.pdf), [summary](http://www.fao.org/3/a-i5850e.pdf), [web](http://www.fao.org/documents/card/en/c/ffed061b-82e0-4c74-af43-1a999a443fbf/))
+- 2014 The State of the World’s Forests – Enhancing the socioeconomic benefits from forests ([full](http://www.fao.org/3/a-i3710e.pdf), [summary](http://www.fao.org/3/a-i3727e.pdf), [web](http://www.fao.org/publications/card/en/c/56267cb7-ff7b-4596-a6f8-388abffd5257/))
+- 2012 The State of the World’s Forests ([full](http://www.fao.org/3/i3010e/i3010e.pdf), [summary](http://www.fao.org/3/i3010e/i3010e00.pdf), [web](http://www.fao.org/documents/card/en/c/905078e6-f166-54e3-8864-b2a36d94f7a6/))
+- 2011 The State of the World’s Forests ([full](http://www.fao.org/3/i2000e/i2000e.pdf), [summary](http://www.fao.org/3/i2000e/i2000e00.pdf), [web](http://www.fao.org/3/i2000e/i2000e00.htm))
+- 2009 The State of the World’s Forests ([full](http://www.fao.org/3/a-i0350e.pdf), [summary](http://www.fao.org/3/i0350e/i0350e00c.pdf), [web](http://www.fao.org/3/i0350e/i0350e00.htm))
+- 2007 The State of the World’s Forests ([full](http://www.fao.org/3/a-a0773e.pdf), [summary](http://www.fao.org/3/a0773e/a0773e00.pdf), [web](http://www.fao.org/3/a0773e/a0773e00.htm))
+- 2005 The State of the World’s Forests ([full](http://www.fao.org/3/a-y5574e.pdf), [summary](http://www.fao.org/3/y5574e/y5574e03.pdf), [web](http://www.fao.org/3/y5574e/y5574e00.htm))
+- 2003 The State of the World’s Forests ([full](http://www.fao.org/3/a-y7581e.pdf), [summary](http://www.fao.org/3/y7581e/y7581e00.pdf), [web](http://www.fao.org/3/y7581e/y7581e00.htm))
+- 2001 The State of the World’s Forests ([summary](http://www.fao.org/3/y0900e/y0900e00.pdf), [web](http://www.fao.org/3/y0900e/y0900e00.htm))
+- 1999 The State of the World’s Forests ([web](http://www.fao.org/3/W9950E/W9950E00.htm))
+- 1997 The State of the World’s Forests ([full](http://www.fao.org/3/a-w4345e.pdf), [web](http://www.fao.org/3/w4345e/w4345e00.htm))
+- 1995 The State of the World’s Forests ([full](http://www.fao.org/3/a-x6953e.pdf))
+
+
+
+## The State of World Fisheries and Aquaculture
+
+> Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofia/en/))
+
+- 2020 The State of World Fisheries and Aquaculture – Sustainability in action ([full](http://www.fao.org/3/ca9229en/ca9229en.pdf), [summary](http://www.fao.org/3/ca9231en/CA9231EN.pdf), [web](http://www.fao.org/state-of-fisheries-aquaculture/en/))
+- 2018 The State of World Fisheries and Aquaculture – Meeting the Sustainable Development Goals ([full](http://www.fao.org/3/I9540EN/i9540en.pdf), [summary](http://www.fao.org/3/ca0191en/ca0191en.pdf), [web](http://www.fao.org/publications/sofia/2018/en/))
+- 2016 The State of World Fisheries and Aquaculture – Contributing to food security and nutrition for all ([full](http://www.fao.org/3/a-i5555e.pdf), [summary](http://www.fao.org/3/a-i5798e.pdf), [web](http://www.fao.org/publications/sofia/2016/en/))
+- 2014 The State of World Fisheries and Aquaculture – Opportunities and challenges ([full](http://www.fao.org/3/a-i3720e.pdf), [summary](http://www.fao.org/3/a-i3807e.pdf), [web](http://www.fao.org/resources/infographics/infographics-details/en/c/231544/))
+- 2012 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-i2727e.pdf), [web](http://www.fao.org/3/i2727e/i2727e00.htm))
+- 2010 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-i1820e.pdf), [web](http://www.fao.org/3/i1820e/i1820e00.htm))
+- 2008 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-i0250e.pdf), [web](http://www.fao.org/3/i0250e/i0250e00.htm))
+- 2006 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-a0699e.pdf), [web](http://www.fao.org/3/a0699e/A0699E00.htm))
+- 2004 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-y5600e.pdf), [web](http://www.fao.org/3/y5600e/y5600e00.htm))
+- 2002 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-y7300e.pdf), [web](http://www.fao.org/3/y7300e/y7300e00.htm))
+- 2000 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-x8002e.pdf), [web](http://www.fao.org/3/x8002e/x8002e00.htm))
+- 1998 The State of World Fisheries and Aquaculture ([web](http://www.fao.org/3/w9900e/w9900e.htm))
+- 1996 The State of World Fisheries and Aquaculture ([web](http://www.fao.org/3/w3265e/w3265e.htm))
+- 1994 The State of World Fisheries and Aquaculture ([full](http://www.fao.org/3/a-v5550e.pdf), [web](http://www.fao.org/documents/card/en/c/eadddd3b-c4b6-5909-bd3f-470cdfded1c9/))
 
 
 
