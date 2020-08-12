@@ -23,6 +23,7 @@
 - [Freedom in the World](#freedom-in-the-world)
 - [Freedom on the Net](#freedom-on-the-net)
 - [Frontiers](#frontiers)
+- [Global Assessment Report on Disaster Risk Reduction](#global-assessment-report-on-disaster-risk-reduction)
 - [Global Catastrophic Risks](#global-catastrophic-risks)
 - [Global Corruption Barometer](#global-corruption-barometer)
 - [Global Education Monitoring Report](#global-education-monitoring-report)
@@ -385,7 +386,7 @@
 - 2012 Freedom in the World – The Arab uprisings and their global repercussions ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2012_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2012_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2012/arab-uprisings-and-their-global-repercussions))
 - 2011 Freedom in the World – The authoritarian challenge to democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2011_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2011_Report_PDF.pdf), [web](https://freedomhouse.org/report/freedom-world/2011/authoritarian-challenge-democracy))
 - 2010 Freedom in the World – Global erosion of freedom ([full](https://freedomhouse.org/sites/default/files/2020-03/FIW_2010_Complete_Book_Scan.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2010_Overview_Essay.pdf), [web](https://freedomhouse.org/report/freedom-world/2010/global-erosion-freedom))
-- 2009 Freedom in the World – Setbacks and Resilience ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2009_complete_book.pdf))
+- 2009 Freedom in the World – Setbacks and resilience ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2009_complete_book.pdf))
 - 2008 Freedom in the World – Freedom in retreat: Is the tide turning? ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2008_complete_book.pdf))
 - 2007 Freedom in the World – Freedom stagnation amid pushback against democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2007_complete_book.pdf))
 - 2006 Freedom in the World – Middle East progress amid global gains ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2006_complete_book.pdf), [summary](http://faculty.nps.edu/relooney/00_New_175.pdf))
@@ -444,6 +445,19 @@
 - 2018/19 Frontiers – Emerging Issues of Environmental Concern ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/27538/Frontiers1819.pdf?sequence=1&isAllowed=y), [web](https://www.unenvironment.org/resources/frontiers-201819-emerging-issues-environmental-concern))
 - 2017 Frontiers – Emerging Issues of Environmental Concern ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/22255/Frontiers_2017_EN.pdf?sequence=1&isAllowed=y), [web](https://www.unenvironment.org/resources/frontiers-2017-emerging-issues-environmental-concern))
 - 2016 Frontiers – Emerging Issues of Environmental Concern ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/7664/Frontiers_2016.pdf?sequence=1&isAllowed=y), [web](https://www.unenvironment.org/resources/frontiers-2016-emerging-issues-environmental-concern))
+
+
+
+## Global Assessment Report on Disaster Risk Reduction
+
+> United Nations Office for Disaster Risk Reduction ([source](https://gar.undrr.org/reports))
+
+- 2019 Global Assessment Report on Disaster Risk Reduction – ([full](https://gar.undrr.org/sites/default/files/reports/2019-05/full_gar_report.pdf), [summary](https://gar.undrr.org/sites/default/files/gar19distilled.pdf), [web](https://gar.undrr.org/report-2019))
+- 2017 Global Assessment Report on Disaster Risk Reduction – GAR Atlas: Unveiling global disaster risk ([full](https://www.preventionweb.net/files/53086_garatlaslr2.pdf), [web](https://www.preventionweb.net/english/hyogo/gar/atlas/))
+- 2015 Global Assessment Report on Disaster Risk Reduction – Making development sustainable: The future of disaster risk management ([full](https://www.preventionweb.net/english/hyogo/gar/2015/en/gar-pdf/GAR2015_EN.pdf), [summary](https://www.preventionweb.net/english/hyogo/gar/2015/en/gar-pdf/GAR15_Pocket_EN.pdf), [web](https://www.preventionweb.net/english/hyogo/gar/2015/en/home/))
+- 2013 Global Assessment Report on Disaster Risk Reduction – From shared risk to shared value: the business case for disaster risk reduction ([full](https://www.preventionweb.net/english/hyogo/gar/2013/en/gar-pdf/GAR2013_EN.pdf), [summary](https://www.preventionweb.net/english/hyogo/gar/2013/en/gar-pdf/GAR13_Pocket_EN.pdf), [web](https://www.preventionweb.net/english/hyogo/gar/2013/en/home/index.html))
+- 2011 Global Assessment Report on Disaster Risk Reduction – Revealing risk, redefining development ([full](https://www.preventionweb.net/english/hyogo/gar/2015/en/gar-pdf/previousGAR/GAR2011_EN.pdf), [summary](https://www.preventionweb.net/english/hyogo/gar/2011/en/bgdocs/GAR-2011/GAR2011_ES_English.pdf), [web](https://www.preventionweb.net/english/hyogo/gar/2011/en/home/index.html))
+- 2009 Global Assessment Report on Disaster Risk Reduction – Risk and poverty in a changing climate ([full](https://www.preventionweb.net/english/hyogo/gar/2015/en/gar-pdf/previousGAR/GAR2009_EN.pdf), [summary](https://www.preventionweb.net/files/9414_GARsummary.pdf), [web](https://www.preventionweb.net/english/hyogo/gar/2009/))
 
 
 
@@ -606,7 +620,7 @@
 
 ## Human Development Report 
 
-> United Nations Development Program ([source](http://www.hdr.undp.org/en/global-reports))
+> United Nations Development Programme ([source](http://www.hdr.undp.org/en/global-reports))
 
 - 2019 Human Development Report – Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century ([full](http://www.hdr.undp.org/sites/default/files/hdr2019.pdf), [summary](http://www.hdr.undp.org/sites/default/files/hdr_2019_overview_-_english.pdf), [web](http://www.hdr.undp.org/en/content/human-development-report-2019))
 - 2018 Statistical Update – Human development indices and indicators ([full](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf), [web](http://www.hdr.undp.org/en/content/human-development-indices-indicators-2018-statistical-update))
