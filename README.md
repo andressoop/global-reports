@@ -30,6 +30,7 @@
 - [Global Corruption Barometer](#global-corruption-barometer)
 - [Global Corruption Report](#global-corruption-report)
 - [Global Cybersecurity Index](#global-cybersecurity-index)
+- [Global Drug Survey](#global-drug-survey)
 - [Global Education Monitoring Report](#global-education-monitoring-report)
 - [Global Energy Review](#global-energy-review)
 - [Global Environment Outlook](#global-environment-outlook)
@@ -557,6 +558,21 @@
 - 2017 Global Cybersecurity Index ([full](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2017-R1-PDF-E.pdf), [web](https://www.itu.int/pub/D-STR-GCI.01-2017))
 - 2016 n/a
 - 2015 Global Cybersecurity Index & Cyberwellness Profiles ([full](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-SECU-2015-PDF-E.pdf), [web](https://www.itu.int/pub/D-STR-SECU-2015))
+
+
+
+## Global Drug Survey
+
+> Global Drug Survey ([source](https://www.globaldrugsurvey.com/past-findings/))
+
+- 2020 Global Drug Survey ([web](https://www.globaldrugsurvey.com/gds-2020/))
+  - Special edition on COVID-19 ([full](https://www.globaldrugsurvey.com/wp-content/themes/globaldrugsurvey/assets/GDS_COVID-19-GLOBAL_Interim_Report-2020.pdf))
+- 2019 Global Drug Survey ([full](https://issuu.com/globaldrugsurvey/docs/gds2019_key_findings_report_may_16_), [web](https://www.globaldrugsurvey.com/gds-2019/))
+- 2018 Global Drug Survey ([web](https://www.globaldrugsurvey.com/gds-2018/))
+- 2017 Global Drug Survey ([web](https://www.globaldrugsurvey.com/past-findings/gds2017-launch/))
+- 2016 n/a 
+- 2015 Global Drug Survey ([web](https://www.globaldrugsurvey.com/the-global-drug-survey-2015-findings/))
+- 2014 Global Drug Survey ([web](https://www.globaldrugsurvey.com/past-findings/the-global-drug-survey-2014-findings/))
 
 
 
