@@ -27,6 +27,7 @@
 - [Global Catastrophic Risks](#global-catastrophic-risks)
 - [Global Childhood Report](#global-childhood-report)
 - [Global Corruption Barometer](#global-corruption-barometer)
+- [Global Corruption Report](#global-corruption-report)
 - [Global Education Monitoring Report](#global-education-monitoring-report)
 - [Global Energy Review](#global-energy-review)
 - [Global Environment Outlook](#global-environment-outlook)
@@ -499,6 +500,29 @@
 - 2005 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2005_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2005))
 - 2004 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2004_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2004))
 - 2003 Global Corruption Barometer ([full](https://images.transparencycdn.org/images/2003_GCB_EN.pdf), [web](https://www.transparency.org/en/publications/gcb-2003))
+
+
+
+## Global Corruption Report
+
+> Transparency International ([source](https://www.transparency.org/en/search/advanced?query=%22global%20corruption%20report%22&type=publication&country=*&priority=*&advocacy=*&order=score))
+
+- 2016 Global Corruption Report – Sport ([full](https://images.transparencycdn.org/images/2016_GCRSport_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-sport))
+- 2015 n/a
+- 2014 n/a
+- 2013 Global Corruption Report – Education ([full](https://images.transparencycdn.org/images/2013_GCR_Education_EN.pdf), [summary](https://images.transparencycdn.org/images/2013_GCR_Education_ExecSum_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-education))
+- 2012 n/a
+- 2011 Global Corruption Report – Climate change ([full](https://images.transparencycdn.org/images/2011_GCRclimatechange_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-climate-change))
+- 2010 n/a
+- 2009 Global Corruption Report – Corruption and the private sector ([full](https://images.transparencycdn.org/images/2009_GCR_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2009))
+- 2008 Global Corruption Report – Corruption in the water sector ([full](https://images.transparencycdn.org/images/2008_GCR_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2008-corruption-in-the-water-sector))
+- 2007 Global Corruption Report – Corruption in judicial systems ([full](https://images.transparencycdn.org/images/2007_GCR_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2007-corruption-and-judicial-systems))
+- 2006 Global Corruption Report – Corruption and health ([full](https://images.transparencycdn.org/images/2006_GCR_HealthSector_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2006-corruption-and-health))
+- 2005 Global Corruption Report – Corruption in construction and post-conflict reconstruction ([full](https://images.transparencycdn.org/images/2005_GCR_Construction_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2005-corruption-in-construction-and-post-conflict))
+- 2004 Global Corruption Report – Political Corruption ([full](https://images.transparencycdn.org/images/2004_GCR_PoliticalCorruption_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2004-political-corruption))
+- 2003 Global Corruption Report – Access to information ([full](https://images.transparencycdn.org/images/2003_GCR_AccessInfo_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2003-access-to-information))
+- 2002 n/a
+- 2001 Global Corruption Report ([full](https://images.transparencycdn.org/images/2001_GCR_Inaugural_EN.pdf), [web](https://www.transparency.org/en/publications/global-corruption-report-2001))
 
 
 
