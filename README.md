@@ -9,6 +9,7 @@
 - [Connecting to Compete](#connecting-to-compete)
 - [Corruption Perceptions Index](#corruption-perceptions-index)
 - [Death Sentences and Executions](#death-sentences-and-executions)
+- [Democracy Index](#democracy-index)
 - [Digital Economy Report](#digital-economy-report)
 - [Doing Business](#doing-business)
 - [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
@@ -184,6 +185,27 @@
 - 1993 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/184000/act510011994en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1994/en/))
 - 1992 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/192000/act510011993en.pdf), [web](https://www.amnesty.org/en/documents/ACT51/001/1993/en/))
 - 1991 Death Sentences and Executions ([full](https://www.amnesty.org/download/Documents/196000/act510011992en.pdf), [web](https://www.amnesty.org/en/documents/act51/001/1992/en/))
+
+
+
+## Democracy Index
+
+> Economist Intelligence Unit ([source](https://www.eiu.com/topic/democracy-index))
+
+- 2019 Democracy Index – A year of democratic setbacks and popular protest ([full](https://www.in.gr/wp-content/uploads/2020/01/Democracy-Index-2019.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019))
+- 2018 Democracy Index – Me too? Political participation, protest and democracy ([full](https://275rzy1ul4252pt1hv2dqyuf-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Democracy_Index_2018.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy2018))
+- 2017 Democracy Index – Free speech under attack ([full](https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=34079), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2017))
+- 2016 Democracy Index – Revenge of the “deplorables” ([full](https://www.transparency.org.nz/docs/2017/Democracy_Index_2016.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2016))
+- 2015 Democracy Index – Democracy in an age of anxiety ([full](https://www.yabiladi.com/img/content/EIU-Democracy-Index-2015.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2015))
+- 2014 Democracy Index – Democracy and its discontents  ([full](https://www.sudestada.com.uy/Content/Articles/421a313a-d58f-462e-9b24-2504a37f6b56/Democracy-index-2014.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0115))
+- 2013 Democracy Index – Democracy in limbo ([full](https://thepeoplesconvention.org/wp-content/uploads/2015/04/TheEconomist-DemocracyIndex2013.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0814))
+- 2012 Democracy Index – Democracy at a standstill ([full](https://civitanaorg.files.wordpress.com/2014/05/democracy-index-2012.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex12))
+- 2011 Democracy Index – Democracy under stress ([full](https://www.sida.se/globalassets/global/about-sida/sa-arbetar-vi/eiu_democracy_index_dec2011.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2011))
+- 2010 Democracy Index – Democracy in retreat ([full](https://graphics.eiu.com/PDF/Democracy_Index_2010_web.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=demo2010))
+- 2009 n/a
+- 2008 Democracy Index ([full](https://graphics.eiu.com/PDF/Democracy%20Index%202008.pdf))
+- 2007 n/a
+- 2006 Democracy Index ([full](https://www.economist.com/media/pdf/DEMOCRACY_INDEX_2007_v3.pdf))
 
 
 
