@@ -35,6 +35,7 @@
 - [Global Energy Review](#global-energy-review)
 - [Global Environment Outlook](#global-environment-outlook)
 - [Global Financial Development Report](#global-financial-development-report)
+- [Global Food Policy Report](#global-food-policy-report)
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
@@ -639,6 +640,22 @@
 - 2015/16 Global Financial Development Report – Long-term finance ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/22543/9781464804724.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/22543))
 - 2014 Global Financial Development Report – Financial inclusion ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/16238/9780821399859.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/16238))
 - 2013 Global Financial Development Report – Rethinking the role of the state in finance ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/11848/Global%20Financial%20Development%20Report%202013.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/11848))
+
+
+
+## Global Food Policy Report
+
+> International Food Policy Research Institute ([source](http://gfpr.ifpri.info/past-reports/))
+
+- 2020 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/133646/filename/133857.pdf), [summary](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/133643/filename/133862.pdf), [web](http://gfpr.ifpri.info/))
+- 2019 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/133129/filename/133348.pdf), [summary](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/133139/filename/133340.pdf), [web](http://gfpr.ifpri.info/gfpr2019/))
+- 2018 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/132273/filename/132488.pdf), [summary](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/132280/filename/132491.pdf), [web](http://gfpr.ifpri.info/gfpr2018/))
+- 2017 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/131085/filename/131296.pdf), [summary](http://www.ifpri.org/cdmref/p15738coll2/id/131095/filename/131306.pdf), [web](http://gfpr.ifpri.info/gfpr2017/))
+- 2016 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/130207/filename/130418.pdf), [web](https://www.ifpri.org/publication/2016-global-food-policy-report))
+- 2014/15 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/129072/filename/129283.pdf), [web](https://www.ifpri.org/publication/2014-2015-global-food-policy-report))
+- 2013 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/128043/filename/128254.pdf), [summary](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/128057/filename/128268.pdf), [web](https://www.ifpri.org/publication/2013-global-food-policy-report))
+- 2012 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/127424/filename/127635.pdf), [summary](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/127556/filename/127767.pdf), [web](https://www.ifpri.org/publication/2012-global-food-policy-report))
+- 2011 Global Food Policy Report ([full](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/126897/filename/127108.pdf), [summary](http://ebrary.ifpri.org/utils/getfile/collection/p15738coll2/id/127335/filename/127546.pdf), [web](https://www.ifpri.org/publication/2011-global-food-policy-report))
 
 
 
