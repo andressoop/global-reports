@@ -25,6 +25,7 @@
 - [Frontiers](#frontiers)
 - [Global Assessment Report on Disaster Risk Reduction](#global-assessment-report-on-disaster-risk-reduction)
 - [Global Catastrophic Risks](#global-catastrophic-risks)
+- [Global Childhood Report](#global-childhood-report)
 - [Global Corruption Barometer](#global-corruption-barometer)
 - [Global Education Monitoring Report](#global-education-monitoring-report)
 - [Global Energy Review](#global-energy-review)
@@ -41,6 +42,7 @@
 - [Re|Shaping Cultural Policies](#reshaping-cultural-policies)
 - [Review of Maritime Transport](#review-of-maritime-transport)
 - [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
+- [State of the World's Mothers](#state-of-the-worlds-mothers)
 - [Technology and Innovation Report](#technology-and-innovation-report)
 - [The Future of Jobs Report](#the-future-of-jobs-report)
 - [The Global Competitiveness Report](#the-global-competitiveness-report)
@@ -473,6 +475,17 @@
 
 
 
+## Global Childhood Report
+
+> Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/Global%20Childhood%20Report%20%7C%20end%20of%20childhood?sort=score))
+
+- 2020 Global Childhood Report – The hardest places to be a child ([full](https://resourcecentre.savethechildren.net/node/17681/pdf/global-childhood-report-2020.pdf), [web](https://resourcecentre.savethechildren.net/library/global-childhood-report-2020-hardest-places-be-child))
+- 2019 Global Childhood Report – Changing lives in our lifetime ([full](https://resourcecentre.savethechildren.net/node/15264/pdf/global_childhood_report_2019_english.pdf), [summary](https://resourcecentre.savethechildren.net/node/15264/pdf/ch1338551_0.pdf), [web](https://resourcecentre.savethechildren.net/library/global-childhood-report-2019-changing-lives-our-lifetime))
+- 2018 End of Childhood Report – The many faces of exclusion ([full](https://resourcecentre.savethechildren.net/node/13429/pdf/endofchildhood_report_2018_english_0.pdf), [web](https://resourcecentre.savethechildren.net/library/many-faces-exclusion-end-childhood-report-2018))
+- 2017 End of Childhood Report – Stolen childhoods ([full](https://resourcecentre.savethechildren.net/node/12167/pdf/endofchildhood_report_2017_english.pdf), [web](https://resourcecentre.savethechildren.net/library/stolen-childhoods-end-childhood-report-2017))
+
+
+
 ## Global Corruption Barometer
 
 > Transparency International ([source](https://www.transparency.org/en/gcb))
@@ -800,6 +813,29 @@
 - 2005 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13411/332360CarbonMarketStudy2005.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13411))
 - 2004 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/7457/343880PAPER0Ca101OFFICIAL0USE0ONLY1.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/7457))
 - 2003 State and Trends of the Carbon Market ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/13416/36010.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/13416))
+
+
+
+## State of the World's Mothers
+
+> Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/state%20of%20the%20world%27s%20mothers?sort=score))
+
+- 2015 State of the World's Mothers – The urban disadvantage ([full](https://resourcecentre.savethechildren.net/node/9052/pdf/sowm_2015.pdf), [summary](https://resourcecentre.savethechildren.net/node/9052/pdf/sowm_executive_summary.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2015-urban-disadvantage))
+- 2014 State of the World's Mothers – Saving mothers and children in humanitarian crises ([full](https://resourcecentre.savethechildren.net/node/8191/pdf/worldsmothers.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2014-saving-mothers-and-children-humanitarian-crises))
+- 2013 State of the World's Mothers – Surviving the first day ([full](https://resourcecentre.savethechildren.net/node/7387/pdf/sowm-full-report_2013.pdf), [web](https://resourcecentre.savethechildren.net/library/surviving-first-day-state-worlds-mothers-2013))
+- 2012 State of the World's Mothers – Nutrition in the first 1,000 days ([full](https://resourcecentre.savethechildren.net/node/6006/pdf/6006.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2012-nutrition-first-1000-days))
+- 2011 State of the World's Mothers – Champions for children ([full](https://resourcecentre.savethechildren.net/node/3916/pdf/3916.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2011-champions-children))
+- 2010 State of the World's Mothers – Women on the front lines of health care: ([full](https://resourcecentre.savethechildren.net/node/1920/pdf/1920.pdf), [web](https://resourcecentre.savethechildren.net/library/women-front-lines-health-care-state-worlds-mothers-2010))
+- 2009 State of the World's Mothers – Investing in the early years ([full](https://resourcecentre.savethechildren.net/node/2602/pdf/2602.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2009-investing-early-years))
+- 2008 State of the World's Mothers – Closing the survival gap for children under 5 ([full](https://resourcecentre.savethechildren.net/node/3290/pdf/sowm-2008-full-report.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2008-closing-survival-gap-children-under-5))
+- 2007 State of the World's Mothers – Saving the lives of children under 5 ([full](https://resourcecentre.savethechildren.net/node/3288/pdf/3288.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2007-saving-lives-children-under-5))
+- 2006 State of the World's Mothers – Saving the lives of mothers and newborns ([full](https://resourcecentre.savethechildren.net/node/3389/pdf/3389.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2006-saving-lives-mothers-and-newborns))
+- 2005 State of the World's Mothers – The power and promise of girls' education ([full](https://resourcecentre.savethechildren.net/node/3387/pdf/3387.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2005-power-and-promise-girls-education))
+- 2004 State of the World's Mothers – Children having children ([full](https://resourcecentre.savethechildren.net/node/3385/pdf/3385.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2004-children-having-children))
+- 2003 State of the World's Mothers – Protecting women and children in war and conflict ([full](https://resourcecentre.savethechildren.net/node/3287/pdf/sowm-2003.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2003-report-protecting-women-and-children-war-and-conflict))
+- 2002 State of the World's Mothers – Mothers & children in war & conflict ([full](https://resourcecentre.savethechildren.net/node/3286/pdf/3286.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2002-report-mothers-children-war-conflict))
+- 2001 State of the World's Mothers – ([full](https://resourcecentre.savethechildren.net/node/3285/pdf/3285.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2001-report))
+- 2000 State of the World's Mothers – ([full](https://resourcecentre.savethechildren.net/node/3284/pdf/3284.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2000))
 
 
 
