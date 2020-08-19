@@ -42,6 +42,7 @@
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
+- [How's Life?](#hows-life)
 - [Human Development Report](#human-development-report)
 - [International Debt Statistics](#international-debt-statistics)
 - [Paying Taxes](#paying-taxes)
@@ -759,6 +760,18 @@
 - 2012/13 Global Wage Report – Wages and equitable growth ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_194843.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_194844.pdf), [web](https://www.ilo.org/global/research/global-reports/global-wage-report/2012/lang--en/index.htm))
 - 2010/11 Global Wage Report – Wage policies in times of crisis ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_145265.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_149622.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_145265/lang--en/index.htm))
 - 2008/09 Global Wage Report – Minimum wages and collective bargaining: Towards policy coherence ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_100786.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---travail/documents/publication/wcms_100790.pdf), [web](https://www.ilo.org/global/publications/WCMS_100786/lang--en/index.htm))
+
+
+
+## How's Life?
+
+> Organization for Economic Cooperation and Development (OECD) ([source](https://www.oecd-ilibrary.org/economics/how-s-life_23089679))
+
+- 2020 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life/volume-/issue-_9870c393-en#page1), [summary](https://read.oecd-ilibrary.org/economics/how-s-life-2020_ea714361-en#page1), [web](https://www.oecd-ilibrary.org/economics/how-s-life/volume-/issue-_9870c393-en))
+- 2017 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life-2017_how_life-2017-en#page1), [summary](https://read.oecd-ilibrary.org/economics/how-s-life-2017/summary/english_29ece891-en#page1), [web](https://www.oecd-ilibrary.org/economics/how-s-life-2017_how_life-2017-en))
+- 2015 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life-2015_how_life-2015-en#page1), [summary](https://read.oecd-ilibrary.org/economics/how-s-life-2015/summary/english_c7adaf59-en#page1), [web](https://www.oecd-ilibrary.org/economics/how-s-life-2015_how_life-2015-en))
+- 2013 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life-2013_9789264201392-en#page1), [summary](https://read.oecd-ilibrary.org/economics/how-s-life-2013/summary/english_9789264201392-sum-en#page1), [web](https://www.oecd-ilibrary.org/economics/how-s-life-2013_9789264201392-en))
+- 2011 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life_9789264121164-en#page3), [summary](https://read.oecd-ilibrary.org/economics/how-s-life/overview_9789264121164-3-en#page5), [web](https://www.oecd-ilibrary.org/economics/how-s-life_9789264121164-en))
 
 
 
