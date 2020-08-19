@@ -38,6 +38,7 @@
 - [Global Food Policy Report](#global-food-policy-report)
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
+- [Global Hunger Index](#global-hunger-index)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
@@ -703,6 +704,27 @@
 - 2008 Global Gender Gap Report ([full](http://www3.weforum.org/docs/WEF_GenderGap_Report_2008.pdf), [web](https://www.weforum.org/reports/global-gender-gap-report-2008))
 - 2007 Global Gender Gap Report ([full](http://www3.weforum.org/docs/WEF_GenderGap_Report_2007.pdf))
 - 2006 Global Gender Gap Report ([full](http://www3.weforum.org/docs/WEF_GenderGap_Report_2006.pdf), [web](https://www.weforum.org/reports/global-gender-gap-report-2006))
+
+
+
+## Global Hunger Index
+
+> Concern Worldwide, Welthungerhilfe, International Food Policy Research Institute ([source](https://www.globalhungerindex.org/download/all.html))
+
+- 2019 Global Hunger Index – The challenge of hunger and climate change ([full](https://www.globalhungerindex.org/pdf/en/2019.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2019/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2019.html))
+- 2018 Global Hunger Index – Forced migration and hunger ([full](https://www.globalhungerindex.org/pdf/en/2018.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2018/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2018.html))
+- 2017 Global Hunger Index – The inequalities of hunger ([full](https://www.globalhungerindex.org/pdf/en/2017.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2017/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2017.html))
+- 2016 Global Hunger Index – Getting to zero hunger ([full](https://www.globalhungerindex.org/pdf/en/2016.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2016/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2016.html))
+- 2015 Global Hunger Index – Armed conflict and the challenge of hunger ([full](https://www.globalhungerindex.org/pdf/en/2015.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2015/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2015.html))
+- 2014 Global Hunger Index – The challenge of hidden hunger ([full](https://www.globalhungerindex.org/pdf/en/2014.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2014/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2014.html))
+- 2013 Global Hunger Index – Building resilience to achieve food and nutrition security ([full](https://www.globalhungerindex.org/pdf/en/2013.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2013/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2013.html))
+- 2012 Global Hunger Index – Ensuring sustainable food security under land, water, and energy stresses ([full](https://www.globalhungerindex.org/pdf/en/2012.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2012/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2012.html))
+- 2011 Global Hunger Index – Taming price spikes and excessive food price volatility ([full](https://www.globalhungerindex.org/pdf/en/2011.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2011/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2011.html))
+- 2010 Global Hunger Index – Focus on the crisis of child undernutrition ([full](https://www.globalhungerindex.org/pdf/en/2010.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2010.html))
+- 2009 Global Hunger Index – Focus on financial crisis and gender inequality ([full](https://www.globalhungerindex.org/pdf/en/2009.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2009.html))
+- 2008 Global Hunger Index ([full](https://www.globalhungerindex.org/pdf/en/2008.pdf))
+- 2007 Global Hunger Index ([full](https://www.globalhungerindex.org/pdf/en/2007.pdf))
+- 2006 Global Hunger Index ([full](https://www.globalhungerindex.org/pdf/en/2006.pdf))
 
 
 
