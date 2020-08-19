@@ -46,6 +46,7 @@
 - [Human Development Report](#human-development-report)
 - [International Debt Statistics](#international-debt-statistics)
 - [Paying Taxes](#paying-taxes)
+- [PISA](#pisa)
 - [Postal Development Report](#postal-development-report)
 - [Re|Shaping Cultural Policies](#reshaping-cultural-policies)
 - [Review of Maritime Transport](#review-of-maritime-transport)
@@ -852,6 +853,43 @@
 - 2009 Paying Taxes ([full](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB09-Paying-Taxes.pdf))
 - 2008 Paying Taxes ([full](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB08-Paying-Taxes.pdf))
 - 2007 Paying Taxes ([full](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/DB07-Paying-Taxes.pdf))
+
+
+
+## PISA
+
+> Organization for Economic Cooperation and Development (OECD) ([source](https://www.oecd.org/pisa/publications/))
+
+- 2018 PISA – Insights and interpretations ([summary](https://www.oecd.org/pisa/PISA%202018%20Insights%20and%20Interpretations%20FINAL%20PDF.pdf), [combined summaries](https://www.oecd.org/pisa/Combined_Executive_Summaries_PISA_2018.pdf), [web](https://www.oecd.org/pisa/publications/pisa-2018-results.htm))
+  - volume 1 – What students know and can do ([full](https://www.oecd-ilibrary.org/docserver/5f07c754-en.pdf?expires=1597855931&id=id&accname=guest&checksum=77E045FA326C7F296AD50EA4F9402F7F), [summary](https://www.oecd-ilibrary.org/docserver/a9b5930a-en.pdf?expires=1597855920&id=id&accname=guest&checksum=8967BFD28100EE91178CA80B783C2244), [web](https://www.oecd.org/pisa/publications/pisa-2018-results-volume-i-5f07c754-en.htm))
+  - volume 2 – Where all students can succeed ([full](https://www.oecd-ilibrary.org/docserver/b5fd1b8f-en.pdf?expires=1597855973&id=id&accname=guest&checksum=02F95A686697F1067BC1B19CB0C35B5D), [summary](https://www.oecd-ilibrary.org/docserver/132219b1-en.pdf?expires=1597855995&id=id&accname=guest&checksum=3233CA7F60FE435FA8C7A5969D21FE93), [web](https://www.oecd.org/pisa/publications/pisa-2018-results-volume-ii-b5fd1b8f-en.htm))
+  - volume 3 – What school life means for students' lives ([full](https://www.oecd-ilibrary.org/docserver/acd78851-en.pdf?expires=1597856016&id=id&accname=guest&checksum=6E59E9FE5030C2DC1DED967BD49C7F61), [summary](https://www.oecd-ilibrary.org/docserver/8b01d5b1-en.pdf?expires=1597856017&id=id&accname=guest&checksum=3D28FE2B8DA260615272120B847B364F), [web](https://www.oecd.org/pisa/publications/pisa-2018-results-volume-iii-acd78851-en.htm))
+  - volume 4 – Are students smart about the money? ([full](https://www.oecd-ilibrary.org/docserver/48ebd1ba-en.pdf?expires=1597856059&id=id&accname=guest&checksum=B82101F44961B735A718E8971A7D82F5), [web](https://www.oecd.org/pisa/publications/pisa-2018-results-volume-iv-48ebd1ba-en.htm))
+- 2015 PISA – Results in focus ([summary](http://www.oecd.org/pisa/pisa-2015-results-in-focus.pdf), [web](http://www.oecd.org/pisa/keyfindings/))
+  - volume 1 – Excellence and equity in education ([full](https://www.oecd-ilibrary.org/docserver/9789264266490-en.pdf?expires=1597855472&id=id&accname=guest&checksum=1F671B43362383583E1A794C3F6E5D7B), [summary](https://www.oecd-ilibrary.org/docserver/bc6256e2-en.pdf?expires=1597855520&id=id&accname=guest&checksum=33F857DF61CAC6D7FBE23AF54D2E03B6), [web](http://www.oecd.org/publications/pisa-2015-results-volume-i-9789264266490-en.htm))
+  - volume 2 – Policies and practices for successful schools ([full](https://www.oecd-ilibrary.org/docserver/9789264267510-en.pdf?expires=1597855538&id=id&accname=guest&checksum=833AF6DBDE2B218BA95E6E235C7CB120), [summary](https://www.oecd-ilibrary.org/docserver/9789264267510-2-en.pdf?expires=1597855587&id=id&accname=guest&checksum=CB17D204BDBA3B77208655471DB3A59D), [web](http://www.oecd.org/pisa/pisa-2015-results-volume-ii-9789264267510-en.htm))
+  - volume 3 – Students' well-being ([full](https://www.oecd-ilibrary.org/docserver/9789264273856-en.pdf?expires=1597855626&id=id&accname=guest&checksum=4CE6C70A404B94D4E4161D8235D55BFB), [summary](http://www.oecd.org/pisa/PISA-2015-Results-Students-Well-being-Volume-III-Overview.pdf), [web](http://www.oecd.org/pisa/publications/pisa-2015-results-volume-iii-9789264273856-en.htm))
+  - volume 4 – Students' financial literacy ([full](https://www.oecd-ilibrary.org/docserver/9789264270282-en.pdf?expires=1597855688&id=id&accname=guest&checksum=27D5A5723E820CCA01575CB14D7BAD4B), [summary](https://www.oecd-ilibrary.org/docserver/9789264270282-2-en.pdf?expires=1597855714&id=id&accname=guest&checksum=62B6C65EE453C4895249B4ADDD5F7759), [web](http://www.oecd.org/pisa/pisa-2015-results-volume-iv-9789264270282-en.htm))
+  - volume 5 – Collaborative problem solving ([full](https://www.oecd-ilibrary.org/docserver/9789264285521-en.pdf?expires=1597855728&id=id&accname=guest&checksum=C817F144A0B3CFC755E37B02554977FF), [summary](https://www.oecd-ilibrary.org/docserver/93ba004b-en.pdf?expires=1597855741&id=id&accname=guest&checksum=000DA3DA94BF40047950B5DC8B7DEBFC), [web](http://www.oecd.org/pisa/pisa-2015-results-volume-v-9789264285521-en.htm))
+- 2012 PISA – What 15-year-olds know and what they can do with what they know ([summary](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-overview.pdf), [web](http://www.oecd.org/pisa/aboutpisa/pisa-2012-results.htm))
+  - volume 1 – What students know and can do: Student performance in mathematics, reading and science ([full](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-I.pdf), [web](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-i.htm))
+  - volume 2 – Excellence through equity: Giving every student the chance to succeed ([full](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-II.pdf), [web](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-ii.htm))
+  - volume 3 – Ready to learn: Student's engagement, drive and self-beliefs ([full](http://www.oecd.org/pisa/keyfindings/PISA-2012-results-volume-III.pdf), [web](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-iii.htm))
+  - volume 4 – What makes schools successful? Resources, policies and practices ([full](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-IV.pdf), [web](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-iv.htm))
+  - volume 5 – Creative problem solving: Students' skills in tackling real-life problems ([full](http://www.oecd.org/pisa/keyfindings/PISA-2012-results-volume-V.pdf), [web](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-v.htm))
+  - volume 6 – Students and money: Financial literacy skills for the 21st century ([full](http://www.oecd.org/pisa/keyfindings/PISA-2012-results-volume-vi.pdf), [web](http://www.oecd.org/pisa/keyfindings/pisa-2012-results-volume-vi.htm))
+- 2009 PISA – What students know and can do ([summary](http://www.oecd.org/pisa/pisaproducts/46619703.pdf), [web](http://www.oecd.org/pisa/aboutpisa/pisa2009keyfindings.htm))
+  - volume 1 – What students know and can do: Student performance in reading, mathematics and science ([full](http://www.oecd.org/pisa/pisaproducts/48852548.pdf), [web](http://www.oecd.org/pisa/pisaproducts/pisa2009resultswhatstudentsknowandcandostudentperformanceinreadingmathematicsandsciencevolumei.htm))
+  - volume 2 – Overcoming social background: Equity in learning opportunities and outcomes ([full](http://www.oecd.org/pisa/pisaproducts/48852584.pdf), [web](http://www.oecd.org/pisa/pisaproducts/pisa2009resultsovercomingsocialbackgroundequityinlearningopportunitiesandoutcomesvolumeii.htm))
+  - volume 3 – Learning to learn: Student engagement, strategies and practices ([full](http://www.oecd.org/pisa/pisaproducts/48852630.pdf), [web](http://www.oecd.org/pisa/pisaproducts/pisa2009resultslearningtolearnvolumeiii.htm))
+  - volume 4 – What makes a school successful? Resources, policies and practices ([full](http://www.oecd.org/pisa/pisaproducts/48852721.pdf), [web](http://www.oecd.org/pisa/pisaproducts/pisa2009resultswhatmakesaschoolsuccessfulvolumeiv.htm))
+  - volume 5 – Learning trends: Changes in student performance since 2000 ([full](http://www.oecd.org/pisa/pisaproducts/48852742.pdf), [web](http://www.oecd.org/pisa/pisaproducts/pisa2009resultslearningtrendschangesinstudentperformancesince2000volumev.htm))
+  - volume 6 – Students on line: Digital technologies and performance ([full](http://www.oecd.org/pisa/pisaproducts/48270093.pdf), [web](http://www.oecd.org/pisa/pisaproducts/pisa2009resultsstudentsonlinedigitaltechnologiesandperformancevolumevi.htm))
+- 2006 PISA – Science competencies for tomorrow's world ([summary](http://www.oecd.org/pisa/pisaproducts/39725224.pdf), [web](http://www.oecd.org/education/school/programmeforinternationalstudentassessmentpisa/pisa2006results.htm))
+  - volume 1 – Analysis ([full](https://www.oecd-ilibrary.org/docserver/9789264040014-en.pdf?expires=1597854092&id=id&accname=guest&checksum=B843A11CD6465E3517F7215AF4C0D272))
+  - volume 2 – Data ([full](https://www.oecd-ilibrary.org/docserver/9789264040151-en.pdf?expires=1597854164&id=id&accname=guest&checksum=865F9555CBFCDB19AF7069C3DD8FBB60))
+- 2003 PISA – Learning for tomorrow's world ([full](https://www.oecd-ilibrary.org/docserver/9789264006416-en.pdf?expires=1597854020&id=id&accname=guest&checksum=BDBAA354ED27697471D3A66D53EADC0D), [summary](http://www.oecd.org/education/school/programmeforinternationalstudentassessmentpisa/34002454.pdf), [web](http://www.oecd.org/pisa/pisaproducts/learningfortomorrowsworldfirstresultsfrompisa2003.htm))
+- 2000 PISA – Literacy skills for the world of tomorrow ([full](https://www.oecd-ilibrary.org/docserver/9789264102873-en.pdf?expires=1597853950&id=id&accname=guest&checksum=6DA07C459E70F95F4004ABF2869BC9CE), [summary](http://www.oecd.org/education/school/2960581.pdf), [web](http://www.oecd.org/education/school/programmeforinternationalstudentassessmentpisa/literacyskillsfortheworldoftomorrowfurtherresultsfrompisa2000-publications2000.htm))
 
 
 
