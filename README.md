@@ -74,6 +74,7 @@
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
 - [World Employment and Social Outlook](#world-employment-and-social-outlook)
 - [World Energy Outlook](#world-energy-outlook)
+- [World Happiness Report](#world-happiness-report)
 - [World Investment Report](#world-investment-report)
 - [World Public Sector Report](#world-public-sector-report)
 - [World Social Protection Report](#world-social-protection-report)
@@ -1572,6 +1573,22 @@
 - 2007 World Energy Outlook ([web](https://webstore.iea.org/world-energy-outlook-2007))
   - Focus on Energy Poverty ([web](https://webstore.iea.org/weo-2007-special-report-focus-on-energy-poverty))
 - 2006 World Energy Outlook ([web](https://webstore.iea.org/world-energy-outlook-2006))
+
+
+
+## World Happiness Report
+
+> Sustainable Development Solutions Network ([source](https://worldhappiness.report/archive/))
+
+- 2020 World Happiness Report ([full](https://happiness-report.s3.amazonaws.com/2020/WHR20.pdf), [web](https://worldhappiness.report/ed/2020/))
+- 2019 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2019/WHR19.pdf), [web](https://worldhappiness.report/ed/2019/))
+- 2018 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2018/WHR_web.pdf), [web](https://worldhappiness.report/ed/2018/))
+- 2017 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2017/HR17.pdf), [summary](https://s3.amazonaws.com/happiness-report/2017/HR17-ESv2_updated.pdf), [web](https://worldhappiness.report/ed/2017/))
+- 2016 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2016/HR-V1_web.pdf), [web](https://worldhappiness.report/ed/2016/))
+- 2015 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2015/WHR15_Sep15.pdf), [summary](https://s3.amazonaws.com/happiness-report/2015/WHR-2015-summary_final.pdf), [web](https://worldhappiness.report/ed/2015/))
+- 2014 n/a
+- 2013 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2013/WorldHappinessReport2013_online.pdf), [web](https://worldhappiness.report/ed/2013/))
+- 2012 World Happiness Report ([full](https://s3.amazonaws.com/happiness-report/2012/World_Happiness_Report_2012.pdf), [web](https://worldhappiness.report/ed/2012/))
 
 
 
