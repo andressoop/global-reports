@@ -73,6 +73,8 @@
 - [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
 - [Trade and Development Report](#trade-and-development-report)
 - [UNESCO Science Report](#unesco-science-report)
+- [UNHCR Global Report](#unhcr-global-report)
+- [UNHCR Global Trends](#unhcr-global-trends)
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
@@ -1507,6 +1509,59 @@
 - 1998 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000112616/PDF/112616engo.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/world-science-report-1998/))
 - 1996 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000102819/PDF/102819engo.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/world-science-report-1996/))
 - 1993 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000095612/PDF/095612engo.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/science-technology/prospective-studies/unesco-science-report/world-science-report-1993/))
+
+
+
+## UNHCR Global Report
+
+> United Nations Refugee Agency (UNHCR) ([source](https://reporting.unhcr.org/publications#tab-global_report))
+
+- 2019 UNHCR Global Report – A decade of crisis, a decade of opportunity ([full](https://reporting.unhcr.org/sites/default/files/gr2019/pdf/GR2019_English_Full_lowres.pdf#_ga=2.213976535.1589141853.1597860876-110329596.1597860876), [summary](https://reporting.unhcr.org/sites/default/files/gr2019/pdf/01_Intro.pdf), [web](https://www.unhcr.org/globalreport2019/))
+- 2018 UNHCR Global Report – A moment of transition ([full](https://reporting.unhcr.org/sites/default/files/gr2018/pdf/GR2018_English_Full_lowres.pdf))
+- 2017 UNHCR Global Report – A world in turmoil ([full](https://reporting.unhcr.org/sites/default/files/gr2017/pdf/GR2017_English_Full_lowres.pdf))
+- 2016 UNHCR Global Report – A watershed moment ([full](https://reporting.unhcr.org/sites/default/files/gr2016/pdf/Book_GR_2016_ENGLISH_complete.pdf))
+- 2015 UNHCR Global Report – Every life matters ([full](https://reporting.unhcr.org/sites/default/files/GR_2015_Eng.pdf))
+- 2014 UNHCR Global Report
+- 2013 UNHCR Global Report
+- 2012 UNHCR Global Report
+- 2011 UNHCR Global Report
+- 2010 UNHCR Global Report
+- 2009 UNHCR Global Report
+- 2008 UNHCR Global Report
+- 2007 UNHCR Global Report
+- 2006 UNHCR Global Report
+- 2005 UNHCR Global Report
+- 2004 UNHCR Global Report
+- 2003 UNHCR Global Report
+- 2002 UNHCR Global Report
+- 2001 UNHCR Global Report
+- 2000 UNHCR Global Report
+- 1999 UNHCR Global Report
+- 1998 UNHCR Global Report
+
+
+
+## UNHCR Global Trends
+
+> United Nations Refugee Agency (UNHCR) ([source](https://www.unhcr.org/search?comid=56b079c44&&cid=49aea93aba&tags=globaltrends))
+
+- 2019 UNHCR Global Trends ([full](https://www.unhcr.org/5ee200e37.pdf), [web](https://www.unhcr.org/globaltrends2019/))
+- 2018 UNHCR Global Trends ([full](https://www.unhcr.org/5d08d7ee7.pdf))
+- 2017 UNHCR Global Trends ([full](https://www.unhcr.org/5b27be547.pdf))
+- 2016 UNHCR Global Trends ([full](https://www.unhcr.org/5943e8a34.pdf))
+- 2015 UNHCR Global Trends ([full](https://www.unhcr.org/576408cd7.pdf))
+- 2014 UNHCR Global Trends ([full](https://www.unhcr.org/556725e69.pdf))
+- 2013 UNHCR Global Trends ([full](https://www.unhcr.org/5399a14f9.pdf))
+- 2012 UNHCR Global Trends – Displacement: The new 21st century challenge ([full](https://www.unhcr.org/51bacb0f9.pdf))
+- 2011 UNHCR Global Trends – A year of crises ([full](https://www.unhcr.org/4fd6f87f9.pdf))
+- 2010 UNHCR Global Trends – 60 years and still counting ([full](https://www.unhcr.org/4dfa11499.pdf))
+- 2009 UNHCR Global Trends ([full](https://www.unhcr.org/4c11f0be9.pdf))
+- 2008 UNHCR Global Trends ([full](https://www.unhcr.org/4a375c426.pdf))
+- 2007 UNHCR Global Trends ([full](https://www.unhcr.org/4852366f2.pdf))
+- 2006 UNHCR Global Trends ([full](https://reliefweb.int/sites/reliefweb.int/files/resources/E4824E2E535B9222C12572FF0047A41D-unhcr-refugees-jun2007.pdf))
+- 2005 UNHCR Global Refugee Trends ([full](https://www.unhcr.org/4486ceb12.pdf))
+- 2004 UNHCR Global Refugee Trends ([full](https://www.unhcr.org/42b283744.pdf))
+- 2003 UNHCR Global Refugee Trends ([full](https://www.unhcr.org/40d015fb4.pdf))
 
 
 
