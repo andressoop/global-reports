@@ -39,6 +39,7 @@
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
+- [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
 - [Human Development Report](#human-development-report)
 - [International Debt Statistics](#international-debt-statistics)
@@ -712,6 +713,16 @@
 - 2016 Global Sustainable Development Report ([full](https://sustainabledevelopment.un.org/content/documents/2328Global%20Sustainable%20development%20report%202016%20(final).pdf), [summary](https://sustainabledevelopment.un.org/content/documents/10816Executive_Summary_GSDR2016_booklet.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2016))
 - 2015 Global Sustainable Development Report ([full](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf), [summary](https://sustainabledevelopment.un.org/content/documents/1870GSDR%202015%20Briefs.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2015))
 - 2014 Global Sustainable Development Report – Prototype edition ([full](https://sustainabledevelopment.un.org/content/documents/1454Prototype%20Global%20SD%20Report2.pdf), [summary](https://sustainabledevelopment.un.org/content/documents/1449GSDR%20Executive%20Summary.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2014))
+
+
+
+## Global Trends
+
+> Ipsos ([source](https://www.ipsosglobaltrends.com/))
+
+- 2020 Global Trends – Understanding complexity ([full](https://www.ipsos.com/sites/default/files/ct/publication/documents/2020-02/ipsos-global-trends-2020-understanding-complexity.pdf), [web](https://www.ipsosglobaltrends.com/))
+- 2017 Global Trends – Fragmentation, cohesion & uncertainty ([full](http://assets.ipsos-mori.com/gts/ipsos-gts-report.pdf), [web](https://www.ipsosglobaltrends.com/category/global-trends-2017/))
+- 2014 Global Trends – Navigating the new ([full](https://www.ipsos.com/sites/default/files/publication/1970-01/ipsos-mori-global-trends-2014.pdf), [web](https://www.ipsos.com/ipsos-mori/en-uk/ipsos-global-trends-2014-navigating-new))
 
 
 
