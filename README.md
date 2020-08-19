@@ -59,6 +59,7 @@
 - [The Global Enabling Trade Report](#the-global-enabling-trade-report)
 - [The Global Risks Report](#the-global-risks-report)
 - [The Least Developed Countries Report](#the-least-developed-countries-report)
+- [The Network Readiness Index](#the-network-readiness-index)
 - [The State of Agricultural Commodity Markets](#the-state-of-agricultural-commodity-markets)
 - [The State of Artistic Freedom](#the-state-of-artistic-freedom)
 - [The State of Food and Agriculture](#the-state-of-food-and-agriculture)
@@ -1137,6 +1138,29 @@
 - 1997 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1997_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=113))
 - 1996 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1996_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=109))
 - 1995 The Least Developed Countries Report ([summary](https://unctad.org/en/Docs/tb41(2)d4.en.pdf))
+
+
+
+## The Network Readiness Index
+
+> Portulans Institute, World Economic Forum ([source 1](https://www.weforum.org/reports?utf8=%E2%9C%93&query=global+information+technology+report), [source 2](https://networkreadinessindex.org/))
+
+- 2019 The Network Readiness Index – Towards a future-ready society ([full](https://networkreadinessindex.org/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf), [summary](https://networkreadinessindex.org/wp-content/uploads/2019/12/2019-NRI-Executive-Summary-1.pdf), [web](https://networkreadinessindex.org/nri-2019-analysis/))
+- 2016 The Global Information Technology Report – Innovating in the digital economy ([full](http://www3.weforum.org/docs/GITR2016/GITR_2016_full%20report_final.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2016))
+- 2015 The Global Information Technology Report – ICTs for inclusive growth ([full](http://www3.weforum.org/docs/WEF_GITR2015.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2015))
+- 2014 The Global Information Technology Report – Rewards and risks of big data ([full](http://www3.weforum.org/docs/WEF_GlobalInformationTechnology_Report_2014.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2014))
+- 2013 The Global Information Technology Report – Growth and jobs in a hyperconnected world ([full](http://www3.weforum.org/docs/WEF_GITR_Report_2013.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2013))
+- 2012 The Global Information Technology Report – Living in a hyperconnected world ([full](http://www3.weforum.org/docs/Global_IT_Report_2012.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2012))
+- 2010/11 The Global Information Technology Report – Transformations 2.0 ([full](https://www.darden.virginia.edu/sites/default/files/inline-files/WEF_GITR_Report_2011.pdf), [web](https://www.weforum.org/reports/the-global-information-technology-report-2010-2011-92ced800-3995-4962-9c77-c5830c012c1c))
+- 2009/10 The Global Information Technology Report – ICT for sustainability ([full](https://www.itu.int/net/wsis/implementation/2010/forum/geneva/docs/publications/GITR%202009-2010_Full_Report_final.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2009-2010))
+- 2008/09 The Global Information Technology Report – Mobility in a networked world ([full](https://joinup.ec.europa.eu/sites/default/files/document/2014-12/Global%20Information%20Technology%20Report%202008-2009%20-%20Mobility%20in%20a%20Networked%20World.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2008-2009))
+- 2007/08 The Global Information Technology Report ([summary](https://joinup.ec.europa.eu/sites/default/files/document/2014-12/GITR%202007-2008%20-%20Executive%20Summary.pdf)) 
+- 2006/07 The Global Information Technology Report ([summary](https://www.scribd.com/document/6295859/Global-Information-Technology-Report-2006-2007-Executive-Summary)) 
+- 2005/06 The Global Information Technology Report ([summary](https://www.scribd.com/document/6295871/Global-Information-Technology-Report-2005-2006-Executive-Summary)) 
+- 2004/05 The Global Information Technology Report ([summary](https://www.scribd.com/document/6295869/Global-Information-Technology-Report-2004-2005-Executive-Summary)) 
+- 2003/04 The Global Information Technology Report ([summary](https://www.scribd.com/document/6295868/Global-Information-Technology-Report-2003-2004-Executive-Summary)) 
+- 2002/03 The Global Information Technology Report
+- 2001/02 The Global Information Technology Report – Readiness for the networked world ([full](http://www.caribbeanelections.com/eDocs/development_reports/gitr_2001_2002.pdf), [summary](https://cyber.harvard.edu/itg/libpubs/gitrr2002_execsumm.pdf)) 
 
 
 
