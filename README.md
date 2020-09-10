@@ -40,6 +40,7 @@
 - [Global Gender Gap Report](#global-gender-gap-report)
 - [Global Hunger Index](#global-hunger-index)
 - [Global Innovation Index](#global-innovation-index)
+- [Global Microscope](#global-microscope)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
@@ -751,6 +752,24 @@
 - 2009/10 Global Innovation Index ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2009-2010-Report.pdf))
 - 2008/09 Global Innovation Index ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2008-2009-Report.pdf))
 - 2007 Global Innovation Index ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2007-Report.pdf))
+
+
+
+## Global Microscope
+
+> Economist Intelligence Unit ([source](http://www.eiu.com/landing/Global-Microscope))
+
+- 2019 Global Microscope ([full](http://www.eiu.com/Handlers/WhitepaperHandler.ashx?fi=EIU_Global_Microscope_2019.pdf&mode=wp&campaignid=microscope2019), [web](http://www.eiu.com/public/thankyou_download.aspx?activity=download&campaignid=microscope2019))
+- 2018 Global Microscope ([full](http://graphics.eiu.com//assets/images/public/global-microscope-2018/EIU_Microscope_2018_PROOF_10.pdf))
+- 2017 n/a
+- 2016 Global Microscope ([full](http://graphics.eiu.com//assets/images/public/global-microscope-2016/EIU_Microscope_2016_English_web.pdf))
+- 2015 Global Microscope ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/EIU-Microscope-Dec-2015.pdf))
+- 2014 Global Microscope ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/EIU_MICROFINANCE_2014_Final.pdf))
+- 2013 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/EIU_MICROFINANCE_2013_WEBr1.pdf))
+- 2012 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2012.pdf))
+- 2011 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2011.pdf))
+- 2010 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2010.pdf))
+- 2009 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2009.pdf))
 
 
 
