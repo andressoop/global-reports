@@ -39,6 +39,7 @@
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
 - [Global Hunger Index](#global-hunger-index)
+- [Global Innovation Index](#global-innovation-index)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
@@ -730,6 +731,26 @@
 - 2008 Global Hunger Index ([full](https://www.globalhungerindex.org/pdf/en/2008.pdf))
 - 2007 Global Hunger Index ([full](https://www.globalhungerindex.org/pdf/en/2007.pdf))
 - 2006 Global Hunger Index ([full](https://www.globalhungerindex.org/pdf/en/2006.pdf))
+
+
+
+## Global Innovation Index
+
+> Cornell University, INSEAD, World Intellectual Property Organization ([source](https://www.globalinnovationindex.org/about-gii#reports))
+
+- 2020 Global Innovation Index – Who will finance innovation? ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII_2020_Full_body_R_58.pdf), [summary](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII_2020_Executive_R_58.pdf), [web](https://www.globalinnovationindex.org/gii-2020-report))
+- 2019 Global Innovation Index – Creating healthy lives: The future of medical innovation ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/gii-full-report-2019.pdf), [summary](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII%202019-Executive-Web.4.pdf))
+- 2018 Global Innovation Index – Energizing the world with innovation ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/gii_2018-report-new.pdf), [summary](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII-2018_Oct_Executive.pdf))
+- 2017 Global Innovation Index – Innovation feeding the world ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/gii-full-report-2017.pdf))
+- 2016 Global Innovation Index – Winning with global innovation ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/gii-full-report-2016-v1.pdf))
+- 2015 Global Innovation Index – Effective innovation policies for development ([full](https://www.wipo.int/edocs/pubdocs/en/wipo_gii_2015.pdf))
+- 2014 Global Innovation Index – The human factor in innovation ([full](https://www.wipo.int/edocs/pubdocs/en/economics/gii/gii_2014.pdf))
+- 2013 Global Innovation Index – The local dynamics of innovation ([full](https://www.wipo.int/edocs/pubdocs/en/economics/gii/gii_2013.pdf))
+- 2012 Global Innovation Index – Stronger innovation linkages for global growth ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2012-Report.pdf))
+- 2011 Global Innovation Index – Accelerating growth and development ([full](https://www.wipo.int/edocs/pubdocs/en/economics/gii/gii_2011.pdf))
+- 2009/10 Global Innovation Index ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2009-2010-Report.pdf))
+- 2008/09 Global Innovation Index ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2008-2009-Report.pdf))
+- 2007 Global Innovation Index ([full](https://www.globalinnovationindex.org/userfiles/file/GII-2007-Report.pdf))
 
 
 
