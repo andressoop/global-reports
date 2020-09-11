@@ -41,6 +41,7 @@
 - [Global Hunger Index](#global-hunger-index)
 - [Global Innovation Index](#global-innovation-index)
 - [Global Microscope](#global-microscope)
+- [Global Nutrition Report](#global-nutrition-report)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
@@ -770,6 +771,20 @@
 - 2011 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2011.pdf))
 - 2010 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2010.pdf))
 - 2009 Global Microscope on the Microfinance Business Environment ([full](http://graphics.eiu.com//assets/images/public/microscope_on_microfinance_2014/Microfinance_ENG_WEB_2009.pdf))
+
+
+
+## Global Nutrition Report
+
+> World Health Organization ([source](https://globalnutritionreport.org/reports/))
+
+- 2020 Global Nutrition Report – Action on equity to end malnutrition ([full](https://globalnutritionreport.org/documents/566/2020_Global_Nutrition_Report_2hrssKo.pdf), [summary](https://globalnutritionreport.org/documents/575/Executive_Summary_2020_Global_Nutrition_Report.pdf), [web](https://globalnutritionreport.org/reports/2020-global-nutrition-report/))
+- 2019 n/a
+- 2018 Global Nutrition Report – Shining a light to spur action on nutrition ([full](https://globalnutritionreport.org/documents/352/2018_Global_Nutrition_Report.pdf), [summary](https://globalnutritionreport.org/documents/344/2018_Global_Nutrition_Report_Executive_Summary.pdf), [web](https://globalnutritionreport.org/reports/global-nutrition-report-2018/))
+- 2017 Global Nutrition Report – Nourishing the SDGs ([full](https://globalnutritionreport.org/documents/2/Report_2017.pdf), [web](https://globalnutritionreport.org/reports/2017-global-nutrition-report/))
+- 2016 Global Nutrition Report – From promise to impact: Ending malnutrition by 2030 ([full](https://globalnutritionreport.org/documents/9/English_full_report.pdf), [web](https://globalnutritionreport.org/reports/2016-global-nutrition-report/))
+- 2015 Global Nutrition Report – Actions and accountability to advance nutrition & sustainable development ([full](https://globalnutritionreport.org/documents/13/english_15.pdf), [web](https://globalnutritionreport.org/reports/2015-global-nutrition-report/))
+- 2014 Global Nutrition Report – Actions and accountability to accelerate the world's progress on nutrition ([full](https://globalnutritionreport.org/documents/5/128695.pdf), [web](https://globalnutritionreport.org/reports/2014-global-nutrition-report/))
 
 
 
