@@ -45,6 +45,7 @@
 - [Global Nutrition Report](#global-nutrition-report)
 - [Global Peace Index](#global-peace-index)
 - [Global Report on Food Crises](#global-report-on-food-crises)
+- [Global Report on Internal Displacement](#global-report-on-internal-displacement)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Terrorism Index](#global-terrorism-index)
 - [Global Trends](#global-trends)
@@ -829,6 +830,18 @@
 - 2019 Global Report on Food Crises ([full](http://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2019-Full_Report.pdf), [summary](https://docs.wfp.org/api/documents/WFP-0000104037/download/?_ga=2.179163876.1938373231.1599842970-1612731650.1597244470), [web](https://www.fsinplatform.org/report/global-report-food-crisis-2019/))
 - 2018 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Full_report_EN_Low_resolution.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Key_messages_EN.pdf))
 - 2017 Global Report on Food Crises ([full](https://documents.wfp.org/stellent/groups/public/documents/ena/wfp291271.pdf?_ga=2.150402166.1938373231.1599842970-1612731650.1597244470), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/a-br324e.pdf))
+
+
+
+## Global Report on Internal Displacement
+
+> Internal Displacement Monitoring Centre ([source](https://www.internal-displacement.org/publications?search_api_fulltext=%22Global+Report+on+Internal+Displacement%22))
+
+- 2020 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/sites/default/files/publications/documents/2020-IDMC-GRID.pdf), [summary](https://www.internal-displacement.org/sites/default/files/publications/documents/2020-IDMC-GRID-executive-summary.pdf), [web](https://www.internal-displacement.org/global-report/grid2020/))
+- 2019 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/sites/default/files/publications/documents/2019-IDMC-GRID.pdf), [summary](https://www.internal-displacement.org/sites/default/files/2019-IDMC-GRID-Summary.pdf), [web](https://www.internal-displacement.org/global-report/grid2019/))
+- 2018 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/global-report/grid2018/downloads/2018-GRID.pdf), [summary](https://www.internal-displacement.org/global-report/grid2018/downloads/misc/2018-GRID-Highlights-EN.pdf), [web](https://www.internal-displacement.org/global-report/grid2018/))
+- 2017 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/global-report/grid2017/pdfs/2017-GRID.pdf), [summary](https://www.internal-displacement.org/global-report/grid2017/pdfs/2017-IDMC-mini-Global-Report.pdf), [web](https://www.internal-displacement.org/global-report/grid2017/))
+- 2016 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/sites/default/files/inline-files/2016-global-report-internal-displacement-IDMC.pdf), [web](https://www.internal-displacement.org/globalreport2016/))
 
 
 
