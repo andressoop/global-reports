@@ -44,6 +44,7 @@
 - [Global Microscope](#global-microscope)
 - [Global Nutrition Report](#global-nutrition-report)
 - [Global Peace Index](#global-peace-index)
+- [Global Report on Food Crises](#global-report-on-food-crises)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Terrorism Index](#global-terrorism-index)
 - [Global Trends](#global-trends)
@@ -817,6 +818,17 @@
 - 2009 Global Peace Index ([full](https://www.files.ethz.ch/isn/126266/2009-GPIResultsReport.pdf))
 - 2008 Global Peace Index ([full](https://www.vredesmuseum.nl/download/vredesindex2008.pdf))
 - 2007 Global Peace Index
+
+
+
+## Global Report on Food Crises
+
+> Global Network Against Food Crisis, Food Security Information Network ([source](https://www.fsinplatform.org/resources-search?field_language=All&field_publication_type=21&field_publication_year=All&search_api_fulltext=%22Global+Report+on+Food+Crises%22))
+
+- 2020 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_ONLINE_200420_FINAL.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_KM_Eng_1_0.pdf), [web](https://www.fsinplatform.org/report/global-report-food-crises-2020/))
+- 2019 Global Report on Food Crises ([full](http://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2019-Full_Report.pdf), [summary](https://docs.wfp.org/api/documents/WFP-0000104037/download/?_ga=2.179163876.1938373231.1599842970-1612731650.1597244470), [web](https://www.fsinplatform.org/report/global-report-food-crisis-2019/))
+- 2018 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Full_report_EN_Low_resolution.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Key_messages_EN.pdf))
+- 2017 Global Report on Food Crises ([full](https://documents.wfp.org/stellent/groups/public/documents/ena/wfp291271.pdf?_ga=2.150402166.1938373231.1599842970-1612731650.1597244470), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/a-br324e.pdf))
 
 
 
