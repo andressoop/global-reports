@@ -47,6 +47,7 @@
 - [Global Report on Food Crises](#global-report-on-food-crises)
 - [Global Report on Internal Displacement](#global-report-on-internal-displacement)
 - [Global Report on Trafficking in Persons](#global-report-on-trafficking-in-persons)
+- [Global Retail Development Index](#global-retail-development-index)
 - [Global Study on Homicide](#global-study-on-homicide)
 - [Global Study on Smuggling of Migrants](#global-study-on-smuggling-of-migrants)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
@@ -861,6 +862,29 @@
 - 2014 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/data-and-analysis/glotip/GLOTIP_2014_full_report.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/glotip/GLOTIP14_ExSum_english.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2014.html))
 - 2012 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/data-and-analysis/glotip/Trafficking_in_Persons_2012_web.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/glotip/Executive_Summary_English.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2012.html))
 - 2009 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/human-trafficking/Global_Report_on_TIP.pdf), [summary](https://www.unodc.org/documents/human-trafficking/TIP_Executive_summaries.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2009.html))
+
+
+
+## Global Retail Development Index
+
+> A.T. Kearney ([source](https://www.kearney.com/global-retail-development-index))
+
+- 2019 Global Retail Development Index – A mix of new consumers and old traditions ([full](https://www.kearney.com/documents/20152/5005160/2019+Global+Retail+Growth+%E2%80%93+A+Mix+of+New+Consumers+and+Old+Traditions.pdf/79ba4703-03d2-4132-6432-ebfc493c75e3?t=1578678903535), [web](https://www.kearney.com/global-retail-development-index/2019))
+- 2018 n/a
+- 2017 Global Retail Development Index – The age of focus ([full](https://www.kearney.com/documents/20152/5004980/The+Age+of+Focus%E2%80%93The+2017+Global+Retail+Development+Index.pdf/d99729b6-f190-2f4d-c7e6-aca980eaf31a?t=1578678892409), [web](https://www.kearney.com/global-retail-development-index/article/?/a/the-age-of-focus-2017-full-study))
+- 2016 Global Retail Development Index – Global retail expansion at a crossroads ([full](https://www.kearney.com/documents/20152/5004989/2016+-+Global+Retail+Expansion+at+a+Crossroads.pdf/2a4cde48-ef34-f3df-cc79-2465416ca1d3?t=1578678894577))
+- 2015 Global Retail Development Index – Global retails expansion: An unstoppable force ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2015.pdf/aa5f3909-9f68-23ae-c9db-347b662fe583?t=1578678894465))
+- 2014 Global Retail Development Index – Full steam ahead for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2014.pdf/5f3284da-da8c-68d7-f2ba-31e000855e69?t=1578678894365))
+- 2013 Global Retail Development Index – Global retailers: Cautiously aggressive or aggressively cautious ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2013.pdf/b8699270-39fc-535d-55c5-0c14baa66b95?t=1578678894263))
+- 2012 Global Retail Development Index – Global retail expansion: Keeps on moving ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2012.pdf/fe81e872-17c5-6b8f-ce17-2a6aa2e66a34?t=1497369322678))
+- 2011 Global Retail Development Index – Retail global expansion: A portfolio of opportunities ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2011.pdf/128d0e98-5ab2-439b-a51e-357179a88048?t=1578678894073))
+- 2010 Global Retail Development Index – Expanding opportunities for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2010.pdf/e388c413-6118-dc5b-1cae-64ae217f375f?t=1578678893994))
+- 2009 Global Retail Development Index – Windows of hope for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2009.pdf/309de98a-e35f-c73a-2c59-bd84f0897476?t=1578678893906))
+- 2008 Global Retail Development Index – Emerging opportunities for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2008.pdf/39bfdd10-7096-2c29-6627-c71b6b886f0d?t=1497369195686))
+- 2007 Global Retail Development Index – Growth opportunities for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2007.pdf/1c0edf85-8ddb-662b-159e-a44e05d8bcf4?t=1497369185313))
+- 2006 Global Retail Development Index – Emerging market priorities for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI_2006.pdf/d59ec4ce-e54c-8bfb-9c55-b13f153c78a8?t=1497369170955))
+- 2005 Global Retail Development Index – Emerging market priorities for global retailers ([full](https://www.scribd.com/document/464807973/GRDI-2005AT-Kearney#fullscreen=1))
+- 2004 Global Retail Development Index – Emerging market priorities for global retailers ([full](https://www.kearney.com/documents/20152/5004989/GRDI2004Monograph_s.pdf/bb426def-d3ba-9016-347a-e5cb87b3c79b?t=1497369148030))
 
 
 
