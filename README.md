@@ -46,6 +46,9 @@
 - [Global Peace Index](#global-peace-index)
 - [Global Report on Food Crises](#global-report-on-food-crises)
 - [Global Report on Internal Displacement](#global-report-on-internal-displacement)
+- [Global Report on Trafficking in Persons](#global-report-on-trafficking-in-persons)
+- [Global Study on Homicide](#global-study-on-homicide)
+- [Global Study on Smuggling of Migrants](#global-study-on-smuggling-of-migrants)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
 - [Global Terrorism Index](#global-terrorism-index)
 - [Global Trends](#global-trends)
@@ -85,6 +88,7 @@
 - [UNHCR Global Trends](#unhcr-global-trends)
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
+- [World Drug Report](#world-drug-report)
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
 - [World Employment and Social Outlook](#world-employment-and-social-outlook)
 - [World Energy Outlook](#world-energy-outlook)
@@ -95,6 +99,7 @@
 - [World Social Report](#world-social-report)
 - [World Social Science Report](#world-social-science-report)
 - [World Water Development Report](#world-water-development-report)
+- [World Wildlife Crime Report](#world-wildlife-crime-report)
 - [World Youth Report](#world-youth-report)
 - [Worldwide Cost of Living](#worldwide-cost-of-living)
 
@@ -842,6 +847,44 @@
 - 2018 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/global-report/grid2018/downloads/2018-GRID.pdf), [summary](https://www.internal-displacement.org/global-report/grid2018/downloads/misc/2018-GRID-Highlights-EN.pdf), [web](https://www.internal-displacement.org/global-report/grid2018/))
 - 2017 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/global-report/grid2017/pdfs/2017-GRID.pdf), [summary](https://www.internal-displacement.org/global-report/grid2017/pdfs/2017-IDMC-mini-Global-Report.pdf), [web](https://www.internal-displacement.org/global-report/grid2017/))
 - 2016 Global Report on Internal Displacement ([full](https://www.internal-displacement.org/sites/default/files/inline-files/2016-global-report-internal-displacement-IDMC.pdf), [web](https://www.internal-displacement.org/globalreport2016/))
+
+
+
+## Global Report on Trafficking in Persons
+
+> United Nations Office on Drugs and Crime ([source](https://www.unodc.org/unodc/en/data-and-analysis/glotip.html))
+
+- 2018 Global Report on Trafficking in Persons ([web](https://www.unodc.org/unodc/en/data-and-analysis/glotip.html))
+  - Booklet 1 – Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/data-and-analysis/glotip/2018/GLOTiP_2018_BOOK_web_small.pdf))
+  - Booklet 2 – Trafficking in Persons in the context of armed conflict ([full](https://www.unodc.org/documents/data-and-analysis/glotip/2018/GloTIP2018_BOOKLET_2_Conflict.pdf))
+- 2016 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/data-and-analysis/glotip/2016_Global_Report_on_Trafficking_in_Persons.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2016.html))
+- 2014 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/data-and-analysis/glotip/GLOTIP_2014_full_report.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/glotip/GLOTIP14_ExSum_english.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2014.html))
+- 2012 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/data-and-analysis/glotip/Trafficking_in_Persons_2012_web.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/glotip/Executive_Summary_English.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2012.html))
+- 2009 Global Report on Trafficking in Persons ([full](https://www.unodc.org/documents/human-trafficking/Global_Report_on_TIP.pdf), [summary](https://www.unodc.org/documents/human-trafficking/TIP_Executive_summaries.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glotip_2009.html))
+
+
+
+## Global Study on Homicide
+
+> United Nations Office on Drugs and Crime ([source](https://www.unodc.org/unodc/en/data-and-analysis/global-study-on-homicide.html))
+
+- 2019 Global Study on Homicide ([web](https://www.unodc.org/unodc/en/data-and-analysis/global-study-on-homicide.html))
+  - Booklet 1 – Executive summary ([full](https://www.unodc.org/documents/data-and-analysis/gsh/Booklet1.pdf))
+  - Booklet 2 – Homicide trends, patterns and criminal justice response ([full](https://www.unodc.org/documents/data-and-analysis/gsh/Booklet2.pdf))
+  - Booklet 3 – Understanding homicide ([full](https://www.unodc.org/documents/data-and-analysis/gsh/Booklet_3.pdf))
+  - Booklet 4 – Homicide, development and the Sustainable Development Goals ([full](https://www.unodc.org/documents/data-and-analysis/gsh/Booklet_4.pdf))
+  - Booklet 5 – Gender-related killing of women and girls ([full](https://www.unodc.org/documents/data-and-analysis/gsh/Booklet_5.pdf))
+  - Booklet 6 – Killing of children and young adults ([full](https://www.unodc.org/documents/data-and-analysis/gsh/Booklet_6new.pdf))
+- 2013 Global Study on Homicide ([full](https://www.unodc.org/documents/gsh/pdfs/2014_GLOBAL_HOMICIDE_BOOK_web.pdf))
+- 2011 Global Study on Homicide ([full](https://www.unodc.org/documents/data-and-analysis/statistics/Homicide/Globa_study_on_homicide_2011_web.pdf))
+
+
+
+## Global Study on Smuggling of Migrants
+
+> United Nations Office on Drugs and Crime ([source](https://www.unodc.org/unodc/en/data-and-analysis/glosom.html))
+
+- 2018 Global Study on Smuggling of Migrants ([full](https://www.unodc.org/documents/data-and-analysis/glosom/GLOSOM_2018_web_small.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/glosom/GLOSOM_2018_ExecutiveSummary_web_small.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/glosom.html))
 
 
 
@@ -1755,6 +1798,59 @@
 
 
 
+## World Drug Report
+
+> United Nations Office on Drugs and Crime ([source](https://wdr.unodc.org/wdr2020/en/previous-reports.html))
+
+- 2020 World Drug Report ([web](https://wdr.unodc.org/wdr2020/)) 
+  - Booklet 1 – Executive summary, impact of COVID-19, policy implications ([full](https://wdr.unodc.org/wdr2020/field/WDR20_BOOKLET_1.pdf), [web](https://wdr.unodc.org/wdr2020/en/exsum.html))
+  - Booklet 2 – Drug use and health consequences ([full](https://wdr.unodc.org/wdr2020/field/WDR20_Booklet_2.pdf), [web](https://wdr.unodc.org/wdr2020/en/drug-use-health.html))
+  - Booklet 3 – Drug supply ([full](https://wdr.unodc.org/wdr2020/field/WDR20_Booklet_3.pdf), [web](https://wdr.unodc.org/wdr2020/en/drug-supply.html))
+  - Booklet 4 – Cross-cutting issues: Evolving trends and new challenges ([full](https://wdr.unodc.org/wdr2020/field/WDR20_BOOKLET_4.pdf), [web](https://wdr.unodc.org/wdr2020/en/cross-cutting.html))
+  - Booklet 5 – Socioeconomic characteristics and drug use disorders ([full](https://wdr.unodc.org/wdr2020/field/WDR20_Booklet_5.pdf), [web](https://wdr.unodc.org/wdr2020/en/socioeconomic.html))
+  - Booklet 6 –  Other drug policy issues ([full](https://wdr.unodc.org/wdr2020/field/WDR20_BOOKLET_6.pdf), [web](https://wdr.unodc.org/wdr2020/en/other-drug-policy-issues.html))
+- 2019 World Drug Report ([web](https://wdr.unodc.org/wdr2019/))
+  - Booklet 1 – Executive summary, conclusions and policy implications ([full](https://wdr.unodc.org/wdr2019/prelaunch/WDR19_Booklet_1_EXECUTIVE_SUMMARY.pdf), [web](https://wdr.unodc.org/wdr2019/en/exsum.html))
+  - Booklet 2 – Global overview of drug demand and supply ([full](https://wdr.unodc.org/wdr2019/prelaunch/WDR19_Booklet_2_DRUG_DEMAND.pdf), [web](https://wdr.unodc.org/wdr2019/en/drug-demand-and-supply.html))
+  - Booklet 3 – Depressants ([full](https://wdr.unodc.org/wdr2019/prelaunch/WDR19_Booklet_3_DEPRESSANTS.pdf), [web](https://wdr.unodc.org/wdr2019/en/depressants.html))
+  - Booklet 4 – Stimulants ([full](https://wdr.unodc.org/wdr2019/prelaunch/WDR19_Booklet_4_STIMULANTS.pdf), [web](https://wdr.unodc.org/wdr2019/en/stimulants.html))
+  - Booklet 5 – Cannabis and hallucinogens ([full](https://wdr.unodc.org/wdr2019/prelaunch/WDR19_Booklet_5_CANNABIS_HALLUCINOGENS.pdf), [web](https://wdr.unodc.org/wdr2019/en/cannabis-and-hallucinogens.html))
+- 2018 World Drug Report ([web](https://www.unodc.org/wdr2018/)) 
+  - Booklet 1 – Executive summary, conclusions and policy implications ([full](https://www.unodc.org/wdr2018/prelaunch/WDR18_Booklet_1_EXSUM.pdf), [web](https://www.unodc.org/wdr2018/en/exsum.html))
+  - Booklet 2 – Global overview of drug demand and supply: Latest trends, cross-cutting issues ([full](https://www.unodc.org/wdr2018/prelaunch/WDR18_Booklet_2_GLOBAL.pdf), [web](https://www.unodc.org/wdr2018/en/drug-demand-and-supply.html))
+  - Booklet 3 – Analysis of drug markets: Opiates, cocaine, cannabis, synthetic drugs ([full](https://www.unodc.org/wdr2018/prelaunch/WDR18_Booklet_3_DRUG_MARKETS.pdf), [web](https://www.unodc.org/wdr2018/en/drug-markets.html))
+  - Booklet 4 – Drugs and age: Drugs and associated issues among young people and older people ([full](https://www.unodc.org/wdr2018/prelaunch/WDR18_Booklet_4_YOUTH.pdf), [web](https://www.unodc.org/wdr2018/en/drugs-and-age.html))
+  - Booklet 5 – Women and drugs: Drug use, drug supply and their consequences ([full](https://www.unodc.org/wdr2018/prelaunch/WDR18_Booklet_5_WOMEN.pdf), [web](https://www.unodc.org/wdr2018/en/women-and-drugs.html))
+- 2017 World Drug Report ([web](https://www.unodc.org/wdr2017/)) 
+  - Booklet 1 – Executive summary, conclusions and policy implications ([full](https://www.unodc.org/wdr2017/field/Booklet_1_EXSUM.pdf), [web](https://www.unodc.org/wdr2017/en/exsum.html))
+  - Booklet 2 – Global overview of drug demand and supply: Latest trends, cross-cutting issues ([full](https://www.unodc.org/wdr2017/field/Booklet_2_HEALTH.pdf), [web](https://www.unodc.org/wdr2017/en/drug-demand-and-supply.html))
+  - Booklet 3 – Market analysis of plant-based drugs: Opiates, cocaine, cannabis ([full](https://www.unodc.org/wdr2017/field/Booklet_3_Plantbased.pdf), [web](https://www.unodc.org/wdr2017/en/plant_based.html))
+  - Booklet 4 – Market analysis of synthetic drugs: Amphetamine-type stimulants, new psychoactive substances ([full](https://www.unodc.org/wdr2017/field/Booklet_4_ATSNPS.pdf), [web](https://www.unodc.org/wdr2017/en/ats.html))
+  - Booklet 5 – The drug problem and organized crime, illicit financial flows, corruption and terrorism ([full](https://www.unodc.org/wdr2017/field/Booklet_5_NEXUS.pdf), [web](https://www.unodc.org/wdr2017/en/drug-problem.html))
+- 2016 World Drug Report ([full](https://www.unodc.org/doc/wdr2016/WORLD_DRUG_REPORT_2016_web.pdf), [summary](https://www.unodc.org/doc/wdr2016/WDR_2016_ExSum_english.pdf), [web](https://www.unodc.org/wdr2016/))
+- 2015 World Drug Report ([full](https://www.unodc.org/documents/wdr2015/World_Drug_Report_2015.pdf), [summary](https://www.unodc.org/documents/wdr2015/WDR15_ExSum.pdf), [web](https://www.unodc.org/wdr2015/))
+- 2014 World Drug Report ([full](https://www.unodc.org/documents/wdr2014/World_Drug_Report_2014_web.pdf), [summary](https://www.unodc.org/documents/wdr2014/World_Drug_Report_2014_exsum.pdf), [web](https://www.unodc.org/wdr2014/))
+- 2013 World Drug Report ([full](https://www.unodc.org/doc/wdr2013/World_Drug_Report_2013.pdf), [summary](https://www.unodc.org/unodc/secured/wdr/wdr2013/Executive_summary.pdf), [web](https://www.unodc.org/wdr2013/))
+- 2012 World Drug Report ([full](https://www.unodc.org/documents/data-and-analysis/WDR2012/WDR_2012_web_small.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/WDR2012/Executive_summary_24may.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2012.html))
+- 2011 World Drug Report ([full](https://www.unodc.org/documents/data-and-analysis/WDR2011/World_Drug_Report_2011_ebook.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/WDR2011/WDR2011-ExSum.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2011.html))
+- 2010 World Drug Report ([full](https://www.unodc.org/documents/wdr/WDR_2010/World_Drug_Report_2010_lo-res.pdf), [summary](https://www.unodc.org/documents/wdr/WDR_2010/Executive_summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2010.html))
+- 2009 World Drug Report ([full](https://www.unodc.org/documents/wdr/WDR_2009/WDR2009_eng_web.pdf), [summary](https://www.unodc.org/documents/wdr/WDR_2009/Executive_summary_LO-RES.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2009.html))
+- 2008 World Drug Report ([full](https://www.unodc.org/documents/wdr/WDR_2008/WDR_2008_eng_web.pdf), [summary](https://www.unodc.org/documents/wdr/WDR_2008/Executive%20Summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2008.html))
+- 2007 World Drug Report ([full](https://www.unodc.org/pdf/research/wdr07/WDR_2007.pdf), [summary](https://www.unodc.org/pdf/research/wdr07/WDR_2007_executive_summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2007.html))
+- 2006 World Drug Report ([volume 1](https://www.unodc.org/pdf/WDR_2006/wdr2006_volume1.pdf), [volume 2](), [summary](https://www.unodc.org/pdf/WDR_2006/wdr2006_ex_summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2006.html))
+- 2005 World Drug Report ([volume 1](https://www.unodc.org/pdf/WDR_2005/volume_1_web.pdf), [volume 2](https://www.unodc.org/pdf/WDR_2005/volume_2_web.pdf), [summary](https://www.unodc.org/pdf/WDR_2005/volume_1_ex_summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2005.html))
+- 2004 World Drug Report ([volume 1](https://www.unodc.org/pdf/WDR_2004/volume_1.pdf), [volume 2](https://www.unodc.org/pdf/WDR_2004/volume_2.pdf), [summary](https://www.unodc.org/pdf/WDR_2004/Executive_Summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2004.html))
+- 2003 Global Illicit Drug Trends ([full](https://www.unodc.org/pdf/trends2003_www_E.pdf), [summary](https://www.unodc.org/pdf/report_2003-06-26_1_executive_summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/global_illicit_drug_drug_trends.html))
+- 2002 Global Illicit Drug Trends ([full](https://www.unodc.org/pdf/report_2002-06-26_1/report_2002-06-26_1.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/global_illicit_drug_drug_trends.html))
+- 2001 Global Illicit Drug Trends ([full](https://www.unodc.org/pdf/report_2001-06-26_1/report_2001-06-26_1.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/global_illicit_drug_drug_trends.html))
+- 2000 World Drug Report ([full](https://www.unodc.org/pdf/world_drug_report_2000/report_2001-01-22_1.pdf), [summary](https://www.unodc.org/documents/wdr/WDR_2010/Executive_summary.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/WDR-2000.html))
+  - Global Illicit Drug Trends ([full](https://www.unodc.org/pdf/report_2000-09-21_1.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/global_illicit_drug_drug_trends.html))
+- 1999 Global Illicit Drug Trends ([full](https://www.unodc.org/pdf/report_1999-06-01_1.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/global_illicit_drug_drug_trends.html))
+- 1998 n/a
+- 1997 World Drug Report
+
+
+
 ## World Economic Situation and Prospects
 
 > United Nations ([source 1](https://www.un.org/en/development/desa/policy/wesp/archive.shtml), [source 2](https://unctad.org/en/pages/publications/World-Economic-Situation-and-Prospects-(Series).aspx))
@@ -1977,6 +2073,15 @@
 - 2009 World Water Development Report – Water in a changing world ([full](https://unesdoc.unesco.org/ark:/48223/pf0000181993/PDF/181993eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr3-2009/))
 - 2006 World Water Development Report – Water, a shared responsibility ([full](https://unesdoc.unesco.org/ark:/48223/pf0000145405/PDF/145405eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000144409/PDF/144409eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr2-2006/))
 - 2003 World Water Development Report – Water for people, water for life ([full](https://unesdoc.unesco.org/ark:/48223/pf0000129726/PDF/129726eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000129556/PDF/129556eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr1-2003/))
+
+
+
+## World Wildlife Crime Report
+
+> United Nations Office on Drugs and Crime ([source](https://www.unodc.org/unodc/en/data-and-analysis/wildlife.html))
+
+- 2020 World Wildlife Crime Report ([full](https://www.unodc.org/documents/data-and-analysis/wildlife/2020/World_Wildlife_Report_2020_9July.pdf), [summary](https://www.unodc.org/documents/data-and-analysis/wildlife/2020/WWLC20_Summary_Overview.pdf), [web](https://www.unodc.org/unodc/en/data-and-analysis/wildlife.html))
+- 2016 World Wildlife Crime Report ([full](https://www.unodc.org/documents/data-and-analysis/wildlife/World_Wildlife_Crime_Report_2016_final.pdf))
 
 
 
