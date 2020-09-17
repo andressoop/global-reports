@@ -48,15 +48,23 @@
 - [Global Report on Internal Displacement](#global-report-on-internal-displacement)
 - [Global Report on Trafficking in Persons](#global-report-on-trafficking-in-persons)
 - [Global Retail Development Index](#global-retail-development-index)
+- [Global Slavery Index](#global-slavery-index)
 - [Global Study on Homicide](#global-study-on-homicide)
 - [Global Study on Smuggling of Migrants](#global-study-on-smuggling-of-migrants)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
+- [Global Talent Competitiveness Index](#global-talent-competitiveness-index)
 - [Global Terrorism Index](#global-terrorism-index)
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
+- [Global Wealth Report](#global-wealth-report)
 - [How's Life?](#hows-life)
+- [Human Capital Index](#human-capital-index)
+- [Human Capital Report](#human-capital-report)
 - [Human Development Report](#human-development-report)
+- [Industrial Development Report](#industrial-development-report)
 - [International Debt Statistics](#international-debt-statistics)
+- [International IP Index](#international-ip-index)
+- [Measuring the Information Society](#measuring-the-information-society)
 - [Paying Taxes](#paying-taxes)
 - [PISA](#pisa)
 - [Postal Development Report](#postal-development-report)
@@ -87,6 +95,8 @@
 - [UNESCO Science Report](#unesco-science-report)
 - [UNHCR Global Report](#unhcr-global-report)
 - [UNHCR Global Trends](#unhcr-global-trends)
+- [WMO Greenhouse Gas Bulletin](#wmo-greenhouse-gas-bulletin)
+- [WMO Statement on the state of the Global Climate](#wmo-statement-on-the-state-of-the-global-climate)
 - [Women, Business and the Law](#women-business-and-the-law)
 - [World Development Report](#world-development-report)
 - [World Drug Report](#world-drug-report)
@@ -99,6 +109,8 @@
 - [World Social Protection Report](#world-social-protection-report)
 - [World Social Report](#world-social-report)
 - [World Social Science Report](#world-social-science-report)
+- [World Trade Report](#world-trade-report)
+- [World Trade Statistical Review](#world-trade-statistical-review)
 - [World Water Development Report](#world-water-development-report)
 - [World Wildlife Crime Report](#world-wildlife-crime-report)
 - [World Youth Report](#world-youth-report)
@@ -888,6 +900,17 @@
 
 
 
+## Global Slavery Index
+
+> Walk Free Foundation ([source](https://www.globalslaveryindex.org/resources/downloads/))
+
+- 2018 Global Slavery Index ([full](https://www.traffickingmatters.com/wp-content/uploads/2018/08/GSI-2018_FNL_180807_DigitalSmall_p.pdf), [summary](https://downloads.globalslaveryindex.org/ephemeral/Executive-Summary-1600335829.pdf), [web](https://www.globalslaveryindex.org/2018/findings/highlights/))
+- 2016 Global Slavery Index ([full](https://www.traffickingmatters.com/wp-content/uploads/legal-resources/walk-free-global-slavery/2016-Global-Slavery-Index-Walk-Free.pdf))
+- 2014 Global Slavery Index ([full](https://reporterbrasil.org.br/wp-content/uploads/2014/11/GlobalSlavery_2014_LR-FINAL.pdf))
+- 2013 Global Slavery Index ([full](http://lft.ee/admin/upload/files/GlobalSlaveryIndex_2013_Download_WEB1.pdf))
+
+
+
 ## Global Study on Homicide
 
 > United Nations Office on Drugs and Crime ([source](https://www.unodc.org/unodc/en/data-and-analysis/global-study-on-homicide.html))
@@ -920,6 +943,20 @@
 - 2016 Global Sustainable Development Report ([full](https://sustainabledevelopment.un.org/content/documents/2328Global%20Sustainable%20development%20report%202016%20(final).pdf), [summary](https://sustainabledevelopment.un.org/content/documents/10816Executive_Summary_GSDR2016_booklet.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2016))
 - 2015 Global Sustainable Development Report ([full](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf), [summary](https://sustainabledevelopment.un.org/content/documents/1870GSDR%202015%20Briefs.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2015))
 - 2014 Global Sustainable Development Report – Prototype edition ([full](https://sustainabledevelopment.un.org/content/documents/1454Prototype%20Global%20SD%20Report2.pdf), [summary](https://sustainabledevelopment.un.org/content/documents/1449GSDR%20Executive%20Summary.pdf), [web](https://sustainabledevelopment.un.org/globalsdreport/2014))
+
+
+
+## Global Talent Competitiveness Index
+
+> INSEAD ([source 1](https://gtcistudy.com/), [source 2](https://www.insead.edu/global-indices/gtci))
+
+- 2020 Global Talent Competitiveness Index – Global talent in the age of artificial intelligence ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2020-report.pdf), [summary](https://gtcistudy.com/wp-content/uploads/2020/01/GTCI-2020-Executive-Summary.pdf))
+- 2019 Global Talent Competitiveness Index – Entrepreneurial talent and global competitiveness ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2019-Report.pdf), [summary](https://gtcistudy.com/wp-content/uploads/2019/01/GTCI-2019-Executive-Summary.pdf))
+- 2018 Global Talent Competitiveness Index – Diversity for competitiveness ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2018-report.pdf))
+- 2017 Global Talent Competitiveness Index – Talent and technology ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2017-report.pdf))
+- 2015/16 Global Talent Competitiveness Index – Talent attraction and international mobility ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2015-2016-report.pdf))
+- 2014 Global Talent Competitiveness Index – Growing talent for today and tomorrow ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2014-report.pdf))
+- 2013 Global Talent Competitiveness Index ([full](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GTCI-2013-report.pdf))
 
 
 
@@ -961,6 +998,23 @@
 
 
 
+## Global Wealth Report
+
+> Credit Suisse Research Institute ([source](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html))
+
+- 2019 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf))
+- 2018 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2018-en.pdf))
+- 2017 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2017-en.pdf))
+- 2016 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/csri-global-wealth-report-2016-en.pdf))
+- 2015 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2015.pdf))
+- 2014 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/credit-suisse-global-wealth-report-2014.pdf))
+- 2013 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2013.pdf))
+- 2012 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/2012-global-wealth-report.pdf))
+- 2011 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/2011-global-wealth-report.pdf))
+- 2010 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/credit-suisse-global-wealth-report.pdf))
+
+
+
 ## How's Life?
 
 > Organization for Economic Cooperation and Development (OECD) ([source](https://www.oecd-ilibrary.org/economics/how-s-life_23089679))
@@ -970,6 +1024,27 @@
 - 2015 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life-2015_how_life-2015-en#page1), [summary](https://read.oecd-ilibrary.org/economics/how-s-life-2015/summary/english_c7adaf59-en#page1), [web](https://www.oecd-ilibrary.org/economics/how-s-life-2015_how_life-2015-en))
 - 2013 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life-2013_9789264201392-en#page1), [summary](https://read.oecd-ilibrary.org/economics/how-s-life-2013/summary/english_9789264201392-sum-en#page1), [web](https://www.oecd-ilibrary.org/economics/how-s-life-2013_9789264201392-en))
 - 2011 How's Life? ([full](https://read.oecd-ilibrary.org/economics/how-s-life_9789264121164-en#page3), [summary](https://read.oecd-ilibrary.org/economics/how-s-life/overview_9789264121164-3-en#page5), [web](https://www.oecd-ilibrary.org/economics/how-s-life_9789264121164-en))
+
+
+
+## Human Capital Index
+
+> World Bank Group ([source](https://www.worldbank.org/en/publication/human-capital))
+
+- 2020 Human Capital Index – Human capital in the time of COVID-19 ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/34432/152967.pdf?sequence=1&isAllowed=y), [web](https://www.worldbank.org/en/publication/human-capital))
+- 2018 Human Capital Project ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/30498/33252.pdf?sequence=5&isAllowed=y))
+
+
+
+## Human Capital Report
+
+> World Economic Forum ([source](https://www.weforum.org/search?utf8=%E2%9C%93&query=Human+Capital+Report&cx=005374784487575532108%3Azwr8u4lxoba&cof=FORID%3A11&op.x=0&op.y=0))
+
+- 2017 Human Capital Report – Preparing people for the future of work ([full](http://www3.weforum.org/docs/WEF_Global_Human_Capital_Report_2017.pdf), [web](http://reports.weforum.org/global-human-capital-report-2017/?doing_wp_cron=1600358662.9296650886535644531250))
+- 2016 Human Capital Report ([full](http://www3.weforum.org/docs/HCR2016_Main_Report.pdf), [web](http://reports.weforum.org/human-capital-report-2016/))
+- 2015 Human Capital Report ([full](http://www3.weforum.org/docs/WEF_Human_Capital_Report_2015.pdf), [web](http://reports.weforum.org/human-capital-report-2015/))
+- 2014 n/a
+- 2013 Human Capital Report ([full](http://www3.weforum.org/docs/WEF_HumanCapitalReport_2013.pdf), [web](https://www.weforum.org/reports/human-capital-report-2013))
 
 
 
@@ -1009,6 +1084,22 @@
 
 
 
+## Industrial Development Report
+
+> United Nations Industrial Development Organization ([source](https://www.unido.org/resources-publications-flagship-publications/industrial-development-report-series))
+
+- 2020 Industrial Development Report – Industrializing in the digital age ([full](https://www.unido.org/sites/default/files/files/2019-12/UNIDO%20IDR20%20main%20report.pdf), [summary](https://www.unido.org/sites/default/files/files/2019-11/UNIDO_IDR2020-English_overview.pdf), [web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/idr2020))
+- 2018 Industrial Development Report – Demand for manufacturing: Driving inclusive and sustainable industrial development ([full](https://www.unido.org/sites/default/files/files/2017-11/IDR2018_FULL%20REPORT.pdf), [summary](https://www.unido.org/sites/default/files/files/2017-11/IDR2018_OVERVIEW_ENGLISH.pdf), [web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/industrial-development-report-2018))
+- 2016 Industrial Development Report – The role of technology and innovation in inclusive and sustainable industrial development ([full](https://www.unido.org/sites/default/files/2015-12/EBOOK_IDR2016_FULLREPORT_0.pdf), [summary](https://www.unido.org/sites/default/files/2015-12/EBOOK_IDR2016_OVERVIEW_ENGLISH_0.pdf), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2016))
+- 2013 Industrial Development Report – Sustaining employment growth: The role of manufacturing and structural change ([full](https://www.unido.org/sites/default/files/2013-12/UNIDO_IDR_2013_main_report_0.pdf), [summary](https://www.unido.org/sites/default/files/2013-12/UNIDO_IDR_2013_English_overview_0.pdf), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2013))
+- 2011 Industrial Development Report – Industrial energy efficiency for sustainable wealth creation: Capturing environmental, economic and social dividends ([full](https://www.unido.org/sites/default/files/2012-01/UNIDO_FULL_REPORT_EBOOK_0.pdf), [summary](https://www.unido.org/sites/default/files/2012-01/IDR_OVERVIEW_EBOOK_0.pdf), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2011))
+- 2009 Industrial Development Report – Breaking in and moving up: New industrial challenges for the bottom billion and the middle-income countries ([full](https://www.unido.org/sites/default/files/2009-02/IDR_2009_print_0.PDF), [summary](https://www.unido.org/sites/default/files/2009-02/IDR_SUMMARY_print_0.pdf), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2009))
+- 2005 Industrial Development Report – Capability building for catching-up: Historical, empirical and policy dimensions ([full](https://www.unido.org/sites/default/files/files/2019-03/UNIDO_Industrial_Development_Report_2005.pdf), [web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/industrial-development-report-2005))
+- 2004 Industrial Development Report – Industrialization, environment and the Millennium Development Goals in Sub-Saharan Africa: The new frontier in the fight against poverty ([full](https://open.unido.org/api/documents/4805380/download/Industrial%20Development%20Report%202004%20-%20Industrialization,%20Environment%20and%20the%20Millennium%20Development%20Goals%20in%20Sub-Saharan%20Africa%20-%20The%20new%20frontier%20in%20the%20fight%20against%20poverty), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2004))
+- 2002/03 Industrial Development Report – Competing through innovation and learning ([full](https://open.unido.org/api/documents/4803465/download/Industrial%20Development%20Report%202002-2003%20-%20Competing%20through%20Innovation%20and%20Learning), [web](https://www.unido.org/resources/publications/publications-type/sales-publications/industrial-development-report-2002-2003))
+
+
+
 ## International Debt Statistics
 
 > World Bank Group ([source](https://data.worldbank.org/products/ids))
@@ -1029,6 +1120,40 @@
 - 2007 International Debt Statistics
 - 2006 International Debt Statistics
 - 2005 International Debt Statistics
+
+
+
+## International IP Index
+
+> Global Innovation Policy Center ([source](https://www.theglobalipcenter.com/ipindex2020/))
+
+- 2020 International IP Index – Art of the possible ([full](https://www.theglobalipcenter.com/wp-content/uploads/2020/02/GIPC_IP_Index_2020_FullReport.pdf), [summary](https://www.theglobalipcenter.com/wp-content/uploads/2020/02/GIPC_IP_Index_2020_ExecutiveSummary.pdf), [web](https://www.theglobalipcenter.com/ipindex2020/))
+- 2019 International IP Index – Inspiring tomorrow ([full](https://www.theglobalipcenter.com/wp-content/uploads/2019/03/023593_GIPC_IP_Index_2019_Full_04.pdf), [summary](https://www.theglobalipcenter.com/wp-content/uploads/2019/02/023593_GIPC_IP_Index_2019_4Pager.pdf), [web](https://www.theglobalipcenter.com/ipindex2019/))
+- 2018 International IP Index – Create ([full](https://www.theglobalipcenter.com/wp-content/uploads/2018/02/GIPC_IP_Index_2018.pdf), [summary](http://www.theglobalipcenter.com/wp-content/uploads/2018/02/GIPC_IP_Index_2018_ExecSummary.pdf), [web](https://www.theglobalipcenter.com/ipindex2018/))
+- 2017 International IP Index – The roots of innovation ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/02/GIPC_IP_Index_2017_Report.pdf))
+- 2016 International IP Index – Infinite possibilities ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report_2016.pdf))
+- 2015 International IP Index – Unlimited potential ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report2015.pdf))
+- 2014 International IP Index – Charting the course ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report2014.pdf))
+- 2012 International IP Index – Measuring momentum ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report2012.pdf))
+
+
+
+## Measuring the Information Society
+
+> United Nations International Telecommunication Union ([source](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis/methodology.aspx))
+
+- 2018 Measuring the Information Society ([volume 1](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR-2018-Vol-1-E.pdf), [volume 2](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR-2018-Vol-2-E.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR2018-ES-PDF-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/misr2018.aspx))
+- 2017 Measuring the Information Society ([volume 1](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2017/MISR2017_Volume1.pdf), [volume 2](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2017/MISR2017_Volume2.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2017/MISR2017_ES_E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
+- 2016 Measuring the Information Society ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2016/MISR2016-w4.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2016/MISR2016-KeyFindings.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2016.aspx))
+- 2015 Measuring the Information Society ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-w5.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2015/MISR2015-ES-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx))
+- 2014 Measuring the Information Society ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014_without_Annex_4.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS_2014_Exec-sum-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2014.aspx))
+- 2013 Measuring the Information Society ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2013/MIS2013_without_Annex_4.pdf), [summary](https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICTOI-2013-SUM-PDF-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2013.aspx))
+- 2012 Measuring the Information Society ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2012/MIS2012_without_Annex_4.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2012/MIS2012-ExecSum-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2012.aspx))
+- 2011 Measuring the Information Society ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2011/MIS_2011_without_annex_5.pdf), [summary](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2011/MIS2011-ExecSum-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2011.aspx))
+- 2010 Measuring the Information Society – ITU-D ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2010/MIS_2010_without_annex_4-e.pdf), [summary](https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICTOI-2010-U2-SUM-PDF-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2010.aspx))
+- 2009 Measuring the Information Society – The ICT Development Index ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2009/MIS2009_w5.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2009.aspx))
+- 2008 n/a
+- 2007 Measuring the Information Society – ICT Opportunity Index and world telecommunication/ICT Indicators ([full](https://read.itu-ilibrary.org/science-and-technology/measuring-the-information-society-2007_pub/801f4107-en#page13), [web](https://www.oecd-ilibrary.org/content/publication/pub-801f4107-en))
 
 
 
@@ -1759,6 +1884,64 @@
 
 
 
+## WMO Greenhouse Gas Bulletin
+
+> World Meteorological Organisation (WMO) ([source](https://public.wmo.int/en/resources/library/wmo-greenhouse-gas-bulletin))
+
+- 2019 WMO Greenhouse Gas Bulletin – Global Observations through 2018 ([full](https://library.wmo.int/doc_num.php?explnum_id=10100), [web](https://library.wmo.int/index.php?lvl=notice_display&id=21620#.X2NbL2gzZ_E))
+- 2018 WMO Greenhouse Gas Bulletin – Global Observations through 2017 ([full](https://library.wmo.int/doc_num.php?explnum_id=5455), [web](https://library.wmo.int/index.php?lvl=notice_display&id=20697#.X2NbFmgzZ_E))
+- 2017 WMO Greenhouse Gas Bulletin – Global Observations through 2016 ([full](https://library.wmo.int/doc_num.php?explnum_id=4022), [web](https://library.wmo.int/index.php?lvl=notice_display&id=20041#.X2Na62gzZ_E))
+- 2016 WMO Greenhouse Gas Bulletin – Global Observations through 2015 ([full](https://library.wmo.int/doc_num.php?explnum_id=3084), [web](https://library.wmo.int/index.php?lvl=notice_display&id=19639#.X2Na1GgzZ_E))
+- 2015 WMO Greenhouse Gas Bulletin – Global Observations through 2014 ([full](https://library.wmo.int/doc_num.php?explnum_id=7243), [web](https://library.wmo.int/index.php?lvl=notice_display&id=19011#.X2NatmgzZ_E))
+- 2014 WMO Greenhouse Gas Bulletin – Global Observations through 2013 ([full](https://library.wmo.int/doc_num.php?explnum_id=7231), [web](https://library.wmo.int/index.php?lvl=notice_display&id=16750#.X2NaT2gzZ_E))
+  - WMO Greenhouse Gas Bulletin – Climate Summit edition ([full](https://library.wmo.int/doc_num.php?explnum_id=7236), [web](https://library.wmo.int/index.php?lvl=notice_display&id=16396#.X2NaTGgzZ_E))
+- 2013 WMO Greenhouse Gas Bulletin – Global Observations through 2012 ([full](https://library.wmo.int/doc_num.php?explnum_id=7288), [web](https://library.wmo.int/index.php?lvl=notice_display&id=15864#.X2NaKGgzZ_E))
+- 2012 WMO Greenhouse Gas Bulletin – Global Observations through 2011 ([full](https://library.wmo.int/doc_num.php?explnum_id=7282), [web](https://library.wmo.int/index.php?lvl=notice_display&id=13804#.X2NaCWgzZ_E))
+- 2011 WMO Greenhouse Gas Bulletin – Global Observations through 2010 ([full](https://library.wmo.int/doc_num.php?explnum_id=7276), [web](https://library.wmo.int/index.php?lvl=notice_display&id=13803#.X2NZ3mgzZ_E))
+- 2010 WMO Greenhouse Gas Bulletin – Global Observations through 2009 ([full](https://library.wmo.int/doc_num.php?explnum_id=7270), [web](https://library.wmo.int/index.php?lvl=notice_display&id=13802#.X2NZuWgzZ_E))
+- 2009 WMO Greenhouse Gas Bulletin – Global Observations through 2008 ([full](https://library.wmo.int/doc_num.php?explnum_id=7264), [web](https://library.wmo.int/index.php?lvl=notice_display&id=14759#.X2NZjmgzZ_E))
+- 2008 WMO Greenhouse Gas Bulletin – Global Observations through 2007 ([full](https://library.wmo.int/doc_num.php?explnum_id=7259), [web](https://library.wmo.int/index.php?lvl=notice_display&id=14758#.X2NZZGgzZ_E))
+- 2007 WMO Greenhouse Gas Bulletin – Global Observations through 2006 ([full](https://library.wmo.int/doc_num.php?explnum_id=7256), [web](https://library.wmo.int/index.php?lvl=notice_display&id=14757#.X2NZN2gzZ_E))
+- 2006 WMO Greenhouse Gas Bulletin – Global Observations through 2005 ([full](https://library.wmo.int/doc_num.php?explnum_id=7252), [web](https://library.wmo.int/index.php?lvl=notice_display&id=14756#.X2NYqmgzZ_E))
+  -  WMO Greenhouse Gas Bulletin – Global Observations up to December 2004 ([full](https://library.wmo.int/doc_num.php?explnum_id=7228), [web](https://library.wmo.int/index.php?lvl=notice_display&id=14755#.X2NYZmgzZ_E))
+
+
+
+## WMO Statement on the state of the Global Climate
+
+> World Meteorological Organisation (WMO) ([source](https://library.wmo.int/index.php?lvl=notice_display&id=97#.X2NOI2gzZ_G))
+
+- 2020 WMO Statement on the state of the Global Climate in 2019 ([full](https://library.wmo.int/doc_num.php?explnum_id=10211), [web](https://library.wmo.int/index.php?lvl=notice_display&id=21700#.X2NilmgzZ_E))
+- 2019 WMO Statement on the state of the Global Climate in 2018 ([full](https://library.wmo.int/doc_num.php?explnum_id=5789), [web](https://library.wmo.int/index.php?lvl=notice_display&id=20799#.X2Ni0WgzZ_E))
+  - WMO Provisional Statement on the State of the Global Climate in 2019 ([full](https://library.wmo.int/doc_num.php?explnum_id=10108), [web](https://library.wmo.int/index.php?lvl=notice_display&id=21626#.X2Niv2gzZ_E))
+- 2018 WMO Statement on the state of the Global Climate in 2017 ([full](https://library.wmo.int/doc_num.php?explnum_id=4453), [web](https://library.wmo.int/index.php?lvl=notice_display&id=20220#.X2NiXGgzZ_E))
+- 2017 WMO Statement on the state of the Global Climate in 2016 ([full](https://library.wmo.int/doc_num.php?explnum_id=3414), [web](https://library.wmo.int/index.php?lvl=notice_display&id=19835#.X2NiTGgzZ_E))
+- 2016 WMO Statement on the state of the Global Climate in 2015 ([full](https://library.wmo.int/doc_num.php?explnum_id=7931), [web](https://library.wmo.int/index.php?lvl=notice_display&id=19125#.X2NiPWgzZ_E))
+- 2015 WMO Statement on the state of the Global Climate in 2014 ([full](https://library.wmo.int/doc_num.php?explnum_id=7907), [web](https://library.wmo.int/index.php?lvl=notice_display&id=16898#.X2NiMGgzZ_E))
+- 2014 WMO Statement on the state of the Global Climate in 2013 ([full](https://library.wmo.int/doc_num.php?explnum_id=7862), [web](https://library.wmo.int/index.php?lvl=notice_display&id=15957#.X2NiImgzZ_E))
+- 2013 WMO Statement on the state of the Global Climate in 2012 ([full](https://library.wmo.int/doc_num.php?explnum_id=7809), [web](https://library.wmo.int/index.php?lvl=notice_display&id=14750#.X2NiFGgzZ_E))
+- 2012 WMO Statement on the state of the Global Climate in 2011 ([full](https://library.wmo.int/doc_num.php?explnum_id=3463), [web](https://library.wmo.int/index.php?lvl=notice_display&id=9754#.X2NiAGgzZ_E))
+- 2011 WMO Statement on the state of the Global Climate in 2010 ([full](https://library.wmo.int/doc_num.php?explnum_id=7739), [web](https://library.wmo.int/index.php?lvl=notice_display&id=4246#.X2Nh8WgzZ_E))
+- 2010 WMO Statement on the state of the Global Climate in 2009 ([full](https://library.wmo.int/doc_num.php?explnum_id=3462), [web](https://library.wmo.int/index.php?lvl=notice_display&id=5075#.X2Nh3mgzZ_E))
+- 2009 WMO Statement on the state of the Global Climate in 2008 ([full](https://library.wmo.int/doc_num.php?explnum_id=3461), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7263#.X2Nh0WgzZ_E))
+- 2008 WMO Statement on the state of the Global Climate in 2007 ([full](https://library.wmo.int/doc_num.php?explnum_id=3457), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7972#.X2NhwmgzZ_E))
+- 2007 WMO Statement on the state of the Global Climate in 2006 ([full](https://library.wmo.int/doc_num.php?explnum_id=7689), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7224#.X2NhsWgzZ_E))
+- 2006 WMO Statement on the state of the Global Climate in 2005 ([full](https://library.wmo.int/doc_num.php?explnum_id=3476), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7927#.X2NhoWgzZ_E))
+- 2005 WMO Statement on the state of the Global Climate in 2004 ([full](https://library.wmo.int/doc_num.php?explnum_id=3477), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7865#.X2Nhk2gzZ_E))
+- 2004 WMO Statement on the state of the Global Climate in 2003 ([full](https://library.wmo.int/doc_num.php?explnum_id=3456), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7264#.X2NhhmgzZ_E))
+- 2003 WMO Statement on the state of the Global Climate in 2002 ([full](https://library.wmo.int/doc_num.php?explnum_id=3458), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7913#.X2Nhd2gzZ_E))
+- 2002 WMO Statement on the state of the Global Climate in 2001 ([full](https://library.wmo.int/doc_num.php?explnum_id=3455), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7265#.X2NhaGgzZ_E))
+- 2001 WMO Statement on the state of the Global Climate in 2000 ([full](https://library.wmo.int/doc_num.php?explnum_id=3454), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7266#.X2NhV2gzZ_E))
+- 2000 WMO Statement on the state of the Global Climate in 1999 ([full](https://library.wmo.int/doc_num.php?explnum_id=3460), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7808#.X2NhSWgzZ_E))
+- 1999 WMO Statement on the state of the Global Climate in 1998 ([full](https://library.wmo.int/doc_num.php?explnum_id=3459), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7879#.X2NhOWgzZ_E))
+- 1998 WMO Statement on the state of the Global Climate in 1997 ([full](https://library.wmo.int/doc_num.php?explnum_id=3453), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7267#.X2NhKGgzZ_E))
+- 1997 WMO Statement on the state of the Global Climate in 1996 ([full](https://library.wmo.int/doc_num.php?explnum_id=3452), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7268#.X2NhGmgzZ_E))
+- 1996 WMO Statement on the state of the Global Climate in 1995 ([full](https://library.wmo.int/doc_num.php?explnum_id=3451), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7269#.X2NhCGgzZ_E))
+- 1995 WMO Statement on the state of the Global Climate in 1994 ([full](https://library.wmo.int/doc_num.php?explnum_id=8797), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7757#.X2Ng8mgzZ_E))
+- 1994 WMO Statement on the state of the Global Climate in 1993 ([full](https://library.wmo.int/doc_num.php?explnum_id=8761), [web](https://library.wmo.int/index.php?lvl=notice_display&id=7758#.X2Ng3WgzZ_E))
+
+
+
 ## Women, Business and the Law
 
 > World Bank Group ([source](https://wbl.worldbank.org/en/reports))
@@ -2079,6 +2262,42 @@
 - 2013 World Social Science Report – Changing global environments ([full](https://unesdoc.unesco.org/ark:/48223/pf0000224677/PDF/224677eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000223388/PDF/223388eng.pdf.multi), [web](https://en.unesco.org/wssr2013))
 - 2010 World Social Science Report – Knowledge divides ([full](https://unesdoc.unesco.org/ark:/48223/pf0000188333/PDF/188333eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000188395/PDF/188395eng.pdf.multi.page=1&zoom=auto,-7,822), [web](https://en.unesco.org/wssr2010))
 - 1999 World Social Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000116325/PDF/116325eng.pdf.multi), [web](https://unesdoc.unesco.org/ark:/48223/pf0000116325?posInSet=1&queryId=0f9263eb-7cfa-4b5d-977b-8cfb895efcb9))
+
+
+
+## World Trade Report
+
+> World Trade Organization ([source](https://www.wto.org/english/res_e/reser_e/wtr_e.htm))
+
+- 2019 World Trade Report – The future of services trade ([full](https://www.wto.org/english/res_e/booksp_e/00_wtr19_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/01_wtr19_0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr19_e.htm))
+- 2018 World Trade Report – The future of world trade: How digital technologies are transforming global commerce ([full](https://www.wto.org/english/res_e/publications_e/world_trade_report18_e.pdf), [summary](https://www.wto.org/english/res_e/publications_e/wtr18_0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr18_e.htm))
+- 2017 World Trade Report – Trade, technology and jobs ([full](https://www.wto.org/english/res_e/booksp_e/world_trade_report17_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr17-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr17_e.htm))
+- 2016 World Trade Report – Levelling the trading field for SMEs ([full](https://www.wto.org/english/res_e/booksp_e/world_trade_report16_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr16-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr16_e.htm))
+- 2015 World Trade Report – Speeding up trade: Benefits and challenges of implementing the WTO Trade Facilitation Agreement ([full](https://www.wto.org/english/res_e/booksp_e/world_trade_report15_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr15-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr15_e.htm))
+- 2014 World Trade Report – Trade and development: Recent trends and the role of the WTO ([full](https://www.wto.org/english/res_e/booksp_e/world_trade_report14_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr14-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr14_e.htm))
+- 2013 World Trade Report – Factors shaping the future of world trade ([full](https://www.wto.org/english/res_e/booksp_e/world_trade_report13_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr13-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr13_e.htm))
+- 2012 World Trade Report – Trade and public policies: A closer look to non-tariff measures in the 21st century ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report12_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr12-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr12_e.htm))
+- 2011 World Trade Report – The WTO and preferential trade agreements: From co-existence to coherence ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report11_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr11-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr11_e.htm))
+- 2010 World Trade Report – Trade in natural resources ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report10_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr10-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr10_e.htm))
+- 2009 World Trade Report – Trade policy commitments and contingency measures ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report09_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr09-0d_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr09_e.htm))
+- 2008 World Trade Report – Trade in a globalizing world ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report08_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr08-0d_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr08_e.htm))
+- 2007 World Trade Report – Sixty years of the multilateral trading system: Achievements and challenges ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report07_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr07-0b_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr07_e.htm))
+- 2006 World Trade Report – Subsidies, trade and the WTO ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report06_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr06-0b_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr06_e.htm))
+- 2005 World Trade Report – Trade, standards and the WTO ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report05_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr05-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr05_e.htm))
+- 2004 World Trade Report – Coherence ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report04_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr04_forwrd_toc_exec_sum_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr04_e.htm))
+- 2003 World Trade Report – Trade and development ([full](https://www.wto.org/english/res_e/booksp_e/anrep_e/world_trade_report_2003_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/anrep_e/wtr03_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr03_e.htm))
+
+
+
+## World Trade Statistical Review
+
+> World Trade Organization ([source](https://www.wto.org/english/res_e/statis_e/wts_e.htm))
+
+- 2020 World Trade Statistical Review ([full](https://www.wto.org/english/res_e/statis_e/wts2020_e/wts2020_e.pdf), [web](https://www.wto.org/english/res_e/statis_e/wts2020_e/wts20_toc_e.htm))
+- 2019 World Trade Statistical Review ([full](https://www.wto.org/english/res_e/statis_e/wts2019_e/wts2019_e.pdf), [web](https://www.wto.org/english/res_e/statis_e/wts2019_e/wts19_toc_e.htm))
+- 2018 World Trade Statistical Review ([full](https://www.wto.org/english/res_e/statis_e/wts2018_e/wts2018_e.pdf), [web](https://www.wto.org/english/res_e/statis_e/wts2018_e/wts18_toc_e.htm))
+- 2017 World Trade Statistical Review ([full](https://www.wto.org/english/res_e/statis_e/wts2017_e/wts2017_e.pdf), [web](https://www.wto.org/english/res_e/statis_e/wts2017_e/wts17_toc_e.htm))
+- 2016 World Trade Statistical Review ([full](https://www.wto.org/english/res_e/statis_e/wts2016_e/wts2016_e.pdf), [web](https://www.wto.org/english/res_e/statis_e/wts2016_e/wts16_toc_e.htm))
 
 
 
