@@ -64,6 +64,7 @@
 - [Industrial Development Report](#industrial-development-report)
 - [International Debt Statistics](#international-debt-statistics)
 - [International IP Index](#international-ip-index)
+- [Levels and Trends in Child Mortality Report](#levels-and-trends-in-child-mortality-report)
 - [Measuring the Information Society](#measuring-the-information-society)
 - [Paying Taxes](#paying-taxes)
 - [PISA](#pisa)
@@ -1135,6 +1136,25 @@
 - 2015 International IP Index – Unlimited potential ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report2015.pdf))
 - 2014 International IP Index – Charting the course ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report2014.pdf))
 - 2012 International IP Index – Measuring momentum ([full](https://www.theglobalipcenter.com/wp-content/uploads/2017/04/GIPC_Index_Report2012.pdf))
+
+
+
+## Levels and Trends in Child Mortality Report
+
+> UN Inter-agency Group for Child Mortality Estimation ([source](https://childmortality.org/reports))
+
+- 2020 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/media/79371/file/UN-IGME-child-mortality-report-2020.pdf.pdf))
+- 2019 Levels and Trends in Child Mortality Report ([full](http://documents1.worldbank.org/curated/en/105841568905930695/pdf/Levels-and-Trends-in-Child-Mortality-Report-2019.pdf))
+- 2018 Levels and Trends in Child Mortality Report ([full](https://data.unicef.org/wp-content/uploads/2018/09/UN-IGME-Child-Mortality-Report-2018.pdf))
+- 2017 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/publications/files/Child_Mortality_Report_2017.pdf))
+- 2016 n/a
+- 2015 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/publications/files/Child_Mortality_Report_2015_Web_8_Sept_15.pdf))
+- 2014 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/media/files/Levels_and_Trends_in_Child_Mortality_2014.pdf))
+- 2013 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/media/files/2013_IGME_child_mortality_Report.pdf))
+- 2012 Levels and Trends in Child Mortality Report ([full](https://www.who.int/maternal_child_adolescent/documents/levels_trends_child_mortality_2012.pdf))
+- 2011 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/media/files/Child_Mortality_Report_2011_Final.pdf))
+- 2010 Levels and Trends in Child Mortality Report ([full](https://childmortality.org/wp-content/uploads/2018/01/Levels-and-Trends-in-Child-Mortality-Report-2010.pdf))
+- 2006 Levels and Trends in Child Mortality Report ([full](https://childmortality.org/wp-content/uploads/2006/09/Levels-and-Trends-of-Child-Mortality-in-2006-Working-Paper.pdf))
 
 
 
