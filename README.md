@@ -57,6 +57,7 @@
 - [Global Trends](#global-trends)
 - [Global Wage Report](#global-wage-report)
 - [Global Wealth Report](#global-wealth-report)
+- [Goalkeepers Report](#goalkeepers-report)
 - [How's Life?](#hows-life)
 - [Human Capital Index](#human-capital-index)
 - [Human Capital Report](#human-capital-report)
@@ -1013,6 +1014,17 @@
 - 2012 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/2012-global-wealth-report.pdf))
 - 2011 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/2011-global-wealth-report.pdf))
 - 2010 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/credit-suisse-global-wealth-report.pdf))
+
+
+
+## Goalkeepers Report
+
+> Bill & Melinda Gates Foundation ([source](https://www.gatesfoundation.org/goalkeepers/))
+
+- 2020 Goalkeepers Report – COVID-19: A global perspective ([full](https://www.gatesfoundation.org/goalkeepers/downloads/2020-report/report_a4_en.pdf), [web](https://www.gatesfoundation.org/goalkeepers/report/2020-report/))
+- 2019 Goalkeepers Report – Examining inequality: How geography and gender stack the deck for (or against) you ([full](https://www.gatesfoundation.org/goalkeepers/downloads/2019-report/report_en.pdf), [web](https://www.gatesfoundation.org/goalkeepers/report/2019-report/#DigitalInclusion))
+- 2018 Goalkeepers Report – The stories behind the data ([full](https://www.gatesfoundation.org/goalkeepers/downloads/2018-report/report_en.pdf), [web](https://www.gatesfoundation.org/goalkeepers/report/2018-report/))s
+- 2017 Goalkeepers Report – The stories behind the data ([full](https://www.gatesfoundation.org/goalkeepersreport2017/assets/downloads/Stories_behind_the_data_2017.pdf), [web](https://www.gatesfoundation.org/goalkeepersreport2017/))
 
 
 
