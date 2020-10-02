@@ -42,6 +42,7 @@
 - [Global Hunger Index](#global-hunger-index)
 - [Global Innovation Index](#global-innovation-index)
 - [Global Microscope](#global-microscope)
+- [Global Multidimensional Poverty Index](#global-multidimensional-poverty-index)
 - [Global Nutrition Report](#global-nutrition-report)
 - [Global Peace Index](#global-peace-index)
 - [Global Report on Food Crises](#global-report-on-food-crises)
@@ -49,6 +50,8 @@
 - [Global Report on Trafficking in Persons](#global-report-on-trafficking-in-persons)
 - [Global Retail Development Index](#global-retail-development-index)
 - [Global Slavery Index](#global-slavery-index)
+- [Global Social Mobility Report](#global-social-mobility-report)
+- [Global Startup Ecosystem Report](#global-startup-ecosystem-report)
 - [Global Study on Homicide](#global-study-on-homicide)
 - [Global Study on Smuggling of Migrants](#global-study-on-smuggling-of-migrants)
 - [Global Sustainable Development Report](#global-sustainable-development-report)
@@ -66,14 +69,23 @@
 - [International Debt Statistics](#international-debt-statistics)
 - [International IP Index](#international-ip-index)
 - [Levels and Trends in Child Mortality Report](#levels-and-trends-in-child-mortality-report)
+- [Living Planet Report](#living-planet-report)
 - [Measuring the Information Society](#measuring-the-information-society)
+- [Millennium Development Goals Report](#millennium-development-goals-report)
+- [Nuclear Technology Review](#nuclear-technology-review)
+- [Outlook on the Global Agenda](#outlook-on-the-global-agenda)
 - [Paying Taxes](#paying-taxes)
 - [PISA](#pisa)
 - [Postal Development Report](#postal-development-report)
 - [Re|Shaping Cultural Policies](#reshaping-cultural-policies)
 - [Review of Maritime Transport](#review-of-maritime-transport)
+- [Rural Development Report](#rural-development-report)
+- [Social Progress Index](#social-progress-index)
 - [State and Trends of Carbon Pricing](#state-and-trends-of-carbon-pricing)
+- [State of Global Air](#state-of-global-air)
+- [State of Global Aviation Safety](#state-of-global-aviation-safety)
 - [State of the World's Mothers](#state-of-the-worlds-mothers)
+- [State of World Population](#state-of-world-population)
 - [Technology and Innovation Report](#technology-and-innovation-report)
 - [The Future of Jobs Report](#the-future-of-jobs-report)
 - [The Global Competitiveness Report](#the-global-competitiveness-report)
@@ -87,6 +99,7 @@
 - [The State of Food and Agriculture](#the-state-of-food-and-agriculture)
 - [The State of Food Security and Nutrition](#the-state-of-food-security-and-nutrition)
 - [The State of the World's Human Rights](#the-state-of-the-worlds-human-rights)
+- [The State of the World’s Children](#the-state-of-the-worlds-children)
 - [The State of the World’s Forests](#the-state-of-the-worlds-forests)
 - [The State of World Fisheries and Aquaculture](#the-state-of-world-fisheries-and-aquaculture)
 - [The Sustainable Development Goals Report](#the-sustainable-development-goals-report)
@@ -97,6 +110,7 @@
 - [UNESCO Science Report](#unesco-science-report)
 - [UNHCR Global Report](#unhcr-global-report)
 - [UNHCR Global Trends](#unhcr-global-trends)
+- [Uranium: Resources, Production and Demand (Red Book)](#uranium-resources-production-and-demand-red-book)
 - [WMO Greenhouse Gas Bulletin](#wmo-greenhouse-gas-bulletin)
 - [WMO Statement on the state of the Global Climate](#wmo-statement-on-the-state-of-the-global-climate)
 - [Women, Business and the Law](#women-business-and-the-law)
@@ -807,6 +821,24 @@
 
 
 
+## Global Multidimensional Poverty Index
+
+> Oxford Poverty and Human Development Initiative, United Nations Development Programme ([source](https://ophi.org.uk/global-mpi-reports/))
+
+- 2020 Global Multidimensional Poverty Index – Charting pathways out of multidimensional poverty: Achieving the SDGs ([full](https://ophi.org.uk/wp-content/uploads/G-MPI_Report_2020_Charting_Pathways.pdf), [web](http://hdr.undp.org/en/2020-MPI))
+- 2019 Global Multidimensional Poverty Index – Illuminating inequalities ([full](https://ophi.org.uk/wp-content/uploads/G-MPI_Report_2019_PDF.pdf), [web](http://hdr.undp.org/en/2019-MPI))
+- 2018 Global Multidimensional Poverty Index – The most detailed picture to date of the world's poorest people ([full](https://ophi.org.uk/wp-content/uploads/G-MPI_2018_2ed_web.pdf))
+- 2017 Global Multidimensional Poverty Index ([summary](https://www.ophi.org.uk/wp-content/uploads/B47_Global_MPI_2017.pdf))
+- 2016 Global Multidimensional Poverty Index ([summary](https://www.ophi.org.uk/wp-content/uploads/A4_OPHIBrief41_2_online_721.pdf))
+- 2015 Global Multidimensional Poverty Index ([summary](https://www.ophi.org.uk/wp-content/uploads/Global-MPI-8-pager_10_15.pdf))
+- 2014 Global Multidimensional Poverty Index ([summary](https://www.ophi.org.uk/wp-content/uploads/Global-MPI-2014-an-overview.pdf))
+- 2013 Global Multidimensional Poverty Index ([summary](https://www.ophi.org.uk/wp-content/uploads/Global-Multidimensional-Poverty-Index-2013-8-pager.pdf))
+- 2012 Global Multidimensional Poverty Index ([summary](https://ophi.org.uk/wp-content/uploads/MPI-in-Least-Developed-Countries.pdf))
+- 2011 Global Multidimensional Poverty Index ([summary](https://ophi.org.uk/wp-content/uploads/OPHI-MPI-Brief-2011.pdf))
+- 2010 Global Multidimensional Poverty Index ([summary](https://ophi.org.uk/wp-content/uploads/OPHI-MPI-Brief.pdf))
+
+
+
 ## Global Nutrition Report
 
 > World Health Organization ([source](https://globalnutritionreport.org/reports/))
@@ -910,6 +942,28 @@
 - 2016 Global Slavery Index ([full](https://www.traffickingmatters.com/wp-content/uploads/legal-resources/walk-free-global-slavery/2016-Global-Slavery-Index-Walk-Free.pdf))
 - 2014 Global Slavery Index ([full](https://reporterbrasil.org.br/wp-content/uploads/2014/11/GlobalSlavery_2014_LR-FINAL.pdf))
 - 2013 Global Slavery Index ([full](http://lft.ee/admin/upload/files/GlobalSlaveryIndex_2013_Download_WEB1.pdf))
+
+
+
+## Global Social Mobility Report
+
+> World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Social+Mobility+Report))
+
+- 2020 Global Social Mobility Report – Equality, opportunity and a new economic imperative ([full](http://www3.weforum.org/docs/Global_Social_Mobility_Report.pdf), [web](https://www.weforum.org/reports/global-social-mobility-index-2020-why-economies-benefit-from-fixing-inequality))
+
+
+
+## Global Startup Ecosystem Report
+
+> Startup Genome ([source](https://startupgenome.com/all-reports))
+
+- 2020 Global Startup Ecosystem Report – The new normal for the global startup economy and the impact of COVID-19 ([full](https://startupgenome.com/reports/gser2020), [web](https://startupgenome.com/report/gser2020))
+- 2019 Global Startup Ecosystem Report – With new Life Sciences Ecosystem Ranking ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2019))
+  - Global Startup Economy Spotlight – Top ecosystem rankings for female founders, agtech, and cleantech ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-series-2019))
+- 2018 Global Startup Ecosystem Report – Succeeding in the new era of technology ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-gser-2018))
+- 2017 Global Startup Ecosystem Report ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2017))
+- 2015 Global Startup Ecosystem Ranking ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2015))
+- 2012 Startup Ecosystem Report ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2012))
 
 
 
@@ -1170,6 +1224,26 @@
 
 
 
+## Living Planet Report
+
+> World Wildlife Fund ([source](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/))
+
+- 2020 Living Planet Report – Bending the curve of biodiversity loss ([full](https://f.hubspotusercontent20.net/hubfs/4783129/LPR/PDFs/ENGLISH-FULL.pdf), [summary](https://f.hubspotusercontent20.net/hubfs/4783129/LPR/PDFs/ENGLISH-SUMMARY.pdf), [web](https://livingplanet.panda.org/en-us/))
+- 2018 Living Planet Report – Aiming higher ([full](https://c402277.ssl.cf1.rackcdn.com/publications/1187/files/original/LPR2018_Full_Report_Spreads.pdf), [summary](https://s3.amazonaws.com/wwfassets/downloads/lpr2018_summary_report_spreads.pdf), [web](https://www.worldwildlife.org/pages/living-planet-report-2018))
+- 2016 Living Planet Report – Risk and resilience in a new era ([full](https://c402277.ssl.cf1.rackcdn.com/publications/964/files/original/lpr_living_planet_report_2016.pdf?1477582118&_ga=1.148678772.2122160181.1464121326), [summary](http://awsassets.panda.org/downloads/lpr_living_planet_report_2016_summary.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2016/))
+- 2014 Living Planet Report – Species and spaces, people and places ([full](http://assets.worldwildlife.org/publications/723/files/original/WWF-LPR2014-low_res.pdf?1413912230&_ga=2.266539849.695525239.1601656789-33363770.1601656789), [summary](https://wwfeu.awsassets.panda.org/downloads/wwf_lpr2014_sum_.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2014/))
+- 2012 Living Planet Report – Biodiversity, biocapacity and better choices ([full](https://c402277.ssl.cf1.rackcdn.com/publications/333/files/original/Living_Planet_Report_2012_Biodiversity__biocapacity_and_better_choices.pdf?1345733116), [summary](https://c402277.ssl.cf1.rackcdn.com/publications/335/files/original/Living_Planet_Report_2012_Executive_Summary.pdf?1345733385), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2012/))
+- 2010 Living Planet Report – Biodiversity, biocapacity and development ([full](https://wwfeu.awsassets.panda.org/downloads/lpr_living_planet_report_2010.pdf), [summary](https://wwfeu.awsassets.panda.org/downloads/lpr_summary_booklet_final_feb_2011.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2010/))
+- 2008 Living Planet Report ([full](https://wwfeu.awsassets.panda.org/downloads/lpr_living_planet_report_2008.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2008/))
+- 2006 Living Planet Report ([full](https://wwfeu.awsassets.panda.org/downloads/living_planet_report.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2006/))
+- 2004 Living Planet Report ([full](http://awsassets.panda.org/downloads/lpr_living_planet_report_2004.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2004/))
+- 2002 Living Planet Report ([full](http://awsassets.panda.org/downloads/lpr_living_planet_report_2002.pdf))
+- 2000 Living Planet Report ([full](http://awsassets.panda.org/downloads/lpr_living_planet_report_2000.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2000/))
+- 1999 Living Planet Report ([full](http://awsassets.panda.org/downloads/lpr_living_planet_report_1999.pdf))
+- 1998 Living Planet Report ([full](http://awsassets.panda.org/downloads/lpr_living_planet_report_1998.pdf))
+
+
+
 ## Measuring the Information Society
 
 > United Nations International Telecommunication Union ([source](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis/methodology.aspx))
@@ -1186,6 +1260,62 @@
 - 2009 Measuring the Information Society – The ICT Development Index ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2009/MIS2009_w5.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2009.aspx))
 - 2008 n/a
 - 2007 Measuring the Information Society – ICT Opportunity Index and world telecommunication/ICT Indicators ([full](https://read.itu-ilibrary.org/science-and-technology/measuring-the-information-society-2007_pub/801f4107-en#page13), [web](https://www.oecd-ilibrary.org/content/publication/pub-801f4107-en))
+
+
+
+## Millennium Development Goals Report
+
+> United Nations ([source](https://www.un.org/millenniumgoals/reports.shtml))
+
+- 2015 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20(July%201).pdf), [summary](https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20PC%20final.pdf))
+- 2014 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/2014%20MDG%20report/MDG%202014%20English%20web.pdf), [summary](https://www.un.org/millenniumgoals/2014%20MDG%20report/MDG%202014%20Progress%20Chart_English.pdf))
+- 2013 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/report-2013/mdg-report-2013-english.pdf), [summary](https://www.un.org/millenniumgoals/pdf/report-2013/2013_progress_english.pdf))
+- 2012 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/MDG%20Report%202012.pdf), [summary](https://www.un.org/millenniumgoals/pdf/2012_Progress_E.pdf))
+- 2011 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/(2011_E)%20MDG%20Report%202011_Book%20LR.pdf), [summary](https://www.un.org/millenniumgoals/pdf/(2011E)_MDReport2011_ProgressChart.pdf))
+- 2010 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/MDG%20Report%202010%20En%20r15%20-low%20res%2020100615%20-.pdf), [summary](https://unstats.un.org/unsd/mdg/Resources/Static/Products/Progress2010/MDG_Report_2010_Progress_Chart_En.pdf))
+- 2009 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/MDG_Report_2009_ENG.pdf), [summary](https://unstats.un.org/unsd/mdg/Resources/Static/Products/Progress2009/MDG_Report_2009_Progress_Chart_En.pdf))
+- 2008 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/2008highlevel/pdf/newsroom/mdg%20reports/MDG_Report_2008_ENGLISH.pdf), [summary](https://www.un.org/millenniumgoals/2008highlevel/pdf/newsroom/MDG_Report_2008_Progress_Chart_en_r8.pdf))
+- 2007 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/mdg2007.pdf), [summary](https://www.un.org/millenniumgoals/pdf/MDG_Report_2007_Progress_Chart_en.pdf))
+- 2006 Millennium Development Goals Report ([full](http://mdgs.un.org/unsd/mdg/Resources/Static/Products/Progress2006/MDGReport2006.pdf), [summary](https://www.un.org/millenniumgoals/pdf/MDGProgressChart2006.pdf))
+- 2005 Millennium Development Goals Report ([full](https://unstats.un.org/unsd/mi/pdf/MDG%20Book.pdf), [summary](https://www.un.org/millenniumgoals/pdf/mdg2005progresschart.pdf))
+
+
+
+## Nuclear Technology Review
+
+> International Atomic Energy Agency ([source](https://www.iaea.org/publications/reports))
+
+- 2020 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/gc/gc64-inf2.pdf))
+- 2019 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/gc/gc63-inf2.pdf))
+- 2018 Nuclear Technology Review ([full](https://inis.iaea.org/collection/NCLCollectionStore/_Public/49/068/49068130.pdf?r=1))
+- 2017 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/gc/gc61inf-4_en.pdf))
+- 2016 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/16/08/ntr2016.pdf))
+- 2015 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/ntr2015.pdf))
+- 2014 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/ntr2014.pdf))
+- 2013 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/13-25751_rep_ntr_2013_web.pdf))
+- 2012 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2012_web.pdf))
+- 2011 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2011.pdf))
+- 2010 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2010.pdf))
+- 2009 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/09-22271_NTR_2009_web.pdf))
+- 2008 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2008.pdf))
+- 2007 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2007.pdf))
+- 2006 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2006.pdf))
+- 2005 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2005.pdf))
+- 2004 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2004.pdf))
+- 2003 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2003.pdf))
+- 2002 Nuclear Technology Review ([full](https://www-legacy.iaea.org/OurWork/ST/NE/Pess/assets/ntr2002.pdf))
+
+
+
+## Outlook on the Global Agenda
+
+> World Economic Forum ([source](https://www.weforum.org/search?query=Outlook+on+the+Global+Agenda))
+
+- 2015 Outlook on the Global Agenda ([full](http://reports.weforum.org/outlook-global-agenda-2015/wp-content/blogs.dir/59/mp/files/pages/files/outlook-2015-a4-downloadable.pdf), [web](https://reports.weforum.org/outlook-global-agenda-2015/))
+- 2014 Outlook on the Global Agenda ([full](http://www3.weforum.org/docs/WEF_GAC_GlobalAgendaOutlook_2014.pdf), [web](https://reports.weforum.org/outlook-14/))
+- 2013 Global Agenda Outlook ([full](http://www3.weforum.org/docs/WEF_GAC_GlobalAgendaOutlook_2013.pdf))
+- 2012 Outlook on the Global Agenda ([full](http://www.feelingeurope.eu/Pages/WEF_OutlookGlobalAgenda%202012.pdf))
+- 2011 Outlook on the Global Agenda ([full](http://reports.weforum.org/outlook-2011/))
 
 
 
@@ -1327,6 +1457,31 @@
 
 
 
+## Rural Development Report
+
+> International Fund for Agricultural Development ([source](https://www.ifad.org/ruraldevelopmentreport/))
+
+- 2019 Rural Development Report – Creating opportunities for rural youth ([full](https://www.ifad.org/documents/38714170/41133075/RDR_report.pdf/7282db66-2d67-b514-d004-5ec25d9729a0), [summary](https://www.ifad.org/documents/38714170/41190221/RDR2019_Overview_e_W.pdf/699560f2-d02e-16b8-4281-596d4c9be25a), [web](https://www.ifad.org/ruraldevelopmentreport/))
+- 2016 Rural Development Report – Fostering inclusive rural transformation ([full](https://www.ifad.org/documents/38714170/39155702/Rural+development+report+2016.pdf/347402dd-a37f-41b7-9990-aa745dc113b9), [summary](https://www.ifad.org/documents/30600024/30604585/RDR_OVERVIEW_WEB.pdf/e8e9e986-2fd9-4ec4-8fe3-77e99af934c4), [web](https://www.ifad.org/en/web/rdr/reports))
+- 2011 Rural Poverty Report – New realities, new challenges: New opportunities for tomorrow's generation ([full](http://www.fao.org/fileadmin/user_upload/rome2007/docs/IFAD%20Rural%20Poverty%20Report%202011.pdf))
+- 2001 Rural Poverty Report – The challenge of ending rural poverty
+
+
+
+## Social Progress Index
+
+> Social Progress Imperative ([source](https://www.socialprogress.org/resources?filter=2020))
+
+- 2020 Social Progress Index ([summary](https://www.socialprogress.org/assets/downloads/resources/2020/2020-Social-Progress-Index-Executive-Summary.pdf))
+- 2019 Social Progress Index ([summary](https://www.socialprogress.org/assets/downloads/resources/2019/2019-Social-Progress-Index-executive-summary-v2.0.pdf))
+- 2018 Social Progress Index ([summary](https://www.socialprogress.org/assets/downloads/resources/2018/2018-Social-Progress-Index-Exec-Summary.pdf))
+- 2017 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2017/2017-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2017/2017-Social-Progress-Index-Exec-Summary.pdf))
+- 2016 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2016/2016-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2016/2016-Social-Progress-Index-Exec-Summary.pdf))
+- 2015 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2015/2015-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2015/2015-Social-Progress-Index-Exec-Summary.pdf))
+- 2014 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2014/2014-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2014/2014-Social-Progress-Index-Exec-Summary.pdf))
+
+
+
 ## State and Trends of Carbon Pricing
 
 > World Bank Group ([source](https://openknowledge.worldbank.org/handle/10986/13334))
@@ -1352,6 +1507,34 @@
 
 
 
+## State of Global Air
+
+> Health Effects Institute, Institute for Health Metrics and Evaluation's Global Burden of Disease Project ([source](https://www.stateofglobalair.org/report))
+
+- 2019 State of Global Air – A special report on global exposure to air pollution and its disease burden ([full](https://www.stateofglobalair.org/sites/default/files/soga_2019_report.pdf))
+- 2018 State of Global Air – A special report on global exposure to air pollution and its disease burden ([full](https://www.stateofglobalair.org/sites/default/files/soga-2018-report.pdf))
+- 2017 State of Global Air – A special report on global exposure to air pollution and its disease burden ([full](https://www.stateofglobalair.org/sites/default/files/soga_2017_report.pdf))
+
+
+
+## State of Global Aviation Safety
+
+> International Civil Aviation Organization ([source](https://www.icao.int/safety/Pages/Safety-Report.aspx))
+
+- 2020 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SR_2020_final_web.pdf))
+- 2019 State of Global Aviation Safety ([full](https://www.icao.int/safety/Documents/ICAO_SR_2019_final_web.pdf))
+- 2018 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SR_2018_30082018.pdf))
+- 2017 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SR_2017_18072017.pdf))
+- 2016 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SR%202016_final_13July.pdf))
+- 2015 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_Safety_Report_2015_Web.pdf))
+- 2014 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_2014%20Safety%20Report_final_02042014_web.pdf))
+- 2013 State of Global Aviation Safety ([full](https://www.icao.int/safety/State%20of%20Global%20Aviation%20Safety/ICAO_SGAS_book_EN_SEPT2013_final_web.pdf))
+  - Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_2013-Safety-Report_FINAL.pdf))
+- 2012 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SGAS_2012_final.pdf))
+- 2011 State of Global Aviation Safety ([full](https://www.icao.int/safety/Documents/ICAO_State-of-Global-Safety_web_EN.pdf))
+
+
+
 ## State of the World's Mothers
 
 > Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/state%20of%20the%20world%27s%20mothers?sort=score))
@@ -1372,6 +1555,39 @@
 - 2002 State of the World's Mothers – Mothers & children in war & conflict ([full](https://resourcecentre.savethechildren.net/node/3286/pdf/3286.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2002-report-mothers-children-war-conflict))
 - 2001 State of the World's Mothers – ([full](https://resourcecentre.savethechildren.net/node/3285/pdf/3285.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2001-report))
 - 2000 State of the World's Mothers – ([full](https://resourcecentre.savethechildren.net/node/3284/pdf/3284.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2000))
+
+
+
+## State of World Population
+
+> United Nations Population Fund ([source](https://www.unfpa.org/publications))
+
+- 2020 State of World Population – Against my will: Defying the practices that harm women and girls and undermine equality ([full](https://www.unfpa.org/sites/default/files/pub-pdf/UNFPA_PUB_2020_EN_State_of_World_Population.pdf), [web](https://www.unfpa.org/swop))
+- 2019 State of World Population – Unfinished business: The pursuit of rights and choices for all ([full](https://www.unfpa.org/sites/default/files/pub-pdf/UNFPA_PUB_2019_EN_State_of_World_Population.pdf), [web](https://www.unfpa.org/swop-2019))
+- 2018 State of World Population – The power of choice: Reproductive rights and the demographic transition ([full](https://www.unfpa.org/sites/default/files/pub-pdf/UNFPA_PUB_2018_EN_SWP.pdf), [web](https://www.unfpa.org/swop-2018))
+- 2017 State of World Population – World apart: Reproductive health and rights in an age of inequality ([full](https://www.unfpa.org/sites/default/files/pub-pdf/UNFPA_PUB_2017_EN_SWOP.pdf), [web](https://www.unfpa.org/swop-2017))
+- 2016 State of World Population – 10: How our future depends on a girl at this decisive age ([full](https://www.unfpa.org/sites/default/files/pub-pdf/The_State_of_World_Population_2016_-_English.pdf), [web](https://www.unfpa.org/swop-2016))
+- 2015 State of World Population – Shelter from the storm: A transformative agenda for women and girls in a crisis-prone world ([full](https://www.unfpa.org/sites/default/files/pub-pdf/State_of_World_Population_2015_EN.pdf), [web](https://www.unfpa.org/swop-2015))
+- 2014 State of World Population – The power of 1.8 billion: Adolescents, youth and the transformation of the future ([full](https://www.unfpa.org/sites/default/files/pub-pdf/EN-SWOP14-Report_FINAL-web.pdf), [summary](https://www.unfpa.org/sites/default/files/resource-pdf/EN-SWOP%20EX%20SUM-Final-web_0.pdf), [web](https://www.unfpa.org/swop-2014))
+- 2013 State of World Population – Motherhood in childhood: Facing the challenge of adolescent pregnancy ([full](https://www.unfpa.org/sites/default/files/pub-pdf/EN-SWOP2013.pdf), [web](https://www.unfpa.org/publications/state-world-population-2013-0))
+- 2012 State of World Population – By choice, not by chance: Family planning, human rights and development ([full](https://www.unfpa.org/sites/default/files/pub-pdf/EN_SWOP2012_Report.pdf), [web](https://www.unfpa.org/publications/state-world-population-2012))
+- 2011 State of World Population – People and possibilities: In a world of 7 billion ([full](https://www.unfpa.org/sites/default/files/pub-pdf/EN-SWOP2011-FINAL.pdf), [web](https://www.unfpa.org/publications/state-world-population-2011))
+- 2010 State of World Population – From conflict and crisis to renewal: Generations of change ([full](https://www.unfpa.org/sites/default/files/pub-pdf/EN_SOWP10.pdf), [web](https://www.unfpa.org/publications/state-world-population-2010))
+- 2009 State of World Population – Facing a changing world: Women, population and climate ([full](https://www.unfpa.org/sites/default/files/pub-pdf/state_of_world_population_2009.pdf), [web](https://www.unfpa.org/publications/state-world-population-2009))
+  - Youth Supplement – At the frontier: Young people and climate change ([full](https://www.unfpa.org/sites/default/files/pub-pdf/youth_swp_2009.pdf), [web](https://www.unfpa.org/publications/frontier))
+- 2008 State of World Population – Reaching common ground: Culture, gender and human rights ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp08_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2008))
+  - Youth Supplement – Young people and culture ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp_youth_08_eng.pdf), [web](https://www.unfpa.org/publications/generation-change-young-people-and-culture))
+- 2007 State of World Population – Unleashing the potential of urban growth ([full](https://www.unfpa.org/sites/default/files/pub-pdf/695_filename_sowp2007_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2007))
+  - Youth Supplement – Growing up urban ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swop2007_youth_eng.pdf), [web](https://www.unfpa.org/publications/growing-urban))
+- 2006 State of World Population – A passage to hope: Women and international migration ([full](https://www.unfpa.org/sites/default/files/pub-pdf/sowp06-en.pdf), [web](https://www.unfpa.org/publications/state-world-population-2006))
+- 2005 State of World Population – The promise of equality: Gender equity, reproductive health and the Millennium Development Goals ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp05_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2005))
+- 2004 State of World Population – The Cairo Consensus at ten: Population, reproductive health and the global effort to end poverty ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp04_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2004))
+- 2003 State of World Population – Making 1 billion count: Investing in adolescents' health and rights ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp03_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2003))
+- 2002 State of World Population – People, poverty and possibilities ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp02eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2002))
+- 2001 State of World Population – Footprints and milestones: Population and environmental change ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp2001_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2001))
+- 2000 State of World Population – Lives together, worlds apart: Men and women in a time of change ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp2000_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-2000))
+- 1999 State of World Population – 6 billion: A time for choices ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp_1999_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-1999))
+- 1998 State of World Population – The new generations ([full](https://www.unfpa.org/sites/default/files/pub-pdf/swp_1998_eng.pdf), [web](https://www.unfpa.org/publications/state-world-population-1998))
 
 
 
@@ -1708,6 +1924,52 @@
 
 
 
+## The State of the World’s Children
+
+> United Nations Children’s Emergency Fund (UNICEF) ([source 1](https://www.unicef.org/sowc/), [source 2](https://www.unicef.org/about/history/index_sowc.html))
+
+- 2019 The State of the World’s Children – Children, food and nutrition: Growing well in a changing world ([full](https://www.unicef.org/media/63016/file/SOWC-2019.pdf), [summary](https://www.unicef.org/media/60811/file/SOWC-2019-Exec-summary.pdf), [web](https://features.unicef.org/state-of-the-worlds-children-2019-nutrition/))
+- 2018 n/a
+- 2017 The State of the World’s Children – Children in a digital world ([full](https://www.unicef.org/publications/files/SOWC_2017_ENG_WEB.pdf), [summary](https://www.unicef.org/publications/files/SOWC_2017_Summary_En_WEB_FINAL.pdf), [web](https://www.unicef.org/sowc2017/))
+- 2016 The State of the World’s Children – A fair chance for every child ([full](https://www.unicef.org/publications/files/UNICEF_SOWC_2016.pdf), [web](https://www.unicef.org/sowc2016/))
+- 2015 The State of the World’s Children – Reimagine the future: Innovation for every child ([summary](https://www.unicef.org/publications/files/SOWC_2015_Summary_and_Tables.pdf), [web](https://sowc2015.unicef.org/))
+- 2014 The State of the World’s Children – Every child counts: Revealing disparities, advancing children's rights ([full](https://www.unicef.org/publications/files/SOWC2014_In_Numbers_28_Jan.pdf))
+- 2013 The State of the World’s Children – Children with disabilities ([full](https://www.unicef.org/sowc2013/files/SWCR2013_ENG_Lo_res_24_Apr_2013.pdf), [summary](https://www.unicef.org/sowc2013/files/SOWC2013_Exec_Summary_ENG_Lo_Res_24_Apr_2013.pdf), [web](https://www.unicef.org/sowc2013/))
+- 2012 The State of the World’s Children – Children in an urban world ([full](https://www.unicef.org/sowc2012/pdfs/SOWC-2012-Main-Report_EN_21Dec2011.pdf), [summary](https://www.unicef.org/sowc2012/pdfs/SOWC%202012-Executive%20Summary_EN_13Mar2012.pdf), [web](https://www.unicef.org/sowc2012/))
+- 2011 The State of the World’s Children – Adolescence: An age of opportunity ([full](https://www.unicef.org/sowc2011/pdfs/SOWC-2011-Main-Report_EN_02092011.pdf), [summary](https://www.unicef.org/sowc2011/pdfs/SOWC-2011-Executive-Summary-LoRes_EN_12132010.pdf), [web](https://www.unicef.org/sowc2011/))
+- 2010 The State of the World’s Children – Child rights ([full](https://sites.unicef.org/rightsite/sowc/pdfs/SOWC_Spec%20Ed_CRC_Main%20Report_EN_090409.pdf), [summary](https://sites.unicef.org/rightsite/sowc/pdfs/SOWC_SpecEd_CRC_ExecutiveSummary_EN_091009.pdf), [web](https://sites.unicef.org/rightsite/sowc/))
+- 2009 The State of the World’s Children – Maternal and newborn health ([full](https://www.unicef.org/sowc09/docs/SOWC09-FullReport-EN.pdf), [summary](https://www.unicef.org/sowc09/docs/SOWC09-ExecSummary-EN.pdf), [web](https://www.unicef.org/sowc09/))
+- 2008 The State of the World’s Children – Women and children: Child survival ([full](https://www.unicef.org/sowc08/docs/sowc08.pdf), [summary](https://www.unicef.org/sowc08/docs/sowc08_execsummary.pdf), [web](https://www.unicef.org/sowc08/))
+- 2007 The State of the World’s Children – Women and children: The double dividend of gender equality ([full](https://www.unicef.org/sowc07/docs/sowc07.pdf), [summary](https://www.unicef.org/sowc07/docs/sowc07_execsummary.pdf), [web](https://www.unicef.org/sowc07/))
+- 2006 The State of the World’s Children – Excluded and invisible ([full](https://www.unicef.org/sowc06/pdfs/sowc06_fullreport.pdf), [web](https://www.unicef.org/sowc06/))
+- 2005 The State of the World’s Children – Childhood under threat ([full](https://www.unicef.org/sowc05/english/sowc05.pdf), [web](https://www.unicef.org/sowc05/english/))
+- 2004 The State of the World’s Children – Girls, education and development ([full](https://www.unicef.org/sowc04/files/SOWC_O4_eng.pdf), [web](https://www.unicef.org/sowc04/index.html))
+- 2003 The State of the World’s Children – Child participation ([full](https://www.unicef.org/sowc03/contents/pdf/SOWC03-eng.pdf), [web](https://www.unicef.org/sowc03/))
+- 2002 The State of the World’s Children – Leadership ([full](https://www.unicef.org/sowc02/pdf/sowc2002-eng-full.pdf), [web](https://www.unicef.org/sowc02/))
+- 2001 The State of the World’s Children – Early childhood ([full](https://www.unicef.org/sowc01/pdf/fullsowc.pdf), [web](https://www.unicef.org/sowc01/))
+- 2000 The State of the World’s Children ([full](https://www.unicef.org/sowc00/sowc00_complete.pdf), [summary](https://www.unicef.org/sowc00/sowc00_summary.pdf), [web](https://www.unicef.org/sowc00/))
+- 1999 The State of the World’s Children – Education ([full](https://www.unicef.org/sowc99/sowc99e.pdf), [web](https://www.unicef.org/sowc99/))
+- 1998 The State of the World’s Children – Nutrition ([full](https://www.unicef.org/sowc98/sowc98.pdf), [web](https://www.unicef.org/sowc98/))
+- 1997 The State of the World’s Children – Child labour ([full](https://www.unicef.org/sowc/archive/ENGLISH/The%20State%20of%20the%20World%27s%20Children%201997.pdf), [web](https://www.unicef.org/sowc97/))
+- 1996 The State of the World’s Children – Children in war ([full](https://www.unicef.org/sowc/archive/ENGLISH/The%20State%20of%20the%20World%27s%20Children%201996.pdf), [web](https://www.unicef.org/sowc96/))
+- 1995 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1995.pdf))
+- 1994 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1994.pdf))
+- 1993 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1993.pdf))
+- 1992 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1992.pdf))
+- 1991 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1991.pdf))
+- 1990 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1990.pdf))
+- 1989 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1989.pdf))
+- 1988 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1988.pdf))
+- 1987 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1987.pdf))
+- 1986 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1986.pdf))
+- 1985 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1985.pdf))
+- 1984 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1984.pdf))
+- 1982/83 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1982-83.pdf))
+- 1981/82 The State of the World’s Children ([full](http://www.caribbeanelections.com/eDocs/development_reports/sowc_1981_82.pdf))
+- 1980/81 The State of the World’s Children ([full](https://www.unicef.org/about/history/files/sowc_1980-81.pdf))
+
+
+
 ## The State of the World’s Forests
 
 > Food and Agriculture Organization of the United Nations, United Nations Environment Programme ([source](http://www.fao.org/publications/sofo/en/))
@@ -1913,6 +2175,18 @@
 - 2005 UNHCR Global Refugee Trends ([full](https://www.unhcr.org/4486ceb12.pdf))
 - 2004 UNHCR Global Refugee Trends ([full](https://www.unhcr.org/42b283744.pdf))
 - 2003 UNHCR Global Refugee Trends ([full](https://www.unhcr.org/40d015fb4.pdf))
+
+
+
+## Uranium: Resources, Production and Demand (Red Book)
+
+> International Atomic Energy Agency, Nuclear Energy Agency ([source](https://www.oecd-ilibrary.org/nuclear-energy/uranium_20725310))
+
+- 2018 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2018_uranium-2018-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2018_uranium-2018-en))
+- 2016 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2016_uranium-2016-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2016_uranium-2016-en))
+- 2014 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2014_uranium-2014-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2014_uranium-2014-en))
+- 2011 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2011_uranium-2011-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2011_uranium-2011-en))
+- 2009 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2009_uranium-2009-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2009_uranium-2009-en))
 
 
 
