@@ -107,6 +107,8 @@
 - [The World's Women](#the-worlds-women)
 - [Tracking Clean Energy Progress](#tracking-clean-energy-progress)
 - [Trade and Development Report](#trade-and-development-report)
+- [Trends in International Arms Transfers](#trends-in-international-arms-transfers)
+- [Trends in World Military Expenditure](#trends-in-world-military-expenditure)
 - [UNESCO Science Report](#unesco-science-report)
 - [UNHCR Global Report](#unhcr-global-report)
 - [UNHCR Global Trends](#unhcr-global-trends)
@@ -114,22 +116,36 @@
 - [WMO Greenhouse Gas Bulletin](#wmo-greenhouse-gas-bulletin)
 - [WMO Statement on the state of the Global Climate](#wmo-statement-on-the-state-of-the-global-climate)
 - [Women, Business and the Law](#women-business-and-the-law)
+- [World Air Quality Report](#world-air-quality-report)
+- [World Cities Report](#world-cities-report)
 - [World Development Report](#world-development-report)
 - [World Drug Report](#world-drug-report)
+- [World Economic League Table](#world-economic-league-table)
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
 - [World Employment and Social Outlook](#world-employment-and-social-outlook)
+- [World Energy Investment](#world-energy-investment)
 - [World Energy Outlook](#world-energy-outlook)
 - [World Happiness Report](#world-happiness-report)
+- [World Health Report](#world-health-report)
+- [World Health Statistics](#world-health-statistics)
+- [World Inequality Report](#world-inequality-report)
+- [World Intellectual Property Report](#world-intellectual-property-report)
 - [World Investment Report](#world-investment-report)
+- [World Migration Report](#world-migration-report)
+- [World Oil Outlook](#world-oil-outlook)
 - [World Public Sector Report](#world-public-sector-report)
 - [World Social Protection Report](#world-social-protection-report)
 - [World Social Report](#world-social-report)
 - [World Social Science Report](#world-social-science-report)
+- [World Steel in Figures](#world-steel-in-figures)
 - [World Trade Report](#world-trade-report)
 - [World Trade Statistical Review](#world-trade-statistical-review)
+- [World Urbanization Prospects](#world-urbanization-prospects)
 - [World Water Development Report](#world-water-development-report)
+- [World Wealth Report](#world-wealth-report)
 - [World Wildlife Crime Report](#world-wildlife-crime-report)
 - [World Youth Report](#world-youth-report)
+- [WorldRiskReport](#worldriskreport)
 - [Worldwide Cost of Living](#worldwide-cost-of-living)
 
 
@@ -2111,6 +2127,40 @@
 
 
 
+## Trends in International Arms Transfers
+
+> Stockholm International Peace Research Institute ([source](https://www.sipri.org/publications/search?keys=Trends+in+International+Arms+Transfers&author_editor=&field_associated_research_area_target_id=All&field_publication_type_target_id=All))
+
+- 2019 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/2020-03/fs_2003_at_2019.pdf), [web](https://www.sipri.org/publications/2020/sipri-fact-sheets/trends-international-arms-transfers-2019))
+- 2018 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/2019-03/fs_1903_at_2018.pdf), [web](https://www.sipri.org/publications/2019/sipri-fact-sheets/trends-international-arms-transfers-2018))
+- 2017 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/2018-03/fssipri_at2017_0.pdf), [web](https://www.sipri.org/publications/2018/sipri-fact-sheets/trends-international-arms-transfers-2017))
+- 2016 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/Trends-in-international-arms-transfers-2016.pdf), [web](https://www.sipri.org/publications/2017/sipri-fact-sheets/trends-international-arms-transfers-2016))
+- 2015 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/SIPRIFS1602.pdf), [web](https://www.sipri.org/publications/2016/sipri-fact-sheets/trends-international-arms-transfers-2015))
+- 2014 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1503.pdf), [web](https://www.sipri.org/publications/2015/sipri-fact-sheets/trends-international-arms-transfers-2014))
+- 2013 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1403.pdf), [web](https://www.sipri.org/publications/2014/sipri-fact-sheets/trends-international-arms-transfers-2013))
+- 2012 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1303.pdf), [web](https://www.sipri.org/publications/2013/sipri-fact-sheets/trends-international-arms-transfers-2012))
+- 2011 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1203.pdf), [web](https://www.sipri.org/publications/2012/sipri-fact-sheets/trends-international-arms-transfers-2011))
+- 2010 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1103a.pdf), [web](https://www.sipri.org/publications/2011/sipri-fact-sheets/trends-international-arms-transfers-2010))
+- 2009 Trends in International Arms Transfers ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1003.pdf), [web](https://www.sipri.org/publications/2010/sipri-fact-sheets/trends-international-arms-transfers-2009))
+- 2008 SIPRI Arms Transfers Data ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS0904.pdf), [web](https://www.sipri.org/publications/2009/sipri-fact-sheets/sipri-arms-transfers-data-2008))
+
+
+
+## Trends in World Military Expenditure
+
+> Stockholm International Peace Research Institute ([source 1](https://www.sipri.org/publications/search?keys=Trends+in+World+Military+Expenditure&author_editor=&field_associated_research_area_target_id=All&field_publication_type_target_id=All), [source 2](https://www.sipri.org/databases/milex))
+
+- 2019 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/2020-04/fs_2020_04_milex_0.pdf), [web](https://www.sipri.org/publications/2020/sipri-fact-sheets/trends-world-military-expenditure-2019))
+- 2018 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/2019-04/fs_1904_milex_2018.pdf), [web](https://www.sipri.org/publications/2019/sipri-fact-sheets/trends-world-military-expenditure-2018))
+- 2017 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/2018-04/sipri_fs_1805_milex_2017.pdf), [web](https://www.sipri.org/publications/2018/sipri-fact-sheets/trends-world-military-expenditure-2017))
+- 2016 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/Trends-world-military-expenditure-2016.pdf), [web](https://www.sipri.org/publications/2017/sipri-fact-sheets/trends-world-military-expenditure-2016))
+- 2015 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/EMBARGO%20FS1604%20Milex%202015.pdf), [web](https://www.sipri.org/publications/2016/sipri-fact-sheets/trends-world-military-expenditure-2015))
+- 2014 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1504.pdf), [web](https://www.sipri.org/publications/2015/sipri-fact-sheets/trends-world-military-expenditure-2014))
+- 2013 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1404.pdf), [web](https://www.sipri.org/publications/2014/sipri-fact-sheets/trends-world-military-expenditure-2013))
+- 2012 Trends in World Military Expenditure ([full](https://www.sipri.org/sites/default/files/files/FS/SIPRIFS1304.pdf), [web](https://www.sipri.org/publications/2013/sipri-fact-sheets/trends-world-military-expenditure-2012))
+
+
+
 ## UNESCO Science Report
 
 > UNESCO ([source](https://en.unesco.org/unesco_science_report/collection))
@@ -2262,6 +2312,29 @@
 
 
 
+## World Air Quality Report
+
+> IQAir AirVisual ([source](https://www.iqair.com/world-most-polluted-cities))
+
+- 2019 World Air Quality Report ([full](https://www.iqair.com/world-most-polluted-cities/world-air-quality-report-2019-en.pdf))
+- 2018 World Air Quality Report ([full](https://www.iqair.com/world-most-polluted-cities/world-air-quality-report-2018-en.pdf))
+
+
+
+## World Cities Report
+
+> United Nations Human Settlements Programme ([source 1](https://mirror.unhabitat.org/list.asp?typeid=15&catid=559), [source 2](https://unhabitat.org/world-cities-report))
+
+- 2016 World Cities Report – Urbanization and development: Emerging futures ([full](https://unhabitat.org/sites/default/files/download-manager-files/WCR-2016-WEB.pdf), [web](https://unhabitat.org/world-cities-report))
+- 2012/13 State of the World's Cities – Prosperity of Cities ([full](https://sustainabledevelopment.un.org/content/documents/745habitat.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=3387))
+- 2010/11 State of the World's Cities – Bridging the urban divide ([full](https://africacheck.org/wp-content/uploads/2014/03/State-of-the-world-cities-2010.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2917))
+- 2008/09 State of the World's Cities – Harmonious Cities ([full](https://sustainabledevelopment.un.org/content/documents/11192562_alt-1.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2562))
+- 2006/07 State of the World's Cities – The Millennium Development Goals and Urban Sustainability: 30 years of shaping the Habitat Agenda ([full](https://sustainabledevelopment.un.org/content/documents/11292101_alt.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2101))
+- 2004/05 State of the World's Cities – Globalization and urban culture ([full](https://issuu.com/unhabitat/docs/1163_alt), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=1163))
+- 2001 State of the World's Cities ([web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=1487))
+
+
+
 ## World Development Report
 
 > World Bank Group ([source](https://www.worldbank.org/en/publication/wdr/wdr-archive))
@@ -2364,6 +2437,24 @@
 
 
 
+## World Economic League Table
+
+> Centre for Economics and Business Research ([source](https://cebr.com/?s=World+Economic+League+Table))
+
+- 2020 World Economic League Table ([full](https://cebr.com/wp-content/uploads/2019/12/World-Economic-League-Table-Report-2020-Final.pdf), [web](https://cebr.com/reports/world-economic-league-table-2020/))
+- 2019 World Economic League Table ([full](https://assetsds.cdnedge.bluemix.net/sites/default/files/welt-2019-full-report.pdf))
+- 2018 World Economic League Table ([full](https://cebr.com/wp-content/uploads/2018/01/World-Economic-League-Table-Report-2018.pdf))
+- 2017 World Economic League Table ([web](https://cebr.com/reports/world-economic-league-table-2017/))
+- 2016 World Economic League Table ([summary](https://www.cebr.com/wp-content/uploads/2015/12/Cebr-World-Economic-League-Table-2016-26-December-2015-final.pdf), [web](https://cebr.com/reports/welt-2016/))
+- 2015 World Economic League Table ([summary](https://www.cebr.com/wp-content/uploads/2014/12/WELT-Dec-26-2014.pdf), [web](https://cebr.com/reports/world-economic-league-table-2015/))
+- 2014 World Economic League Table
+- 2013 World Economic League Table ([full](https://www.letemps.ch/sites/default/files/media/2013/12/27/2.1.2553317251.pdf?uuid=Grr-BG7KEeOnth7pfSJMiw))
+- 2012 World Economic League Table
+- 2011 World Economic League Table
+- 2010 World Economic League Table
+
+
+
 ## World Economic Situation and Prospects
 
 > United Nations ([source 1](https://www.un.org/en/development/desa/policy/wesp/archive.shtml), [source 2](https://unctad.org/en/pages/publications/World-Economic-Situation-and-Prospects-(Series).aspx))
@@ -2419,6 +2510,18 @@
 - 2010 World of Work – From one crisis to the next? ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_145259.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/publication/wcms_145112.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_145259/lang--en/index.htm))
 - 2009 World of Work – The global job crisis and beyond ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_120079.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/documents/presentation/wcms_118385.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_120079/lang--en/index.htm))
 - 2008 World of Work – Income inequalities in the age of financial globalization ([full](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_100354.pdf), [summary](https://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/article/wcms_100613.pdf), [web](https://www.ilo.org/global/publications/ilo-bookstore/order-online/books/WCMS_100354/lang--en/index.htm))
+
+
+
+## World Energy Investment
+
+> International Energy Agency ([source](https://www.iea.org/search/analysis?q=%22world%20energy%20investment%22))
+
+- 2020 World Energy Investment ([full](https://sun-connect-news.org/fileadmin/DATEIEN/Dateien/New/WEI2020.pdf), [web](https://www.iea.org/reports/world-energy-investment-2020))
+- 2019 World Energy Investment ([full](https://www.connaissancedesenergies.org/sites/default/files/pdf-actualites/WEI2019.pdf), [web](https://www.iea.org/reports/world-energy-investment-2019))
+- 2018 World Energy Investment ([full](https://www.connaissancedesenergies.org/sites/default/files/pdf-actualites/wei2018.pdf), [summary](https://webstore.iea.org/download/summary/1242?fileName=English-WEI-2018-ES.pdf), [web](https://www.iea.org/reports/world-energy-investment-2018))
+- 2017 World Energy Investment ([full](http://library.nioc.ir/IEA/World%20energy%20Investment%202017.pdf), [summary](https://webstore.iea.org/download/summary/225?fileName=English-WEI-2017-ES.pdf), [web](https://www.iea.org/reports/world-energy-investment-2017))
+- 2016 World Energy Investment (full, [summary](https://webstore.iea.org/download/summary/235?fileName=English-WEI-2016-ES.pdf), [web](https://www.iea.org/reports/world-energy-investment-2016))
 
 
 
@@ -2480,6 +2583,75 @@
 
 
 
+## World Health Report
+
+> World Health Organization ([source](https://www.who.int/whr/en/))
+
+- 2013 World Health Report – Research for universal health coverage ([full](https://apps.who.int/iris/bitstream/handle/10665/85761/9789240690837_eng.pdf;jsessionid=D5A3E56F4D9B1B715AD1745362C3A46A?sequence=2), [web](https://www.who.int/whr/2013/report/en/))
+- 2012 n/a
+- 2011 n/a
+- 2010 World Health Report – Health systems financing: The path to universal coverage ([full](https://apps.who.int/iris/bitstream/handle/10665/44371/9789241564021_eng.pdf?sequence=1), [summary](https://www.who.int/whr/2010/10_summary_en.pdf?ua=1), [web](https://www.who.int/whr/2010/en/))
+- 2009 n/a
+- 2008 World Health Report – Primary health care: Now more than ever ([full](https://www.who.int/whr/2008/whr08_en.pdf), [summary](https://www.who.int/whr/2008/summary.pdf?ua=1), [web](https://www.who.int/whr/2008/en/))
+- 2007 World Health Report – A safer future: Global public health security in the 21st century ([full](https://www.who.int/whr/2007/whr07_en.pdf?ua=1), [summary](https://www.who.int/whr/2007/07_overview_en.pdf?ua=1), [web](https://www.who.int/whr/2007/en/))
+- 2006 World Health Report – Working together for health ([full](https://www.who.int/whr/2006/whr06_en.pdf?ua=1), [summary](https://www.who.int/whr/2006/06_overview_en.pdf?ua=1), [web](https://www.who.int/whr/2006/en/))
+- 2005 World Health Report – Make every mother and child count ([full](https://www.who.int/whr/2005/whr2005_en.pdf?ua=1), [summary](https://www.who.int/whr/2005/overview_en.pdf?ua=1), [web](https://www.who.int/whr/2005/en/))
+- 2004 World Health Report – Changing history ([full](https://www.who.int/whr/2004/en/report04_en.pdf?ua=1), [summary](https://www.who.int/whr/2004/en/overview_en.pdf?ua=1), [web](https://www.who.int/whr/2004/en/))
+- 2003 World Health Report – Shaping the future ([full](https://www.who.int/whr/2003/en/whr03_en.pdf?ua=1), [summary](https://www.who.int/whr/2003/en/overview_en.pdf?ua=1), [web](https://www.who.int/whr/2003/en/))
+- 2002 World Health Report – Reducing risks, promoting healthy life ([full](https://www.who.int/whr/2002/en/whr02_en.pdf?ua=1), [summary](https://www.who.int/whr/2002/en/Overview_E.pdf?ua=1), [web](https://www.who.int/whr/2002/en/))
+- 2001 World Health Report – Mental health: New understanding, new hope ([full](https://www.who.int/whr/2001/en/whr01_en.pdf?ua=1), [web](https://www.who.int/whr/2001/en/))
+- 2000 World Health Report – Health systems: Improving performance ([full](https://www.who.int/whr/2000/en/whr00_en.pdf?ua=1), [web](https://www.who.int/whr/2000/en/))
+- 1999 World Health Report – Making a difference ([full](https://www.who.int/whr/1999/en/whr99_en.pdf?ua=1), [web](https://www.who.int/whr/1999/en/))
+- 1998 World Health Report – Life in the 21st century: A vision for all ([full](https://www.who.int/whr/1998/en/whr98_en.pdf?ua=1), [web](https://www.who.int/whr/1998/en/))
+- 1997 World Health Report – Conquering suffering, enriching humanity ([full](https://www.who.int/whr/1997/en/whr97_en.pdf?ua=1), [web](https://www.who.int/whr/1997/en/))
+- 1996 World Health Report – Fighting disease, fostering development ([full](https://www.who.int/whr/1996/en/whr96_en.pdf?ua=1), [web](https://www.who.int/whr/1996/en/))
+- 1995 World Health Report – Bridging the caps ([full](https://www.who.int/whr/1995/en/whr95_en.pdf?ua=1), [web](https://www.who.int/whr/1995/en/))
+
+
+
+## World Health Statistics
+
+> World Health Organization ([source](https://www.who.int/gho/publications/world_health_statistics/en/))
+
+- 2020 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/332070/9789240005105-eng.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2020/en/))
+- 2019 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/324835/9789241565707-eng.pdf?ua=1), [summary](https://apps.who.int/iris/bitstream/handle/10665/311696/WHO-DAD-2019.1-eng.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2019/en/))
+- 2018 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/272596/9789241565585-eng.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2018/en/))
+- 2017 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/255336/9789241565486-eng.pdf?sequence=1), [web](https://www.who.int/gho/publications/world_health_statistics/2017/en/))
+- 2016 World Health Statistics ([full](http://apps.who.int/iris/bitstream/10665/206498/1/9789241565264_eng.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2016/en/))
+- 2015 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/170250/9789240694439_eng.pdf?sequence=1), [web](https://www.who.int/gho/publications/world_health_statistics/2015/en/))
+- 2014 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/112738/9789240692671_eng.pdf?sequence=1), [summary](https://apps.who.int/iris/bitstream/handle/10665/112739/WHO_HIS_HSI_14.1_eng.pdf?sequence=1), [web](https://www.who.int/gho/publications/world_health_statistics/2014/en/))
+- 2013 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/81965/9789241564588_eng.pdf?sequence=1), [summary](https://apps.who.int/iris/bitstream/handle/10665/82058/WHO_HIS_HSI_13.1_eng.pdf?sequence=1), [web](https://www.who.int/gho/publications/world_health_statistics/2013/en/))
+- 2012 World Health Statistics ([full](https://apps.who.int/iris/bitstream/handle/10665/44844/9789241564441_eng.pdf?sequence=1), [summary](https://apps.who.int/iris/bitstream/handle/10665/70889/WHO_IER_HSI_12.1_eng.pdf?sequence=1), [web](https://www.who.int/gho/publications/world_health_statistics/2012/en/))
+- 2011 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/EN_WHS2011_Full.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2011/en/))
+- 2010 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/EN_WHS10_Full.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2010/en/))
+- 2009 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/EN_WHS09_Full.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2009/en/))
+- 2008 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/EN_WHS08_Full.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2008/en/))
+- 2007 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/whostat2007.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2007/en/))
+- 2006 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/whostat2006_erratareduce.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2006/en/))
+- 2005 World Health Statistics ([full](https://www.who.int/gho/publications/world_health_statistics/whostat2005en.pdf?ua=1), [web](https://www.who.int/gho/publications/world_health_statistics/2005/en/))
+
+
+
+## World Inequality Report
+
+> World Inequality Lab ([source](https://wir2018.wid.world/))
+
+- 2018 World Inequality Report ([full](https://wir2018.wid.world/files/download/wir2018-full-report-english.pdf), [summary](https://wir2018.wid.world/files/download/wir2018-summary-english.pdf) ,[web](https://wir2018.wid.world/))
+
+
+
+## World Intellectual Property Report
+
+> World Intellectual Property Organization ([source](https://www.wipo.int/publications/en/series/index.jsp?id=38))
+
+- 2019 World Intellectual Property Report – The geography of innovation: Local hotspots, global networks ([full](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2019.pdf), [summary](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2019-exe_summary1.pdf), [web](https://www.wipo.int/publications/en/details.jsp?id=4467&plang=EN))
+- 2017 World Intellectual Property Report – Intangible capital in global value chains ([full](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2017.pdf), [summary](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2017-intro2.pdf), [web](https://www.wipo.int/publications/en/details.jsp?id=4225&plang=EN))
+- 2015 World Intellectual Property Report – Breakthrough innovation and economic growth ([full](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2015.pdf), [summary](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_944_2015-intro2.pdf), [web](https://www.wipo.int/publications/en/details.jsp?id=3995&plang=EN))
+- 2013 World Intellectual Property Report – Brands: Reputation and image in the global marketplace ([full](https://www.wipo.int/edocs/pubdocs/en/intproperty/944/wipo_pub_944_2013.pdf), [web](https://www.wipo.int/publications/en/details.jsp?id=384&plang=EN))
+- 2011 World Intellectual Property Report – The changing face of innovation ([full](https://www.wipo.int/edocs/pubdocs/en/intproperty/944/wipo_pub_944_2011.pdf), [web](https://www.wipo.int/publications/en/details.jsp?id=227&plang=EN))
+
+
+
 ## World Investment Report
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/DIAE/World%20Investment%20Report/World_Investment_Report.aspx))
@@ -2514,6 +2686,44 @@
 - 1993 World Investment Report – Transnational corporations and integrated international production ([full](https://unctad.org/en/Docs/wir1993_en.pdf), [summary](https://unctad.org/en/Docs/wir1993overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=640))
 - 1992 World Investment Report – Transnational corporations as engines of growth ([full](https://unctad.org/en/Docs/wir1992_en.pdf), [summary](https://unctad.org/en/Docs/wir1992overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=623))
 - 1991 World Investment Report – The Triad in foreign direct investment ([full](https://unctad.org/en/Docs/wir1991overview_en.pdf), summary, [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=622))
+
+
+
+## World Migration Report
+
+> International Organization for Migration ([source](https://www.iom.int/wmr/))
+
+- 2020 World Migration Report ([full](https://publications.iom.int/system/files/pdf/wmr_2020.pdf), [summary](https://publications.iom.int/system/files/pdf/wmr2020_infosheet_1.pdf), [web](https://www.iom.int/wmr/2020))
+- 2018 World Migration Report ([full](https://publications.iom.int/system/files/pdf/wmr_2018_en.pdf), [summary](https://publications.iom.int/system/files/pdf/wmr_2018_en_chapter1.pdf), [web](https://www.iom.int/wmr/2018))
+- 2015 World Migration Report – Migrants and cities: New partnerships to manage mobility ([full](https://publications.iom.int/system/files/wmr2015_en.pdf), [web](https://www.iom.int/wmr/2015))
+- 2013 World Migration Report – Migrant well-being and development ([full](https://publications.iom.int/system/files/pdf/wmr2013_en.pdf), [web](https://www.iom.int/wmr/2013))
+- 2011 World Migration Report – Communicating effectively about migration ([full](https://publications.iom.int/system/files/pdf/wmr2011_english.pdf), [web](https://www.iom.int/wmr/2011))
+- 2010 World Migration Report – The future of migration: Building capacities for change ([full](https://publications.iom.int/system/files/pdf/wmr_2010_english.pdf), [web](https://www.iom.int/wmr/2010))
+- 2008 World Migration Report – Managing labour mobility in the evolving global economy ([full](https://publications.iom.int/system/files/pdf/wmr_1.pdf), [web](https://www.iom.int/wmr/2008))
+- 2005 World Migration Report – Costs and benefits of international migration ([full](https://publications.iom.int/system/files/pdf/wmr_2005_3.pdf?language=en), [web](https://www.iom.int/wmr/2005))
+- 2003 World Migration Report – Managing migration: Challenges and responses for people on the move ([full](https://publications.iom.int/system/files/pdf/wmr_2003_1.pdf), [web](https://www.iom.int/wmr/2003))
+- 2000 World Migration Report ([full](https://publications.iom.int/system/files/pdf/wmr_2000_edited_0.pdf), [web](https://www.iom.int/wmr/2000))
+
+
+
+## World Oil Outlook
+
+> OPEC ([source](https://www.opec.org/opec_web/en/publications/340.htm#:~:text=OPEC's%20World%20Oil%20Outlook%20(WOO,Organization's%20commitment%20to%20market%20stability.&text=It%20is%20also%20a%20channel,other%20stakeholders%20within%20the%20industry.)))
+
+- 2020 World Oil Outlook (full, summary, [web](https://woo.opec.org/))
+- 2019 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2019.pdf), [summary](https://www.energy-tomorrow.eu/wp-content/uploads/sites/15/2019/11/world-oil-outlook_executive-summary_2019.pdf))
+- 2018 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2018.pdf))
+- 2017 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO%20%202017.pdf))
+- 2016 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO%202016.pdf))
+- 2015 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO%202015.pdf))
+- 2014 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2014.pdf))
+- 2013 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2013.pdf))
+- 2012 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO2012.pdf))
+- 2011 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2011.pdf))
+- 2010 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2010.pdf))
+- 2009 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO%202009.pdf))
+- 2008 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO%202008.pdf))
+- 2007 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WorldOilOutlook.pdf))
 
 
 
@@ -2571,6 +2781,32 @@
 
 
 
+## World Steel in Figures
+
+> World Steel Association ([source](https://www.worldsteel.org/steel-by-topic/statistics/World-Steel-in-Figures.html))
+
+- 2020 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:f7982217-cfde-4fdc-8ba0-795ed807f513/World%2520Steel%2520in%2520Figures%25202020i.pdf))
+- 2019 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:96d7a585-e6b2-4d63-b943-4cd9ab621a91/World%2520Steel%2520in%2520Figures%25202019.pdf))
+- 2018 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:7eb5b4b0-2d1d-49d8-b580-a8ed74e67436/World%2520Steel%2520in%2520Figures%25202018.pdf))
+- 2017 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:5a5aa269-d357-476f-bbc3-74c0eacd5566/World%2520Steel%2520in%2520Figures%25202017.pdf))
+- 2016 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:6182db2c-861c-4cd6-9ce2-d589d4e93330/World%2520Steel%2520in%2520Figures%25202016.pdf))
+- 2015 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:d8d77939-0c1d-4e2d-94b1-fc1dd3a8ff0c/World%2520Steel%2520in%2520Figures%25202015.pdf))
+- 2014 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:b557c575-7476-40d5-9740-ac60d3bfd6b5/World%2520Steel%2520in%2520Figures%25202014.pdf))
+- 2013 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:80fd9088-44a6-4743-b6bc-c210c9fea9a8/World%2520Steel%2520in%2520Figures%25202013.pdf))
+- 2012 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:6bbff260-8606-4292-bae1-7b034af0ed8f/World%2520Steel%2520in%2520Figures%25202012.pdf))
+- 2011 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:65dbfd1d-9429-4f71-ac68-4fe5b4848776/World%2520Steel%2520in%2520Figures%25202011.pdf))
+- 2010 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:900d6604-6e78-4375-ba23-2dffdb3b94e1/World%2520Steel%2520in%2520Figures%25202010.pdf))
+- 2009 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:3149d11c-4e94-4aa6-815b-6547b33423b1/World%2520Steel%2520in%2520Figures%25202009.pdf))
+- 2008 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:46411108-c268-40da-97f6-8492bbeb01df/World%2520Steel%2520in%2520Figures%25202008.pdf))
+- 2007 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:88a6f7d8-6ef2-4a6a-8116-b182478a0be0/World%2520Steel%2520in%2520Figures%25202007.pdf))
+- 2006 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:93172ae4-03ee-4780-8947-42c662f53175/World%2520Steel%2520in%2520Figures%25202006.pdf))
+- 2005 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:3b014dbf-1a8b-4c1b-b951-896185ba660c/World%2520Steel%2520in%2520Figures%25202005.pdf))
+- 2004 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:56e733f0-463e-40c2-beb1-1d77ef158e4f/World%2520Steel%2520in%2520Figures%25202004.pdf))
+- 2003 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:82c70b4f-bd94-48cb-8539-7e64c1fbe9d5/World%2520Steel%2520in%2520Figures%25202003.pdf))
+- 2002 World Steel in Figures ([full](https://www.worldsteel.org/en/dam/jcr:813fbac5-1c90-44f1-a758-c163d28047f5/World%2520Steel%2520in%2520Figures%25202002.pdf))
+
+
+
 ## World Trade Report
 
 > World Trade Organization ([source](https://www.wto.org/english/res_e/reser_e/wtr_e.htm))
@@ -2607,6 +2843,15 @@
 
 
 
+## World Urbanization Prospects
+
+> United Nations Department of Economic and Social Affairs ([source](https://population.un.org/wup/))
+
+- 2018 World Urbanization Prospects ([full](https://population.un.org/wup/Publications/Files/WUP2018-Report.pdf), [summary](https://population.un.org/wup/Publications/Files/WUP2018-Highlights.pdf))
+- 2014 World Urbanization Prospects ([full](https://population.un.org/wup/Publications/Files/WUP2014-Report.pdf), [summary](https://population.un.org/wup/Publications/Files/WUP2014-Highlights.pdf))
+
+
+
 ## World Water Development Report
 
 > UN-Water, UNESCO ([source](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/))
@@ -2622,6 +2867,37 @@
 - 2009 World Water Development Report – Water in a changing world ([full](https://unesdoc.unesco.org/ark:/48223/pf0000181993/PDF/181993eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr3-2009/))
 - 2006 World Water Development Report – Water, a shared responsibility ([full](https://unesdoc.unesco.org/ark:/48223/pf0000145405/PDF/145405eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000144409/PDF/144409eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr2-2006/))
 - 2003 World Water Development Report – Water for people, water for life ([full](https://unesdoc.unesco.org/ark:/48223/pf0000129726/PDF/129726eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000129556/PDF/129556eng.pdf.multi), [web](http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/wwdr1-2003/))
+
+
+
+## World Wealth Report
+
+> Capgemini ([source](https://worldwealthreport.com/all-resources/))
+
+- 2020 World Wealth Report ([full](https://www.capgemini.com/nl-nl/wp-content/uploads/sites/7/2020/07/World-Wealth-Report-WWR-2020.pdf))
+- 2019 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2019/07/World-Wealth-Report-2019.pdf))
+- 2018 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/World-Wealth-Report_2018.pdf))
+- 2017 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2017-World-Wealth-Report-English.pdf))
+- 2016 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2016-World-Wealth-Report-English.pdf))
+- 2015 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2015-World-Wealth-Report-English.pdf))
+- 2014 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2014-World-Wealth-Report-English.pdf))
+- 2013 World Wealth Report ([full](https://www.capgemini.com/se-en/wp-content/uploads/sites/29/2017/07/wwr_2013_1.pdf))
+- 2012 World Wealth Report ([full](https://www.capgemini.com/wp-content/uploads/2017/07/The_16th_Annual_World_Wealth_Report_2012.pdf))
+- 2011 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2011-World-Wealth-Report-English.pdf))
+- 2010 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2010-World-Wealth-Report-English.pdf))
+- 2009 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/2009-World-Wealth-Report-English.pdf))
+- 2008 World Wealth Report ([full](https://www.capgemini.com/wp-content/uploads/2017/07/world_wealth_report_2008.pdf))
+- 2007 World Wealth Report ([full](https://www.capgemini.com/wp-content/uploads/2017/07/World_Wealth_Report_2007.pdf))
+- 2006 World Wealth Report ([full](https://www.capgemini.com/no-no/wp-content/uploads/sites/28/2017/07/World_Wealth_Report_2006.pdf))
+- 2005 World Wealth Report ([full](https://www.capgemini.com/no-no/wp-content/uploads/sites/28/2017/07/World_Wealth_Report_2005.pdf))
+- 2004 World Wealth Report ([full](http://www.theiafm.org/publications/39.pdf))
+- 2003 World Wealth Report ([full](http://www.theiafm.org/publications/38.pdf))
+- 2002 World Wealth Report
+- 2001 World Wealth Report
+- 2000 World Wealth Report
+- 1999 World Wealth Report
+- 1998 World Wealth Report
+- 1997 World Wealth Report
 
 
 
@@ -2647,6 +2923,23 @@
 - 2007 World Youth Report – Young people’s transition to adulthood: Progress and challenges ([full](https://www.un.org/esa/socdev/unyin/documents/wyr07_complete.pdf), [summary](https://www.un.org/esa/socdev/unyin/documents/wyr07_overview.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2007.html))
 - 2005 World Youth Report – Young people today, and in 2015 ([full](https://www.un.org/esa/socdev/unyin/documents/wyr05book.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2005.html))
 - 2003 World Youth Report – The global situation of young people ([full](https://www.un.org/esa/socdev/unyin/documents/worldyouthreport.pdf), [summary](https://www.un.org/esa/socdev/unyin/documents/covercontentsoverview.pdf), [web](https://www.un.org/development/desa/youth/world-youth-report/world-youth-report-2003.html))
+
+
+
+## WorldRiskReport
+
+> Bündnis Entwicklung Hilft, Ruhr University Bochum ([source](http://weltrisikobericht.de/english/))
+
+- 2020 WorldRiskReport – Forced displacement and migration ([full](https://weltrisikobericht.de/wp-content/uploads/2020/09/WorldRiskReport-2020.pdf))
+- 2019 WorldRiskReport – Water Supply ([full](https://weltrisikobericht.de/wp-content/uploads/2019/09/WorldRiskReport-2019_Online_english.pdf))
+- 2018 WorldRiskReport – Child protection and children's rights ([full](https://weltrisikobericht.de/wp-content/uploads/2019/03/190318_WRR_2018_EN_RZonline_1.pdf))
+- 2017 WorldRiskReport – Analysis and prospects ([full](http://weltrisikobericht.de/wp-content/uploads/2017/11/WRR_2017_E2.pdf))
+- 2016 WorldRiskReport – Logistics and infrastructure ([full](http://weltrisikobericht.de/wp-content/uploads/2016/08/WorldRiskReport2016.pdf))
+- 2015 WorldRiskReport – Food security ([full](http://weltrisikobericht.de/wp-content/uploads/2016/08/WorldRiskReport_2015.pdf))
+- 2014 WorldRiskReport – The city as a risk area ([full](http://weltrisikobericht.de/wp-content/uploads/2016/08/WorldRiskReport_2014.pdf))
+- 2013 WorldRiskReport – Health and healthcare ([full](http://weltrisikobericht.de/wp-content/uploads/2016/08/WorldRiskReport_2013.pdf))
+- 2012 WorldRiskReport – Environmental degradation and disasters ([full](http://weltrisikobericht.de/wp-content/uploads/2016/08/WorldRiskReport_2012.pdf))
+- 2011 WorldRiskReport – Governance and civil society ([full](http://weltrisikobericht.de/wp-content/uploads/2016/08/WorldRiskReport_2011.pdf))
 
 
 
