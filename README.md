@@ -22,6 +22,8 @@
 - [Environmental Performance Index](#environmental-performance-index)
 - [External Sector Report](#external-sector-report)
 - [Financing for Sustainable Development Report](#financing-for-sustainable-development-report)
+- [Fiscal Monitor](#fiscal-monitor)
+- [Freedom and the Media](#freedom-and-the-media)
 - [Freedom in the World](#freedom-in-the-world)
 - [Freedom on the Net](#freedom-on-the-net)
 - [Frontiers](#frontiers)
@@ -32,10 +34,12 @@
 - [Global Corruption Report](#global-corruption-report)
 - [Global Cybersecurity Index](#global-cybersecurity-index)
 - [Global Drug Survey](#global-drug-survey)
+- [Global Economic Prospects](#global-economic-prospects)
 - [Global Education Monitoring Report](#global-education-monitoring-report)
 - [Global Energy Review](#global-energy-review)
 - [Global Environment Outlook](#global-environment-outlook)
 - [Global Financial Development Report](#global-financial-development-report)
+- [Global Financial Stability Report](#global-financial-stability-report)
 - [Global Food Policy Report](#global-food-policy-report)
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
@@ -479,6 +483,61 @@
 
 
 
+## Fiscal Monitor
+
+> International Monetary Fund ([source](https://www.imf.org/en/Publications/FM))
+
+- 2020 Fiscal Monitor
+  - October
+  - April – Policies to support people during the COVID-19 pandemic ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2020/April/English/text.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2020/04/06/fiscal-monitor-april-2020))
+- 2019 Fiscal Monitor
+  - October – How to mitigate climate change ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2019/October/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2019/October/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019))
+  - April – Curbing corruption ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2019/April/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2019/April/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2019/03/18/fiscal-monitor-april-2019))
+- 2018 Fiscal Monitor
+  - October – Managing public wealth ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2018/October/pdf/fm1802.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2018/October/pdf/fmexs.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2018/10/04/fiscal-monitor-october-2018))
+  - April – Capitalizing on good times ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2018/April/pdf/fm1801.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2018/April/pdf/fmexs.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2018/04/06/fiscal-monitor-april-2018))
+- 2017 Fiscal Monitor
+  - October – Tackling inequality ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2017/October/pdf/fm1702.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2017/October/pdf/fmexs.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2017/10/05/fiscal-monitor-october-2017))
+  - April – Achieving more with less ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2017/April/pdf/fm1701.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2017/April/pdf/fmexs.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2017/04/06/fiscal-monitor-april-2017))
+- 2016 Fiscal Monitor
+  - October – Debt: Use it wisely ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2016/02/pdf/_fm1602.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2016/02/pdf/_fmexs.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Debt-Use-it-Wisely))
+  - April – Acting now, acting together ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2016/01/pdf/_fm1601.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2016/01/pdf/_fmexs.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Acting-Now-Acting-Together))
+- 2015 Fiscal Monitor
+  - October – The commodities roller coaster: A fiscal framework for uncertain times ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2015/02/pdf/_fm1502.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2015/02/pdf/_fmexs.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/The-Commodities-Roller-Coaster))
+  - April – Now is the time: Fiscal policies for sustainable growth ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2015/01/pdf/_fm1501.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2015/01/pdf/_fmexs.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Now-Is-the-Time))
+- 2014 Fiscal Monitor
+  - October – Back to work: How fiscal policy can help ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2014/02/pdf/_fm1402.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2014/02/pdf/_fmexs.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Back-To-Work-How-Fiscal-Policy-Can-Help))
+  - April – Public expenditure reform: Making difficult choices ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2014/01/pdf/_fm1401pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Public-Expenditure-Reform-Making-Difficult-Choices))
+- 2013 Fiscal Monitor
+  - October – Taxing times ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2013/02/pdf/_fm1302pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Taxing-Times))
+  - April – Fiscal adjustment in an uncertain world ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2013/01/pdf/_fm1301pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Fiscal-Adjustment-in-an-Uncertain-World))
+- 2012 Fiscal Monitor
+  - October – Taking stock: A progress report on fiscal adjustment ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2012/02/pdf/_fm1202pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Taking-Stock-A-Progress-Report-on-Fiscal-Adjustment))
+  - July – Nurturing credibility while managing risks to growth ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2012/update/02/pdf/_0712pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Nurturing-Credibility-While-Managing-Risks-to-Growth))
+  - April – Balancing fiscal policy risks ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2012/01/pdf/_fm1201pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Balancing-Fiscal-Policy-Risks))
+  - January – As downside risks rise, fiscal policy has to walk a narrow path ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2012/update/01/pdf/_0112pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/As-Downside-Risks-Rise-Fiscal-Policy-Has-To-Walk-a-Narrow-Path))
+- 2011 Fiscal Monitor
+  - September – Addressing fiscal challenges to reduce economic risks ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2011/02/pdf/_fm1102pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Addressing-Fiscal-Challenges-to-Reduce-Economic-Risks))
+  - June – Staying the course on fiscal adjustment ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2011/02/update/_fmindexpdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Staying-the-Course-on-Fiscal-Adjustment))
+  - April – Shifting gears: Tackling challenges on the road to fiscal adjustment ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2011/01/pdf/_fm1101pdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Shifting-Gears-Tackling-Challenges-on-the-Road-to-Fiscal-Adjustment))
+  - January – Strengthening fiscal credibility ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2011/01/update/_fmindexpdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Strengthening-Fiscal-Credibility))
+- 2010 Fiscal Monitor
+  - November – Fiscal exit: From strategy to implementation ([full](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2010/_fm1002pdf.ashx), [summary](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/fm/2010/_fm1002sumuppdf.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2016/12/31/Fiscal-Exit-From-Strategy-to-Implementation)) 
+  - May – Navigating the fiscal challenges ahead ([full](https://www.imf.org/en/Publications/FM/Issues/2016/04/05/fm1001))
+- 2009 Fiscal Monitor
+  - November ([full](https://www.imf.org/en/Publications/FM/Issues/2016/04/05/spn0925))
+  - July ([full](https://www.imf.org/en/Publications/FM/Issues/2016/04/05/spn0921))
+
+
+
+## Freedom and the Media
+
+> Freedom House ([source](https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral))
+
+- 2019 Freedom and the Media – A downward spiral ([full](https://freedomhouse.org/sites/default/files/2020-02/FINAL07162019_Freedom_And_The_Media_2019_Report.pdf), [web](https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral))
+
+
+
 ## Freedom in the World
 
 > Freedom House ([source](https://freedomhouse.org/report/freedom-world))
@@ -657,6 +716,64 @@
 
 
 
+## Global Economic Prospects
+
+> World Bank Group ([source](https://www.worldbank.org/en/publication/global-economic-prospects))
+
+- 2020 Global Economic Prospects
+  - June – Pandemic, recession: The global economy in crisis ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/33748/9781464815539.pdf))
+  - January – Slow growth, policy challenges ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/33044/9781464814693.pdf))
+- 2019 Global Economic Prospects
+  - June – Heightened tensions, subdued investment ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31655/9781464813986.pdf))
+  - January – Darkening skies ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31066/9781464813863.pdf))
+- 2018 Global Economic Prospects
+  - June – The turning of the tide? ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/29801/9781464812576.pdf))
+  - January – Broad-based upturn, but for how long? ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/28932/9781464811630.pdf))
+- 2017 Global Economic Prospects
+  - June – A fragile recovery ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/26800/9781464810244.pdf))
+  - January – Weak investment in uncertain times ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/25823/9781464810169.pdf))
+- 2016 Global Economic Prospects
+  - June – Divergences and risks ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/24319/9781464807770.pdf))
+  - January – Spillovers amid weak growth ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/23435/9781464806759.pdf))
+- 2015 Global Economic Prospects
+  - June – The global economy in transition ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/21999/9781464804830.pdf))
+  - January – Having fiscal space and using it ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/20758/9781464804441.pdf))
+- 2014 Global Economic Prospects
+  - June – Shifting priorities, building for the future ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/18647/GEP%202014%20June.pdf))
+  - January – Coping with policy normalization in high-income countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/16572/GEP2014FebRev.pdf))
+- 2013 Global Economic Prospects
+  - June
+  - January
+- 2012 Global Economic Prospects
+  - June
+  - January – Uncertainties and vulnerabilities ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/12105/GEP4.pdf))
+- 2011 Global Economic Prospects
+  - June – Maintaining progress amid turmoil ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/12103/GEP3.pdf))
+  - January – Navigating strong currents ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/12102/GEP2.pdf))
+- 2010 Global Economic Prospects
+  - June – Fiscal headwinds and recovery ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/12104/GEP1.pdf))
+  - January – Crisis, finance, and growth ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/2415/530980PUB0glob101Official0Use0only1.pdf))
+- 2009 Global Economic Prospects – Commodities at the crossroads ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/2581/468200REPLACEM10Box334115B01PUBLIC1.pdf))
+- 2008 Global Economic Prospects
+- 2007 Global Economic Prospects
+- 2006 Global Economic Prospects – Economic implications of remittances and migration  ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/7306/343200GEP02006.pdf))
+- 2005 Global Economic Prospects – Trade, regionalism, and development ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/14783/9780821357477.pdf))
+- 2004 Global Economic Prospects – Realizing the development promise of the Doha Agenda ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/14782/9780821355824.pdf))
+- 2003 Global Economic Prospects and the Developing Countries – Investing to unlock global opportunities ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/14781/9780821353387.pdf))
+- 2002 Global Economic Prospects and the Developing Countries – Making trade work for the world's poor ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/14050/multi0page.pdf))
+- 2001 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/14779/9780821346754.pdf))
+- 2000 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/14776/9780821345504.pdf))
+- 1998/99 Global Economic Prospects and the Developing Countries – Beyond financial crisis ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32393/Global-Economic-Prospects-1998-99.pdf))
+- 1997 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32392/Global-Economic-Prospects-1997.pdf))
+- 1996 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32391/Global-Economic-Prospects-1996.pdf))
+- 1995 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32390/Global-Economic-Prospects-1995.pdf))
+- 1994 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32389/Global-Economic-Prospects-1994.pdf))
+- 1993 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32388/Global-Economic-Prospects-1993.pdf))
+- 1992 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32387/Global-Economic-Prospects-1992.pdf))
+- 1991 Global Economic Prospects and the Developing Countries ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32386/Global-Economic-Prospects-1991.pdf))
+
+
+
 ## Global Education Monitoring Report
 
 > UNESCO ([source](https://en.unesco.org/gem-report/allreports))
@@ -719,6 +836,71 @@
 - 2015/16 Global Financial Development Report – Long-term finance ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/22543/9781464804724.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/22543))
 - 2014 Global Financial Development Report – Financial inclusion ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/16238/9780821399859.pdf?sequence=4&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/16238))
 - 2013 Global Financial Development Report – Rethinking the role of the state in finance ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/11848/Global%20Financial%20Development%20Report%202013.pdf?sequence=1&isAllowed=y), [web](https://openknowledge.worldbank.org/handle/10986/11848))
+
+
+
+## Global Financial Stability Report
+
+> International Monetary Fund ([source](https://www.imf.org/en/publications/gfsr))
+
+- 2020 Global Financial Stability Report
+  - June – Update: Financial conditions have eased, but insolvencies loom large ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2020/Update/June/English/GFSRENG2020006.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2020/06/25/global-financial-stability-report-june-2020-update))
+  - April – Markets in the time of COVID-19 ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2020/April/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2020/April/English/ch1execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2020/04/14/global-financial-stability-report-april-2020))
+- 2019 Global Financial Stability Report
+  - October – Lower for longer ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2019/October/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2019/October/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2019/10/01/global-financial-stability-report-october-2019))
+  - April – Vulnerabilities in a maturing credit cycle ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2019/April/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2019/April/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2019/03/27/Global-Financial-Stability-Report-April-2019))
+- 2018 Global Financial Stability Report
+  - October – A decade after the global financial crisis: Are we safer? ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2018/Oct/CH1/doc/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2018/Oct/CH1/doc/sum1.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2018/09/25/Global-Financial-Stability-Report-October-2018))
+  - April – A bumpy road ahead ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2018/April/ch1/doc/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2018/April/ch1/doc/exec-sum.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2018/04/02/Global-Financial-Stability-Report-April-2018))
+- 2017 Global Financial Stability Report
+  - October – Is growth at risk? ([full](http://www.imf.org/en/Publications/GFSR/Issues/2017/09/27/~/media/Files/Publications/GFSR/2017/October/chapter-1/Documents/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2017/October/chapter-1/Documents/exec-summary.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2017/09/27/global-financial-stability-report-october-2017))
+  - April – Getting the policy mix right ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2017/April/chapter-1/text.ashx), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2017/April/front-matter/ExecSummary.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2017/03/30/global-financial-stability-report-april-2017))
+- 2016 Global Financial Stability Report
+  - October – Fostering stability in a low-growth, low-rate era ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2016/02/pdf/_text.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2016/02/pdf/_ExecSummary.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Fostering-Stability-in-a-Low-Growth-Low-Rate-Era))
+  - April – Potent policies for a successful normalization ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2016/01/pdf/_textv2pdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2016/01/pdf/_execsumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Potent-Policies-for-a-Successful-Normalization))
+- 2015 Global Financial Stability Report
+  - October – Vulnerabilities, legacies, and policy challenges: Risks rotating to emerging markets ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2015/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2015/02/pdf/_execsumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Vulnerabilities-Legacies-and-Policy-Challenges))
+  - April – Navigating monetary policy challenges and managing risks ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2015/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2015/01/pdf/_execsumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Navigating-Monetary-Policy-Challenges-and-Managing-Risks))
+- 2014 Global Financial Stability Report
+  - October – Risk taking, liquidity, and shadow banking: Curbing excess while promoting growth ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2014/02/pdf/_text.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2014/02/pdf/_execsumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Risk-Taking-Liquidity-and-Shadow-Banking-Curbing-Excess-While-Promoting-Growth))
+  - April – Moving from liquidity- to growth-driven markets ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2014/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2014/01/pdf/_execsumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Moving-from-Liquidity-to-Growth-Driven-Markets))
+- 2013 Global Financial Stability Report
+  - October – Transition challenges to stability ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2013/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2013/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Transition-Challenges-to-Stability))
+  - April – Old risks, new challenges ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2013/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2013/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Old-Risks-New-Challenges))
+- 2012 Global Financial Stability Report
+  - October – Restoring confidence and progressing on reforms ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2012/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2012/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Restoring-Confidence-and-Progressing-on-Reforms))
+  - April – The quest for lasting stability ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2012/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2012/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/The-Quest-for-Lasting-Stability))
+- 2011 Global Financial Stability Report
+  - September – Grappling with crisis legacies ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2011/02/pdf/_textpdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Grappling-with-Crisis-Legacies))
+  - April – Durable financial stability: Getting there from here ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2011/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2011/01/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Durable-Financial-Stability-Getting-There-from-Here))
+- 2010 Global Financial Stability Report
+  - October – Sovereigns, funding, and systemic liquidity ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2010/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2010/02/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Sovereigns-Funding-and-Systemic-Liquidity))
+  - April – Meeting new challenges to stability and building a safer system ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2010/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2010/01/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Meeting-New-Challenges-to-Stability-and-Building-a-Safer-System))
+- 2009 Global Financial Stability Report
+  - October – Navigating the financial challenges ahead ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2009/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2009/02/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Navigating-the-Financial-Challenges-Ahead))
+  - April – Responding to the financial crisis and measuring systemic risks ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2009/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2009/01/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Responding-to-the-Financial-Crisis-and-Measuring-Systemic-Risks))
+- 2008 Global Financial Stability Report
+  - October – Financial stress and deleveraging: Macrofinancial implications and policy ([full](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2008/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2008/02/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Financial-Stress-and-Deleveraging-Macro-Financial-Implications-and-Policy))
+  - April – Containing systemic risks and restoring financial soundness ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2008/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2008/01/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Containing-Systemic-Risks-and-Restoring-Financial-Soundness))
+- 2007 Global Financial Stability Report
+  - October – Financial market turbulence: Causes, consequences, and policies ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2007/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2007/02/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Financial-Market-Turbulence-Causes-Consequences-and-Policies))
+  - April ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2007/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2007/01/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues5))
+- 2006 Global Financial Stability Report
+  - September ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2006/02/pdf/_summarypdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues))
+  - April ([web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues3))
+- 2005 Global Financial Stability Report
+  - September ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2005/02/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues9))
+  - April ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2005/01/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues6))
+- 2004 Global Financial Stability Report
+  - April ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2004/01/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues4))
+- 2003 Global Financial Stability Report
+  - September ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2003/02/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues2))
+  - March ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2003/01/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues1))
+- 2002 Global Financial Stability Report
+  - December ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2002/04/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues8))
+  - September ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2002/03/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/Market-Developments-and-Issues7))
+  - June ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2002/02/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/A-Quarterly-Report-on-Market-Developments-and-Issues1))
+  - March ([summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/GFSR/2002/01/pdf/_chp1pdf.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2016/12/31/A-Quarterly-Report-on-Market-Developments-and-Issues))
 
 
 
