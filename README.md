@@ -98,6 +98,7 @@
 - [The Global Risks Report](#the-global-risks-report)
 - [The Least Developed Countries Report](#the-least-developed-countries-report)
 - [The Network Readiness Index](#the-network-readiness-index)
+- [The Space Report](#the-space-report)
 - [The State of Agricultural Commodity Markets](#the-state-of-agricultural-commodity-markets)
 - [The State of Artistic Freedom](#the-state-of-artistic-freedom)
 - [The State of Food and Agriculture](#the-state-of-food-and-agriculture)
@@ -125,6 +126,7 @@
 - [World Development Report](#world-development-report)
 - [World Drug Report](#world-drug-report)
 - [World Economic League Table](#world-economic-league-table)
+- [World Economic Outlook](#world-economic-outlook)
 - [World Economic Situation and Prospects](#world-economic-situation-and-prospects)
 - [World Employment and Social Outlook](#world-employment-and-social-outlook)
 - [World Energy Investment](#world-energy-investment)
@@ -1931,6 +1933,16 @@
 
 
 
+## The Space Report
+
+> Space Foundation ([source](https://www.thespacereport.org/pricing/))
+
+- 2020 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2020-4-quarterly-reports-pdf-download/)) **$**
+- 2019 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2019-4-quarterly-reports-pdf-download/)) **$**
+- 2018 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2018/)) **$**
+
+
+
 ## The State of Agricultural Commodity Markets
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/soco/en/))
@@ -2634,6 +2646,112 @@
 - 2012 World Economic League Table
 - 2011 World Economic League Table
 - 2010 World Economic League Table
+
+
+
+## World Economic Outlook
+
+> International Monetary Fund ([source](https://www.imf.org/en/publications/weo))
+
+- 2020 World Economic Outlook
+  - October – A long and difficult ascent ([full](https://www.imf.org/~/media/Files/Publications/WEO/2020/October/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/WEO/2020/October/English/ExecSum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020))
+  - June – Update: A crisis like no other, an uncertain recovery ([full](https://www.imf.org/~/media/Files/Publications/WEO/2020/Update/June/English/WEOENG202006.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020))
+  - April – The great lockdown ([full](https://www.imf.org/~/media/Files/Publications/WEO/2020/April/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/WEO/2020/April/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020))
+  - January – Update: Tentative stabilization, sluggish recovery? ([full](https://www.imf.org/~/media/Files/Publications/WEO/2020/Update/January/English/text.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2020/01/20/weo-update-january2020))
+- 2019 World Economic Outlook
+  - October – Global manufacturing downturn, rising trade barriers ([full](https://www.imf.org/~/media/Files/Publications/WEO/2019/October/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/WEO/2019/October/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2019/10/01/world-economic-outlook-october-2019))
+  - July – Update: Still sluggish global growth ([full](https://www.imf.org/~/media/Files/Publications/WEO/2019/Update/July/English/WEOupdateENGJuly2019.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2019/07/18/WEOupdateJuly2019))
+  - April – Growth slowdown, precarious recovery ([full](https://www.imf.org/~/media/Files/Publications/WEO/2019/April/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/WEO/2019/April/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2019/03/28/world-economic-outlook-april-2019))
+  - January – Update: A weakening global expanse ([full](https://www.imf.org/~/media/Files/Publications/WEO/2019/Update/January/WEOupdateJan2019.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2019/01/11/weo-update-january-2019))
+- 2018 World Economic Outlook
+  - October – Challenges to steady growth ([full](https://www.imf.org/~/media/Files/Publications/WEO/2018/October/English/main-report/Text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/WEO/2018/October/English/main-report/ExeSum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2018/09/24/world-economic-outlook-october-2018))
+  - July – Update: Less even expanse, rising trade tensions ([full](https://www.imf.org/~/media/Files/Publications/WEO/2018/Update/July/July2018WEOupdate.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2018/07/02/world-economic-outlook-update-july-2018))
+  - April – Cyclic upswing, structural change ([full](https://www.imf.org/en/Publications/WEO/Issues/2018/03/20/~/media/Files/Publications/WEO/2018/April/text.ashx?la=en), [summary](https://www.imf.org/en/Publications/WEO/Issues/2018/03/20/~/media/Files/Publications/WEO/2018/April/exesum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2018/03/20/world-economic-outlook-april-2018))
+  - January – Update: Brighter prospects, optimistic markets, challenges ahead ([full](https://www.imf.org/~/media/Files/Publications/WEO/2018/Update/January/0118.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2018/01/11/world-economic-outlook-update-january-2018))
+- 2017 World Economic Outlook
+  - October – Seeking sustainable growth: Short-term recovery, long-term challenges ([full](https://www.imf.org/~/media/Files/Publications/WEO/2017/October/pdf/main-chapter/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/WEO/2017/October/pdf/main-chapter/exesum.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2017/09/19/world-economic-outlook-october-2017))
+  - July – Update: A firming recovery ([full](https://www.imf.org/~/media/Files/Publications/WEO/2017/July/weo-update-july-2017.ashx?la=en), [web](https://www.imf.org/en/Publications/WEO/Issues/2017/07/07/world-economic-outlook-update-july-2017))
+  - April – Gaining momentum? ([full](https://www.imf.org/~/media/Files/Publications/WEO/2017/April/pdf/text.ashx), [summary](http://www.imf.org/~/media/Files/Publications/WEO/2017/April/pdf/exesum.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2017/04/04/world-economic-outlook-april-2017))
+  - January – Update: A shifting global economic landscape ([full](https://www.imf.org/~/media/Files/Publications/WEO/2017/January/0117.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/27/A-Shifting-Global-Economic-Landscape))
+- 2016 World Economic Outlook
+  - October – Subdued demand: Symptoms and remedies ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2016/02/pdf/_text.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2016/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Subdued-Demand-Symptoms-and-Remedies))
+  - July – Update: Uncertainty in the aftermath of the U.K. referendum ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2016/update/02/pdf/_0716.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Uncertainty-in-the-Aftermath-of-the-U-K))
+  - April – Too slow for too long ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2016/01/pdf/_text.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2016/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Too-Slow-for-Too-Long))
+  - January – Update: Subdued demand, diminished prospects ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2016/update/01/pdf/_0116.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Subdued-Demand-Diminished-Prospects))
+- 2015 World Economic Outlook
+  - September – Adjusting to lower commodity prices ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/02/pdf/_text.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Adjusting-to-Lower-Commodity-Prices))
+  - July – Update: Slower growth in emerging markets, a gradual pickup in advanced economies ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/update/02/pdf/_0715.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Slower-Growth-in-Emerging-Markets-a-Gradual-Pickup-in-Advanced-Economies))
+  - April – Uneven growth: Short- and long-term factors ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/01/pdf/_text.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Uneven-Growth-Short-and-Long-Term-Factors))
+  - January – Update: Cross currents ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2015/update/01/pdf/_0115.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Cross-Currents))
+- 2014 World Economic Outlook
+  - October – Legacies, clouds, uncertainties ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2014/02/pdf/_text.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2014/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Legacies-Clouds-Uncertainties))
+  - July – Update: An uneven global recovery continues ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2014/update/02/pdf/_0714.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/An-Uneven-Global-Recovery-Continues))
+  - April – Recovery strengthens, remains uneven ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2014/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2014/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Recovery-Strengthens-Remains-Uneven))
+  - January – Update: Is the tide rising? ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2014/update/01/pdf/_0114pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Is-the-Tide-Rising))
+- 2013 World Economic Outlook
+  - October – Transitions and tensions ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2013/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2013/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Transitions-Tensions))
+  - July – Update: Growing pains ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2013/update/02/pdf/_0713pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Growing-Pains))
+  - April – Hopes, realities, and risks ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2013/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2013/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Hopes-Realities-Risks))
+  - January – Update: Gradual upturn in global growth during 2013 ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2013/update/01/pdf/_0113pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Gradual-Upturn-in-Global-Growth-During-2013))
+- 2012 World Economic Outlook
+  - October – Coping with high debt and sluggish growth ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2012/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2012/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Coping-with-High-Debt-and-Sluggish-Growth))
+  - July – Update: New setbacks, further policy action needed ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2012/update/02/pdf/_0712pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/New-Setbacks-Further-Policy-Action-Needed))
+  - April – Growth resuming, dangers remain ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2012/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2012/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Growth-Resuming-Dangers-Remain))
+  - January – Update: Global recovery stalls, downside risks intensify ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2012/update/01/pdf/_0112pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Global-Recovery-Stalls-Downside-Risks-Intensify))
+- 2011 World Economic Outlook
+  - September – Slowing growth, rising risks ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2011/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2011/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Slowing-Growth-Rising-Risks))
+  - June – Update: Mild slowdown of the global expansion, and increasing risks ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2011/update/02/pdf/_0611pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Mild-Slowdown-of-the-Global-Expansion-and-Increasing-Risks))
+  - April – Tensions from the two-speed recovery: Unemployment, commodities, and capital flows ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2011/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2011/01/pdf/_exesumpdf.ashx) ,[web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Tensions-from-the-Two-Speed-Recovery-Unemployment-Commodities-and-Capital-Flows))
+  - January – Update: Global recovery advances but remains uneven ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2011/update/01/pdf/_0111pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Global-Recovery-Advances-but-Remains-Uneven))
+- 2010 World Economic Outlook
+  - October – Recovery, risk, and rebalancing ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2010/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2010/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Recovery-Risk-and-Rebalancing))
+  - July – Update: Restoring confidence without harming recovery ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2010/update/02/pdf/_0710pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Restoring-Confidence-without-Harming-Recovery))
+  - April – Rebalancing growth ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2010/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2010/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Rebalancing-Growth))
+  - January – Update: A policy-driven, multispeed recovery ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2010/update/01/pdf/_0110pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/A-Policy-Driven-Multispeed-Recovery))
+- 2009 World Economic Outlook
+  - October – Sustaining the recovery ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2009/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2009/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Sustaining-the-Recovery))
+  - July – Update: Contractionary forces receding but weak recovery ahead ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2009/update/02/pdf/_0709pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Contractionary-Forces-Receding-But-Weak-Recovery-Ahead))
+  - April – Crisis and recovery ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2009/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2009/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Crisis-and-Recovery))
+  - January – Update: Global economic slump challenges policies ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2009/update/01/pdf/_0109pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Global-Economic-Slump-Challenges-Policies))
+- 2008 World Economic Outlook
+  - November – Update: Rapidly weakening prospects call for new policy stimulus ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/update/03/pdf/_1108pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Rapidly-Weakening-Prospects-Call-for-New-Policy-Stimulus))
+  - October – Financial stress, downturns, and recoveries ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Financial-Stress-Downturns-and-Recoveries))
+  - July – Update: Global slowdown and rising inflation ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/update/02/pdf/_0708pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Global-slowdown-and-rising-inflation))
+  - April – Housing and the business cycle ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Housing-and-the-Business-Cycle))
+  - January – Update: An update of the key WEO projections ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2008/update/01/pdf/_0108pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/An-update-of-the-key-WEO-projections))
+- 2007 World Economic Outlook
+  - October – Globalization and inequality ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2007/02/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2007/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Globalization-and-Inequality))
+  - July – Update: An update of the key WEO projections ([full](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2007/update/01/pdf/eng/_0707pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/An-update-of-the-key-WEO-projections1))
+  - April – Spillovers and cycles in the global economy ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2007/01/pdf/_textpdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2007/01/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Spillovers-and-Cycles-in-the-Global-Economy))
+- 2006 World Economic Outlook
+  - September – Financial systems and economic cycles ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2006/02/pdf/_weo0906pdf.ashx), [summary](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2006/02/pdf/_exesumpdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Financial-Systems-and-Economic-Cycles))
+  - April – Globalization and inflation ([full](https://www.imf.org/~/media/Websites/IMF/imported-flagship-issues/external/pubs/ft/weo/2006/01/pdf/_weo0406pdf.ashx), [web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Globalization-and-Inflation))
+- 2005 World Economic Outlook
+  - September – Building institutions ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Building-Institutions))
+  - April – Globalization and external imbalances ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Globalization-and-External-Imbalances))
+- 2004 World Economic Outlook
+  - September – The global demographic transition ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/The-Global-Demographic-Transition))
+  - April – Advancing structural reforms ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Advancing-Structural-Reforms))
+- 2003 World Economic Outlook
+  - September – Public debt in emerging markets ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Public-Debt-in-Emerging-Markets))
+  - April – Growth and institutions ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Growth-and-Institutions))
+- 2002 World Economic Outlook
+  - September – Trade and finance ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Trade-and-Finance))
+  - April – Recessions and recoveries ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Recessions-and-Recoveries))
+- 2001 World Economic Outlook
+  - December – The global economy after September 11 ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/The-Global-Economy-After-September-11))
+  - October – The information technology revolution ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/The-Information-Technology-Revolution))
+  - May – Fiscal policy and macroeconomic stability ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Fiscal-Policy-and-Macroeconomic-Stability))
+- 2000 World Economic Outlook
+  - September – Focus on transition economies ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Focus-on-Transition-Economies))
+  - May – Asset prices and the business cycle ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Asset-Prices-and-the-Business-Cycle))
+- 1999 World Economic Outlook
+  - September – Safeguarding macroeconomic stability at low inflation ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Safeguarding-Macroeconomic-Stability-at-Low-Inflation))
+  - May – International financial contagion ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/International-Financial-Contagion))
+- 1998 World Economic Outlook
+  - October – Financial turbulence and the world economy ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Financial-Turbulence-and-the-World-Economy))
+  - May – Financial crises: Causes and indicators ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/Financial-Crises-Causes-and-Indicators))
+- 1993 World Economic Outlook ([web](https://www.imf.org/en/Publications/WEO/Issues/2016/12/31/WEO-May1993))
 
 
 
