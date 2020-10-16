@@ -12,9 +12,9 @@
 - [Democracy Index](#democracy-index)
 - [Digital Economy Report](#digital-economy-report)
 - [Doing Business](#doing-business)
+- [Ecological Threat Register](#ecological-threat-register)
 - [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
 - [E-Government Survey](#e-government-survey)
-- [Ecological Threat Register](#ecological-threat-register)
 - [Emissions Gap Report](#emissions-gap-report)
 - [Enabling the Business of Agriculture](#enabling-the-business-of-agriculture)
 - [Energy Progress Report](#energy-progress-report)
@@ -331,31 +331,6 @@
 
 
 
-## Education for All Global Monitoring Report
-
-> UNESCO ([source](https://en.unesco.org/gem-report/allreports))
-
-- 2015 EFA Global Monitoring Report – Education for All 2000–2015: Achievements and challenges ([full](https://unesdoc.unesco.org/ark:/48223/pf0000232205/PDF/232205eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000232565/PDF/232565eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2015/education-all-2000-2015-achievements-and-challenges))
-  - Youth version ([full](https://unesdoc.unesco.org/ark:/48223/pf0000232581/PDF/232581eng.pdf.multi))
-  - Gender summary ([full](https://unesdoc.unesco.org/ark:/48223/pf0000234809/PDF/234809eng.pdf.multi))
-- 2013/2014 EFA Global Monitoring Report – Teaching and learning: Achieving quality for all ([full](https://unesdoc.unesco.org/ark:/48223/pf0000225660/PDF/225660eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000225654/PDF/225654eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2014/teaching-and-learning-achieving-quality-all))
-  - Gender summary ([full](https://unesdoc.unesco.org/ark:/48223/pf0000226662/PDF/226662eng.pdf.multi))
-- 2012 EFA Global Monitoring Report – Youth and skills: Putting education to work ([full](https://unesdoc.unesco.org/ark:/48223/pf0000218003/PDF/218003eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000217509/PDF/217509eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2012/youth-and-skills-putting-education-work))
-  - Youth version ([full](https://unesdoc.unesco.org/ark:/48223/pf0000218409/PDF/218409eng.pdf.multi))
-  - Gender overview ([full](https://unesdoc.unesco.org/ark:/48223/pf0000218569/PDF/218569eng.pdf.multi))
-- 2011 EFA Global Monitoring Report – The Hidden crisis: Armed conflict and education ([full](https://unesdoc.unesco.org/ark:/48223/pf0000190743/PDF/190743eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000191186/PDF/191186eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2011/hidden-crisis-armed-conflict-and-education))
-  - Gender overview ([full](https://unesdoc.unesco.org/ark:/48223/pf0000212003/PDF/212003eng.pdf.multi))
-- 2010 EFA Global Monitoring Report – Reaching the marginalized ([full](https://unesdoc.unesco.org/ark:/48223/pf0000186606/PDF/186606eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000186525/PDF/186525eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2010/reaching-marginalized))
-- 2009 EFA Global Monitoring Report – Overcoming inequality: Why governance matters ([full](https://unesdoc.unesco.org/ark:/48223/pf0000177683/PDF/177683eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000177609/PDF/177609eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2009/overcoming-inequality-why-governance-matters))
-- 2008 EFA Global Monitoring Report – Education for All by 2015: Will we make it? ([full](https://unesdoc.unesco.org/ark:/48223/pf0000154743/PDF/154743eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000154820/PDF/154820eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2008/education-all-2015-will-we-make-it))
-- 2007 EFA Global Monitoring Report – Strong foundations: Early childhood care and education ([full](https://unesdoc.unesco.org/ark:/48223/pf0000147794/PDF/147794eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000147785/PDF/147785eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2007/strong-foundations-early-childhood-care-education))
-- 2006 EFA Global Monitoring Report – Literacy for life ([full](https://unesdoc.unesco.org/ark:/48223/pf0000141639/PDF/141639eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000144270/PDF/144270eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2006/literacy-life))
-- 2005 EFA Global Monitoring Report – The quality imperative ([full](https://unesdoc.unesco.org/ark:/48223/pf0000137333/PDF/137333eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000137334/PDF/137334eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2005/education-all-quality-imperative))
-- 2003/04 EFA Global Monitoring Report – Gender and education for all: The leap to equality ([full](https://unesdoc.unesco.org/ark:/48223/pf0000132513/PDF/132513eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000132550/PDF/132550eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2003/gender-and-education-all-leap-equality))
-- 2002 EFA Global Monitoring Report – Education for All: Is the world on track? ([full](https://unesdoc.unesco.org/ark:/48223/pf0000129053/PDF/129053eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000129777/PDF/129777eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2002/education-all-world-track))
-
-
-
 ## E-Government Survey
 
 > United Nations Department of Economic and Social Affairs ([source](https://publicadministration.un.org/en/Research/UN-e-Government-Surveys))
@@ -382,6 +357,31 @@
 > Institute for Economics and Peace ([source](http://visionofhumanity.org/indexes/ecological-threat-register/))
 
 - 2020 Ecological Threat Register – Understanding ecological threats, resilience and peace ([full](http://visionofhumanity.org/app/uploads/2020/09/ETR_2020_web-1.pdf))
+
+
+
+## Education for All Global Monitoring Report
+
+> UNESCO ([source](https://en.unesco.org/gem-report/allreports))
+
+- 2015 EFA Global Monitoring Report – Education for All 2000–2015: Achievements and challenges ([full](https://unesdoc.unesco.org/ark:/48223/pf0000232205/PDF/232205eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000232565/PDF/232565eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2015/education-all-2000-2015-achievements-and-challenges))
+  - Youth version ([full](https://unesdoc.unesco.org/ark:/48223/pf0000232581/PDF/232581eng.pdf.multi))
+  - Gender summary ([full](https://unesdoc.unesco.org/ark:/48223/pf0000234809/PDF/234809eng.pdf.multi))
+- 2013/2014 EFA Global Monitoring Report – Teaching and learning: Achieving quality for all ([full](https://unesdoc.unesco.org/ark:/48223/pf0000225660/PDF/225660eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000225654/PDF/225654eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2014/teaching-and-learning-achieving-quality-all))
+  - Gender summary ([full](https://unesdoc.unesco.org/ark:/48223/pf0000226662/PDF/226662eng.pdf.multi))
+- 2012 EFA Global Monitoring Report – Youth and skills: Putting education to work ([full](https://unesdoc.unesco.org/ark:/48223/pf0000218003/PDF/218003eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000217509/PDF/217509eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2012/youth-and-skills-putting-education-work))
+  - Youth version ([full](https://unesdoc.unesco.org/ark:/48223/pf0000218409/PDF/218409eng.pdf.multi))
+  - Gender overview ([full](https://unesdoc.unesco.org/ark:/48223/pf0000218569/PDF/218569eng.pdf.multi))
+- 2011 EFA Global Monitoring Report – The Hidden crisis: Armed conflict and education ([full](https://unesdoc.unesco.org/ark:/48223/pf0000190743/PDF/190743eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000191186/PDF/191186eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2011/hidden-crisis-armed-conflict-and-education))
+  - Gender overview ([full](https://unesdoc.unesco.org/ark:/48223/pf0000212003/PDF/212003eng.pdf.multi))
+- 2010 EFA Global Monitoring Report – Reaching the marginalized ([full](https://unesdoc.unesco.org/ark:/48223/pf0000186606/PDF/186606eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000186525/PDF/186525eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2010/reaching-marginalized))
+- 2009 EFA Global Monitoring Report – Overcoming inequality: Why governance matters ([full](https://unesdoc.unesco.org/ark:/48223/pf0000177683/PDF/177683eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000177609/PDF/177609eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2009/overcoming-inequality-why-governance-matters))
+- 2008 EFA Global Monitoring Report – Education for All by 2015: Will we make it? ([full](https://unesdoc.unesco.org/ark:/48223/pf0000154743/PDF/154743eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000154820/PDF/154820eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2008/education-all-2015-will-we-make-it))
+- 2007 EFA Global Monitoring Report – Strong foundations: Early childhood care and education ([full](https://unesdoc.unesco.org/ark:/48223/pf0000147794/PDF/147794eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000147785/PDF/147785eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2007/strong-foundations-early-childhood-care-education))
+- 2006 EFA Global Monitoring Report – Literacy for life ([full](https://unesdoc.unesco.org/ark:/48223/pf0000141639/PDF/141639eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000144270/PDF/144270eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2006/literacy-life))
+- 2005 EFA Global Monitoring Report – The quality imperative ([full](https://unesdoc.unesco.org/ark:/48223/pf0000137333/PDF/137333eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000137334/PDF/137334eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2005/education-all-quality-imperative))
+- 2003/04 EFA Global Monitoring Report – Gender and education for all: The leap to equality ([full](https://unesdoc.unesco.org/ark:/48223/pf0000132513/PDF/132513eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000132550/PDF/132550eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2003/gender-and-education-all-leap-equality))
+- 2002 EFA Global Monitoring Report – Education for All: Is the world on track? ([full](https://unesdoc.unesco.org/ark:/48223/pf0000129053/PDF/129053eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000129777/PDF/129777eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2002/education-all-world-track))
 
 
 
