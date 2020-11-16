@@ -3256,3 +3256,8 @@
 - 2014 Worldwide Cost of Living ([web](https://store.eiu.com/product/worldwide-cost-of-living-2014/)) **$**
 - 2013 Worldwide Cost of Living ([summary](http://www.iberglobal.com/files/cities_cost_living_eiu.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2013/)) **$**
 
+
+
+<div align="right">
+  <b><a href="#table-of-contents">Back to top</a></b>
+</div>
