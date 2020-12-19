@@ -3,7 +3,6 @@
 
 ## Table of Contents
 
-- [A World at Risk](#a-world-at-risk)
 - [Brown to Green Report](#brown-to-green-report)
 - [Commodities and Development Report](#commodities-and-development-report)
 - [Connecting to Compete](#connecting-to-compete)
@@ -12,9 +11,9 @@
 - [Democracy Index](#democracy-index)
 - [Digital Economy Report](#digital-economy-report)
 - [Doing Business](#doing-business)
+- [E-Government Survey](#e-government-survey)
 - [Ecological Threat Register](#ecological-threat-register)
 - [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
-- [E-Government Survey](#e-government-survey)
 - [Emissions Gap Report](#emissions-gap-report)
 - [Enabling the Business of Agriculture](#enabling-the-business-of-agriculture)
 - [Energy Progress Report](#energy-progress-report)
@@ -49,6 +48,7 @@
 - [Global Multidimensional Poverty Index](#global-multidimensional-poverty-index)
 - [Global Nutrition Report](#global-nutrition-report)
 - [Global Peace Index](#global-peace-index)
+- [Global Preparedness for Health Emergencies](#global-preparedness-for-health-emergencies)
 - [Global Report on Food Crises](#global-report-on-food-crises)
 - [Global Report on Internal Displacement](#global-report-on-internal-displacement)
 - [Global Report on Trafficking in Persons](#global-report-on-trafficking-in-persons)
@@ -153,14 +153,6 @@
 - [World Youth Report](#world-youth-report)
 - [WorldRiskReport](#worldriskreport)
 - [Worldwide Cost of Living](#worldwide-cost-of-living)
-
-
-
-## A World at Risk
-
-> Global Preparedness Monitoring Board ([source](https://apps.who.int/gpmb/annual_report.html))
-
-- 2019 A World at Risk – Annual report on global preparedness for health emergencies ([full](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf), [summary](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Exec_Summary_Foreword_and_About_English.pdf), [web](https://apps.who.int/gpmb/annual_report.html))
 
 
 
@@ -1071,6 +1063,15 @@
 - 2009 Global Peace Index ([full](https://www.files.ethz.ch/isn/126266/2009-GPIResultsReport.pdf))
 - 2008 Global Peace Index ([full](https://www.vredesmuseum.nl/download/vredesindex2008.pdf))
 - 2007 Global Peace Index
+
+
+
+## Global Preparedness for Health Emergencies
+
+> Global Preparedness Monitoring Board ([source](https://apps.who.int/gpmb/annual_report.html))
+
+- 2020 Global Preparedness for Health Emergencies – A world in disorder ([full](https://apps.who.int/gpmb/assets/annual_report/GPMB_AR_2020_EN.pdf), [summary](https://apps.who.int/gpmb/assets/annual_report/GPMB_AWID_ES_2020_EN.pdf))
+- 2019 Global Preparedness for Health Emergencies – A world at risk ([full](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_English.pdf), [summary](https://apps.who.int/gpmb/assets/annual_report/GPMB_Annual_Report_Exec_Summary_Foreword_and_About_English.pdf))
 
 
 
