@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Brown to Green Report](#brown-to-green-report)
+- [Climate Transparency Report](#climate-transparency-report)
 - [Commodities and Development Report](#commodities-and-development-report)
 - [Connecting to Compete](#connecting-to-compete)
 - [Corruption Perceptions Index](#corruption-perceptions-index)
@@ -156,10 +156,11 @@
 
 
 
-## Brown to Green Report
+## Climate Transparency Report
 
 > Climate Transparency ([source](https://www.climate-transparency.org/g20-climate-performance))
 
+- 2020 Climate Transparency Report – Comparing G20 climate action and responses to the COVID-19 crisis ([full](https://www.climate-transparency.org/wp-content/uploads/2020/11/Climate-Transparency-Report-2020.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/the-climate-transparency-report-2020))
 - 2019 Brown to Green Report – The G20 transition to a net-zero emissions economy ([full](https://www.climate-transparency.org/wp-content/uploads/2019/11/Brown-to-Green-Report-2019.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2019))
 - 2018 Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2019/01/2018-BROWN-TO-GREEN-REPORT-FINAL.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2018))
 - 2017 Brown to Green Report – The G20 transition to a low-carbon economy ([full](https://www.climate-transparency.org/wp-content/uploads/2017/07/Brown-to-Green-Report-2017_web.pdf), [web](https://www.climate-transparency.org/g20-climate-performance/g20report2017))
