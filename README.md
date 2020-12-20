@@ -171,7 +171,7 @@
 
 ## Commodities and Development Report
 
-> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/SUC/Commodities/Commodities-Strategic-Reports.aspx))
+> United Nations Conference on Trade and Development ([source](https://unctad.org/publications-search?f[0]=product%3A588))
 
 - 2019 Commodities and Development Report – Commodity dependence, climate change and the Paris Agreement ([full](https://unctad.org/en/PublicationsLibrary/ditccom2019d3_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2499))
 - 2017 Commodities and Development Report – Commodity markets, economic growth and development ([full](https://unctad.org/en/PublicationsLibrary/suc2017d1_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/suc2017d1_overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1916))
