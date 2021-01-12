@@ -292,11 +292,11 @@
 - 2013 Information Economy Report – The cloud economy and developing countries ([full](https://unctad.org/en/PublicationsLibrary/ier2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ier2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=710))
 - 2012 Information Economy Report – The software industry and developing countries ([full](https://unctad.org/en/PublicationsLibrary/ier2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ier2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=271))
 - 2011 Information Economy Report – ICTs as an enabler for private sector development ([full](https://unctad.org/en/PublicationsLibrary/ier2011_en.pdf), [summary](https://unctad.org/en/Docs/ier2011overview_en.pdf))
-- 2010 Information Economy Report – ICTs, enterprises and poverty alleviation ([full](https://unctad.org/en/Docs/ier2010_en.pdf), [summary](https://unctad.org/en/Docs/ier2010overview_embargo2010_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1575))
-- 2009 Information Economy Report – Trends and outlook in turbulent times ([full](https://unctad.org/en/Docs/ier2009_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1574))
+- 2010 Information Economy Report – ICTs, enterprises and poverty alleviation ([full](https://unctad.org/en/Docs/ier2010_en.pdf), [summary](https://unctad.org/en/Docs/ier2010overview_embargo2010_en.pdf), [web](https://unctad.org/webflyer/information-economy-report-2010))
+- 2009 Information Economy Report – Trends and outlook in turbulent times ([full](https://unctad.org/en/Docs/ier2009_en.pdf), [web](https://unctad.org/webflyer/information-economy-report-2009))
 - 2007/08 Information Economy Report – Science and technology for development: The new paradigm of ICT ([full](https://unctad.org/en/Docs/sdteecb20071_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20071overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1563))
 - 2006 Information Economy Report – The development perspective ([full](https://unctad.org/en/Docs/sdteecb20061_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20061overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1549))
-- 2005 Information Economy Report – ([full](https://unctad.org/en/Docs/sdteedc20051_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20051overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1540))
+- 2005 Information Economy Report ([full](https://unctad.org/en/Docs/sdteedc20051_en.pdf), [summary](https://unctad.org/en/Docs/sdteecb20051overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1540))
 
 
 
@@ -347,7 +347,7 @@
 
 ## Ecological Threat Register
 
-> Institute for Economics and Peace ([source](http://visionofhumanity.org/indexes/ecological-threat-register/))
+> Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
 - 2020 Ecological Threat Register – Understanding ecological threats, resilience and peace ([full](http://visionofhumanity.org/app/uploads/2020/09/ETR_2020_web-1.pdf))
 
@@ -1048,7 +1048,7 @@
 
 ## Global Peace Index
 
-> Institute for Economics and Peace ([source](http://visionofhumanity.org/indexes/global-peace-index/))
+> Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
 - 2020 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2020/06/GPI_2020_web.pdf), [summary](http://visionofhumanity.org/app/uploads/2020/06/GPI_2020_Briefing_Web.pdf))
 - 2019 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2019/07/GPI-2019web.pdf), [summary](http://visionofhumanity.org/app/uploads/2019/06/GPI-2019-Briefingweb-2.pdf))
@@ -1220,7 +1220,7 @@
 
 ## Global Terrorism Index
 
-> Institute for Economics and Peace ([source](http://visionofhumanity.org/indexes/terrorism-index/))
+> Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
 - 2019 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf), [summary](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019-briefingweb.pdf))
 - 2018 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2018/12/Global-Terrorism-Index-2018.pdf))
@@ -1893,8 +1893,8 @@
 - 2013 The Least Developed Countries Report – Growth with employment for inclusive and sustainable development ([full](https://unctad.org/en/PublicationsLibrary/ldc2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=700))
 - 2012 The Least Developed Countries Report – Harnessing remittances and diaspora knowledge to build productive capacities ([full](https://unctad.org/en/PublicationsLibrary/ldc2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=249))
 - 2011 The Least Developed Countries Report – The potential role of South-South cooperation for inclusive and sustainable development ([full](https://unctad.org/en/Docs/ldc2011_en.pdf), [summary](https://unctad.org/en/Docs/ldc2011overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=188))
-- 2010 The Least Developed Countries Report – Towards a new international development architecture for LDCs ([full](https://unctad.org/en/Docs/ldc2010_en.pdf), [summary](https://unctad.org/en/Docs/ldc2010overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=175))
-- 2009 The Least Developed Countries Report – The state and development governance ([full](https://unctad.org/en/Docs/ldc2009_en.pdf), [summary](https://unctad.org/en/Docs/ldc2009overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=173))
+- 2010 The Least Developed Countries Report – Towards a new international development architecture for LDCs ([full](https://unctad.org/en/Docs/ldc2010_en.pdf), [summary](https://unctad.org/en/Docs/ldc2010overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2010))
+- 2009 The Least Developed Countries Report – The state and development governance ([full](https://unctad.org/en/Docs/ldc2009_en.pdf), [summary](https://unctad.org/en/Docs/ldc2009overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2009))
 - 2008 The Least Developed Countries Report – Growth, poverty and the terms of development partnership ([full](https://unctad.org/en/Docs/ldc2008_en.pdf), [summary](https://unctad.org/en/Docs/ldc2008overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=166))
 - 2007 The Least Developed Countries Report – Knowledge, technological learning and innovation for development ([full](https://unctad.org/en/Docs/ldc2007_en.pdf), [summary](https://unctad.org/en/Docs/ldc2007overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=158))
 - 2006 The Least Developed Countries Report – Developing productive capacities ([full](https://unctad.org/en/Docs/ldc2006_en.pdf), [summary](https://unctad.org/en/Docs/ldc2006overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=145))
@@ -2759,7 +2759,7 @@
 
 ## World Economic Situation and Prospects
 
-> United Nations ([source 1](https://www.un.org/en/development/desa/policy/wesp/archive.shtml), [source 2](https://unctad.org/en/pages/publications/World-Economic-Situation-and-Prospects-(Series).aspx))
+> United Nations ([source 1](https://www.un.org/en/development/desa/policy/wesp/archive.shtml), [source 2](https://unctad.org/publications-search?Operator=and&keys=World+Economic+Situation+and+Prospects))
 
 - 2020 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2020_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wesp2020_summary_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2020/))
 - 2019 World Economic Situation and Prospects ([full](https://unctad.org/en/PublicationsLibrary/wesp2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/wesp2019summary_en.pdf), [web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2019/))
@@ -2980,10 +2980,10 @@
 - 2001 World Investment Report – Promoting linkages ([full](https://unctad.org/en/Docs/wir2001_en.pdf), [summary](https://unctad.org/en/Docs/wir2001overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=656))
 - 2000 World Investment Report – Cross-border mergers and acquisitions and development ([full](https://unctad.org/en/Docs/wir2000_en.pdf), [summary](https://unctad.org/en/Docs/wir2000overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=654))
 - 1999 World Investment Report – Foreign direct investment and the challenge of development ([full](https://unctad.org/en/Docs/wir1999_en.pdf), [summary](https://unctad.org/en/Docs/wir1999overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=652))
-- 1998 World Investment Report – Trends and determinants ([full](https://unctad.org/en/Docs/wir1998_en.pdf), [summary](https://unctad.org/en/Docs/wir1998overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=650))
+- 1998 World Investment Report – Trends and determinants ([full](https://unctad.org/en/Docs/wir1998_en.pdf), [summary](https://unctad.org/en/Docs/wir1998overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1998))
 - 1997 World Investment Report – Transnational corporations, market structure and competition policy ([full](https://unctad.org/en/Docs/wir1997_en.pdf), [summary](https://unctad.org/en/Docs/wir1997overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=648))
 - 1996 World Investment Report – Investment, trade and international policy agreements ([full](https://unctad.org/en/Docs/wir1996_en.pdf), [summary](https://unctad.org/en/Docs/wir1996overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=646))
-- 1995 World Investment Report – Transnational corporations and competitiveness ([full](https://unctad.org/en/Docs/wir1995_en.pdf), [summary](https://unctad.org/en/Docs/wir1995overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=644))
+- 1995 World Investment Report – Transnational corporations and competitiveness ([full](https://unctad.org/en/Docs/wir1995_en.pdf), [summary](https://unctad.org/en/Docs/wir1995overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1995))
 - 1994 World Investment Report – Transnational corporations, employment and the workplace ([full](https://unctad.org/en/Docs/wir1994_en.pdf), [summary](https://unctad.org/en/Docs/wir1994overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=642))
 - 1993 World Investment Report – Transnational corporations and integrated international production ([full](https://unctad.org/en/Docs/wir1993_en.pdf), [summary](https://unctad.org/en/Docs/wir1993overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=640))
 - 1992 World Investment Report – Transnational corporations as engines of growth ([full](https://unctad.org/en/Docs/wir1992_en.pdf), [summary](https://unctad.org/en/Docs/wir1992overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=623))
