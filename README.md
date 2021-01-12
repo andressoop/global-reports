@@ -382,6 +382,7 @@
 
 > United Nations Environment Programme ([source](https://wedocs.unep.org/discover?query=Emissions+gap+Report&filtertype=author&filter_relational_operator=equals&filter=United+Nations+Environment+Programme))
 
+- 2020 Emissions Gap Report ([full](https://wedocs.unep.org/xmlui/bitstream/handle/20.500.11822/34426/EGR20.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/34438/EGR20ESE.pdf?sequence=25), [web](https://www.unenvironment.org/emissions-gap-report-2020))
 - 2019 Emissions Gap Report ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/EGR2019.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/30798/EGR19ESEN.pdf?sequence=13), [web](https://www.unenvironment.org/resources/emissions-gap-report-2019))
   - Lessons from a decade of emissions gap assessments ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/30022/EGR10.pdf?sequence=1&isAllowed=y))
 - 2018 Emissions Gap Report ([full](https://wedocs.unep.org/bitstream/handle/20.500.11822/26895/EGR2018_FullReport_EN.pdf?sequence=1&isAllowed=y), [summary](https://wedocs.unep.org/bitstream/handle/20.500.11822/26879/EGR2018_ESEN.pdf?sequence=10&isAllowed=y), [web](https://www.unenvironment.org/resources/emissions-gap-report-2018))
@@ -412,6 +413,7 @@
 
 > International Energy Agency, International Renewable Energy Agency, UN Statistics Division, World Bank Group, World Health Organization ([source](https://trackingsdg7.esmap.org/downloads))
 
+- 2020 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/tracking_sdg_7_2020-full_report_-_web_0.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/01-sdg7-executivesummary_0.pdf))
 - 2019 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/2019-tracking_sdg7-complete-rev030320.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/2019-tracking_sdg7-execsumm-withoutembargoed.pdf))
 - 2018 Energy Progress Report – Tracking SDG7 ([full](https://trackingsdg7.esmap.org/data/files/download-documents/tracking_sdg7-the_energy_progress_report_full_report.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/executive_summary.pdf))
 - 2017 Global Tracking Framework – Progress toward sustainable energy ([full](https://trackingsdg7.esmap.org/data/files/download-documents/eegp17-01_gtf_full_report_for_web_0516.pdf), [summary](https://trackingsdg7.esmap.org/data/files/download-documents/eegp17-01_gtf_summary_final_for_web_posting_0331.pdf))
@@ -424,6 +426,9 @@
 
 > International Energy Agency ([source](https://www.iea.org/topics/energy-technology-perspectives))
 
+- 2020 Energy Technology Perspectives ([web](https://www.iea.org/reports/energy-technology-perspectives-2020))
+  - Clean Energy Innovation ([web](https://www.iea.org/reports/clean-energy-innovation/clean-energy-technology-innovation-and-the-vital-role-of-governments))
+  - Carbon Capture Utilisation and Storage ([web](https://www.iea.org/reports/ccus-in-clean-energy-transitions))
 - 2017 Energy Technology Perspectives – Catalysing energy technology transformations ([web](https://www.iea.org/reports/energy-technology-perspectives-2017))
 - 2016 Energy Technology Perspectives – Towards sustainable urban energy systems ([web](https://www.iea.org/reports/energy-technology-perspectives-2016))
 - 2015 Energy Technology Perspectives – Mobilising innovation to accelerate climate action ([web](https://www.iea.org/reports/energy-technology-perspectives-2015))
@@ -483,7 +488,7 @@
 > International Monetary Fund ([source](https://www.imf.org/en/Publications/FM))
 
 - 2020 Fiscal Monitor
-  - October
+  - October – Policies for the Recovery ([full](https://www.imf.org/-/media/Files/Publications/fiscal-monitor/2020/October/English/text.ashx), [summary](https://www.imf.org/-/media/Files/Publications/fiscal-monitor/2020/October/English/execsum.ashx), [web](https://www.imf.org/en/Publications/FM/Issues/2020/09/30/october-2020-fiscal-monitor))
   - April – Policies to support people during the COVID-19 pandemic ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2020/April/English/text.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2020/04/06/fiscal-monitor-april-2020))
 - 2019 Fiscal Monitor
   - October – How to mitigate climate change ([full](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2019/October/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/fiscal-monitor/2019/October/English/execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019))
@@ -586,8 +591,9 @@
 
 > Freedom House ([source](https://freedomhouse.org/report/freedom-net))
 
-- 2019 Freedom on the Net – The crisis of social media ([summary](https://freedomhouse.org/sites/default/files/2019-11/11042019_Report_FH_FOTN_2019_final_Public_Download.pdf), [web](https://freedomhouse.org/report/freedom-net/2019/crisis-social-media))
-- 2018 Freedom on the Net – The rise of digital authoritarianism ([summary](https://freedomhouse.org/sites/default/files/2020-02/10192018_FOTN_2018_Final_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-net/2018/rise-digital-authoritarianism))
+- 2020 Freedom on the Net – The pandemic's digital shadow ([full](https://freedomhouse.org/sites/default/files/2020-10/10122020_FOTN2020_Complete_Report_FINAL.pdf), [web](https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow))
+- 2019 Freedom on the Net – The crisis of social media ([full](https://freedomhouse.org/sites/default/files/2019-11/11042019_Report_FH_FOTN_2019_final_Public_Download.pdf), [web](https://freedomhouse.org/report/freedom-net/2019/crisis-social-media))
+- 2018 Freedom on the Net – The rise of digital authoritarianism ([full](https://freedomhouse.org/sites/default/files/2020-02/10192018_FOTN_2018_Final_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-net/2018/rise-digital-authoritarianism))
 - 2017 Freedom on the Net – Manipulating social media to undermine democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_on_the_Net_2017_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2017_Final_compressed.pdf), [web](https://freedomhouse.org/report/freedom-net/2017/manipulating-social-media-undermine-democracy))
 - 2016 Freedom on the Net – Silencing the messenger: Communication apps under pressure ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_on_the_Net_2016_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FOTN_2016_BOOKLET_FINAL.pdf), [web](https://freedomhouse.org/report/freedom-net/2016/silencing-messenger-communication-apps-under-pressure))
 - 2015 Freedom on the Net – Privatizing censorship, eroding privacy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_on_the_Net_2015_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FOTN_2015Report_OverviewEssayFinal.pdf), [web](https://freedomhouse.org/report/freedom-net/2015/privatizing-censorship-eroding-privacy))
@@ -687,7 +693,7 @@
 
 ## Global Cybersecurity Index
 
-> United Nations International Telecommunication Union ([source](https://www.itu.int/en/ITU-D/Cybersecurity/Pages/Publications.aspx))
+> United Nations International Telecommunication Union ([source](https://www.itu.int/en/ITU-D/Cybersecurity/Pages/global-cybersecurity-index.aspx))
 
 - 2018 Global Cybersecurity Index ([full](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2018-PDF-E.pdf), [web](https://www.itu.int/pub/D-STR-GCI.01-2018))
 - 2017 Global Cybersecurity Index ([full](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-GCI.01-2017-R1-PDF-E.pdf), [web](https://www.itu.int/pub/D-STR-GCI.01-2017))
@@ -839,6 +845,7 @@
 > International Monetary Fund ([source](https://www.imf.org/en/publications/gfsr))
 
 - 2020 Global Financial Stability Report
+  - October – Bridge to recovery ([full](https://www.imf.org/-/media/Files/Publications/GFSR/2020/October/English/text.ashx), [summary](https://www.imf.org/-/media/Files/Publications/GFSR/2020/October/English/execsum.ashx), [web](https://www.imf.org/en/Publications/GFSR/Issues/2020/10/13/global-financial-stability-report-october-2020))
   - June – Update: Financial conditions have eased, but insolvencies loom large ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2020/Update/June/English/GFSRENG2020006.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2020/06/25/global-financial-stability-report-june-2020-update))
   - April – Markets in the time of COVID-19 ([full](https://www.imf.org/~/media/Files/Publications/GFSR/2020/April/English/text.ashx?la=en), [summary](https://www.imf.org/~/media/Files/Publications/GFSR/2020/April/English/ch1execsum.ashx?la=en), [web](https://www.imf.org/en/Publications/GFSR/Issues/2020/04/14/global-financial-stability-report-april-2020))
 - 2019 Global Financial Stability Report
@@ -959,6 +966,7 @@
 
 > Concern Worldwide, Welthungerhilfe, International Food Policy Research Institute ([source](https://www.globalhungerindex.org/download/all.html))
 
+- 2020 Global Hunger Index – One decade to zero hunger: Linking health and sustainable food systems ([full](https://www.globalhungerindex.org/pdf/en/2020.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2020/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2020.html))
 - 2019 Global Hunger Index – The challenge of hunger and climate change ([full](https://www.globalhungerindex.org/pdf/en/2019.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2019/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2019.html))
 - 2018 Global Hunger Index – Forced migration and hunger ([full](https://www.globalhungerindex.org/pdf/en/2018.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2018/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2018.html))
 - 2017 Global Hunger Index – The inequalities of hunger ([full](https://www.globalhungerindex.org/pdf/en/2017.pdf), [summary](https://www.globalhungerindex.org/pdf/en/2017/synopsis.pdf), [web](https://www.globalhungerindex.org/issues-in-focus/2017.html))
@@ -1000,6 +1008,7 @@
 
 > Economist Intelligence Unit ([source](http://www.eiu.com/landing/Global-Microscope))
 
+- 2020 Global Microscope – The role of financial inclusion in the Covid-19 response ([full](https://pages.eiu.com/rs/753-RIQ-438/images/EIU_Microscope_2020_proof_10.pdf), [web](https://www.eiu.com/n/campaigns/global-microscope-2020/))
 - 2019 Global Microscope ([full](http://www.eiu.com/Handlers/WhitepaperHandler.ashx?fi=EIU_Global_Microscope_2019.pdf&mode=wp&campaignid=microscope2019), [web](http://www.eiu.com/public/thankyou_download.aspx?activity=download&campaignid=microscope2019))
 - 2018 Global Microscope ([full](http://graphics.eiu.com//assets/images/public/global-microscope-2018/EIU_Microscope_2018_PROOF_10.pdf))
 - 2017 n/a
@@ -1222,6 +1231,7 @@
 
 > Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
+- 2020 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-web-1.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-Briefing.pdf))
 - 2019 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf), [summary](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019-briefingweb.pdf))
 - 2018 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2018/12/Global-Terrorism-Index-2018.pdf))
 - 2017 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2017/11/Global-Terrorism-Index-2017.pdf), [summary](http://visionofhumanity.org/app/uploads/2017/11/Global-Terrorism-Index-2017-Snapshot.pdf))
@@ -1260,6 +1270,7 @@
 
 > Credit Suisse Research Institute ([source](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html))
 
+- 2020 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2020-en.pdf))
 - 2019 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf))
 - 2018 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2018-en.pdf))
 - 2017 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2017-en.pdf))
@@ -1321,6 +1332,7 @@
 
 > United Nations Development Programme ([source](http://www.hdr.undp.org/en/global-reports))
 
+- 2020 Human Development Report – The next frontier: Human development and the Anthropocene ([full](http://www.hdr.undp.org/sites/default/files/hdr2020.pdf), [summary](http://www.hdr.undp.org/sites/default/files/hdr_2020_overview_english.pdf), [web](http://www.hdr.undp.org/en/2020-report))
 - 2019 Human Development Report – Beyond income, beyond averages, beyond today: Inequalities in human development in the 21st century ([full](http://www.hdr.undp.org/sites/default/files/hdr2019.pdf), [summary](http://www.hdr.undp.org/sites/default/files/hdr_2019_overview_-_english.pdf), [web](http://www.hdr.undp.org/en/content/human-development-report-2019))
 - 2018 Statistical Update – Human development indices and indicators ([full](http://www.hdr.undp.org/sites/default/files/2018_human_development_statistical_update.pdf), [web](http://www.hdr.undp.org/en/content/human-development-indices-indicators-2018-statistical-update))
 - 2017 n/a
@@ -1581,11 +1593,12 @@
 
 ## Postal Development Report
 
-> Universal Postal Union ([source](http://www.upu.int/en/the-upu/strategy/2ipd.html))
+> Universal Postal Union ([source](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Integrated-Index-for-Postal-Development-(2IPD)))
 
-- 2019 Postal Development Report – Perspectives on the performance of postal operators worldwide ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf))
-- 2018 Postal Development Report – Benchmarking a critical infrastructure for sustainable development ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf))
-- 2017 Integrated Index for Postal Development (2IPD) ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017En.pdf))
+- 2020 Postal Development Report – Achieving higher performance amid a major crisis ([full](https://www.upu.int/UPU/media/upu/publications/2020-Postal-Development-Report.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2020))
+- 2019 Postal Development Report – Perspectives on the performance of postal operators worldwide ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2019))
+- 2018 Postal Development Report – Benchmarking a critical infrastructure for sustainable development ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2018))
+- 2017 Integrated Index for Postal Development (2IPD) ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Integrated-Index-for-Postal-Development-(2IPD)---2016-results))
 
 
 
@@ -1604,6 +1617,7 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/Review-of-Maritime-Transport-(Series).aspx))
 
+- 2020 Review of Maritime Transport ([full](https://unctad.org/system/files/official-document/rmt2020_en.pdf), [summary](https://unctad.org/system/files/official-document/rmt2020fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2020))
 - 2019 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2019_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2019fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2563))
 - 2018 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2018_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2018fas_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2245))
   - 50 years of Review of Maritime Transport – Reflecting on the past, exploring the future ([full](https://unctad.org/en/PublicationsLibrary/dtl2018d1_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2289))
@@ -1818,6 +1832,8 @@
 
 > World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Competitiveness+Report))
 
+- 2020 The Global Competitiveness Report
+  - How countries are performing on the road to recovery ([full](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2020.pdf), [web](https://www.weforum.org/reports/the-global-competitiveness-report-2020))
 - 2019 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf), [web](https://www.weforum.org/reports/how-to-end-a-decade-of-lost-productivity-growth))
 - 2018 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/GCR2018/05FullReport/TheGlobalCompetitivenessReport2018.pdf), [web](https://www.weforum.org/reports/the-global-competitveness-report-2018))
 - 2017/18 The Global Competitiveness Report ([full](http://www3.weforum.org/docs/GCR2017-2018/05FullReport/TheGlobalCompetitivenessReport2017%E2%80%932018.pdf), [web](https://www.weforum.org/reports/the-global-competitiveness-report-2017-2018))
@@ -1882,32 +1898,33 @@
 
 ## The Least Developed Countries Report
 
-> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/TheLeastDevelopedCountriesReport.aspx))
+> United Nations Conference on Trade and Development ([source](https://unctad.org/publications-search?f[0]=product%3A392))
 
-- 2019 The Least Developed Countries Report – The present and future of external development finance: Old dependence, new challenges ([full](https://unctad.org/en/PublicationsLibrary/ldcr2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2019overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2571))
-- 2018 The Least Developed Countries Report – Entrepreneurship for structural transformation: Beyond business as usual ([full](https://unctad.org/en/PublicationsLibrary/ldcr2018_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2018overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2280))
-- 2017 The Least Developed Countries Report – Transformational energy access ([full](https://unctad.org/en/PublicationsLibrary/ldcr2017_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2017overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1902))
-- 2016 The Least Developed Countries Report – The path to graduation and beyond: Making the most of the process ([full](https://unctad.org/en/PublicationsLibrary/ldc2016_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2016overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1664))
-- 2015 The Least Developed Countries Report – Transforming rural economies ([full](https://unctad.org/en/PublicationsLibrary/ldc2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2015overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1393))
-- 2014 The Least Developed Countries Report – Growth with structural transformation: A post-2015 development agenda ([full](https://unctad.org/en/PublicationsLibrary/ldc2014_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2014overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1067))
-- 2013 The Least Developed Countries Report – Growth with employment for inclusive and sustainable development ([full](https://unctad.org/en/PublicationsLibrary/ldc2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2013overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=700))
-- 2012 The Least Developed Countries Report – Harnessing remittances and diaspora knowledge to build productive capacities ([full](https://unctad.org/en/PublicationsLibrary/ldc2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2012overview_en.pdf), [web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=249))
-- 2011 The Least Developed Countries Report – The potential role of South-South cooperation for inclusive and sustainable development ([full](https://unctad.org/en/Docs/ldc2011_en.pdf), [summary](https://unctad.org/en/Docs/ldc2011overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=188))
+- 2020 The Least Developed Countries Report – Productive capacities for the new decade ([full](https://unctad.org/system/files/official-document/ldcr2020_en.pdf), [summary](https://unctad.org/system/files/official-document/ldcr2020overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2020))
+- 2019 The Least Developed Countries Report – The present and future of external development finance: Old dependence, new challenges ([full](https://unctad.org/en/PublicationsLibrary/ldcr2019_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2019overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2019))
+- 2018 The Least Developed Countries Report – Entrepreneurship for structural transformation: Beyond business as usual ([full](https://unctad.org/en/PublicationsLibrary/ldcr2018_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2018overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2018))
+- 2017 The Least Developed Countries Report – Transformational energy access ([full](https://unctad.org/en/PublicationsLibrary/ldcr2017_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldcr2017overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2017))
+- 2016 The Least Developed Countries Report – The path to graduation and beyond: Making the most of the process ([full](https://unctad.org/en/PublicationsLibrary/ldc2016_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2016overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2016))
+- 2015 The Least Developed Countries Report – Transforming rural economies ([full](https://unctad.org/en/PublicationsLibrary/ldc2015_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2015overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2015))
+- 2014 The Least Developed Countries Report – Growth with structural transformation: A post-2015 development agenda ([full](https://unctad.org/en/PublicationsLibrary/ldc2014_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2014overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2014))
+- 2013 The Least Developed Countries Report – Growth with employment for inclusive and sustainable development ([full](https://unctad.org/en/PublicationsLibrary/ldc2013_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2013overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2013))
+- 2012 The Least Developed Countries Report – Harnessing remittances and diaspora knowledge to build productive capacities ([full](https://unctad.org/en/PublicationsLibrary/ldc2012_en.pdf), [summary](https://unctad.org/en/PublicationsLibrary/ldc2012overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2012))
+- 2011 The Least Developed Countries Report – The potential role of South-South cooperation for inclusive and sustainable development ([full](https://unctad.org/en/Docs/ldc2011_en.pdf), [summary](https://unctad.org/en/Docs/ldc2011overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2011))
 - 2010 The Least Developed Countries Report – Towards a new international development architecture for LDCs ([full](https://unctad.org/en/Docs/ldc2010_en.pdf), [summary](https://unctad.org/en/Docs/ldc2010overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2010))
 - 2009 The Least Developed Countries Report – The state and development governance ([full](https://unctad.org/en/Docs/ldc2009_en.pdf), [summary](https://unctad.org/en/Docs/ldc2009overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2009))
-- 2008 The Least Developed Countries Report – Growth, poverty and the terms of development partnership ([full](https://unctad.org/en/Docs/ldc2008_en.pdf), [summary](https://unctad.org/en/Docs/ldc2008overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=166))
-- 2007 The Least Developed Countries Report – Knowledge, technological learning and innovation for development ([full](https://unctad.org/en/Docs/ldc2007_en.pdf), [summary](https://unctad.org/en/Docs/ldc2007overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=158))
-- 2006 The Least Developed Countries Report – Developing productive capacities ([full](https://unctad.org/en/Docs/ldc2006_en.pdf), [summary](https://unctad.org/en/Docs/ldc2006overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=145))
+- 2008 The Least Developed Countries Report – Growth, poverty and the terms of development partnership ([full](https://unctad.org/en/Docs/ldc2008_en.pdf), [summary](https://unctad.org/en/Docs/ldc2008overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2008))
+- 2007 The Least Developed Countries Report – Knowledge, technological learning and innovation for development ([full](https://unctad.org/en/Docs/ldc2007_en.pdf), [summary](https://unctad.org/en/Docs/ldc2007overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2007))
+- 2006 The Least Developed Countries Report – Developing productive capacities ([full](https://unctad.org/en/Docs/ldc2006_en.pdf), [summary](https://unctad.org/en/Docs/ldc2006overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2006))
 - 2005 n/a
-- 2004 The Least Developed Countries Report – Linking international trade with poverty reduction ([full](https://unctad.org/en/Docs/ldc2004_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=132))
+- 2004 The Least Developed Countries Report – Linking international trade with poverty reduction ([full](https://unctad.org/en/Docs/ldc2004_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2004))
 - 2003 n/a
-- 2002 The Least Developed Countries Report – Escaping the poverty trap ([full](https://unctad.org/en/Docs/ldc2002_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=121))
+- 2002 The Least Developed Countries Report – Escaping the poverty trap ([full](https://unctad.org/en/Docs/ldc2002_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2002))
 - 2001 n/a
-- 2000 The Least Developed Countries Report – Aid, private capital flows and external debt: The challenge of financing development in the LDCs ([full](https://unctad.org/en/Docs/ldc2000_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=119))
-- 1999 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1999_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=117))
-- 1998 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1998_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=115))
-- 1997 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1997_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=113))
-- 1996 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1996_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=109))
+- 2000 The Least Developed Countries Report – Aid, private capital flows and external debt: The challenge of financing development in the LDCs ([full](https://unctad.org/en/Docs/ldc2000_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2000))
+- 1999 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1999_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-1999))
+- 1998 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1998_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-1998))
+- 1997 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1997_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-1997))
+- 1996 The Least Developed Countries Report ([full](https://unctad.org/en/Docs/ldc1996_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-1996))
 - 1995 The Least Developed Countries Report ([summary](https://unctad.org/en/Docs/tb41(2)d4.en.pdf))
 
 
@@ -1916,6 +1933,7 @@
 
 > Portulans Institute, World Economic Forum ([source 1](https://www.weforum.org/reports?utf8=%E2%9C%93&query=global+information+technology+report), [source 2](https://networkreadinessindex.org/))
 
+- 2020 The Network Readiness Index – Accelerating digital transformation in a post-COVID global economy ([full](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf), [web](https://networkreadinessindex.org/nri-2020-analysis/))
 - 2019 The Network Readiness Index – Towards a future-ready society ([full](https://networkreadinessindex.org/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf), [summary](https://networkreadinessindex.org/wp-content/uploads/2019/12/2019-NRI-Executive-Summary-1.pdf), [web](https://networkreadinessindex.org/nri-2019-analysis/))
 - 2016 The Global Information Technology Report – Innovating in the digital economy ([full](http://www3.weforum.org/docs/GITR2016/GITR_2016_full%20report_final.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2016))
 - 2015 The Global Information Technology Report – ICTs for inclusive growth ([full](http://www3.weforum.org/docs/WEF_GITR2015.pdf), [web](https://www.weforum.org/reports/global-information-technology-report-2015))
@@ -1949,6 +1967,7 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/soco/en/))
 
+- 2020 The State of Agricultural Commodity Markets – Agricultural markets and sustainable development: Global value chains, smallholder farmers and digital innovations ([full](http://www.fao.org/3/cb0665en/CB0665EN.pdf), [summary](http://www.fao.org/3/cb0677en/CB0677EN.pdf), [web](http://www.fao.org/3/cb0665en/online/cb0665en.html))
 - 2018 The State of Agricultural Commodity Markets – Agricultural trade, climate change and food security ([full](http://www.fao.org/3/I9542EN/i9542en.pdf), [summary](http://www.fao.org/3/CA1364EN/ca1364en.pdf), [web](http://www.fao.org/documents/card/en/c/I9542EN))
 - 2015/16 The State of Agricultural Commodity Markets – Trade and food security: Achieving a better balance between national priorities and the collective good ([full](http://www.fao.org/3/a-i5090e.pdf), [summary](http://www.fao.org/3/a-i5129e.pdf), [web](http://www.fao.org/publications/soco/the-state-of-agricultural-commodity-markets-2015-16/en/))
 - 2009 The State of Agricultural Commodity Markets – High food prices and the food crisis: Experiences and lessons learned ([full](http://www.fao.org/3/i0854e/i0854e.pdf), [summary](http://www.fao.org/3/i0854e/i0854e00.pdf), [web](http://www.fao.org/publications/card/en/c/b1a1ad94-3fff-5e79-8437-e0d1fd7ab7cb/))
@@ -1971,6 +1990,7 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofa/en/))
 
+- 2020 The State of Food and Agriculture – Overcoming water challenges in agriculture ([full](http://www.fao.org/3/cb1447en/CB1447EN.pdf), [summary](http://www.fao.org/3/cb1441en/CB1441EN.pdf), [web](http://www.fao.org/3/cb1447en/online/cb1447en.html))
 - 2019 The State of Food and Agriculture – Moving forward on food loss and waste reduction ([full](http://www.fao.org/3/ca6030en/ca6030en.pdf), [summary](http://www.fao.org/3/ca6122en/ca6122en.pdf), [web](http://www.fao.org/state-of-food-agriculture/en/))
 - 2018 The State of Food and Agriculture – Migration, agriculture and rural development ([full](http://www.fao.org/3/I9549EN/i9549en.pdf), [summary](http://www.fao.org/3/CA1554EN/ca1554en.pdf), [web](http://www.fao.org/state-of-food-agriculture/2018/en/))
 - 2017 The State of Food and Agriculture – Leveraging food systems for inclusive rural transformations ([full](http://www.fao.org/3/a-i7658e.pdf), [summary](http://www.fao.org/3/a-i7833en.pdf), [web](http://www.fao.org/state-of-food-agriculture/2017/en/))
@@ -2428,6 +2448,7 @@
 
 > International Atomic Energy Agency, Nuclear Energy Agency ([source](https://www.oecd-ilibrary.org/nuclear-energy/uranium_20725310))
 
+- 2020 Uranium: Resources, Production and Demand ([full](https://www.keepeek.com//Digital-Asset-Management/oecd/nuclear-energy/uranium-2020_d82388ab-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2020_d82388ab-en))
 - 2018 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2018_uranium-2018-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2018_uranium-2018-en))
 - 2016 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2016_uranium-2016-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2016_uranium-2016-en))
 - 2014 Uranium: Resources, Production and Demand ([full](https://read.oecd-ilibrary.org/nuclear-energy/uranium-2014_uranium-2014-en#page1), [web](https://www.oecd-ilibrary.org/nuclear-energy/uranium-2014_uranium-2014-en))
@@ -3113,6 +3134,7 @@
 
 > World Trade Organization ([source](https://www.wto.org/english/res_e/reser_e/wtr_e.htm))
 
+- 2020 World Trade Report – Government policies to promote innovation in the digital age ([full](https://www.wto.org/english/res_e/booksp_e/wtr20_e/wtr20_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr20_e/wtr20-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr20_e.htm))
 - 2019 World Trade Report – The future of services trade ([full](https://www.wto.org/english/res_e/booksp_e/00_wtr19_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/01_wtr19_0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr19_e.htm))
 - 2018 World Trade Report – The future of world trade: How digital technologies are transforming global commerce ([full](https://www.wto.org/english/res_e/publications_e/world_trade_report18_e.pdf), [summary](https://www.wto.org/english/res_e/publications_e/wtr18_0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr18_e.htm))
 - 2017 World Trade Report – Trade, technology and jobs ([full](https://www.wto.org/english/res_e/booksp_e/world_trade_report17_e.pdf), [summary](https://www.wto.org/english/res_e/booksp_e/wtr17-0_e.pdf), [web](https://www.wto.org/english/res_e/publications_e/wtr17_e.htm))
