@@ -2284,7 +2284,8 @@
 
 > United Nations Department of Economic and Social Affairs ([source](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml))
 
-- 2015 The World's Women ([full](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_report.pdf), [summary](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_execsumm.pdf), [web](https://unstats.un.org/unsd/gender/worldswomen.html))
+- 2020 The World's Women ([summary](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW2020_ExecutiveSummary.pdf), [web](https://worlds-women-2020-data-undesa.hub.arcgis.com/))
+- 2015 The World's Women ([full](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_report.pdf), [summary](https://unstats.un.org/unsd/gender/downloads/WorldsWomen2015_execsumm.pdf), [web](https://unstats.un.org/unsd/gender/worldswomen2015.html))
 - 2010 The World's Women ([full](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW_full%20report_color.pdf), [summary](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/Executive%20summary.pdf), [web](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2010pub/))
 - 2005 The World's Women – Progress in statistics ([full](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW_full%20report_color.pdf), [summary](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/ww2005/ww2005_executive_summary_bw.pdf), [web](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2005pub/))
 - 2000 The World's Women ([full](https://unstats.un.org/unsd/publication/SeriesK/seriesk_16e.pdf), [web](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2000pub/))
@@ -2554,6 +2555,7 @@
 
 > United Nations Human Settlements Programme ([source 1](https://unhabitat.org/wcr/), [source 2](https://mirror.unhabitat.org/list.asp?typeid=15&catid=559))
 
+- 2020 World Cities Report – The value of sustainable urbanization ([full](https://unhabitat.org/sites/default/files/2020/10/wcr_2020_report.pdf), [summary](https://unhabitat.org/sites/default/files/2020/10/wcr_2020_key_findings_and_messages.pdf), [web](https://unhabitat.org/World%20Cities%20Report%202020#:~:text=The%20World%20Cities%20Report%202020%20convincingly%20affirms%20that%20well%2Dplanned,leveraged%20in%20the%20fight%20against))
 - 2016 World Cities Report – Urbanization and development: Emerging futures ([full](https://unhabitat.org/sites/default/files/download-manager-files/WCR-2016-WEB.pdf), [web](https://unhabitat.org/world-cities-report))
 - 2012/13 State of the World's Cities – Prosperity of Cities ([full](https://sustainabledevelopment.un.org/content/documents/745habitat.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=3387))
 - 2010/11 State of the World's Cities – Bridging the urban divide ([full](https://africacheck.org/wp-content/uploads/2014/03/State-of-the-world-cities-2010.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2917))
