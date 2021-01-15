@@ -347,7 +347,7 @@
 
 ## Ecological Threat Register
 
-> Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
+> Institute for Economics and Peace ([source](https://www.visionofhumanity.org/maps/ecological-threat-register/#/))
 
 - 2020 Ecological Threat Register – Understanding ecological threats, resilience and peace ([full](http://visionofhumanity.org/app/uploads/2020/09/ETR_2020_web-1.pdf))
 
@@ -356,6 +356,8 @@
 ## Education for All Global Monitoring Report
 
 > UNESCO ([source](https://en.unesco.org/gem-report/allreports))
+
+*concluded and followed by [Global Education Monitoring Report](#global-education-monitoring-report)*
 
 - 2015 EFA Global Monitoring Report – Education for All 2000–2015: Achievements and challenges ([full](https://unesdoc.unesco.org/ark:/48223/pf0000232205/PDF/232205eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000232565/PDF/232565eng.pdf.multi), [web](https://en.unesco.org/gem-report/report/2015/education-all-2000-2015-achievements-and-challenges))
   - Youth version ([full](https://unesdoc.unesco.org/ark:/48223/pf0000232581/PDF/232581eng.pdf.multi))
@@ -1481,6 +1483,8 @@
 
 > United Nations ([source](https://www.un.org/millenniumgoals/reports.shtml))
 
+*concluded and followed by [The Sustainable Development Goals Report](#the-sustainable-development-goals-report)*
+
 - 2015 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20rev%20(July%201).pdf), [summary](https://www.un.org/millenniumgoals/2015_MDG_Report/pdf/MDG%202015%20PC%20final.pdf))
 - 2014 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/2014%20MDG%20report/MDG%202014%20English%20web.pdf), [summary](https://www.un.org/millenniumgoals/2014%20MDG%20report/MDG%202014%20Progress%20Chart_English.pdf))
 - 2013 Millennium Development Goals Report ([full](https://www.un.org/millenniumgoals/pdf/report-2013/mdg-report-2013-english.pdf), [summary](https://www.un.org/millenniumgoals/pdf/report-2013/2013_progress_english.pdf))
@@ -1524,6 +1528,8 @@
 ## Outlook on the Global Agenda
 
 > World Economic Forum ([source](https://www.weforum.org/search?query=Outlook+on+the+Global+Agenda))
+
+*discontinued*
 
 - 2015 Outlook on the Global Agenda ([full](http://reports.weforum.org/outlook-global-agenda-2015/wp-content/blogs.dir/59/mp/files/pages/files/outlook-2015-a4-downloadable.pdf), [web](https://reports.weforum.org/outlook-global-agenda-2015/))
 - 2014 Outlook on the Global Agenda ([full](http://www3.weforum.org/docs/WEF_GAC_GlobalAgendaOutlook_2014.pdf), [web](https://reports.weforum.org/outlook-14/))
@@ -1755,6 +1761,8 @@
 
 > Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/state%20of%20the%20world%27s%20mothers?sort=score))
 
+*discontinued*
+
 - 2015 State of the World's Mothers – The urban disadvantage ([full](https://resourcecentre.savethechildren.net/node/9052/pdf/sowm_2015.pdf), [summary](https://resourcecentre.savethechildren.net/node/9052/pdf/sowm_executive_summary.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2015-urban-disadvantage))
 - 2014 State of the World's Mothers – Saving mothers and children in humanitarian crises ([full](https://resourcecentre.savethechildren.net/node/8191/pdf/worldsmothers.pdf), [web](https://resourcecentre.savethechildren.net/library/state-worlds-mothers-2014-saving-mothers-and-children-humanitarian-crises))
 - 2013 State of the World's Mothers – Surviving the first day ([full](https://resourcecentre.savethechildren.net/node/7387/pdf/sowm-full-report_2013.pdf), [web](https://resourcecentre.savethechildren.net/library/surviving-first-day-state-worlds-mothers-2013))
@@ -1862,6 +1870,8 @@
 ## The Global Enabling Trade Report
 
 > World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Enabling+Trade+Report))
+
+*discontinued*
 
 - 2016 The Global Enabling Trade Report ([full](http://www3.weforum.org/docs/WEF_GETR_2016_report.pdf), [web](https://www.weforum.org/reports/the-global-enabling-trade-report-2016))
 - 2014 The Global Enabling Trade Report ([full](http://www3.weforum.org/docs/WEF_GlobalEnablingTrade_Report_2014.pdf), [web](https://www.weforum.org/reports/global-enabling-trade-report-2014))
@@ -2158,7 +2168,7 @@
 
 ## The State of the World’s Children
 
-> United Nations Children’s Emergency Fund (UNICEF) ([source 1](https://www.unicef.org/sowc/), [source 2](https://www.unicef.org/about/history/index_sowc.html))
+> United Nations Children’s Emergency Fund (UNICEF) ([source](https://www.unicef.org/sowc/))
 
 - 2019 The State of the World’s Children – Children, food and nutrition: Growing well in a changing world ([full](https://www.unicef.org/media/63016/file/SOWC-2019.pdf), [summary](https://www.unicef.org/media/60811/file/SOWC-2019-Exec-summary.pdf), [web](https://features.unicef.org/state-of-the-worlds-children-2019-nutrition/))
 - 2018 n/a
@@ -2286,6 +2296,8 @@
 ## Tracking Clean Energy Progress
 
 > International Energy Agency ([source](https://webstore.iea.org/search?q=tracking+clean+energy))
+
+*discontinued*
 
 - 2017 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2017))
 - 2016 Tracking Clean Energy Progress ([web](https://webstore.iea.org/tracking-clean-energy-progress-2016))
@@ -2540,7 +2552,7 @@
 
 ## World Cities Report
 
-> United Nations Human Settlements Programme ([source 1](https://mirror.unhabitat.org/list.asp?typeid=15&catid=559), [source 2](https://unhabitat.org/world-cities-report))
+> United Nations Human Settlements Programme ([source 1](https://unhabitat.org/wcr/), [source 2](https://mirror.unhabitat.org/list.asp?typeid=15&catid=559))
 
 - 2016 World Cities Report – Urbanization and development: Emerging futures ([full](https://unhabitat.org/sites/default/files/download-manager-files/WCR-2016-WEB.pdf), [web](https://unhabitat.org/world-cities-report))
 - 2012/13 State of the World's Cities – Prosperity of Cities ([full](https://sustainabledevelopment.un.org/content/documents/745habitat.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=3387))
@@ -2909,6 +2921,8 @@
 ## World Health Report
 
 > World Health Organization ([source](https://www.who.int/whr/en/))
+
+*discontinued*
 
 - 2013 World Health Report – Research for universal health coverage ([full](https://apps.who.int/iris/bitstream/handle/10665/85761/9789240690837_eng.pdf;jsessionid=D5A3E56F4D9B1B715AD1745362C3A46A?sequence=2), [web](https://www.who.int/whr/2013/report/en/))
 - 2012 n/a
