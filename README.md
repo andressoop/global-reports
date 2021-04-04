@@ -268,12 +268,12 @@
 - 2019 Democracy Index – A year of democratic setbacks and popular protest ([full](https://www.in.gr/wp-content/uploads/2020/01/Democracy-Index-2019.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019))
 - 2018 Democracy Index – Me too? Political participation, protest and democracy ([full](https://275rzy1ul4252pt1hv2dqyuf-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Democracy_Index_2018.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy2018))
 - 2017 Democracy Index – Free speech under attack ([full](https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=34079), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2017))
-- 2016 Democracy Index – Revenge of the “deplorables” ([full](https://www.transparency.org.nz/docs/2017/Democracy_Index_2016.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2016))
+- 2016 Democracy Index – Revenge of the “deplorables” ([full](https://www.transparency.org.nz/docs/2017/Democracy_Index_2016.pdf), [web](http://felipesahagun.es/wp-content/uploads/2017/01/Democracy-Index-2016.pdf))
 - 2015 Democracy Index – Democracy in an age of anxiety ([full](https://www.yabiladi.com/img/content/EIU-Democracy-Index-2015.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2015))
 - 2014 Democracy Index – Democracy and its discontents  ([full](https://www.sudestada.com.uy/Content/Articles/421a313a-d58f-462e-9b24-2504a37f6b56/Democracy-index-2014.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0115))
-- 2013 Democracy Index – Democracy in limbo ([full](https://thepeoplesconvention.org/wp-content/uploads/2015/04/TheEconomist-DemocracyIndex2013.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0814))
+- 2013 Democracy Index – Democracy in limbo ([full](https://siyosat.files.wordpress.com/2014/10/democracy_index_2013_web-2.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0814))
 - 2012 Democracy Index – Democracy at a standstill ([full](https://civitanaorg.files.wordpress.com/2014/05/democracy-index-2012.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex12))
-- 2011 Democracy Index – Democracy under stress ([full](https://www.sida.se/globalassets/global/about-sida/sa-arbetar-vi/eiu_democracy_index_dec2011.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2011))
+- 2011 Democracy Index – Democracy under stress ([full](https://thecubaneconomy.com/wp-content/uploads/2012/01/Democracy_Index_Final_Dec_2011.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2011))
 - 2010 Democracy Index – Democracy in retreat ([full](https://graphics.eiu.com/PDF/Democracy_Index_2010_web.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=demo2010))
 - 2009 n/a
 - 2008 Democracy Index ([full](https://graphics.eiu.com/PDF/Democracy%20Index%202008.pdf))
@@ -349,7 +349,7 @@
 
 > Institute for Economics and Peace ([source](https://www.visionofhumanity.org/maps/ecological-threat-register/#/))
 
-- 2020 Ecological Threat Register – Understanding ecological threats, resilience and peace ([full](http://visionofhumanity.org/app/uploads/2020/09/ETR_2020_web-1.pdf))
+- 2020 Ecological Threat Register – Understanding ecological threats, resilience and peace ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/ETR_2020_web-1.pdf))
 
 
 
@@ -446,7 +446,7 @@
 
 > Yale University, Columbia University ([source](https://epi.yale.edu/downloads))
 
-- 2020 Environmental Performance Index ([summary](https://epi.yale.edu/downloads/epipolicymakersummaryr9.pdf), [web](https://epi.yale.edu/epi-results/2020/component/epi))
+- 2020 Environmental Performance Index ([full](https://epi.yale.edu/downloads/epi2020report20210112.pdf) [summary](https://epi.yale.edu/downloads/epipolicymakersummaryr11.pdf), [web](https://epi.yale.edu/epi-results/2020/component/epi))
 - 2018 Environmental Performance Index ([full](https://epi.yale.edu/downloads/epi2018reportv06191901.pdf), [summary](https://epi.yale.edu/downloads/epi2018policymakerssummaryv01.pdf), [web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2018))
 - 2016 Environmental Performance Index ([full](http://www.indiaenvironmentportal.org.in/files/file/Yale%20EPI%202016_Report.pdf), [web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2016))
 - 2014 Environmental Performance Index ([full](http://www.ciesin.org/documents/2014_epi_report.pdf), [web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2014))
@@ -549,7 +549,7 @@
 - 2018 Freedom in the World – Democracy in crisis ([full](https://freedomhouse.org/sites/default/files/2020-02/FreedomintheWorld2018COMPLETEBOOK.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FIW_Report_2018_Final.pdf), [web](https://freedomhouse.org/report/freedom-world/2018/democracy-crisis))
 - 2017 Freedom in the World – Populists and autocrats: The dual threat to global democracy ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2017_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FIW_2017_Report_Final.pdf), [web](https://freedomhouse.org/report/freedom-world/2017/populists-and-autocrats-dual-threat-global-democracy))
 - 2016 Freedom in the World – Anxious dictators, wavering democracies: Global freedom under pressure ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2016_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FH_FITW_Report_2016.pdf), [web](https://freedomhouse.org/report/freedom-world/2016/anxious-dictators-wavering-democracies-global-freedom-under-pressure))
-- 2015 Freedom in the World – Discarding democracy: Return to the iron fist ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2015_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/01152015_FIW_2015_final.pdf), [web](https://freedomhouse.org/report/freedom-world/2015/discarding-democracy-return-iron-fi)
+- 2015 Freedom in the World – Discarding democracy: Return to the iron fist ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2015_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/01152015_FIW_2015_final.pdf), [web](https://freedomhouse.org/report/freedom-world/2015/discarding-democracy-return-iron-fist))
 - 2014 Freedom in the World – The democratic leadership gap ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2014_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2014_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2014/democratic-leadership-gap))
 - 2013 Freedom in the World – Democratic breakthroughs in the balance ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2013_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2013_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2013/democratic-breakthroughs-balance))
 - 2012 Freedom in the World – The Arab uprisings and their global repercussions ([full](https://freedomhouse.org/sites/default/files/2020-02/Freedom_in_the_World_2012_complete_book.pdf), [summary](https://freedomhouse.org/sites/default/files/2020-02/FIW_2012_Booklet.pdf), [web](https://freedomhouse.org/report/freedom-world/2012/arab-uprisings-and-their-global-repercussions))
@@ -647,7 +647,7 @@
 
 > Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/Global%20Childhood%20Report%20%7C%20end%20of%20childhood?sort=score))
 
-- 2020 Global Childhood Report – The hardest places to be a child ([full](https://resourcecentre.savethechildren.net/node/17681/pdf/global-childhood-report-2020.pdf), [web](https://resourcecentre.savethechildren.net/library/global-childhood-report-2020-hardest-places-be-child))
+- 2020 Global Childhood Report – The hardest places to be a child ([full](https://www.savethechildren.org/content/dam/usa/reports/advocacy/global-childhood-report-2020.pdf))
 - 2019 Global Childhood Report – Changing lives in our lifetime ([full](https://resourcecentre.savethechildren.net/node/15264/pdf/global_childhood_report_2019_english.pdf), [summary](https://resourcecentre.savethechildren.net/node/15264/pdf/ch1338551_0.pdf), [web](https://resourcecentre.savethechildren.net/library/global-childhood-report-2019-changing-lives-our-lifetime))
 - 2018 End of Childhood Report – The many faces of exclusion ([full](https://resourcecentre.savethechildren.net/node/13429/pdf/endofchildhood_report_2018_english_0.pdf), [web](https://resourcecentre.savethechildren.net/library/many-faces-exclusion-end-childhood-report-2018))
 - 2017 End of Childhood Report – Stolen childhoods ([full](https://resourcecentre.savethechildren.net/node/12167/pdf/endofchildhood_report_2017_english.pdf), [web](https://resourcecentre.savethechildren.net/library/stolen-childhoods-end-childhood-report-2017))
@@ -1061,13 +1061,13 @@
 
 > Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
-- 2020 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2020/06/GPI_2020_web.pdf), [summary](http://visionofhumanity.org/app/uploads/2020/06/GPI_2020_Briefing_Web.pdf))
-- 2019 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2019/07/GPI-2019web.pdf), [summary](http://visionofhumanity.org/app/uploads/2019/06/GPI-2019-Briefingweb-2.pdf))
-- 2018 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2018/06/Global-Peace-Index-2018-2.pdf), [summary](http://visionofhumanity.org/app/uploads/2018/06/Global-Peace-Index-2018-Snapshot.pdf))
-- 2017 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2017/06/GPI17-Report.pdf), [summary](http://visionofhumanity.org/app/uploads/2017/06/GPI-2017-Highlights-1.pdf))
-- 2016 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2017/02/GPI-2016-Report_2.pdf), [summary](http://visionofhumanity.org/app/uploads/2017/03/GPI-2016-Highlights.pdf))
-- 2015 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2017/04/Global-Peace-Index-Report-2015_0.pdf))
-- 2014 Global Peace Index ([full](http://visionofhumanity.org/app/uploads/2017/04/2014-Global-Peace-Index-REPORT_0-1.pdf))
+- 2020 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_Briefing_Web.pdf))
+- 2019 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2019web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2019-Briefingweb-2.pdf))
+- 2018 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Peace-Index-2018-2.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Peace-Index-2018-Snapshot.pdf))
+- 2017 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI17-Report-1.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2017-Highlights-1.pdf))
+- 2016 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2016-Report_2.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2016-Highlights.pdf))
+- 2015 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Peace-Index-Report-2015_0-1.pdf))
+- 2014 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/2014-Global-Peace-Index-REPORT_0-1.pdf))
 - 2013 Global Peace Index ([full](https://www.economicsandpeace.org/wp-content/uploads/2013/06/2013-GPI-Report.pdf))
 - 2012 Global Peace Index ([full](https://www.economicsandpeace.org/wp-content/uploads/2015/06/2012-Global-Peace-Index-Report.pdf))
 - 2011 Global Peace Index ([full](https://www.economicsandpeace.org/wp-content/uploads/2015/08/2011-GPI-Results-Report.pdf))
@@ -1151,7 +1151,7 @@
 
 > Walk Free Foundation ([source](https://www.globalslaveryindex.org/resources/downloads/))
 
-- 2018 Global Slavery Index ([full](https://www.traffickingmatters.com/wp-content/uploads/2018/08/GSI-2018_FNL_180807_DigitalSmall_p.pdf), [summary](https://downloads.globalslaveryindex.org/ephemeral/Executive-Summary-1600335829.pdf), [web](https://www.globalslaveryindex.org/2018/findings/highlights/))
+- 2018 Global Slavery Index ([full](https://www.traffickingmatters.com/wp-content/uploads/2018/08/GSI-2018_FNL_180807_DigitalSmall_p.pdf), [web](https://www.globalslaveryindex.org/2018/findings/highlights/))
 - 2016 Global Slavery Index ([full](https://www.traffickingmatters.com/wp-content/uploads/legal-resources/walk-free-global-slavery/2016-Global-Slavery-Index-Walk-Free.pdf))
 - 2014 Global Slavery Index ([full](https://reporterbrasil.org.br/wp-content/uploads/2014/11/GlobalSlavery_2014_LR-FINAL.pdf))
 - 2013 Global Slavery Index ([full](http://lft.ee/admin/upload/files/GlobalSlaveryIndex_2013_Download_WEB1.pdf))
@@ -1234,12 +1234,12 @@
 > Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
 - 2020 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-web-1.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-Briefing.pdf))
-- 2019 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019web.pdf), [summary](http://visionofhumanity.org/app/uploads/2019/11/GTI-2019-briefingweb.pdf))
-- 2018 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2018/12/Global-Terrorism-Index-2018.pdf))
-- 2017 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2017/11/Global-Terrorism-Index-2017.pdf), [summary](http://visionofhumanity.org/app/uploads/2017/11/Global-Terrorism-Index-2017-Snapshot.pdf))
-- 2016 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2017/02/Global-Terrorism-Index-2016.pdf))
-- 2015 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2017/04/2015-Global-Terrorism-Index-Report.pdf))
-- 2014 Global Terrorism Index ([full](http://visionofhumanity.org/app/uploads/2017/04/Global-Terrorism-Index-Report-2014.pdf))
+- 2019 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2019-web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GTI-2019-briefingweb.pdf))
+- 2018 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Terrorism-Index-2018.pdf))
+- 2017 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Terrorism-Index-2017.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Terrorism-Index-2017-Snapshot.pdf))
+- 2016 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Terrorism-Index-2016.pdf))
+- 2015 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/2015-Global-Terrorism-Index-Report.pdf))
+- 2014 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Terrorism-Index-Report-2014.pdf))
 - 2013 n/a
 - 2012 Global Terrorism Index – Capturing the impact of terrorism from 2002–2011 ([full](https://reliefweb.int/sites/reliefweb.int/files/resources/2012-Global-Terrorism-Index-Report.pdf))
 
@@ -1475,7 +1475,7 @@
 - 2010 Measuring the Information Society – ITU-D ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2010/MIS_2010_without_annex_4-e.pdf), [summary](https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICTOI-2010-U2-SUM-PDF-E.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2010.aspx))
 - 2009 Measuring the Information Society – The ICT Development Index ([full](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2009/MIS2009_w5.pdf), [web](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2009.aspx))
 - 2008 n/a
-- 2007 Measuring the Information Society – ICT Opportunity Index and world telecommunication/ICT Indicators ([full](https://read.itu-ilibrary.org/science-and-technology/measuring-the-information-society-2007_pub/801f4107-en#page13), [web](https://www.oecd-ilibrary.org/content/publication/pub-801f4107-en))
+- 2007 Measuring the Information Society – ICT Opportunity Index and world telecommunication/ICT Indicators ([web](https://www.oecd-ilibrary.org/content/publication/pub-801f4107-en))
 
 
 
@@ -1602,9 +1602,9 @@
 > Universal Postal Union ([source](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/Integrated-Index-for-Postal-Development-(2IPD)))
 
 - 2020 Postal Development Report – Achieving higher performance amid a major crisis ([full](https://www.upu.int/UPU/media/upu/publications/2020-Postal-Development-Report.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2020))
-- 2019 Postal Development Report – Perspectives on the performance of postal operators worldwide ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2019En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2019))
-- 2018 Postal Development Report – Benchmarking a critical infrastructure for sustainable development ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2018En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2018))
-- 2017 Integrated Index for Postal Development (2IPD) ([full](http://www.upu.int/uploads/tx_sbdownloader/postalDevelopmentReport2017En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Integrated-Index-for-Postal-Development-(2IPD)---2016-results))
+- 2019 Postal Development Report – Perspectives on the performance of postal operators worldwide ([full](https://www.upu.int/UPU/media/upu/publications/Postal-Development-Report-2019_FINAL.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2019))
+- 2018 Postal Development Report – Benchmarking a critical infrastructure for sustainable development ([full](https://www.upu.int/UPU/media/upu/publications/postalDevelopmentReport2018En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2018))
+- 2017 Integrated Index for Postal Development (2IPD) ([full](https://www.upu.int/UPU/media/upu/publications/postalDevelopmentReport2018En.pdf), [web](https://www.upu.int/en/Publications/2IPD/Integrated-Index-for-Postal-Development-(2IPD)---2016-results))
 
 
 
@@ -1694,13 +1694,13 @@
 
 > Social Progress Imperative ([source](https://www.socialprogress.org/resources?filter=2020))
 
-- 2020 Social Progress Index ([summary](https://www.socialprogress.org/assets/downloads/resources/2020/2020-Social-Progress-Index-Executive-Summary.pdf))
-- 2019 Social Progress Index ([summary](https://www.socialprogress.org/assets/downloads/resources/2019/2019-Social-Progress-Index-executive-summary-v2.0.pdf))
-- 2018 Social Progress Index ([summary](https://www.socialprogress.org/assets/downloads/resources/2018/2018-Social-Progress-Index-Exec-Summary.pdf))
-- 2017 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2017/2017-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2017/2017-Social-Progress-Index-Exec-Summary.pdf))
-- 2016 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2016/2016-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2016/2016-Social-Progress-Index-Exec-Summary.pdf))
-- 2015 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2015/2015-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2015/2015-Social-Progress-Index-Exec-Summary.pdf))
-- 2014 Social Progress Index ([full](https://www.socialprogress.org/assets/downloads/resources/2014/2014-Social-Progress-Index.pdf), [summary](https://www.socialprogress.org/assets/downloads/resources/2014/2014-Social-Progress-Index-Exec-Summary.pdf))
+- 2020 Social Progress Index ([summary](https://www.socialprogress.org/static/37348b3ecb088518a945fa4c83d9b9f4/2020-social-progress-index-executive-summary.pdf))
+- 2019 Social Progress Index ([summary](https://www.socialprogress.org/static/9d3cd3204599ff2cdf87248edc2b1242/2019-social-progress-index-executive-summary-v2.0.pdf))
+- 2018 Social Progress Index ([summary](https://www.socialprogress.org/static/5c19047de09c3db175c3ffed4ff82b86/2018-social-progress-index-exec-summary.pdf))
+- 2017 Social Progress Index ([full](https://www.socialprogress.org/static/20d068d269a282c3edfd41e1a1b3b7d2/2017-social-progress-index.pdf), [summary](https://www.socialprogress.org/static/d1f22acafa9503957c52a5233073d445/2017-social-progress-index-exec-summary.pdf))
+- 2016 Social Progress Index ([full](https://www.socialprogress.org/static/927049e2c0e8cf147e8906a812631a5e/2016-social-progress-index.pdf), [summary](https://www.socialprogress.org/static/a173623fa6b7b12f3f86a1a9ac9d73b7/2016-social-progress-index-exec-summary.pdf))
+- 2015 Social Progress Index ([full](https://www.socialprogress.org/static/b11e8918ae3b7edf007e9343965b650b/2015-social-progress-index.pdf), [summary](https://www.socialprogress.org/static/8ae0ce9dc1c768fcae51fded6448ad47/2015-social-progress-index-exec-summary.pdf))
+- 2014 Social Progress Index ([full](https://www.socialprogress.org/static/d4f7102775ee71fa6ebab1926009072a/2014-social-progress-index.pdf), [summary](https://www.socialprogress.org/static/8ae51e47705a43b4db48be81856b8432/2014-social-progress-index-exec-summary.pdf))
 
 
 
@@ -2558,8 +2558,8 @@
 - 2020 World Cities Report – The value of sustainable urbanization ([full](https://unhabitat.org/sites/default/files/2020/10/wcr_2020_report.pdf), [summary](https://unhabitat.org/sites/default/files/2020/10/wcr_2020_key_findings_and_messages.pdf), [web](https://unhabitat.org/World%20Cities%20Report%202020#:~:text=The%20World%20Cities%20Report%202020%20convincingly%20affirms%20that%20well%2Dplanned,leveraged%20in%20the%20fight%20against))
 - 2016 World Cities Report – Urbanization and development: Emerging futures ([full](https://unhabitat.org/sites/default/files/download-manager-files/WCR-2016-WEB.pdf), [web](https://unhabitat.org/world-cities-report))
 - 2012/13 State of the World's Cities – Prosperity of Cities ([full](https://sustainabledevelopment.un.org/content/documents/745habitat.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=3387))
-- 2010/11 State of the World's Cities – Bridging the urban divide ([full](https://africacheck.org/wp-content/uploads/2014/03/State-of-the-world-cities-2010.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2917))
-- 2008/09 State of the World's Cities – Harmonious Cities ([full](https://sustainabledevelopment.un.org/content/documents/11192562_alt-1.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2562))
+- 2010/11 State of the World's Cities – Bridging the urban divide ([full](https://sdgs.un.org/sites/default/files/publications/11143016_alt.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2917))
+- 2008/09 State of the World's Cities – Harmonious Cities ([full](https://sdgs.un.org/sites/default/files/publications/11192562_alt-1.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2562))
 - 2006/07 State of the World's Cities – The Millennium Development Goals and Urban Sustainability: 30 years of shaping the Habitat Agenda ([full](https://sustainabledevelopment.un.org/content/documents/11292101_alt.pdf), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2101))
 - 2004/05 State of the World's Cities – Globalization and urban culture ([full](https://issuu.com/unhabitat/docs/1163_alt), [web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=1163))
 - 2001 State of the World's Cities ([web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=1487))
@@ -2672,12 +2672,12 @@
 
 > Centre for Economics and Business Research ([source](https://cebr.com/?s=World+Economic+League+Table))
 
-- 2020 World Economic League Table ([full](https://cebr.com/wp-content/uploads/2019/12/World-Economic-League-Table-Report-2020-Final.pdf), [web](https://cebr.com/reports/world-economic-league-table-2020/))
+- 2020 World Economic League Table (full, [web](https://cebr.com/reports/world-economic-league-table-2020/))
 - 2019 World Economic League Table ([full](https://assetsds.cdnedge.bluemix.net/sites/default/files/welt-2019-full-report.pdf))
-- 2018 World Economic League Table ([full](https://cebr.com/wp-content/uploads/2018/01/World-Economic-League-Table-Report-2018.pdf))
+- 2018 World Economic League Table (full)
 - 2017 World Economic League Table ([web](https://cebr.com/reports/world-economic-league-table-2017/))
-- 2016 World Economic League Table ([summary](https://www.cebr.com/wp-content/uploads/2015/12/Cebr-World-Economic-League-Table-2016-26-December-2015-final.pdf), [web](https://cebr.com/reports/welt-2016/))
-- 2015 World Economic League Table ([summary](https://www.cebr.com/wp-content/uploads/2014/12/WELT-Dec-26-2014.pdf), [web](https://cebr.com/reports/world-economic-league-table-2015/))
+- 2016 World Economic League Table (summary, [web](https://cebr.com/reports/welt-2016/))
+- 2015 World Economic League Table (summary, [web](https://cebr.com/reports/world-economic-league-table-2015/))
 - 2014 World Economic League Table
 - 2013 World Economic League Table ([full](https://www.letemps.ch/sites/default/files/media/2013/12/27/2.1.2553317251.pdf?uuid=Grr-BG7KEeOnth7pfSJMiw))
 - 2012 World Economic League Table
@@ -3291,8 +3291,8 @@
 - 2019 Worldwide Cost of Living ([summary](https://www.df.cl/noticias/site/artic/20190319/asocfile/20190319171329/reporte.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2019/)) **$**
 - 2018 Worldwide Cost of Living ([summary](https://qtxasset.com/cfoinnovation/field/field_p_files/white_paper/EIU_Costofliving2018.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2018/)) **$**
 - 2017 Worldwide Cost of Living ([summary](https://kjarninn.overcastcdn.com/documents/EconomistListi.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2017/)) **$**
-- 2016 Worldwide Cost of Living ([summary](http://cdn.plataformaurbana.cl/wp-content/uploads/2016/05/eiu_wcol2016_freereport.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2016/)) **$**
-- 2015 Worldwide Cost of Living ([summary](http://cdn.plataformaurbana.cl/wp-content/uploads/2015/03/wcol-march-2015-summary.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2015/)) **$**
+- 2016 Worldwide Cost of Living (summary, [web](https://store.eiu.com/product/worldwide-cost-of-living-2016/)) **$**
+- 2015 Worldwide Cost of Living (summary, [web](https://store.eiu.com/product/worldwide-cost-of-living-2015/)) **$**
 - 2014 Worldwide Cost of Living ([web](https://store.eiu.com/product/worldwide-cost-of-living-2014/)) **$**
 - 2013 Worldwide Cost of Living ([summary](http://www.iberglobal.com/files/cities_cost_living_eiu.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2013/)) **$**
 
