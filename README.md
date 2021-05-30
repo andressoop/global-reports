@@ -655,6 +655,7 @@
 
 > Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/Global%20Childhood%20Report%20%7C%20end%20of%20childhood?sort=score))
 
+- 2021 Global Childhood Report – The toughest places to be a child ([full](https://www.savethechildren.org/content/dam/usa/reports/advocacy/2021-global-childhood-report.pdf?vanityurl=endofchildhood))
 - 2020 Global Childhood Report – The hardest places to be a child ([full](https://www.savethechildren.org/content/dam/usa/reports/advocacy/global-childhood-report-2020.pdf))
 - 2019 Global Childhood Report – Changing lives in our lifetime ([full](https://resourcecentre.savethechildren.net/node/15264/pdf/global_childhood_report_2019_english.pdf), [summary](https://resourcecentre.savethechildren.net/node/15264/pdf/ch1338551_0.pdf), [web](https://resourcecentre.savethechildren.net/library/global-childhood-report-2019-changing-lives-our-lifetime))
 - 2018 End of Childhood Report – The many faces of exclusion ([full](https://resourcecentre.savethechildren.net/node/13429/pdf/endofchildhood_report_2018_english_0.pdf), [web](https://resourcecentre.savethechildren.net/library/many-faces-exclusion-end-childhood-report-2018))
