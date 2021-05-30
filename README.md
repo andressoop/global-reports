@@ -1895,6 +1895,14 @@
 
 
 
+## The Global Girlhood Report
+
+> Save the Children ([source](https://resourcecentre.savethechildren.net/search/site/The%20Global%20Girlhood%20Report))
+
+- 2020 The Global Girlhood Report – How COVID-19 is putting progress in peril ([full](https://resourcecentre.savethechildren.net/node/18201/pdf/global_girlhood_report_2020_africa_version_2.pdf), [web](https://resourcecentre.savethechildren.net/library/global-girlhood-report-2020-how-covid-19-putting-progress-peril))
+
+
+
 ## The Global Enabling Trade Report
 
 > World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Enabling+Trade+Report))
