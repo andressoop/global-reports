@@ -34,7 +34,6 @@ For any questions, thoughts, ideas, issues, etc, use the [issues](https://github
 - Excerpts and specials that **do not** cover global scale
 - Regional reports
 - Country reports
-- Reports published more than one time a year
 
 
 
@@ -48,9 +47,10 @@ For any questions, thoughts, ideas, issues, etc, use the [issues](https://github
   - YEAR Name of the Report – Name of this particular report if it has one ([full](link to the pdf of the full report), [summary](link to the pdf of the summary), [web](link to the report's website where further information could be found))
 ```
 
+- **If all the download links are properly accessible on the report's year specific website, add a link to <u>web</u> only**
 - List reports alphabetical
 - [full] should link directly to the pdf version of the report
-- [summary] should link directly to the pdf version of the report's summary
+- [summary] should link to the web page or directly to the pdf version of the report's summary
 - [web] should link to the reports specific web page where you find more information and resources
 - If in a specific year no report was published, but should have been, mark it in this fashion: **2015 n/a**
 - If the report has been published, but there is no publication of it online, leave the name of the report without any links
