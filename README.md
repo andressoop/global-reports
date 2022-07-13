@@ -16,13 +16,11 @@
 - [Education for All Global Monitoring Report](#education-for-all-global-monitoring-report)
 - [Emissions Gap Report](#emissions-gap-report)
 - [Enabling the Business of Agriculture](#enabling-the-business-of-agriculture)
-- [Energy Progress Report](#energy-progress-report)
 - [Energy Technology Perspectives](#energy-technology-perspectives)
 - [Environmental Performance Index](#environmental-performance-index)
 - [External Sector Report](#external-sector-report)
 - [Financing for Sustainable Development Report](#financing-for-sustainable-development-report)
 - [Fiscal Monitor](#fiscal-monitor)
-- [Freedom and the Media](#freedom-and-the-media)
 - [Freedom in the World](#freedom-in-the-world)
 - [Freedom on the Net](#freedom-on-the-net)
 - [Frontiers](#frontiers)
@@ -42,6 +40,7 @@
 - [Global Food Policy Report](#global-food-policy-report)
 - [Global Food Security Index](#global-food-security-index)
 - [Global Gender Gap Report](#global-gender-gap-report)
+- [Global Girlhood Report](#global-girlhood-report)
 - [Global Hunger Index](#global-hunger-index)
 - [Global Innovation Index](#global-innovation-index)
 - [Global Microscope](#global-microscope)
@@ -80,6 +79,7 @@
 - [Outlook on the Global Agenda](#outlook-on-the-global-agenda)
 - [Paying Taxes](#paying-taxes)
 - [PISA](#pisa)
+- [Positive Peace Report](#positive-peace-report)
 - [Postal Development Report](#postal-development-report)
 - [Re|Shaping Cultural Policies](#reshaping-cultural-policies)
 - [Review of Maritime Transport](#review-of-maritime-transport)
@@ -160,6 +160,7 @@
 
 > Climate Transparency ([source](https://www.climate-transparency.org/g20-climate-performance))
 
+- 2021 Climate Transparency Report – Comparing G20 climate action towards net zero ([web](https://www.climate-transparency.org/g20-climate-performance/g20report2021))
 - 2020 Climate Transparency Report – Comparing G20 climate action and responses to the COVID-19 crisis ([web](https://www.climate-transparency.org/g20-climate-performance/the-climate-transparency-report-2020))
 - 2019 Brown to Green Report – The G20 transition to a net-zero emissions economy ([web](https://www.climate-transparency.org/g20-climate-performance/g20report2019))
 - 2018 Brown to Green Report – The G20 transition to a low-carbon economy ([web](https://www.climate-transparency.org/g20-climate-performance/g20report2018))
@@ -173,6 +174,7 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/publications-search?f[0]=product%3A588))
 
+- 2021 Commodities and Development Report – Escaping from the commodity dependence trap through technology and innovation ([web](https://unctad.org/webflyer/commodities-and-development-report-2021))
 - 2019 Commodities and Development Report – Commodity dependence, climate change and the Paris Agreement ([web](https://unctad.org/webflyer/commodities-and-development-report-2019))
 - 2017 Commodities and Development Report – Commodity markets, economic growth and development ([web](https://unctad.org/webflyer/commodities-and-development-report-2017))
 - 2015 Commodities and Development Report – Smallholder farmers and sustainable commodity development ([web](https://unctad.org/webflyer/commodities-and-development-report-2015))
@@ -197,6 +199,7 @@
 
 > Transparency International ([source](https://www.transparency.org/en/cpi))
 
+- 2021 Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2021))
 - 2020 Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2020/))
 - 2019 Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2019))
 - 2018 Corruption Perceptions Index ([web](https://www.transparency.org/en/cpi/2018))
@@ -230,6 +233,7 @@
 
 > Amnesty International ([source](https://www.amnesty.org/en/search/?q=%22Death+Sentences+and+Executions%22&sort=date&issue=1583&documentType=Annual+Report&documentType=Report))
 
+- 2021 Death Sentences and Executions ([web](https://www.amnesty.org/en/documents/act50/5418/2022/en/))
 - 2020 Death Sentences and Executions ([web](https://www.amnesty.org/en/documents/act50/3760/2021/en/)) 
 - 2019 Death Sentences and Executions ([web](https://www.amnesty.org/en/documents/act50/1847/2020/en/))
 - 2018 Death Sentences and Executions ([web](https://www.amnesty.org/en/documents/act50/9870/2019/en/))
@@ -267,6 +271,7 @@
 
 > Economist Intelligence Unit ([source](https://www.eiu.com/topic/democracy-index))
 
+- 2021 Democracy Index – The China challenge ([full](https://www.stockwatch.com.cy/sites/default/files/news-downloads/feb11_2022_eiu-democracy-index-2021.pdf), [web](https://www.eiu.com/n/campaigns/democracy-index-2021))
 - 2020 Democracy Index – In sickness and in health? ([full](https://pages.eiu.com/rs/753-RIQ-438/images/democracy-index-2020.pdf), [web](https://www.eiu.com/n/campaigns/democracy-index-2020/))
 - 2019 Democracy Index – A year of democratic setbacks and popular protest ([full](https://www.in.gr/wp-content/uploads/2020/01/Democracy-Index-2019.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019))
 - 2018 Democracy Index – Me too? Political participation, protest and democracy ([full](https://275rzy1ul4252pt1hv2dqyuf-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Democracy_Index_2018.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy2018))
@@ -287,19 +292,20 @@
 
 ## Digital Economy Report
 
-> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/DTL/STI_and_ICTs/ICT4D-Report.aspx))
+> United Nations Conference on Trade and Development ([source](https://unctad.org/topic/ecommerce-and-digital-economy/digital-economy-report))
 
-- 2019 Digital Economy Report – Value creation and capture: Implications for developing countries ([web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=2466))
-- 2017 Information Economy Report – Digitalization, trade and development ([web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1872))
-- 2015 Information Economy Report – Unlocking the potential of e-commerce for developing countries ([web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1146))
-- 2013 Information Economy Report – The cloud economy and developing countries ([web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=710))
-- 2012 Information Economy Report – The software industry and developing countries ([web](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=271))
+- 2021 Digital Economy Report – Cross-border data flows and development: For whom the data flow ([web](https://unctad.org/webflyer/digital-economy-report-2021))
+- 2019 Digital Economy Report – Value creation and capture: Implications for developing countries ([web](https://unctad.org/webflyer/digital-economy-report-2019))
+- 2017 Information Economy Report – Digitalization, trade and development ([web](https://unctad.org/webflyer/information-economy-report-2017))
+- 2015 Information Economy Report – Unlocking the potential of e-commerce for developing countries ([web](https://unctad.org/webflyer/information-economy-report-2015-unlocking-potential-e-commerce-developing-countries))
+- 2013 Information Economy Report – The cloud economy and developing countries ([web](https://unctad.org/webflyer/information-economy-report-2013))
+- 2012 Information Economy Report – The software industry and developing countries ([web](https://unctad.org/webflyer/information-economy-report-2012))
 - 2011 Information Economy Report – ICTs as an enabler for private sector development ([full](https://unctad.org/en/PublicationsLibrary/ier2011_en.pdf), [summary](https://unctad.org/en/Docs/ier2011overview_en.pdf))
 - 2010 Information Economy Report – ICTs, enterprises and poverty alleviation ([web](https://unctad.org/webflyer/information-economy-report-2010))
 - 2009 Information Economy Report – Trends and outlook in turbulent times ([web](https://unctad.org/webflyer/information-economy-report-2009))
-- 2007/08 Information Economy Report – Science and technology for development: The new paradigm of ICT ([web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1563))
-- 2006 Information Economy Report – The development perspective ([web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1549))
-- 2005 Information Economy Report ([web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=1540))
+- 2007/08 Information Economy Report – Science and technology for development: The new paradigm of ICT ([web](https://unctad.org/webflyer/information-economy-report-2007-2008))
+- 2006 Information Economy Report – The development perspective ([web](https://unctad.org/webflyer/information-economy-report-2006))
+- 2005 Information Economy Report ([web](https://unctad.org/webflyer/information-economy-report-2005))
 
 
 
@@ -381,8 +387,9 @@
 
 ## Emissions Gap Report
 
-> United Nations Environment Programme ([source](https://www.unep.org/resources?keywords=%22Emissions+gap+report%22))
+> United Nations Environment Programme ([source](https://www.unep.org/resources/emissions-gap-report))
 
+- 2021 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2021))
 - 2020 Emissions Gap Report ([web](https://www.unep.org/emissions-gap-report-2020))
 - 2019 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2019))
 - 2018 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2018))
@@ -429,6 +436,7 @@
 
 > Yale University, Columbia University ([source](https://epi.yale.edu/))
 
+- 2022 Environmental Performance Index ([web](https://epi.yale.edu/epi-results/2022/component/epi))
 - 2020 Environmental Performance Index ([web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2020))
 - 2018 Environmental Performance Index ([web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2018))
 - 2016 Environmental Performance Index ([web](https://sedac.ciesin.columbia.edu/data/set/epi-environmental-performance-index-2016))
@@ -444,6 +452,7 @@
 
 > International Monetary Fund ([source](https://www.imf.org/en/Publications/SPROLLs/External-Sector-Reports#sort=%40imfdate%20descending))
 
+- 2021 External Sector Report – Divergent recoveries and global imbalances ([web](https://www.imf.org/en/Publications/ESR/Issues/2021/08/02/2021-external-sector-report))
 - 2020 External Sector Report – Global imbalances and the COVID-19 crisis ([web](https://www.imf.org/en/Publications/ESR/Issues/2020/07/28/2020-external-sector-report))
 - 2019 External Sector Report – The dynamics of external adjustment ([web](https://www.imf.org/en/Publications/ESR/Issues/2019/07/03/2019-external-sector-report))
 - 2018 External Sector Report – Tackling global imbalances amid rising trade tensions ([web](https://www.imf.org/en/Publications/ESR/Issues/2018/07/19/2018-external-sector-report))
@@ -460,6 +469,7 @@
 
 > United Nations Inter-agency Task Force on Financing for Development ([source](https://developmentfinance.un.org/report))
 
+- 2022 Financing for Sustainable Development Report  – Bridging the finance divide ([web](https://developmentfinance.un.org/fsdr2022))
 - 2021 Financing for Sustainable Development Report ([web](https://developmentfinance.un.org/fsdr2021))
 - 2020 Financing for Sustainable Development Report ([web](https://developmentfinance.un.org/fsdr2020))
 - 2019 Financing for Sustainable Development Report ([web](https://developmentfinance.un.org/fsdr2019))
@@ -473,7 +483,8 @@
 
 > International Monetary Fund ([source](https://www.imf.org/en/Publications/FM))
 
-- 2021 Fiscal Monitor ([January](https://www.imf.org/en/Publications/FM/Issues/2021/01/20/fiscal-monitor-update-january-2021), [April](https://www.imf.org/en/Publications/FM/Issues/2021/03/29/fiscal-monitor-april-2021))
+- 2022 Fiscal Monitor ([April](https://www.imf.org/en/Publications/FM/Issues/2022/04/12/fiscal-monitor-april-2022))
+- 2021 Fiscal Monitor ([January](https://www.imf.org/en/Publications/FM/Issues/2021/01/20/fiscal-monitor-update-january-2021), [April](https://www.imf.org/en/Publications/FM/Issues/2021/03/29/fiscal-monitor-april-2021), [October](https://www.imf.org/en/Publications/FM/Issues/2021/10/13/fiscal-monitor-october-2021))
 - 2020 Fiscal Monitor ([April](https://www.imf.org/en/Publications/FM/Issues/2020/04/06/fiscal-monitor-april-2020), [October](https://www.imf.org/en/Publications/FM/Issues/2020/09/30/october-2020-fiscal-monitor))
 - 2019 Fiscal Monitor ([April](https://www.imf.org/en/Publications/FM/Issues/2019/03/18/fiscal-monitor-april-2019), [October](https://www.imf.org/en/Publications/FM/Issues/2019/09/12/fiscal-monitor-october-2019))
 - 2018 Fiscal Monitor ([April](https://www.imf.org/en/Publications/FM/Issues/2018/04/06/fiscal-monitor-april-2018), [October](https://www.imf.org/en/Publications/FM/Issues/2018/10/04/fiscal-monitor-october-2018))
@@ -489,21 +500,16 @@
 
 
 
-## Freedom and the Media
-
-> Freedom House ([source](https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral))
-
-- 2019 Freedom and the Media – A downward spiral ([web](https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral))
-
-
-
 ## Freedom in the World
 
 > Freedom House ([source](https://freedomhouse.org/report/freedom-world))
 
+- 2022 Freedom in the World – The global expansion of authoritarian rule ([web](https://freedomhouse.org/report/freedom-world/2022/global-expansion-authoritarian-rule))
 - 2021 Freedom in the World – Democracy under siege ([web](https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege))
 - 2020 Freedom in the World – A leaderless struggle for democracy ([web](https://freedomhouse.org/report/freedom-world/2020/leaderless-struggle-democracy))
 - 2019 Freedom in the World – Democracy in retreat ([web](https://freedomhouse.org/report/freedom-world/2019/democracy-retreat))
+  - Freedom and the Media – A downward spiral ([web](https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral))
+
 - 2018 Freedom in the World – Democracy in crisis ([web](https://freedomhouse.org/report/freedom-world/2018/democracy-crisis))
 - 2017 Freedom in the World – Populists and autocrats: The dual threat to global democracy ([web](https://freedomhouse.org/report/freedom-world/2017/populists-and-autocrats-dual-threat-global-democracy))
 - 2016 Freedom in the World – Anxious dictators, wavering democracies: Global freedom under pressure ([web](https://freedomhouse.org/report/freedom-world/2016/anxious-dictators-wavering-democracies-global-freedom-under-pressure))
@@ -551,6 +557,7 @@
 
 > Freedom House ([source](https://freedomhouse.org/report/freedom-net))
 
+- 2021 Freedom on the Net – The global drive to control big tech ([web](https://freedomhouse.org/report/freedom-net/2021/global-drive-control-big-tech))
 - 2020 Freedom on the Net – The pandemic's digital shadow ([web](https://freedomhouse.org/report/freedom-net/2020/pandemics-digital-shadow))
 - 2019 Freedom on the Net – The crisis of social media ([web](https://freedomhouse.org/report/freedom-net/2019/crisis-social-media))
 - 2018 Freedom on the Net – The rise of digital authoritarianism ([web](https://freedomhouse.org/report/freedom-net/2018/rise-digital-authoritarianism))
@@ -568,8 +575,9 @@
 
 ## Frontiers
 
-> United Nations Environment Programme ([source](https://www.unep.org/resources/frontiers-201819-emerging-issues-environmental-concern))
+> United Nations Environment Programme ([source](https://www.unep.org/resources/frontiers))
 
+- 2022 Frontiers – Noise, blazes and mismatches ([web](https://www.unep.org/resources/frontiers-2022-noise-blazes-and-mismatches))
 - 2018/19 Frontiers – Emerging Issues of Environmental Concern ([web](https://www.unep.org/resources/frontiers-201819-emerging-issues-environmental-concern))
 - 2017 Frontiers – Emerging Issues of Environmental Concern ([web](https://www.unep.org/resources/frontiers-2017-emerging-issues-environmental-concern))
 - 2016 Frontiers – Emerging Issues of Environmental Concern ([web](https://www.unep.org/resources/frontiers-2016-emerging-issues-environmental-concern))
@@ -580,6 +588,8 @@
 
 > United Nations Office for Disaster Risk Reduction ([source](https://www.undrr.org/global-assessment-report-disaster-risk-reduction-gar))
 
+- 2022 Global Assessment Report on Disaster Risk Reduction – Our world at risk: Transforming governance for a resilient future ([web](https://www.undrr.org/gar2022-our-world-risk))
+- 2021 GAR Special Report on Drought ([web](https://www.undrr.org/gar2021-drought))
 - 2019 Global Assessment Report on Disaster Risk Reduction ([web](https://gar.undrr.org/report-2019))
 - 2017 Global Assessment Report on Disaster Risk Reduction – GAR Atlas: Unveiling global disaster risk ([web](https://www.preventionweb.net/english/hyogo/gar/atlas/))
 - 2015 Global Assessment Report on Disaster Risk Reduction – Making development sustainable: The future of disaster risk management ([web](https://www.preventionweb.net/english/hyogo/gar/2015/en/home/))
@@ -593,6 +603,7 @@
 
 > Global Challenges Foundation ([source](https://globalchallenges.org/initiatives/analysis-research/reports/))
 
+- 2021 Global Catastrophic Risks – Navigating the complex intersections ([full](https://globalchallenges.org/wp-content/uploads/2021/09/Global-Catastrophic-Risks-2021-FINAL.pdf))
 - 2020 Global Catastrophic Risks ([full](https://globalchallenges.org/wp-content/uploads/Global-Catastrophic-Risks-2020-Annual-Report-WEB-V2-1.pdf))
 - 2019 n/a
 - 2018 Global Catastrophic Risks ([full](https://globalchallenges.org/wp-content/uploads/GCF-Annual-report-2018-1.pdf))
@@ -605,7 +616,7 @@
 
 > Save the Children ([source](https://resourcecentre.savethechildren.net/))
 
-- 2021 Global Childhood Report – The toughest places to be a child ([full](https://www.savethechildren.org/content/dam/usa/reports/advocacy/2021-global-childhood-report.pdf?vanityurl=endofchildhood))
+- 2021 Global Childhood Report – The toughest places to be a child ([web](https://www.childhealthtaskforce.org/resources/report/2021/toughest-places-be-child-global-childhood-report-2021-save-children))
 - 2020 Global Childhood Report – The hardest places to be a child ([full](https://www.savethechildren.org/content/dam/usa/reports/advocacy/global-childhood-report-2020.pdf))
 - 2019 Global Childhood Report – Changing lives in our lifetime ([web](https://resourcecentre.savethechildren.net/library/global-childhood-report-2019-changing-lives-our-lifetime))
 - 2018 End of Childhood Report – The many faces of exclusion ([web](https://resourcecentre.savethechildren.net/library/many-faces-exclusion-end-childhood-report-2018))
@@ -656,6 +667,8 @@
 
 > United Nations International Telecommunication Union ([source](https://www.itu.int/en/ITU-D/Cybersecurity/Pages/global-cybersecurity-index.aspx))
 
+- 2020 Global Cybersecurity Index ([web](https://www.itu.int/epublications/publication/D-STR-GCI.01-2021-HTM-E/))
+- 2019 n/a
 - 2018 Global Cybersecurity Index ([web](https://www.itu.int/pub/D-STR-GCI.01-2018))
 - 2017 Global Cybersecurity Index ([web](https://www.itu.int/pub/D-STR-GCI.01-2017))
 - 2016 n/a
@@ -667,6 +680,7 @@
 
 > Global Drug Survey ([source](https://www.globaldrugsurvey.com/))
 
+- 2021 Global Drug Survey ([full](https://www.globaldrugsurvey.com/wp-content/uploads/2021/12/Report2021_global.pdf), [summary](https://www.globaldrugsurvey.com/wp-content/uploads/2021/12/Report2021_ExecutiveSummary.pdf))
 - 2020 Global Drug Survey ([web](https://www.globaldrugsurvey.com/gds-2020-key-findings/))
   - Special edition on COVID-19 ([web](https://www.globaldrugsurvey.com/gds-covid-19-special-edition-key-findings-report/))
 - 2019 Global Drug Survey ([web](https://www.globaldrugsurvey.com/gds-2019/))
@@ -682,7 +696,8 @@
 
 > World Bank Group ([source](https://www.worldbank.org/en/publication/global-economic-prospects))
 
-- 2021 Global Economic Prospects ([January](https://openknowledge.worldbank.org/bitstream/handle/10986/34710/9781464816123.pdf), June)
+- 2022 Global Economic Prospects ([January](https://openknowledge.worldbank.org/bitstream/handle/10986/36519/9781464817601.pdf), [June](https://thedocs.worldbank.org/en/doc/18ad707266f7740bced755498ae0307a-0350012022/original/Global-Economic-Prospects-June-2022.pdf))
+- 2021 Global Economic Prospects ([January](https://openknowledge.worldbank.org/bitstream/handle/10986/34710/9781464816123.pdf), [June](https://thedocs.worldbank.org/en/doc/600223300a3685fe68016a484ee867fb-0350012021/original/Global-Economic-Prospects-June-2021.pdf))
 - 2020 Global Economic Prospects ([January](https://thedocs.worldbank.org/en/doc/4aa0b654ecdbaf8302d5901aaada3fbf-0350012021/related/Global-Economic-Prospects-January-2020.pdf), [June](https://openknowledge.worldbank.org/bitstream/handle/10986/33748/9781464815539.pdf))
 - 2019 Global Economic Prospects ([January](https://thedocs.worldbank.org/en/doc/4aa0b654ecdbaf8302d5901aaada3fbf-0350012021/related/Global-Economic-Prospects-January-2019.pdf), [June](https://thedocs.worldbank.org/en/doc/4aa0b654ecdbaf8302d5901aaada3fbf-0350012021/related/Global-Economic-Prospects-June-2019.pdf))
 - 2018 Global Economic Prospects ([January](https://thedocs.worldbank.org/en/doc/4aa0b654ecdbaf8302d5901aaada3fbf-0350012021/related/Global-Economic-Prospects-January-2018.pdf), [June](https://thedocs.worldbank.org/en/doc/4aa0b654ecdbaf8302d5901aaada3fbf-0350012021/related/Global-Economic-Prospects-June-2018.pdf))
@@ -719,7 +734,7 @@
 
 > UNESCO ([source](https://en.unesco.org/gem-report/allreports))
 
-- 2021 Global Education Monitoring Report – Non-state actors
+- 2021 Global Education Monitoring Report – Non-state actors ([web](https://en.unesco.org/gem-report/non-state_actors))
 - 2020 Global Education Monitoring Report – Inclusion and education: All means all ([web](https://en.unesco.org/gem-report/report/2020/inclusion))
 - 2019 Global Education Monitoring Report – Migration, displacement and education: Building bridges, not walls ([web](https://en.unesco.org/gem-report/report/2019/migration))
 - 2017/18 Global Education Monitoring Report – Accountability in education: Meeting our commitments ([web](https://en.unesco.org/gem-report/report/2017/accountability-education))
@@ -768,7 +783,8 @@
 
 > International Monetary Fund ([source](https://www.imf.org/en/publications/gfsr))
 
-- 2021 Global Financial Stability Report  ([January](https://www.imf.org/en/Publications/GFSR/Issues/2021/01/27/global-financial-stability-report-january-2021-update), [April](https://www.imf.org/en/Publications/GFSR/Issues/2021/04/06/global-financial-stability-report-april-2021))
+- 2022 Global Financial Stability Report ([April](https://www.imf.org/en/Publications/GFSR/Issues/2022/04/19/global-financial-stability-report-april-2022)) 
+- 2021 Global Financial Stability Report ([January](https://www.imf.org/en/Publications/GFSR/Issues/2021/01/27/global-financial-stability-report-january-2021-update), [April](https://www.imf.org/en/Publications/GFSR/Issues/2021/04/06/global-financial-stability-report-april-2021), [October](https://www.imf.org/en/Publications/GFSR/Issues/2021/10/12/global-financial-stability-report-october-2021))
 - 2020 Global Financial Stability Report ([April](https://www.imf.org/en/Publications/GFSR/Issues/2020/04/14/global-financial-stability-report-april-2020), [June](https://www.imf.org/en/Publications/GFSR/Issues/2020/06/25/global-financial-stability-report-june-2020-update), [October](https://www.imf.org/en/Publications/GFSR/Issues/2020/10/13/global-financial-stability-report-october-2020))
 - 2019 Global Financial Stability Report ([April](https://www.imf.org/en/Publications/GFSR/Issues/2019/03/27/Global-Financial-Stability-Report-April-2019), [October](https://www.imf.org/en/Publications/GFSR/Issues/2019/10/01/global-financial-stability-report-october-2019))
 - 2018 Global Financial Stability Report ([April](https://www.imf.org/en/Publications/GFSR/Issues/2018/04/02/Global-Financial-Stability-Report-April-2018), [October](https://www.imf.org/en/Publications/GFSR/Issues/2018/09/25/Global-Financial-Stability-Report-October-2018))
@@ -795,6 +811,7 @@
 
 > International Food Policy Research Institute ([source](http://gfpr.ifpri.info/past-reports/))
 
+- 2021 Global Food Policy Report ([web](https://gfpr.ifpri.info/gfpr2021/))
 - 2020 Global Food Policy Report ([web](https://gfpr.ifpri.info/gfpr2020/))
 - 2019 Global Food Policy Report ([web](http://gfpr.ifpri.info/gfpr2019/))
 - 2018 Global Food Policy Report ([web](http://gfpr.ifpri.info/gfpr2018/))
@@ -811,6 +828,7 @@
 
 > Economist Intelligence Unit ([source](https://impact.economist.com/sustainability/project/food-security-index/Resources))
 
+- 2021 Global Food Security Index – The 10-year anniversary ([full](https://nonews.co/wp-content/uploads/2022/03/GFSI2021.pdf))
 - 2020 Global Food Security Index – Addressing structural inequalities to build strong and sustainable food systems ([full](https://impact.economist.com/sustainability/project/food-security-index/Home/DownloadResource?fileName=Global%20Report_GFSI%202020_Final%2021%20Jan%202021.pdf))
 - 2019 Global Food Security Index – Strengthening food systems and the environment through innovation and investment ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=Global%20Food%20Security%20Index%202019%20report.pdf))
 - 2018 Global Food Security Index – Building resilience in the face of rising food-security risks ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202018%20Findings%20%26%20Methodology.pdf))
@@ -830,6 +848,7 @@
 
 > World Economic Forum ([source](https://www.weforum.org/search?query=Global+Gender+Gap+Report))
 
+- 2022 Global Gender Gap Report ([web](https://www.weforum.org/reports/global-gender-gap-report-2022))
 - 2021 Global Gender Gap Report ([web](https://www.weforum.org/reports/global-gender-gap-report-2021))
 - 2020 Global Gender Gap Report ([web](http://reports.weforum.org/global-gender-gap-report-2020/))
 - 2019 n/a
@@ -849,10 +868,20 @@
 
 
 
+## Global Girlhood Report
+
+> Save the Children ([source](https://resourcecentre.savethechildren.net/))
+
+- 2020 Global Girlhood Report – Girls' rights in crisis ([web](https://resourcecentre.savethechildren.net/document/global-girlhood-report-2021-girls-rights-crisis/))
+- 2020 The Global Girlhood Report – How COVID-19 is putting progress in peril ([web](https://resourcecentre.savethechildren.net/library/global-girlhood-report-2020-how-covid-19-putting-progress-peril))
+
+
+
 ## Global Hunger Index
 
 > Concern Worldwide, Welthungerhilfe, International Food Policy Research Institute ([source](https://www.globalhungerindex.org/download/all.html))
 
+- 2021 Global Hunger Index – Hunger and food systems in conflict settings ([web](https://www.globalhungerindex.org/issues-in-focus/2021.html))
 - 2020 Global Hunger Index – One decade to zero hunger: Linking health and sustainable food systems ([web](https://www.globalhungerindex.org/issues-in-focus/2020.html))
 - 2019 Global Hunger Index – The challenge of hunger and climate change ([web](https://www.globalhungerindex.org/issues-in-focus/2019.html))
 - 2018 Global Hunger Index – Forced migration and hunger ([web](https://www.globalhungerindex.org/issues-in-focus/2018.html))
@@ -875,6 +904,7 @@
 
 > Cornell University, INSEAD, World Intellectual Property Organization ([source](https://www.globalinnovationindex.org/about-gii#reports))
 
+- 2021 Global Innovation Index – Tracking innovation through the COVID-19 crisis ([web](https://www.globalinnovationindex.org/gii-2021-report))
 - 2020 Global Innovation Index – Who will finance innovation? ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII_2020_Full_body_R_58.pdf), [summary](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII_2020_Executive_R_58.pdf))
 - 2019 Global Innovation Index – Creating healthy lives: The future of medical innovation ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/gii-full-report-2019.pdf), [summary](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII%202019-Executive-Web.4.pdf))
 - 2018 Global Innovation Index – Energizing the world with innovation ([full](https://www.globalinnovationindex.org/userfiles/file/reportpdf/gii_2018-report-new.pdf), [summary](https://www.globalinnovationindex.org/userfiles/file/reportpdf/GII-2018_Oct_Executive.pdf))
@@ -914,6 +944,7 @@
 
 > Oxford Poverty and Human Development Initiative, United Nations Development Programme ([source](https://ophi.org.uk/global-mpi-reports/))
 
+- 2021 Global Multidimensional Poverty Index – Unmasking disparities by ethnicity, caste and gender ([web](https://ophi.org.uk/global-mpi-report-2021/))
 - 2020 Global Multidimensional Poverty Index – Charting pathways out of multidimensional poverty: Achieving the SDGs ([web](https://hdr.undp.org/content/2020-global-multidimensional-poverty-index-mpi))
 - 2019 Global Multidimensional Poverty Index – Illuminating inequalities ([web](https://hdr.undp.org/content/2019-global-multidimensional-poverty-index-mpi))
 - 2018 Global Multidimensional Poverty Index – The most detailed picture to date of the world's poorest people ([web](https://ophi.org.uk/gmpi-2018/))
@@ -932,6 +963,7 @@
 
 > World Health Organization ([source](https://globalnutritionreport.org/reports/))
 
+- 2021 Global Nutrition Report – The state of global nutrition ([web](https://globalnutritionreport.org/reports/2021-global-nutrition-report/))
 - 2020 Global Nutrition Report – Action on equity to end malnutrition ([web](https://globalnutritionreport.org/reports/2020-global-nutrition-report/))
 - 2019 n/a
 - 2018 Global Nutrition Report – Shining a light to spur action on nutrition ([web](https://globalnutritionreport.org/reports/global-nutrition-report-2018/))
@@ -946,6 +978,8 @@
 
 > Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
+- 2022 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2022/06/GPI-2022-web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2022/06/GPI-2022-Briefing-web.pdf))
+- 2021 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2021/06/GPI-2021-web-1.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2021/06/GPI-2021-Briefing-web.pdf))
 - 2020 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI_2020_Briefing_Web.pdf))
 - 2019 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2019web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GPI-2019-Briefingweb-2.pdf))
 - 2018 Global Peace Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Peace-Index-2018-2.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Peace-Index-2018-Snapshot.pdf))
@@ -967,6 +1001,7 @@
 
 > Global Preparedness Monitoring Board ([source](https://www.gpmb.org/annual-reports))
 
+- 2021 Global Preparedness for Health Emergencies – To a world prepared ([web](https://www.gpmb.org/annual-reports/annual-report-2021))
 - 2020 Global Preparedness for Health Emergencies – A world in disorder ([web](https://www.gpmb.org/annual-reports/annual-report-2020))
 - 2019 Global Preparedness for Health Emergencies – A world at risk ([web](https://www.gpmb.org/annual-reports/annual-report-2019))
 
@@ -976,7 +1011,8 @@
 
 > Global Network Against Food Crisis, Food Security Information Network ([source](https://www.fsinplatform.org/resources-search?field_language=All&field_publication_type=21&field_publication_year=All&search_api_fulltext=%22Global+Report+on+Food+Crises%22))
 
-- 2021 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC%202021%20050521%20med_0.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/FINAL%20GRFC%202021%20KM%20ARTWORK%20ENGLISH%20060521.pdf))
+- 2022 Global Report on Food Crises ([web](http://www.fightfoodcrises.net/events/grfc-2022/en/))
+- 2021 Global Report on Food Crises ([web](https://www.wfp.org/publications/global-report-food-crises-2021))
 - 2020 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_ONLINE_200420_FINAL.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_KM_Eng_1_0.pdf), [web](https://www.fsinplatform.org/report/global-report-food-crises-2020/))
 - 2019 Global Report on Food Crises ([full](http://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2019-Full_Report.pdf), [summary](https://docs.wfp.org/api/documents/WFP-0000104037/download/?_ga=2.179163876.1938373231.1599842970-1612731650.1597244470), [web](https://www.fsinplatform.org/report/global-report-food-crisis-2019/))
 - 2018 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Full_report_EN_Low_resolution.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Key_messages_EN.pdf))
@@ -988,6 +1024,7 @@
 
 > Internal Displacement Monitoring Centre ([source](https://www.internal-displacement.org/publications?search_api_fulltext=%22Global+Report+on+Internal+Displacement%22))
 
+- 2022 Global Report on Internal Displacement ([web](https://www.internal-displacement.org/global-report/grid2022/))
 - 2021 Global Report on Internal Displacement ([web](https://www.internal-displacement.org/global-report/grid2021/index.html))
 - 2020 Global Report on Internal Displacement ([web](https://www.internal-displacement.org/global-report/grid2020/))
 - 2019 Global Report on Internal Displacement ([web](https://www.internal-displacement.org/global-report/grid2019/))
@@ -1014,6 +1051,8 @@
 
 > A.T. Kearney ([source](https://www.kearney.com/global-retail-development-index))
 
+- 2021 Global Retail Development Index – Leapfrogging into the future of retail ([web](https://www.kearney.com/global-retail-development-index/2021))
+- 2020 n/a
 - 2019 Global Retail Development Index – A mix of new consumers and old traditions ([web](https://www.kearney.com/global-retail-development-index/2019))
 - 2018 n/a
 - 2017 Global Retail Development Index – The age of focus ([web](https://www.kearney.com/global-retail-development-index/article/?/a/the-age-of-focus-2017-full-study))
@@ -1035,7 +1074,7 @@
 
 ## Global Slavery Index
 
-> Walk Free Foundation ([source](https://www.globalslaveryindex.org/resources/downloads/))
+> Walk Free Foundation ([source](https://www.globalslaveryindex.org/))
 
 - 2018 Global Slavery Index ([full](https://downloads.globalslaveryindex.org/ephemeral/GSI-2018_FNL_190828_CO_DIGITAL_P-1657358106.pdf), [web](https://www.globalslaveryindex.org/2018/findings/highlights/))
 - 2016 Global Slavery Index ([full](https://downloads.globalslaveryindex.org/ephemeral/GSI-2016-Full-Report-1657358160.pdf))
@@ -1056,9 +1095,10 @@
 
 > Startup Genome ([source](https://startupgenome.com/all-reports))
 
-- 2020 Global Startup Ecosystem Report – The new normal for the global startup economy and the impact of COVID-19 ([full](https://startupgenome.com/reports/gser2020), [web](https://startupgenome.com/report/gser2020))
+- 2022 Global Startup Ecosystem Report ([web](https://startupgenome.com/report/gser2022))
+- 2021 Global Startup Ecosystem Report ([web](https://startupgenome.com/report/gser2021))
+- 2020 Global Startup Ecosystem Report – The new normal for the global startup economy and the impact of COVID-19 ([web](https://startupgenome.com/report/gser2020))
 - 2019 Global Startup Ecosystem Report – With new Life Sciences Ecosystem Ranking ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2019))
-  - Global Startup Economy Spotlight – Top ecosystem rankings for female founders, agtech, and cleantech ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-series-2019))
 - 2018 Global Startup Ecosystem Report – Succeeding in the new era of technology ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-gser-2018))
 - 2017 Global Startup Ecosystem Report ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2017))
 - 2015 Global Startup Ecosystem Ranking ([full](https://startupgenome.com/reports/global-startup-ecosystem-report-2015))
@@ -1113,6 +1153,8 @@
 
 > Institute for Economics and Peace ([source](https://www.visionofhumanity.org/resources/))
 
+- 2022 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2022/03/GTI-2022-web-09062022.pdf))
+- 2021 n/a
 - 2020 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-web-1.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2020-Briefing.pdf))
 - 2019 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/11/GTI-2019-web.pdf), [summary](https://www.visionofhumanity.org/wp-content/uploads/2020/10/GTI-2019-briefingweb.pdf))
 - 2018 Global Terrorism Index ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Global-Terrorism-Index-2018.pdf))
@@ -1129,9 +1171,10 @@
 
 > Ipsos ([source](https://www.ipsosglobaltrends.com/))
 
-- 2020 Global Trends – Understanding complexity ([full](https://www.ipsos.com/sites/default/files/ct/publication/documents/2020-02/ipsos-global-trends-2020-understanding-complexity.pdf), [web](https://www.ipsos.com/en-uk/ipsos-global-trends-2020-understanding-complexity))
-- 2017 Global Trends – Fragmentation, cohesion & uncertainty ([full](http://assets.ipsos-mori.com/gts/ipsos-gts-report.pdf), [web](https://www.ipsos.com/en-uk/ipsos-mori-global-trends-2017-biggest-survey-its-kind))
-- 2014 Global Trends – Navigating the new ([full](https://www.ipsos.com/sites/default/files/publication/1970-01/ipsos-mori-global-trends-2014.pdf), [web](https://www.ipsos.com/en-uk/ipsos-global-trends-2014-navigating-new))
+- 2021 Global Trends – Aftershocks and continuity ([web](https://www.ipsos.com/en/global-trends-2021-aftershocks-and-continuity))
+- 2020 Global Trends – Understanding complexity ([web](https://www.ipsos.com/en-uk/ipsos-global-trends-2020-understanding-complexity))
+- 2017 Global Trends – Fragmentation, cohesion & uncertainty ([web](https://www.ipsos.com/en-uk/ipsos-mori-global-trends-2017-biggest-survey-its-kind))
+- 2014 Global Trends – Navigating the new ([web](https://www.ipsos.com/en-uk/ipsos-global-trends-2014-navigating-new))
 
 
 
@@ -1154,6 +1197,7 @@
 
 > Credit Suisse Research Institute ([source](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html))
 
+- 2021 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2021-en.pdf))
 - 2020 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2020-en.pdf))
 - 2019 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf))
 - 2018 Global Wealth Report ([full](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2018-en.pdf))
@@ -1172,6 +1216,7 @@
 
 > Bill & Melinda Gates Foundation ([source](https://www.gatesfoundation.org/goalkeepers/))
 
+- 2021 Goalkeepers Report – Innovation & inequality ([web](https://www.gatesfoundation.org/goalkeepers/report/2021-report/))
 - 2020 Goalkeepers Report – COVID-19: A global perspective ([web](https://www.gatesfoundation.org/goalkeepers/report/2020-report/))
 - 2019 Goalkeepers Report – Examining inequality: How geography and gender stack the deck for (or against) you ([web](https://www.gatesfoundation.org/goalkeepers/report/2019-report/#DigitalInclusion))
 - 2018 Goalkeepers Report – The stories behind the data ([web](https://www.gatesfoundation.org/goalkeepers/report/2018-report/))
@@ -1195,14 +1240,14 @@
 
 > World Bank Group ([source 1](https://www.worldbank.org/en/publication/human-capital), [source 2](https://www.weforum.org/search?utf8=%E2%9C%93&query=Human+Capital+Report&cx=005374784487575532108%3Azwr8u4lxoba&cof=FORID%3A11&op.x=0&op.y=0))
 
-- 2020 Human Capital Index – Human capital in the time of COVID-19 ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/34432/152967.pdf?sequence=1&isAllowed=y), [web](https://www.worldbank.org/en/publication/human-capital))
+- 2020 Human Capital Index – Human capital in the time of COVID-19 ([web](https://www.worldbank.org/en/publication/human-capital))
 - 2018 Human Capital Project ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/30498/33252.pdf?sequence=5&isAllowed=y))
 
-- 2017 Human Capital Report – Preparing people for the future of work ([full](http://www3.weforum.org/docs/WEF_Global_Human_Capital_Report_2017.pdf), [web](http://reports.weforum.org/global-human-capital-report-2017/?doing_wp_cron=1600358662.9296650886535644531250))
-- 2016 Human Capital Report ([full](http://www3.weforum.org/docs/HCR2016_Main_Report.pdf), [web](http://reports.weforum.org/human-capital-report-2016/))
-- 2015 Human Capital Report ([full](http://www3.weforum.org/docs/WEF_Human_Capital_Report_2015.pdf), [web](http://reports.weforum.org/human-capital-report-2015/))
+- 2017 Human Capital Report – Preparing people for the future of work ([web](http://reports.weforum.org/global-human-capital-report-2017/?doing_wp_cron=1600358662.9296650886535644531250))
+- 2016 Human Capital Report ([web](http://reports.weforum.org/human-capital-report-2016/))
+- 2015 Human Capital Report ([web](http://reports.weforum.org/human-capital-report-2015/))
 - 2014 n/a
-- 2013 Human Capital Report ([full](http://www3.weforum.org/docs/WEF_HumanCapitalReport_2013.pdf), [web](https://www.weforum.org/reports/human-capital-report-2013))
+- 2013 Human Capital Report ([web](https://www.weforum.org/reports/human-capital-report-2013))
 
 
 
@@ -1247,6 +1292,7 @@
 
 > United Nations Industrial Development Organization ([source](https://www.unido.org/resources-publications-flagship-publications/industrial-development-report-series))
 
+- 2022 Industrial Development Report – The future of industrialization in a post-pandemic world ([web](https://www.unido.org/idr2022))
 - 2020 Industrial Development Report – Industrializing in the digital age ([web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/idr2020))
 - 2018 Industrial Development Report – Demand for manufacturing: Driving inclusive and sustainable industrial development ([web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/industrial-development-report-2018))
 - 2016 Industrial Development Report – The role of technology and innovation in inclusive and sustainable industrial development ([web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2016))
@@ -1263,6 +1309,7 @@
 
 > World Bank Group ([source](https://data.worldbank.org/products/ids))
 
+- 2022 International Debt Statistics ([web](https://openknowledge.worldbank.org/handle/10986/36289))
 - 2021 International Debt Statistics ([web](https://openknowledge.worldbank.org/handle/10986/34588))
 - 2020 International Debt Statistics ([web](https://openknowledge.worldbank.org/handle/10986/32382))
 - 2019 International Debt Statistics ([web](https://openknowledge.worldbank.org/handle/10986/30851))
@@ -1287,6 +1334,7 @@
 
 > Global Innovation Policy Center ([source](https://www.theglobalipcenter.com/ipindex2020/))
 
+- 2021 International IP Index – Recovery through ingenuity ([web](https://www.theglobalipcenter.com/report/ipindex2021/))
 - 2020 International IP Index – Art of the possible ([web](https://www.theglobalipcenter.com/ipindex2020/))
 - 2019 International IP Index – Inspiring tomorrow ([web](https://www.theglobalipcenter.com/ipindex2019/))
 - 2018 International IP Index – Create ([web](https://www.theglobalipcenter.com/ipindex2018/))
@@ -1302,6 +1350,7 @@
 
 > UN Inter-agency Group for Child Mortality Estimation ([source](https://childmortality.org/reports))
 
+- 2021 Levels and Trends in Child Mortality Report ([full](https://childmortality.org/wp-content/uploads/2021/12/UNICEF-2021-Child-Mortality-Report.pdf))
 - 2020 Levels and Trends in Child Mortality Report ([full](https://www.unicef.org/media/79371/file/UN-IGME-child-mortality-report-2020.pdf.pdf))
 - 2019 Levels and Trends in Child Mortality Report ([full](http://documents1.worldbank.org/curated/en/105841568905930695/pdf/Levels-and-Trends-in-Child-Mortality-Report-2019.pdf))
 - 2018 Levels and Trends in Child Mortality Report ([full](https://data.unicef.org/wp-content/uploads/2018/09/UN-IGME-Child-Mortality-Report-2018.pdf))
@@ -1380,6 +1429,7 @@
 
 > International Atomic Energy Agency ([source](https://www.iaea.org/publications/reports))
 
+- 2021 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/gc/gc65-inf2.pdf))
 - 2020 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/gc/gc64-inf2.pdf))
 - 2019 Nuclear Technology Review ([full](https://www.iaea.org/sites/default/files/gc/gc63-inf2.pdf))
 - 2018 Nuclear Technology Review ([full](https://inis.iaea.org/collection/NCLCollectionStore/_Public/49/068/49068130.pdf?r=1))
@@ -1420,6 +1470,8 @@
 
 > World Bank Group & PwC ([source](https://www.pwc.com/payingtaxes))
 
+*discontinued*
+
 - 2020 Paying Taxes ([full](https://www.doingbusiness.org/content/dam/doingBusiness/pdf/db2020/PayingTaxes2020.pdf))
 - 2019 Paying Taxes – How is technology affecting tax administration and policy? ([full](https://www.doingbusiness.org/content/dam/doingBusiness/media/Special-Reports/PwC---Paying-Taxes-2019---Smaller-19112018.pdf))
 - 2018 Paying Taxes ([full](https://www.pwc.com/gx/en/paying-taxes/pdf/pwc_paying_taxes_2018_full_report.pdf))
@@ -1451,10 +1503,24 @@
 
 
 
+## Positive Peace Report
+
+> Institute for Economics & Peace ([source](https://www.visionofhumanity.org/resources/))
+
+- 2022 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2022/01/PPR-2022-web.pdf))
+- 2021 n/a
+- 2020 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2021/04/PPR-2020web.pdf))
+- 2019 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/PPR-2019-web.pdf))
+- 2018 Positive Peace Report (full)
+- 2017 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Positive-Peace-Report-2017.pdf))
+
+
+
 ## Postal Development Report
 
 > Universal Postal Union ([source](https://www.upu.int/en/Universal-Postal-Union/Activities/Research-Publications/All-publications))
 
+- 2021 Postal Development Report – Taking stock of a new reality ([web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2021))
 - 2020 Postal Development Report – Achieving higher performance amid a major crisis ([web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2020))
 - 2019 Postal Development Report – Perspectives on the performance of postal operators worldwide ([web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2019))
 - 2018 Postal Development Report – Benchmarking a critical infrastructure for sustainable development ([web](https://www.upu.int/en/Publications/2IPD/Postal-Development-Report-2018))
@@ -1478,31 +1544,32 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/Review-of-Maritime-Transport-(Series).aspx))
 
-- 2020 Review of Maritime Transport ([full](https://unctad.org/system/files/official-document/rmt2020_en.pdf), [summary](https://unctad.org/system/files/official-document/rmt2020fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2020))
-- 2019 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2019_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2019fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2019))
-- 2018 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2018_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2018fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2018))
-  - 50 years of Review of Maritime Transport – Reflecting on the past, exploring the future ([full](https://unctad.org/en/PublicationsLibrary/dtl2018d1_en.pdf), [web](https://unctad.org/webflyer/50-years-review-maritime-transport-1968-2018-reflecting-past-exploring-future))
-- 2017 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2017_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2017fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2017))
-- 2016 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2016_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2016fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2016))
-- 2015 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2015_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2015Esummary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2015))
-- 2014 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2014_en.pdf), [summary](https://unctad.org/en/PublicationChapters/rmt2014fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2014))
-- 2013 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2013_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2013))
-- 2012 Review of Maritime Transport ([full](https://unctad.org/en/PublicationsLibrary/rmt2012_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2012))
-- 2011 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2011_en.pdf), [summary](https://unctad.org/en/Docs/rmt2011fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2011))
-- 2010 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2010_en.pdf), [summary](https://unctad.org/en/Docs/rmt2010fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2010-0))
-- 2009 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2009_en.pdf), [summary](https://unctad.org/en/Docs/rmt2009fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2009-0))
-- 2008 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2008_en.pdf), [summary](https://unctad.org/en/Docs/rmt2008fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2008-0))
-- 2007 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2007_en.pdf), [summary](https://unctad.org/en/Docs/rmt2007fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2007))
-- 2006 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2006_en.pdf), [summary](https://unctad.org/en/Docs/rmt2006fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2006))
-- 2005 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2005_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2005))
-- 2004 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2004_en.pdf), [summary](https://unctad.org/en/Docs/rmt2004fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2004))
-- 2003 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2003_en.pdf), [summary](https://unctad.org/en/Docs/rmt2003summary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2003))
-- 2002 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2002_en.pdf), [summary](https://unctad.org/en/Docs/rmt2002summary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2002))
-- 2001 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2001_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2001))
-- 2000 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt2000_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2000))
-- 1999 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt1999_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-1999))
-- 1998 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt1998_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-1998))
-- 1997 Review of Maritime Transport ([full](https://unctad.org/en/Docs/rmt1997_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-1997))
+- 2021 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2021))
+- 2020 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2020))
+- 2019 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2019))
+- 2018 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2018))
+  - 50 years of Review of Maritime Transport – Reflecting on the past, exploring the future ([web](https://unctad.org/webflyer/50-years-review-maritime-transport-1968-2018-reflecting-past-exploring-future))
+- 2017 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2017))
+- 2016 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2016))
+- 2015 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2015))
+- 2014 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2014))
+- 2013 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2013))
+- 2012 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2012))
+- 2011 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2011fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2011))
+- 2010 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2010fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2010-0))
+- 2009 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2009fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2009-0))
+- 2008 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2008fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2008-0))
+- 2007 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2007fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2007))
+- 2006 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2006fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2006))
+- 2005 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2005))
+- 2004 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2004fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2004))
+- 2003 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2003summary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2003))
+- 2002 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2002summary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2002))
+- 2001 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2001))
+- 2000 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2000))
+- 1999 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1999))
+- 1998 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1998))
+- 1997 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1997))
 - 1996 n/a
 - 1995 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1995))
 - 1994 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1994))
@@ -1547,8 +1614,9 @@
 
 ## Social Progress Index
 
-> Social Progress Imperative ([source](https://www.socialprogress.org/resources?filter=2020))
+> Social Progress Imperative ([source](https://www.socialprogress.org/))
 
+- 2021 Social Progress Index ([summary](https://www.socialprogress.org/static/9e62d6c031f30344f34683259839760d/2021%20Social%20Progress%20Index%20Executive%20Summary-compressed.pdf))
 - 2020 Social Progress Index ([summary](https://www.socialprogress.org/static/37348b3ecb088518a945fa4c83d9b9f4/2020-social-progress-index-executive-summary.pdf))
 - 2019 Social Progress Index ([summary](https://www.socialprogress.org/static/9d3cd3204599ff2cdf87248edc2b1242/2019-social-progress-index-executive-summary-v2.0.pdf))
 - 2018 Social Progress Index ([summary](https://www.socialprogress.org/static/5c19047de09c3db175c3ffed4ff82b86/2018-social-progress-index-exec-summary.pdf))
@@ -1563,6 +1631,7 @@
 
 > World Bank Group ([source](https://openknowledge.worldbank.org/handle/10986/13334))
 
+- 2022 State and Trends of Carbon Pricing ([web](https://openknowledge.worldbank.org/handle/10986/37455))
 - 2021 State and Trends of Carbon Pricing ([web](https://openknowledge.worldbank.org/handle/10986/35620))
 - 2020 State and Trends of Carbon Pricing ([web](https://openknowledge.worldbank.org/handle/10986/33809))
 - 2019 State and Trends of Carbon Pricing ([web](https://openknowledge.worldbank.org/handle/10986/31755))
@@ -1589,7 +1658,7 @@
 
 > Health Effects Institute, Institute for Health Metrics and Evaluation's Global Burden of Disease Project ([source](https://www.stateofglobalair.org/report))
 
-- 2019 State of Global Air – A special report on global exposure to air pollution and its health impacts ([full](https://www.stateofglobalair.org/sites/default/files/documents/2020-10/soga-2020-report-10-26_0.pdf))
+- 2020 State of Global Air – A special report on global exposure to air pollution and its health impacts ([full](https://www.stateofglobalair.org/sites/default/files/documents/2020-10/soga-2020-report-10-26_0.pdf))
 - 2019 State of Global Air – A special report on global exposure to air pollution and its disease burden ([full](https://www.stateofglobalair.org/sites/default/files/soga_2019_report.pdf))
 - 2018 State of Global Air – A special report on global exposure to air pollution and its disease burden ([full](https://www.stateofglobalair.org/sites/default/files/soga-2018-report.pdf))
 - 2017 State of Global Air – A special report on global exposure to air pollution and its disease burden ([full](https://www.stateofglobalair.org/sites/default/files/soga_2017_report.pdf))
@@ -1600,6 +1669,7 @@
 
 > International Civil Aviation Organization ([source](https://www.icao.int/safety/Pages/Safety-Report.aspx))
 
+- 2021 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO%20Safety%20Report%202021%20Edition.pdf))
 - 2020 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SR_2020_final_web.pdf))
 - 2019 State of Global Aviation Safety ([full](https://www.icao.int/safety/Documents/ICAO_SR_2019_final_web.pdf))
 - 2018 Safety Report ([full](https://www.icao.int/safety/Documents/ICAO_SR_2018_30082018.pdf))
@@ -1643,6 +1713,7 @@
 
 > United Nations Population Fund ([source](https://www.unfpa.org/publications))
 
+- 2022 State of World Population – Seeing the unseen: The case for action in the neglected crisis of unintended pregnancy ([web](https://www.unfpa.org/swp2022))
 - 2021 State of World Population – My body is my own: Claiming the right to autonomy and self-determination ([web](https://www.unfpa.org/sowp-2021))
 - 2020 State of World Population – Against my will: Defying the practices that harm women and girls and undermine equality ([web](https://www.unfpa.org/swop-2020))
 - 2019 State of World Population – Unfinished business: The pursuit of rights and choices for all ([web](https://www.unfpa.org/swop-2019))
@@ -1727,14 +1798,6 @@
 
 
 
-## The Global Girlhood Report
-
-> Save the Children ([source](https://resourcecentre.savethechildren.net/))
-
-- 2020 The Global Girlhood Report – How COVID-19 is putting progress in peril ([web](https://resourcecentre.savethechildren.net/library/global-girlhood-report-2020-how-covid-19-putting-progress-peril))
-
-
-
 ## The Global Enabling Trade Report
 
 > World Economic Forum ([source](https://www.weforum.org/reports?utf8=%E2%9C%93&query=Global+Enabling+Trade+Report))
@@ -1754,6 +1817,7 @@
 
 > World Economic Forum ([source](https://www.weforum.org/global-risks/archive))
 
+- 2022 The Global Risks Report ([web](https://www.weforum.org/reports/global-risks-report-2022))
 - 2021 The Global Risks Report ([web](https://www.weforum.org/reports/the-global-risks-report-2021))
 - 2020 The Global Risks Report ([web](https://www.weforum.org/reports/the-global-risks-report-2020))
   - COVID-19 Risks Outlook – A preliminary mapping and its implications ([web](https://www.weforum.org/reports/covid-19-risks-outlook-a-preliminary-mapping-and-its-implications))
@@ -1779,6 +1843,7 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/publications-search?f[0]=product%3A392))
 
+- 2021 The Least Developed Countries Report – The least developed countries in the post-COVID world: Learning from 50 years of experience ([web](https://unctad.org/webflyer/least-developed-countries-report-2021))
 - 2020 The Least Developed Countries Report – Productive capacities for the new decade ([web](https://unctad.org/webflyer/least-developed-countries-report-2020))
 - 2019 The Least Developed Countries Report – The present and future of external development finance: Old dependence, new challenges ([web](https://unctad.org/webflyer/least-developed-countries-report-2019))
 - 2018 The Least Developed Countries Report – Entrepreneurship for structural transformation: Beyond business as usual ([web](https://unctad.org/webflyer/least-developed-countries-report-2018))
@@ -1812,6 +1877,7 @@
 
 > Portulans Institute, World Economic Forum ([source 1](https://www.weforum.org/reports?utf8=%E2%9C%93&query=global+information+technology+report), [source 2](https://networkreadinessindex.org/))
 
+- 2021 The Network Readiness Index – Shaping the global recovery: How digital technologies can make the post-covid world more equal ([web](https://networkreadinessindex.org/))
 - 2020 The Network Readiness Index – Accelerating digital transformation in a post-COVID global economy ([full](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf), [web](https://networkreadinessindex.org/nri-2020-analysis/))
 - 2019 The Network Readiness Index – Towards a future-ready society ([full](https://networkreadinessindex.org/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf), [summary](https://networkreadinessindex.org/wp-content/uploads/2019/12/2019-NRI-Executive-Summary-1.pdf), [web](https://networkreadinessindex.org/nri-2019-analysis/))
 - 2016 The Global Information Technology Report – Innovating in the digital economy ([web](https://reports.weforum.org/global-information-technology-report-2016/))
@@ -1836,7 +1902,7 @@
 
 > Space Foundation ([source](https://www.thespacereport.org/pricing/))
 
-- 2021 The Space Report
+- 2021 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2021-4-quarterly-reports-pdf-download/)) **$**
 - 2020 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2020-4-quarterly-reports-pdf-download/)) **$**
 - 2019 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2019-4-quarterly-reports-pdf-download/)) **$**
 - 2018 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2018/)) **$**
@@ -1847,6 +1913,7 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/soco/en/))
 
+- 2022 The State of Agricultural Commodity Markets – The geography of food and agricultural trade: Policy approaches for sustainable development ([web](https://www.fao.org/3/cc0471en/online/cc0471en.html))
 - 2020 The State of Agricultural Commodity Markets – Agricultural markets and sustainable development: Global value chains, smallholder farmers and digital innovations ([web](http://www.fao.org/3/cb0665en/online/cb0665en.html))
 - 2018 The State of Agricultural Commodity Markets – Agricultural trade, climate change and food security ([web](http://www.fao.org/documents/card/en/c/I9542EN))
 - 2015/16 The State of Agricultural Commodity Markets – Trade and food security: Achieving a better balance between national priorities and the collective good ([web](http://www.fao.org/publications/soco/the-state-of-agricultural-commodity-markets-2015-16/en/))
@@ -1871,6 +1938,7 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofa/en/))
 
+- 2021 The State of Food and Agriculture – Making agrifood systems more resilient to shocks and stresses ([web](https://www.fao.org/documents/card/en/c/cb4476en/))
 - 2020 The State of Food and Agriculture – Overcoming water challenges in agriculture ([web](https://www.fao.org/documents/card/en/c/cb1447en))
 - 2019 The State of Food and Agriculture – Moving forward on food loss and waste reduction ([web](https://www.fao.org/publications/card/en/c/CA6030EN))
 - 2018 The State of Food and Agriculture – Migration, agriculture and rural development ([web](http://www.fao.org/state-of-food-agriculture/2018/en/))
@@ -1949,7 +2017,9 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofi/en/))
 
-- 2020 The State of Food Security and Nutrition – Transforming food systems for affordable healthy diets ([web](http://www.fao.org/3/ca9692en/online/ca9692en.html))
+- 2022 The State of Food Security and Nutrition – Repurposing food and agricultural policies to make healthy diets more affordable ([web](https://www.fao.org/documents/card/en/c/cc0639en/))
+- 2021 The State of Food Security and Nutrition – Transforming food systems for food security, improved nutrition and affordable healthy diets for all ([web](https://www.fao.org/documents/card/en/c/cb4474en/))
+- 2020 The State of Food Security and Nutrition – Transforming food systems for affordable healthy diets ([web](https://www.fao.org/documents/card/en/c/ca9692en/))
 - 2019 The State of Food Security and Nutrition – Safeguarding against economic slowdowns and downturns ([web](https://www.fao.org/publications/card/en/c/CA5162EN/))
 - 2018 The State of Food Security and Nutrition – Building climate resilience for food security and nutrition ([web](http://www.fao.org/state-of-food-security-nutrition/2018/en))
 - 2017 The State of Food Security and Nutrition – Building resilience for peace and food security ([web](http://www.fao.org/state-of-food-security-nutrition/2017/en))
@@ -1978,6 +2048,7 @@
 
 > Amnesty International ([source](https://www.amnesty.org/en/search/?q=&documentType=Annual+Report))
 
+- 2021/22 Amnesty International Report – The State of the World's Human Rights ([web](https://www.amnesty.org/en/documents/pol10/4870/2022/en/))
 - 2020/21 Amnesty International Report – The State of the World's Human Rights ([web](https://www.amnesty.org/en/documents/pol10/3202/2021/en/))
 - 2019/20 n/a 
 - 2017/18 Amnesty International Report – The State of the World's Human Rights ([web](https://www.amnesty.org/en/documents/POL10/6700/2018/En/))
@@ -2043,6 +2114,8 @@
 
 > United Nations Children’s Emergency Fund (UNICEF) ([source](https://www.unicef.org/reports/state-of-worlds-children))
 
+- 2021 The State of the World’s Children – On my mind: Promoting, protecting and caring for children's mental health ([web](https://www.unicef.org/reports/state-worlds-children-2021))
+- 2020 n/a
 - 2019 The State of the World’s Children – Children, food and nutrition: Growing well in a changing world ([web](https://www.unicef.org/reports/state-of-worlds-children-2019))
 - 2018 n/a
 - 2017 The State of the World’s Children – Children in a digital world ([web](https://www.unicef.org/reports/state-worlds-children-2017))
@@ -2089,6 +2162,7 @@
 
 > Food and Agriculture Organization of the United Nations, United Nations Environment Programme ([source](http://www.fao.org/publications/sofo/en/))
 
+- 2022 The State of the World’s Forests – Forest pathways for green recovery and building inclusive, resilient and sustainable economies ([web](https://www.fao.org/documents/card/en/c/cb9360en/))
 - 2020 The State of the World’s Forests – Forests, biodiversity and people ([web](http://www.fao.org/documents/card/en/c/ca8642en))
 - 2018 The State of the World’s Forests – Forest pathways to sustainable development ([web](http://www.fao.org/documents/card/en/c/I9535EN/))
 - 2016 The State of the World’s Forests – Forests and agriculture: Land-use challenges and opportunities ([web](http://www.fao.org/documents/card/en/c/ffed061b-82e0-4c74-af43-1a999a443fbf/))
@@ -2110,6 +2184,7 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofia/en/))
 
+- 2022 The State of World Fisheries and Aquaculture – Towards blue transformation ([web](https://www.fao.org/publications/sofia/2022/en/))
 - 2020 The State of World Fisheries and Aquaculture – Sustainability in action ([web](https://www.fao.org/publications/sofia/2020/en/))
 - 2018 The State of World Fisheries and Aquaculture – Meeting the Sustainable Development Goals ([web](http://www.fao.org/publications/sofia/2018/en/))
 - 2016 The State of World Fisheries and Aquaculture – Contributing to food security and nutrition for all ([web](http://www.fao.org/publications/sofia/2016/en/))
@@ -2131,6 +2206,8 @@
 
 > United Nations Department of Economic and Social Affairs ([source](https://unstats.un.org/sdgs))
 
+- 2022 The Sustainable Development Goals Report ([web](https://unstats.un.org/sdgs/report/2022))
+- 2021 The Sustainable Development Goals Report ([web](https://unstats.un.org/sdgs/report/2021))
 - 2020 The Sustainable Development Goals Report ([web](https://unstats.un.org/sdgs/report/2020/))
 - 2019 The Sustainable Development Goals Report ([web](https://unstats.un.org/sdgs/report/2019/))
 - 2018 The Sustainable Development Goals Report ([web](https://unstats.un.org/sdgs/report/2018/))
@@ -2186,6 +2263,7 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/TradeandDevelopmentReport.aspx))
 
+- 2021 Trade and Development Report – From recovery to resilience: The development dimension ([web](https://unctad.org/webflyer/trade-and-development-report-2021))
 - 2020 Trade and Development Report – From global pandemic to prosperity for all: Avoiding another lost decade ([web](https://unctad.org/webflyer/trade-and-development-report-2020))
 - 2019 Trade and Development Report – Financing a global green new deal ([web](https://unctad.org/webflyer/trade-and-development-report-2019))
 - 2018 Trade and Development Report – Power, platforms and the free trade delusion ([web](https://unctad.org/webflyer/trade-and-development-report-2018))
@@ -2234,6 +2312,7 @@
 
 > Stockholm International Peace Research Institute ([source](https://www.sipri.org/publications/search?keys=Trends+in+International+Arms+Transfers&author_editor=&field_associated_research_area_target_id=All&field_publication_type_target_id=All))
 
+- 2021 Trends in International Arms Transfers ([web](https://www.sipri.org/publications/2022/sipri-fact-sheets/trends-international-arms-transfers-2021))
 - 2020 Trends in International Arms Transfers ([web](https://www.sipri.org/publications/2021/sipri-fact-sheets/trends-international-arms-transfers-2020))
 - 2019 Trends in International Arms Transfers ([web](https://www.sipri.org/publications/2020/sipri-fact-sheets/trends-international-arms-transfers-2019))
 - 2018 Trends in International Arms Transfers ([web](https://www.sipri.org/publications/2019/sipri-fact-sheets/trends-international-arms-transfers-2018))
@@ -2254,6 +2333,7 @@
 
 > Stockholm International Peace Research Institute ([source 1](https://www.sipri.org/publications/search?keys=Trends+in+World+Military+Expenditure&author_editor=&field_associated_research_area_target_id=All&field_publication_type_target_id=All), [source 2](https://www.sipri.org/databases/milex))
 
+- 2021 Trends in World Military Expenditure ([web](https://www.sipri.org/publications/2022/sipri-fact-sheets/trends-world-military-expenditure-2021))
 - 2020 Trends in World Military Expenditure ([web](https://www.sipri.org/publications/2021/sipri-fact-sheets/trends-world-military-expenditure-2020))
 - 2019 Trends in World Military Expenditure ([web](https://www.sipri.org/publications/2020/sipri-fact-sheets/trends-world-military-expenditure-2019))
 - 2018 Trends in World Military Expenditure ([web](https://www.sipri.org/publications/2019/sipri-fact-sheets/trends-world-military-expenditure-2018))
@@ -2270,7 +2350,7 @@
 
 > UNESCO ([source](https://en.unesco.org/unesco_science_report/collection))
 
-- 2021 UNESCO Science Report
+- 2021 UNESCO Science Report – The race against time for smarter development ([web](https://www.unesco.org/reports/science/2021/en))
 - 2015 UNESCO Science Report – Towards 2030 ([web](https://en.unesco.org/unescosciencereport))
 - 2010 UNESCO Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000189958/PDF/189958eng.pdf.multi), [summary](https://unesdoc.unesco.org/ark:/48223/pf0000189883/PDF/189883eng.pdf.multi))
 - 2005 UNESCO Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000143007/PDF/143007eng.pdf.multi.page=1&zoom=auto,-18,896))
@@ -2284,6 +2364,8 @@
 
 > United Nations Refugee Agency (UNHCR) ([source](https://reporting.unhcr.org/publications#tab-global_report))
 
+- 2021 UNHCR Global Report – The stories behind the numbers ([web](https://reporting.unhcr.org/globalreport2021/))
+- 2020 UNHCR Global Report ([full](https://reporting.unhcr.org/globalreport2020))
 - 2019 UNHCR Global Report – A decade of crisis, a decade of opportunity ([summary](https://reporting.unhcr.org/sites/default/files/gr2019/pdf/01_Intro.pdf), [web](https://www.unhcr.org/globalreport2019/))
 - 2018 UNHCR Global Report – A moment of transition ([full](https://reporting.unhcr.org/sites/default/files/gr2018/pdf/GR2018_English_Full_lowres.pdf))
 - 2017 UNHCR Global Report – A world in turmoil ([full](https://reporting.unhcr.org/sites/default/files/gr2017/pdf/GR2017_English_Full_lowres.pdf))
@@ -2313,6 +2395,8 @@
 
 > United Nations Refugee Agency (UNHCR) ([source](https://www.unhcr.org/search?comid=56b079c44&&cid=49aea93aba&tags=globaltrends))
 
+- 2021 UNHCR Global Trends ([full](https://www.unhcr.org/62a9d1494.pdf))
+- 2020 UNHCR Global Trends ([full](https://www.unhcr.org/60b638e37.pdf))
 - 2019 UNHCR Global Trends ([full](https://www.unhcr.org/5ee200e37.pdf), [web](https://www.unhcr.org/globaltrends2019/))
 - 2018 UNHCR Global Trends ([full](https://www.unhcr.org/5d08d7ee7.pdf))
 - 2017 UNHCR Global Trends ([full](https://www.unhcr.org/5b27be547.pdf))
@@ -2373,34 +2457,33 @@
 
 > World Meteorological Organisation (WMO) ([source](https://library.wmo.int/index.php?lvl=notice_display&id=97#.X2NOI2gzZ_G))
 
-- 2020 WMO Statement on the state of the Global Climate in 2019 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=21700#.X2NilmgzZ_E))
-- 2019 WMO Statement on the state of the Global Climate in 2018 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=20799#.X2Ni0WgzZ_E))
-  - WMO Provisional Statement on the State of the Global Climate in 2019 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=21626#.X2Niv2gzZ_E))
-- 2018 WMO Statement on the state of the Global Climate in 2017 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=20220#.X2NiXGgzZ_E))
-- 2017 WMO Statement on the state of the Global Climate in 2016 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=19835#.X2NiTGgzZ_E))
-- 2016 WMO Statement on the state of the Global Climate in 2015 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=19125#.X2NiPWgzZ_E))
-- 2015 WMO Statement on the state of the Global Climate in 2014 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=16898#.X2NiMGgzZ_E))
-- 2014 WMO Statement on the state of the Global Climate in 2013 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=15957#.X2NiImgzZ_E))
-- 2013 WMO Statement on the state of the Global Climate in 2012 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=14750#.X2NiFGgzZ_E))
-- 2012 WMO Statement on the state of the Global Climate in 2011 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=9754#.X2NiAGgzZ_E))
-- 2011 WMO Statement on the state of the Global Climate in 2010 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=4246#.X2Nh8WgzZ_E))
-- 2010 WMO Statement on the state of the Global Climate in 2009 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=5075#.X2Nh3mgzZ_E))
-- 2009 WMO Statement on the state of the Global Climate in 2008 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7263#.X2Nh0WgzZ_E))
-- 2008 WMO Statement on the state of the Global Climate in 2007 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7972#.X2NhwmgzZ_E))
-- 2007 WMO Statement on the state of the Global Climate in 2006 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7224#.X2NhsWgzZ_E))
-- 2006 WMO Statement on the state of the Global Climate in 2005 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7927#.X2NhoWgzZ_E))
-- 2005 WMO Statement on the state of the Global Climate in 2004 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7865#.X2Nhk2gzZ_E))
-- 2004 WMO Statement on the state of the Global Climate in 2003 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7264#.X2NhhmgzZ_E))
-- 2003 WMO Statement on the state of the Global Climate in 2002 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7913#.X2Nhd2gzZ_E))
-- 2002 WMO Statement on the state of the Global Climate in 2001 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7265#.X2NhaGgzZ_E))
-- 2001 WMO Statement on the state of the Global Climate in 2000 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7266#.X2NhV2gzZ_E))
-- 2000 WMO Statement on the state of the Global Climate in 1999 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7808#.X2NhSWgzZ_E))
-- 1999 WMO Statement on the state of the Global Climate in 1998 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7879#.X2NhOWgzZ_E))
-- 1998 WMO Statement on the state of the Global Climate in 1997 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7267#.X2NhKGgzZ_E))
-- 1997 WMO Statement on the state of the Global Climate in 1996 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7268#.X2NhGmgzZ_E))
-- 1996 WMO Statement on the state of the Global Climate in 1995 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7269#.X2NhCGgzZ_E))
-- 1995 WMO Statement on the state of the Global Climate in 1994 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7757#.X2Ng8mgzZ_E))
-- 1994 WMO Statement on the state of the Global Climate in 1993 ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7758#.X2Ng3WgzZ_E))
+- 2019 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=21700#.X2NilmgzZ_E))
+- 2018 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=20799#.X2Ni0WgzZ_E))
+- 2017 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=20220#.X2NiXGgzZ_E))
+- 2016 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=19835#.X2NiTGgzZ_E))
+- 2015 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=19125#.X2NiPWgzZ_E))
+- 2014 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=16898#.X2NiMGgzZ_E))
+- 2013 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=15957#.X2NiImgzZ_E))
+- 2012 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=14750#.X2NiFGgzZ_E))
+- 2011 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=9754#.X2NiAGgzZ_E))
+- 2010 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=4246#.X2Nh8WgzZ_E))
+- 2009 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=5075#.X2Nh3mgzZ_E))
+- 2008 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7263#.X2Nh0WgzZ_E))
+- 2007 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7972#.X2NhwmgzZ_E))
+- 2006 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7224#.X2NhsWgzZ_E))
+- 2005 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7927#.X2NhoWgzZ_E))
+- 2004 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7865#.X2Nhk2gzZ_E))
+- 2003 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7264#.X2NhhmgzZ_E))
+- 2002 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7913#.X2Nhd2gzZ_E))
+- 2001 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7265#.X2NhaGgzZ_E))
+- 2000 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7266#.X2NhV2gzZ_E))
+- 1999 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7808#.X2NhSWgzZ_E))
+- 1998 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7879#.X2NhOWgzZ_E))
+- 1997 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7267#.X2NhKGgzZ_E))
+- 1996 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7268#.X2NhGmgzZ_E))
+- 1995 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7269#.X2NhCGgzZ_E))
+- 1994 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7757#.X2Ng8mgzZ_E))
+- 1993 WMO Statement on the state of the Global Climate ([web](https://library.wmo.int/index.php?lvl=notice_display&id=7758#.X2Ng3WgzZ_E))
 
 
 
@@ -2408,6 +2491,7 @@
 
 > World Bank Group ([source](https://wbl.worldbank.org/en/reports))
 
+- 2022 Women, Business and the Law ([web](https://wbl.worldbank.org/en/reports))
 - 2021 Women, Business and the Law ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/35094/9781464816529.pdf))
 - 2020 Women, Business and the Law ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/32639/9781464815324.pdf))
 - 2019 Women, Business and the Law – A decade of reform ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/31327/WBL2019.pdf?sequence=4&isAllowed=y))
@@ -2423,6 +2507,7 @@
 
 > IQAir AirVisual ([source](https://www.iqair.com/world-most-polluted-cities))
 
+- 2021 World Air Quality Report ([full](https://www.iqair.com/world-most-polluted-cities/world-air-quality-report-2021-en.pdf))
 - 2020 World Air Quality Report ([full](https://www.iqair.com/world-most-polluted-cities/world-air-quality-report-2020-en.pdf))
 - 2019 World Air Quality Report ([full](https://www.iqair.com/world-most-polluted-cities/world-air-quality-report-2019-en.pdf))
 - 2018 World Air Quality Report ([full](https://www.iqair.com/world-most-polluted-cities/world-air-quality-report-2018-en.pdf))
@@ -2433,6 +2518,7 @@
 
 > United Nations Human Settlements Programme ([source 1](https://unhabitat.org/wcr/), [source 2](https://mirror.unhabitat.org/list.asp?typeid=15&catid=559))
 
+- 2022 World Cities Report – Envisaging the future of cities ([web](https://unhabitat.org/wcr/))
 - 2020 World Cities Report – The value of sustainable urbanization ([web](https://unhabitat.org/World%20Cities%20Report%202020#:~:text=The%20World%20Cities%20Report%202020%20convincingly%20affirms%20that%20well%2Dplanned,leveraged%20in%20the%20fight%20against))
 - 2016 World Cities Report – Urbanization and development: Emerging futures ([web](https://unhabitat.org/world-cities-report-2016))
 - 2012/13 State of the World's Cities – Prosperity of Cities ([web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=3387))
@@ -2498,6 +2584,7 @@
 
 > United Nations Office on Drugs and Crime ([source](https://wdr.unodc.org/wdr2020/en/previous-reports.html))
 
+- 2021 World Drug Report ([web](https://www.unodc.org/unodc/en/data-and-analysis/wdr2021.html))
 - 2020 World Drug Report ([web](https://wdr.unodc.org/wdr2020/)) 
 - 2019 World Drug Report ([web](https://wdr.unodc.org/wdr2019/))
 - 2018 World Drug Report ([web](https://www.unodc.org/wdr2018/)) 
@@ -2549,7 +2636,8 @@
 
 > International Monetary Fund ([source](https://www.imf.org/en/publications/weo))
 
-- 2021 World Economic Outlook ([January](https://www.imf.org/en/Publications/WEO/Issues/2021/01/26/2021-world-economic-outlook-update), [April](https://www.imf.org/en/Publications/WEO/Issues/2021/03/23/world-economic-outlook-april-2021))
+- 2022 World Economic Outlook ([January](https://www.imf.org/en/Publications/WEO/Issues/2022/01/25/world-economic-outlook-update-january-2022), [April](https://www.imf.org/en/Publications/WEO/Issues/2022/04/19/world-economic-outlook-april-2022))
+- 2021 World Economic Outlook ([January](https://www.imf.org/en/Publications/WEO/Issues/2021/01/26/2021-world-economic-outlook-update), [April](https://www.imf.org/en/Publications/WEO/Issues/2021/03/23/world-economic-outlook-april-2021), [July](https://www.imf.org/en/Publications/WEO/Issues/2021/07/27/world-economic-outlook-update-july-2021), [October](https://www.imf.org/en/Publications/WEO/Issues/2021/10/12/world-economic-outlook-october-2021))
 - 2020 World Economic Outlook ([January](https://www.imf.org/en/Publications/WEO/Issues/2020/01/20/weo-update-january2020), [April](https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020), [June](https://www.imf.org/en/Publications/WEO/Issues/2020/06/24/WEOUpdateJune2020), [October](https://www.imf.org/en/Publications/WEO/Issues/2020/09/30/world-economic-outlook-october-2020))
 - 2019 World Economic Outlook ([January](https://www.imf.org/en/Publications/WEO/Issues/2019/01/11/weo-update-january-2019), [April](https://www.imf.org/en/Publications/WEO/Issues/2019/03/28/world-economic-outlook-april-2019), [July](https://www.imf.org/en/Publications/WEO/Issues/2019/07/18/WEOupdateJuly2019), [October](https://www.imf.org/en/Publications/WEO/Issues/2019/10/01/world-economic-outlook-october-2019))
 - 2018 World Economic Outlook ([January](https://www.imf.org/en/Publications/WEO/Issues/2018/01/11/world-economic-outlook-update-january-2018), [April](https://www.imf.org/en/Publications/WEO/Issues/2018/03/20/world-economic-outlook-april-2018), [July](https://www.imf.org/en/Publications/WEO/Issues/2018/07/02/world-economic-outlook-update-july-2018), [October](https://www.imf.org/en/Publications/WEO/Issues/2018/09/24/world-economic-outlook-october-2018))
@@ -2581,6 +2669,7 @@
 
 > United Nations ([source 1](https://www.un.org/en/development/desa/policy/wesp/archive.shtml), [source 2](https://unctad.org/publications-search?Operator=and&keys=World+Economic+Situation+and+Prospects))
 
+- 2022 World Economic Situation and Prospects ([web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2022/))
 - 2021 World Economic Situation and Prospects ([web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2021/))
 - 2020 World Economic Situation and Prospects ([web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2020/))
 - 2019 World Economic Situation and Prospects ([web](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-2019/))
@@ -2611,12 +2700,10 @@
 
 > International Labour Organization ([source](https://www.ilo.org/global/publications/books/lang--en/index.htm))
 
-- 2021 World Employment and Social Outlook
-  - Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2020/WCMS_734455/lang--en/index.htm))
-- 2020 World Employment and Social Outlook
-  - Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2020/WCMS_734455/lang--en/index.htm))
-- 2019 World Employment and Social Outlook
-  - Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2019/WCMS_670542/lang--en/index.htm))
+- 2022 World Employment and Social Outlook: Trends ([web](https://www.ilo.org/global/research/global-reports/weso/trends2022/WCMS_834081/lang--en/index.htm))
+- 2021 World Employment and Social Outlook: Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2020/WCMS_734455/lang--en/index.htm))
+- 2020 World Employment and Social Outlook: Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2020/WCMS_734455/lang--en/index.htm))
+- 2019 World Employment and Social Outlook: Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2019/WCMS_670542/lang--en/index.htm))
 - 2018 World Employment and Social Outlook – Greening with jobs ([web](https://www.ilo.org/global/publications/books/WCMS_628654/lang--en/index.htm))
   - Trends ([web](https://www.ilo.org/global/research/global-reports/weso/2018/WCMS_615594/lang--en/index.htm))
   - Trends for Women ([web](https://www.ilo.org/global/research/global-reports/weso/trends-for-women2018/WCMS_619577/lang--en/index.htm))
@@ -2642,6 +2729,8 @@
 
 > International Energy Agency ([source](https://www.iea.org/search/analysis?q=%22world%20energy%20investment%22))
 
+- 2022 World Energy Investment ([web](https://www.iea.org/reports/world-energy-investment-2022))
+- 2021 World Energy Investment ([web](https://www.iea.org/reports/world-energy-investment-2021))
 - 2020 World Energy Investment ([web](https://www.iea.org/reports/world-energy-investment-2020))
 - 2019 World Energy Investment ([web](https://www.iea.org/reports/world-energy-investment-2019))
 - 2018 World Energy Investment ([web](https://www.iea.org/reports/world-energy-investment-2018))
@@ -2654,6 +2743,7 @@
 
 > International Energy Agency ([source](https://webstore.iea.org/world-energy-outlook))
 
+- 2021 World Energy Outlook ([web](https://www.iea.org/reports/world-energy-outlook-2021))
 - 2020 World Energy Outlook ([web](https://www.iea.org/reports/world-energy-outlook-2020))
 - 2019 World Energy Outlook ([web](https://www.iea.org/reports/world-energy-outlook-2019))
 - 2018 World Energy Outlook ([web](https://www.iea.org/reports/world-energy-outlook-2018))
@@ -2678,6 +2768,7 @@
 
 > Sustainable Development Solutions Network ([source](https://worldhappiness.report/archive/))
 
+- 2022 World Happiness Report ([web](https://worldhappiness.report/ed/2022/))
 - 2021 World Happiness Report ([web](https://worldhappiness.report/ed/2021/))
 - 2020 World Happiness Report ([web](https://worldhappiness.report/ed/2020/))
 - 2019 World Happiness Report ([web](https://worldhappiness.report/ed/2019/))
@@ -2723,6 +2814,7 @@
 
 > World Health Organization ([source](https://www.who.int/gho/publications/world_health_statistics/en/))
 
+- 2022 World Health Statistics ([web](https://www.who.int/publications/i/item/9789240051157))
 - 2021 World Health Statistics ([web](https://www.who.int/data/stories/world-health-statistics-2021-a-visual-summary))
 - 2020 World Health Statistics ([web](https://www.who.int/data/gho/whs-2020-visual-summary))
 - 2019 World Health Statistics ([summary](https://apps.who.int/iris/bitstream/handle/10665/311696/WHO-DAD-2019.1-eng.pdf?ua=1), [web](https://www.who.int/publications/i/item/9789241565707))
@@ -2745,8 +2837,9 @@
 
 ## World Inequality Report
 
-> World Inequality Lab ([source](https://wir2018.wid.world/))
+> World Inequality Lab ([source](https://inequalitylab.world/en/))
 
+- 2022 World Inequality Report ([web](https://wir2022.wid.world/))
 - 2018 World Inequality Report ([web](https://wir2018.wid.world/))
 
 
@@ -2755,6 +2848,7 @@
 
 > World Intellectual Property Organization ([source](https://www.wipo.int/publications/en/series/index.jsp?id=38))
 
+- 2022 World Intellectual Property Report – The direction of innovation ([web](https://www.wipo.int/publications/en/details.jsp?id=4594&plang=EN))
 - 2019 World Intellectual Property Report – The geography of innovation: Local hotspots, global networks ([web](https://www.wipo.int/publications/en/details.jsp?id=4467&plang=EN))
 - 2017 World Intellectual Property Report – Intangible capital in global value chains ([web](https://www.wipo.int/publications/en/details.jsp?id=4225&plang=EN))
 - 2015 World Intellectual Property Report – Breakthrough innovation and economic growth ([web](https://www.wipo.int/publications/en/details.jsp?id=3995&plang=EN))
@@ -2767,6 +2861,8 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/topic/investment/world-investment-report))
 
+- 2022 World Investment Report – International tax reforms and sustainable investment ([web](https://unctad.org/webflyer/world-investment-report-2022))
+- 2021 World Investment Report – Investing in sustainable recovery ([web](https://unctad.org/webflyer/world-investment-report-2021))
 - 2020 World Investment Report – International production beyond the pandemic ([web](https://unctad.org/webflyer/world-investment-report-2020))
 - 2019 World Investment Report – Special economic zones ([web](https://unctad.org/webflyer/world-investment-report-2019))
 - 2018 World Investment Report – Investment and new industrial policies ([web](https://unctad.org/webflyer/world-investment-report-2018))
@@ -2804,6 +2900,7 @@
 
 > International Organization for Migration ([source](https://worldmigrationreport.iom.int/))
 
+- 2022 World Migration Report ([web](https://worldmigrationreport.iom.int/wmr-2022-interactive/))
 - 2020 World Migration Report ([web](https://worldmigrationreport.iom.int/wmr-2020-interactive/?lang=EN))
 - 2018 World Migration Report ([summary](https://publications.iom.int/system/files/pdf/wmr_2018_en_chapter1.pdf), [web](https://www.iom.int/wmr/2018))
 - 2015 World Migration Report – Migrants and cities: New partnerships to manage mobility ([web](https://worldmigrationreport.iom.int/world-migration-report-2015))
@@ -2821,6 +2918,7 @@
 
 > OPEC ([source](https://www.opec.org/opec_web/en/publications/340.htm#:~:text=OPEC's%20World%20Oil%20Outlook%20(WOO,Organization's%20commitment%20to%20market%20stability.&text=It%20is%20also%20a%20channel,other%20stakeholders%20within%20the%20industry.)))
 
+- 2021 World Oil Outlook ([web](https://woo.opec.org/))
 - 2020 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/OPEC_WOO2020.pdf))
 - 2019 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2019.pdf), [summary](https://www.energy-tomorrow.eu/wp-content/uploads/sites/15/2019/11/world-oil-outlook_executive-summary_2019.pdf))
 - 2018 World Oil Outlook ([full](https://www.opec.org/opec_web/static_files_project/media/downloads/publications/WOO_2018.pdf))
@@ -2858,6 +2956,7 @@
 
 > International Labour Organization ([source](https://www.ilo.org/global/research/global-reports/world-social-security-report/lang--en/index.htm))
 
+- 2020–2022 World Social Protection Report – Social protection at the crossroads: In pursuit of a better future ([web](https://www.ilo.org/global/research/global-reports/world-social-security-report/2020-22/lang--en/index.htm))
 - 2017–2019 World Social Protection Report – Universal social protection to achieve the Sustainable Development Goals ([web](https://www.ilo.org/global/research/global-reports/world-social-security-report/2017-19/lang--en/index.htm))
 - 2014–2015 World Social Protection Report – Building economic recovery, inclusive development and social justice ([web](https://www.ilo.org/global/research/global-reports/world-social-security-report/2014/lang--en/index.htm))
 
@@ -2884,7 +2983,7 @@
 
 ## World Social Science Report
 
-> UNESCO ([source](https://unesdoc.unesco.org/search/ee52362e-1b0b-4530-8794-9f2b5db5a1b2))
+> UNESCO ([source](https://unesdoc.unesco.org/))
 
 - 2016 World Social Science Report – Challenging inequalities: Pathways to a just world ([web](https://en.unesco.org/wssr2016))
 - 2013 World Social Science Report – Changing global environments ([web](https://en.unesco.org/wssr2013))
@@ -2897,6 +2996,8 @@
 
 > World Steel Association ([source](https://worldsteel.org/publications/bookshop/))
 
+- 2022 World Steel in Figures ([web](https://worldsteel.org/publications/bookshop/world-steel-in-figures-2022/))
+- 2021 World Steel in Figures 
 - 2020 World Steel in Figures
 - 2019 World Steel in Figures ([web](https://worldsteel.org/media-centre/press-releases/2019/world-steel-in-figures-2019-now-available/))
 - 2018 World Steel in Figures ([web](https://worldsteel.org/media-centre/press-releases/2018/world-steel-in-figures-2018-now-available/))
@@ -2923,6 +3024,7 @@
 
 > World Trade Organization ([source](https://www.wto.org/english/res_e/reser_e/wtr_e.htm))
 
+- 2021 World Trade Report – Economic resilience and trade ([web](https://www.wto.org/english/res_e/publications_e/wtr21_e.htm))
 - 2020 World Trade Report – Government policies to promote innovation in the digital age ([web](https://www.wto.org/english/res_e/publications_e/wtr20_e.htm))
 - 2019 World Trade Report – The future of services trade ([web](https://www.wto.org/english/res_e/publications_e/wtr19_e.htm))
 - 2018 World Trade Report – The future of world trade: How digital technologies are transforming global commerce ([web](https://www.wto.org/english/res_e/publications_e/wtr18_e.htm))
@@ -2948,6 +3050,7 @@
 
 > World Trade Organization ([source](https://www.wto.org/english/res_e/statis_e/wts_e.htm))
 
+- 2021 World Trade Statistical Review ([web](https://www.wto.org/english/res_e/statis_e/wts2021_e/wts21_toc_e.htm))
 - 2020 World Trade Statistical Review ([web](https://www.wto.org/english/res_e/statis_e/wts2020_e/wts20_toc_e.htm))
 - 2019 World Trade Statistical Review ([web](https://www.wto.org/english/res_e/statis_e/wts2019_e/wts19_toc_e.htm))
 - 2018 World Trade Statistical Review ([web](https://www.wto.org/english/res_e/statis_e/wts2018_e/wts18_toc_e.htm))
@@ -2969,6 +3072,8 @@
 
 > UN-Water, UNESCO ([source](https://en.unesco.org/themes/water-security/wwap/wwdr/series))
 
+- 2022 World Water Development Report – Groundwater ([web](https://www.unesco.org/reports/wwdr/2022/en))
+- 2021 World Water Development Report – Valuing water ([web](https://www.unesco.org/reports/wwdr/2021/en))
 - 2020 World Water Development Report – Water and climate change ([web](https://en.unesco.org/themes/water-security/wwap/wwdr/2020))
 - 2019 World Water Development Report – Leaving no one behind ([web](https://en.unesco.org/themes/water-security/wwap/wwdr/2019))
 - 2018 World Water Development Report – Nature-based solutions for water ([web](https://en.unesco.org/themes/water-security/wwap/wwdr/series#2018))
@@ -2985,8 +3090,10 @@
 
 ## World Wealth Report
 
-> Capgemini ([source](https://worldwealthreport.com/all-resources/))
+> Capgemini ([source](https://worldwealthreport.com/))
 
+- 2022 World Wealth Report ([full](https://worldwealthreport.com/pdf/Capgemini_WWR_2022_VFinal_Digital.pdf))
+- 2021 World Wealth Report
 - 2020 World Wealth Report ([full](https://www.capgemini.com/nl-nl/wp-content/uploads/sites/7/2020/07/World-Wealth-Report-WWR-2020.pdf))
 - 2019 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2019/07/World-Wealth-Report-2019.pdf))
 - 2018 World Wealth Report ([full](https://worldwealthreport.com/wp-content/uploads/sites/7/2018/10/World-Wealth-Report_2018.pdf))
@@ -3043,6 +3150,7 @@
 
 > Bündnis Entwicklung Hilft, Ruhr University Bochum ([source](https://weltrisikobericht.de/weltrisikobericht-2021-e/))
 
+- 2021 WorldRiskReport – Social protection ([full](https://weltrisikobericht.de//wp-content/uploads/2021/09/WorldRiskReport_2021_Online.pdf))
 - 2020 WorldRiskReport – Forced displacement and migration ([full](https://weltrisikobericht.de/wp-content/uploads/2020/09/WorldRiskReport-2020.pdf))
 - 2019 WorldRiskReport – Water Supply ([full](https://weltrisikobericht.de/wp-content/uploads/2019/09/WorldRiskReport-2019_Online_english.pdf))
 - 2018 WorldRiskReport – Child protection and children's rights ([full](https://weltrisikobericht.de//wp-content/uploads/2019/03/190318_WRR_2018_EN_RZonline_1.pdf))
@@ -3060,6 +3168,7 @@
 
 > Economist Intelligence Unit ([source](https://store.eiu.com/products/all-products/ ))
 
+- 2021 Worldwide Cost of Living ([summary](https://files.static-nzz.ch/2021/12/01/5fef9ee8-c25d-4291-8c5f-7c266524f809.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2021)) **$**
 - 2020 Worldwide Cost of Living ([summary](https://bluesyemre.files.wordpress.com/2020/03/worldwide-cost-of-living-2020.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2020/)) **$**
 - 2019 Worldwide Cost of Living ([summary](https://www.df.cl/noticias/site/artic/20190319/asocfile/20190319171329/reporte.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2019/)) **$**
 - 2018 Worldwide Cost of Living ([summary](https://qtxasset.com/cfoinnovation/field/field_p_files/white_paper/EIU_Costofliving2018.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2018/)) **$**
