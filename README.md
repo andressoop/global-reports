@@ -66,8 +66,8 @@
 - [Goalkeepers Report](#goalkeepers-report)
 - [How's Life?](#hows-life)
 - [Human Capital Index](#human-capital-index)
-- [Human Capital Report](#human-capital-report)
 - [Human Development Report](#human-development-report)
+- [Human Freedom Index](#human-freedom-index)
 - [Industrial Development Report](#industrial-development-report)
 - [International Debt Statistics](#international-debt-statistics)
 - [International IP Index](#international-ip-index)
@@ -1285,6 +1285,21 @@
 - 1992 Human Development Report – Global dimensions of human development ([web](https://hdr.undp.org/content/human-development-report-1992))
 - 1991 Human Development Report – Financing human development ([web](https://hdr.undp.org/content/human-development-report-1991))
 - 1990 Human Development Report – Concept and measurement of human development ([web](https://hdr.undp.org/content/human-development-report-1990))
+
+
+
+## Human Freedom Index
+
+> Cato Institute & Fraser Institute ([source](https://www.cato.org/search/category/human-freedom-index))
+
+- 2022 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2022))
+- 2021 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2021))
+- 2020 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2020))
+- 2019 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2019))
+- 2018 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2018))
+- 2017 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2017))
+- 2016 Human Freedom Index ([web](https://www.cato.org/human-freedom-index/2016))
+- 2015 Human Freedom Index – A global measurement of personal, civil, and economic freedom ([web](https://www.cato.org/human-freedom-index/2015))
 
 
 
