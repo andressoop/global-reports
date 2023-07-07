@@ -115,7 +115,6 @@
 - [Trends in International Arms Transfers](#trends-in-international-arms-transfers)
 - [Trends in World Military Expenditure](#trends-in-world-military-expenditure)
 - [UNESCO Science Report](#unesco-science-report)
-- [UNHCR Global Report](#unhcr-global-report)
 - [UNHCR Global Trends](#unhcr-global-trends)
 - [Uranium: Resources, Production and Demand (Red Book)](#uranium-resources-production-and-demand-red-book)
 - [WMO Greenhouse Gas Bulletin](#wmo-greenhouse-gas-bulletin)
@@ -143,7 +142,6 @@
 - [World Social Protection Report](#world-social-protection-report)
 - [World Social Report](#world-social-report)
 - [World Social Science Report](#world-social-science-report)
-- [World Steel in Figures](#world-steel-in-figures)
 - [World Trade Report](#world-trade-report)
 - [World Trade Statistical Review](#world-trade-statistical-review)
 - [World Urbanization Prospects](#world-urbanization-prospects)
@@ -184,7 +182,7 @@
 
 ## Connecting to Compete
 
-> World Bank Group ([source](https://openknowledge.worldbank.org/discover?rpp=10&etal=0&query=%22connecting+to+compete%22&scope=/&group_by=none&page=1&sort_by=score&order=desc))
+> World Bank Group ([source](https://lpi.worldbank.org/report))
 
 - 2018 Connecting to Compete – Trade logistics in the global economy ([web](https://openknowledge.worldbank.org/handle/10986/29971))
 - 2016 Connecting to Compete – Trade logistics in the global economy ([web](https://openknowledge.worldbank.org/handle/10986/24598))
@@ -231,7 +229,7 @@
 
 ## Death Sentences and Executions
 
-> Amnesty International ([source](https://www.amnesty.org/en/search/?q=%22Death+Sentences+and+Executions%22&sort=date&issue=1583&documentType=Annual+Report&documentType=Report))
+> Amnesty International ([source](https://www.amnesty.org/en/search/%22Death%20sentences%20and%20executions%22/))
 
 - 2021 Death Sentences and Executions ([web](https://www.amnesty.org/en/documents/act50/5418/2022/en/))
 - 2020 Death Sentences and Executions ([web](https://www.amnesty.org/en/documents/act50/3760/2021/en/)) 
@@ -269,20 +267,20 @@
 
 ## Democracy Index
 
-> Economist Intelligence Unit ([source](https://www.eiu.com/topic/democracy-index))
+> Economist Intelligence Unit ([source](https://www.eiu.com/n/?s=democracy+index&nsi=8fdb5bc06d))
 
-- 2021 Democracy Index – The China challenge ([full](https://www.stockwatch.com.cy/sites/default/files/news-downloads/feb11_2022_eiu-democracy-index-2021.pdf), [web](https://www.eiu.com/n/campaigns/democracy-index-2021))
-- 2020 Democracy Index – In sickness and in health? ([full](https://pages.eiu.com/rs/753-RIQ-438/images/democracy-index-2020.pdf), [web](https://www.eiu.com/n/campaigns/democracy-index-2020/))
-- 2019 Democracy Index – A year of democratic setbacks and popular protest ([full](https://www.in.gr/wp-content/uploads/2020/01/Democracy-Index-2019.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019))
-- 2018 Democracy Index – Me too? Political participation, protest and democracy ([full](https://275rzy1ul4252pt1hv2dqyuf-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Democracy_Index_2018.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy2018))
-- 2017 Democracy Index – Free speech under attack ([full](https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=34079), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2017))
-- 2016 Democracy Index – Revenge of the “deplorables” ([full](https://www.transparency.org.nz/docs/2017/Democracy_Index_2016.pdf), [web](http://felipesahagun.es/wp-content/uploads/2017/01/Democracy-Index-2016.pdf))
-- 2015 Democracy Index – Democracy in an age of anxiety ([full](https://www.yabiladi.com/img/content/EIU-Democracy-Index-2015.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2015))
-- 2014 Democracy Index – Democracy and its discontents  ([full](https://www.sudestada.com.uy/Content/Articles/421a313a-d58f-462e-9b24-2504a37f6b56/Democracy-index-2014.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0115))
-- 2013 Democracy Index – Democracy in limbo ([full](https://siyosat.files.wordpress.com/2014/10/democracy_index_2013_web-2.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0814))
-- 2012 Democracy Index – Democracy at a standstill ([full](https://civitanaorg.files.wordpress.com/2014/05/democracy-index-2012.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex12))
-- 2011 Democracy Index – Democracy under stress ([full](https://thecubaneconomy.com/wp-content/uploads/2012/01/Democracy_Index_Final_Dec_2011.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2011))
-- 2010 Democracy Index – Democracy in retreat ([full](https://graphics.eiu.com/PDF/Democracy_Index_2010_web.pdf), [web](https://www.eiu.com/public/topical_report.aspx?campaignid=demo2010))
+- 2021 Democracy Index – The China challenge ([web](https://www.eiu.com/n/campaigns/democracy-index-2021), [full](https://www.stockwatch.com.cy/sites/default/files/news-downloads/feb11_2022_eiu-democracy-index-2021.pdf))
+- 2020 Democracy Index – In sickness and in health? ([web](https://www.eiu.com/n/campaigns/democracy-index-2020/), [full](https://pages.eiu.com/rs/753-RIQ-438/images/democracy-index-2020.pdf))
+- 2019 Democracy Index – A year of democratic setbacks and popular protest ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2019), [full](https://www.in.gr/wp-content/uploads/2020/01/Democracy-Index-2019.pdf))
+- 2018 Democracy Index – Me too? Political participation, protest and democracy ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy2018), [full](https://enperspectiva.uy/wp-content/uploads/2019/01/Democracy_Index_2018.pdf))
+- 2017 Democracy Index – Free speech under attack ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2017), [full](https://spcommreports.ohchr.org/TMResultsBase/DownLoadFile?gId=34079))
+- 2016 Democracy Index – Revenge of the “deplorables” ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2016), [full](http://felipesahagun.es/wp-content/uploads/2017/01/Democracy-Index-2016.pdf))
+- 2015 Democracy Index – Democracy in an age of anxiety ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=democracyindex2015), [full](https://www.yabiladi.com/img/content/EIU-Democracy-Index-2015.pdf))
+- 2014 Democracy Index – Democracy and its discontents ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0115), [full](https://www.sudestada.com.uy/Content/Articles/421a313a-d58f-462e-9b24-2504a37f6b56/Democracy-index-2014.pdf))
+- 2013 Democracy Index – Democracy in limbo ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=Democracy0814), [full](https://siyosat.files.wordpress.com/2014/10/democracy_index_2013_web-2.pdf))
+- 2012 Democracy Index – Democracy at a standstill ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex12), [full](https://civitanaorg.files.wordpress.com/2014/05/democracy-index-2012.pdf))
+- 2011 Democracy Index – Democracy under stress ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=DemocracyIndex2011), [full](https://thecubaneconomy.com/wp-content/uploads/2012/01/Democracy_Index_Final_Dec_2011.pdf))
+- 2010 Democracy Index – Democracy in retreat ([web](https://www.eiu.com/public/topical_report.aspx?campaignid=demo2010), [full](https://graphics.eiu.com/PDF/Democracy_Index_2010_web.pdf))
 - 2009 n/a
 - 2008 Democracy Index ([full](https://graphics.eiu.com/PDF/Democracy%20Index%202008.pdf))
 - 2007 n/a
@@ -294,12 +292,12 @@
 
 > United Nations Conference on Trade and Development ([source](https://unctad.org/topic/ecommerce-and-digital-economy/digital-economy-report))
 
-- 2021 Digital Economy Report – Cross-border data flows and development: For whom the data flow ([web](https://unctad.org/webflyer/digital-economy-report-2021))
-- 2019 Digital Economy Report – Value creation and capture: Implications for developing countries ([web](https://unctad.org/webflyer/digital-economy-report-2019))
-- 2017 Information Economy Report – Digitalization, trade and development ([web](https://unctad.org/webflyer/information-economy-report-2017))
-- 2015 Information Economy Report – Unlocking the potential of e-commerce for developing countries ([web](https://unctad.org/webflyer/information-economy-report-2015-unlocking-potential-e-commerce-developing-countries))
-- 2013 Information Economy Report – The cloud economy and developing countries ([web](https://unctad.org/webflyer/information-economy-report-2013))
-- 2012 Information Economy Report – The software industry and developing countries ([web](https://unctad.org/webflyer/information-economy-report-2012))
+- 2021 Digital Economy Report – Cross-border data flows and development: For whom the data flow ([web](https://unctad.org/publication/digital-economy-report-2021))
+- 2019 Digital Economy Report – Value creation and capture: Implications for developing countries ([web](https://unctad.org/publication/digital-economy-report-2019))
+- 2017 Information Economy Report – Digitalization, trade and development ([web](https://unctad.org/publication/information-economy-report-2017))
+- 2015 Information Economy Report – Unlocking the potential of e-commerce for developing countries ([web](https://unctad.org/publication/information-economy-report-2015-unlocking-potential-e-commerce-developing-countries))
+- 2013 Information Economy Report – The cloud economy and developing countries ([web](https://unctad.org/publication/information-economy-report-2013))
+- 2012 Information Economy Report – The software industry and developing countries ([web](https://unctad.org/publication/information-economy-report-2012))
 - 2011 Information Economy Report – ICTs as an enabler for private sector development ([full](https://unctad.org/en/PublicationsLibrary/ier2011_en.pdf), [summary](https://unctad.org/en/Docs/ier2011overview_en.pdf))
 - 2010 Information Economy Report – ICTs, enterprises and poverty alleviation ([web](https://unctad.org/webflyer/information-economy-report-2010))
 - 2009 Information Economy Report – Trends and outlook in turbulent times ([web](https://unctad.org/webflyer/information-economy-report-2009))
@@ -370,18 +368,18 @@
 
 *concluded and followed by [Global Education Monitoring Report](#global-education-monitoring-report)*
 
-- 2015 EFA Global Monitoring Report – Education for All 2000–2015: Achievements and challenges ([web](https://en.unesco.org/gem-report/report/2015/education-all-2000-2015-achievements-and-challenges))
-- 2013/2014 EFA Global Monitoring Report – Teaching and learning: Achieving quality for all ([web](https://en.unesco.org/gem-report/report/2014/teaching-and-learning-achieving-quality-all))
-- 2012 EFA Global Monitoring Report – Youth and skills: Putting education to work ([web](https://en.unesco.org/gem-report/report/2012/youth-and-skills-putting-education-work))
-- 2011 EFA Global Monitoring Report – The Hidden crisis: Armed conflict and education ([web](https://en.unesco.org/gem-report/report/2011/hidden-crisis-armed-conflict-and-education))
-- 2010 EFA Global Monitoring Report – Reaching the marginalized ([web](https://en.unesco.org/gem-report/report/2010/reaching-marginalized))
-- 2009 EFA Global Monitoring Report – Overcoming inequality: Why governance matters ([web](https://en.unesco.org/gem-report/report/2009/overcoming-inequality-why-governance-matters))
-- 2008 EFA Global Monitoring Report – Education for All by 2015: Will we make it? ([web](https://en.unesco.org/gem-report/report/2008/education-all-2015-will-we-make-it))
-- 2007 EFA Global Monitoring Report – Strong foundations: Early childhood care and education ([web](https://en.unesco.org/gem-report/report/2007/strong-foundations-early-childhood-care-education))
-- 2006 EFA Global Monitoring Report – Literacy for life ([web](https://en.unesco.org/gem-report/report/2006/literacy-life))
-- 2005 EFA Global Monitoring Report – The quality imperative ([web](https://en.unesco.org/gem-report/report/2005/education-all-quality-imperative))
-- 2003/04 EFA Global Monitoring Report – Gender and education for all: The leap to equality ([web](https://en.unesco.org/gem-report/report/2003/gender-and-education-all-leap-equality))
-- 2002 EFA Global Monitoring Report – Education for All: Is the world on track? ([web](https://en.unesco.org/gem-report/report/2002/education-all-world-track))
+- 2015 EFA Global Monitoring Report – Education for All 2000–2015: Achievements and challenges ([web](https://www.unesco.org/gem-report/en/efa-achievements-challenges))
+- 2013/2014 EFA Global Monitoring Report – Teaching and learning: Achieving quality for all ([web](https://www.unesco.org/gem-report/en/teaching-and-learning-achieving-quality-all))
+- 2012 EFA Global Monitoring Report – Youth and skills: Putting education to work ([web](https://www.unesco.org/gem-report/en/youth-skills-putting-education-work))
+- 2011 EFA Global Monitoring Report – The Hidden crisis: Armed conflict and education ([web](https://www.unesco.org/gem-report/en/hidden-crisis-armed-conflict-and-education))
+- 2010 EFA Global Monitoring Report – Reaching the marginalized ([web](https://www.unesco.org/gem-report/en/reaching-marginalized))
+- 2009 EFA Global Monitoring Report – Overcoming inequality: Why governance matters ([web](https://www.unesco.org/gem-report/en/overcoming-inequality-why-governance-matters))
+- 2008 EFA Global Monitoring Report – Education for All by 2015: Will we make it? ([web](https://www.unesco.org/gem-report/en/efa-2015-will-we-make-it))
+- 2007 EFA Global Monitoring Report – Strong foundations: Early childhood care and education ([web](https://www.unesco.org/gem-report/en/strong-foundations/ecce))
+- 2006 EFA Global Monitoring Report – Literacy for life ([web](https://www.unesco.org/gem-report/en/literacy-life))
+- 2005 EFA Global Monitoring Report – The quality imperative ([web](https://www.unesco.org/gem-report/en/efa-quality))
+- 2003/04 EFA Global Monitoring Report – Gender and education for all: The leap to equality ([web](https://www.unesco.org/gem-report/en/gender-education-all))
+- 2002 EFA Global Monitoring Report – Education for All: Is the world on track? ([web](https://www.unesco.org/gem-report/en/efa-is-the-world-on-track))
 
 
 
@@ -398,7 +396,7 @@
 - 2015 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2015))
 - 2014 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2014))
 - 2013 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2013))
-- 2012 Emissions Gap Report ([summary](http://wedocs.unep.org/bitstream/handle/20.500.11822/32425/EGR12_ES.pdf?sequence=1&isAllowed=y), [web](https://www.unep.org/resources/emissions-gap-report-2012))
+- 2012 Emissions Gap Report ([web](https://www.unep.org/resources/emissions-gap-report-2012), [summary](http://wedocs.unep.org/bitstream/handle/20.500.11822/32425/EGR12_ES.pdf?sequence=1&isAllowed=y))
 - 2011 Emissions Gap Report ([full](http://wedocs.unep.org/bitstream/handle/20.500.11822/7996/-Bridging%20the%20Emissions%20Gap_%20%20%20A%20UNEP%20Synthesis%20Report-20111075.pdf?sequence=3&isAllowed=y))
 - 2010 Emissions Gap Report – Are the Copenhagen Accord pledges sufficient to limit global warming to 2° C or 1.5° C? ([web](https://www.unep.org/resources/emissions-gap-report-2010))
 
@@ -467,15 +465,16 @@
 
 ## Financing for Sustainable Development Report
 
-> United Nations Inter-agency Task Force on Financing for Development ([source](https://developmentfinance.un.org/report))
+> United Nations Inter-agency Task Force on Financing for Development ([source](https://financing.desa.un.org/iatf/home/))
 
 - 2022 Financing for Sustainable Development Report  – Bridging the finance divide ([web](https://developmentfinance.un.org/fsdr2022))
 - 2021 Financing for Sustainable Development Report ([web](https://developmentfinance.un.org/fsdr2021))
-- 2020 Financing for Sustainable Development Report ([web](https://developmentfinance.un.org/fsdr2020))
-- 2019 Financing for Sustainable Development Report ([web](https://developmentfinance.un.org/fsdr2019))
-- 2018 Financing for Development – Progress and prospects ([web](https://developmentfinance.un.org/iatf2018))
-- 2017 Financing for Development – Progress and prospects ([web](https://developmentfinance.un.org/iatf2017))
-- 2016 Inaugural Report ([web](https://developmentfinance.un.org/iatf-2016-report))
+- 2021 Financing for Sustainable Development Report ([web](https://financing.desa.un.org/iatf/report/financing-sustainable-development-report-2021))
+- 2020 Financing for Sustainable Development Report ([web](https://financing.desa.un.org/iatf/report/fsdr2020))
+- 2019 Financing for Sustainable Development Report ([web](https://financing.desa.un.org/iatf/report/financing-sustainable-development-report-2019))
+- 2018 Financing for Development – Progress and prospects ([web](https://www.un-ilibrary.org/content/books/9789213632727))
+- 2017 Financing for Development – Progress and prospects ([web](https://www.un-ilibrary.org/content/books/9789210605441))
+- 2016 Financing for Development – Monitoring commitments and actions ([web](https://www.un-ilibrary.org/content/books/9789210579162))
 
 
 
@@ -509,7 +508,6 @@
 - 2020 Freedom in the World – A leaderless struggle for democracy ([web](https://freedomhouse.org/report/freedom-world/2020/leaderless-struggle-democracy))
 - 2019 Freedom in the World – Democracy in retreat ([web](https://freedomhouse.org/report/freedom-world/2019/democracy-retreat))
   - Freedom and the Media – A downward spiral ([web](https://freedomhouse.org/report/freedom-and-media/2019/media-freedom-downward-spiral))
-
 - 2018 Freedom in the World – Democracy in crisis ([web](https://freedomhouse.org/report/freedom-world/2018/democracy-crisis))
 - 2017 Freedom in the World – Populists and autocrats: The dual threat to global democracy ([web](https://freedomhouse.org/report/freedom-world/2017/populists-and-autocrats-dual-threat-global-democracy))
 - 2016 Freedom in the World – Anxious dictators, wavering democracies: Global freedom under pressure ([web](https://freedomhouse.org/report/freedom-world/2016/anxious-dictators-wavering-democracies-global-freedom-under-pressure))
@@ -601,7 +599,7 @@
 
 ## Global Catastrophic Risks
 
-> Global Challenges Foundation ([source](https://globalchallenges.org/initiatives/analysis-research/reports/))
+> Global Challenges Foundation ([source](https://globalchallenges.org/library-archive/?category=reports-and-briefs))
 
 - 2021 Global Catastrophic Risks – Navigating the complex intersections ([full](https://globalchallenges.org/wp-content/uploads/2021/09/Global-Catastrophic-Risks-2021-FINAL.pdf))
 - 2020 Global Catastrophic Risks ([full](https://globalchallenges.org/wp-content/uploads/Global-Catastrophic-Risks-2020-Annual-Report-WEB-V2-1.pdf))
@@ -744,7 +742,7 @@
 
 ## Global Energy Review
 
-> International Energy Agency ([source](https://www.iea.org/topics/global-energy-review))
+> International Energy Agency ([source](https://www.iea.org/search/analysis?q=global%20energy%20review))
 
 - 2021 Global Energy Review – Assessing the effects of economic recoveries on global energy demand and CO2 emissions ([web](https://www.iea.org/reports/global-energy-review-2021))
 - 2020 Global Energy Review – The impacts of the Covid-19 crisis on global energy demand and CO2 emissions ([web](https://www.iea.org/reports/global-energy-review-2020))
@@ -826,21 +824,21 @@
 
 ## Global Food Security Index
 
-> Economist Intelligence Unit ([source](https://impact.economist.com/sustainability/project/food-security-index/Resources))
+> Economist Intelligence Unit ([source](https://impact.economist.com/sustainability/project/food-security-index))
 
-- 2021 Global Food Security Index – The 10-year anniversary ([full](https://nonews.co/wp-content/uploads/2022/03/GFSI2021.pdf))
-- 2020 Global Food Security Index – Addressing structural inequalities to build strong and sustainable food systems ([full](https://impact.economist.com/sustainability/project/food-security-index/Home/DownloadResource?fileName=Global%20Report_GFSI%202020_Final%2021%20Jan%202021.pdf))
-- 2019 Global Food Security Index – Strengthening food systems and the environment through innovation and investment ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=Global%20Food%20Security%20Index%202019%20report.pdf))
-- 2018 Global Food Security Index – Building resilience in the face of rising food-security risks ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202018%20Findings%20%26%20Methodology.pdf))
-- 2017 Global Food Security Index – Measuring food security and the impact of resource risks ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202017%20Findings%20%26%20Methodology.pdf))
-- 2016 Global Food Security Index ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202016%20Findings%20%26%20Methodology.pdf))
-- 2015 Global Food Security Index ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202015%20Findings%20%26%20Methodology.pdf))
-  - The role of innovation in meeting food security challenges ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_Dupont_GFSI_2015_Innovation_WEBr4.pdf))
-- 2014 Global Food Security Index ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202014%20Findings%20%26%20Methodology.pdf))
-  - The burden of obesity: Its relationship with food security ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_GFSI%202014_Special%20report_Obesity.pdf))
-  - Food loss and its intersection with food security ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU_GFSI%202014_Special%20report_Food%20loss.pdf))
-- 2013 Global Food Security Index ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202013%20Findings%20%26%20Methodology.pdf))
-- 2012 Global Food Security Index – An assessment of food affordability, availability and quality ([full](https://foodsecurityindex.eiu.com/Home/DownloadResource?fileName=EIU%20Global%20Food%20Security%20Index%20-%202012%20Findings%20%26%20Methodology.pdf))
+- 2021 Global Food Security Index – The 10-year anniversary ([full](https://nonews.co/wp-content/uploads/2022/03/GFSI2021.pdf)) 
+- 2020 Global Food Security Index – Addressing structural inequalities to build strong and sustainable food systems ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/Global_Report_GFSI_2020_Final_21_Jan_2021.pdf))
+- 2019 Global Food Security Index – Strengthening food systems and the environment through innovation and investment ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/Global_Food_Security_Index_2019_report.pdf))
+- 2018 Global Food Security Index – Building resilience in the face of rising food-security risks ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2018_Findings_Methodology.pdf))
+- 2017 Global Food Security Index – Measuring food security and the impact of resource risks ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2017_Findings_Methodology.pdf))
+- 2016 Global Food Security Index ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2016_Findings_Methodology.pdf))
+- 2015 Global Food Security Index ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2015_Findings_Methodology.pdf))
+  - The role of innovation in meeting food security challenges ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Dupont_GFSI_2015_Innovation_WEBr4.pdf))
+- 2014 Global Food Security Index ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2014_Findings_Methodology.pdf))
+  - The burden of obesity: Its relationship with food security ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_GFSI_2014_Special_report_Obesity.pdf))
+  - Food loss and its intersection with food security ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_GFSI_2014_Special_report_Food_loss.pdf))
+- 2013 Global Food Security Index ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2013_Findings_Methodology.pdf))
+- 2012 Global Food Security Index – An assessment of food affordability, availability and quality ([full](https://impact.economist.com/sustainability/project/food-security-index/resources/EIU_Global_Food_Security_Index_-_2012_Findings_Methodology.pdf))
 
 
 
@@ -1012,9 +1010,9 @@
 > Global Network Against Food Crisis, Food Security Information Network ([source](https://www.fsinplatform.org/resources-search?field_language=All&field_publication_type=21&field_publication_year=All&search_api_fulltext=%22Global+Report+on+Food+Crises%22))
 
 - 2022 Global Report on Food Crises ([web](http://www.fightfoodcrises.net/events/grfc-2022/en/))
-- 2021 Global Report on Food Crises ([web](https://www.wfp.org/publications/global-report-food-crises-2021))
-- 2020 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_ONLINE_200420_FINAL.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_KM_Eng_1_0.pdf), [web](https://www.fsinplatform.org/report/global-report-food-crises-2020/))
-- 2019 Global Report on Food Crises ([full](http://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2019-Full_Report.pdf), [summary](https://docs.wfp.org/api/documents/WFP-0000104037/download/?_ga=2.179163876.1938373231.1599842970-1612731650.1597244470), [web](https://www.fsinplatform.org/report/global-report-food-crisis-2019/))
+- 2021 Global Report on Food Crises ([web](https://www.fightfoodcrises.net/events/grfc-2021/en/))
+- 2020 Global Report on Food Crises ([web](https://www.fsinplatform.org/report/global-report-food-crises-2020/), [full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_ONLINE_200420_FINAL.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2020_KM_Eng_1_0.pdf))
+- 2019 Global Report on Food Crises ([web](https://www.fsinplatform.org/report/global-report-food-crisis-2019/), [full](http://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2019-Full_Report.pdf), [summary](https://docs.wfp.org/api/documents/WFP-0000104037/download/?_ga=2.179163876.1938373231.1599842970-1612731650.1597244470))
 - 2018 Global Report on Food Crises ([full](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Full_report_EN_Low_resolution.pdf), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/GRFC_2018_Key_messages_EN.pdf))
 - 2017 Global Report on Food Crises ([full](https://documents.wfp.org/stellent/groups/public/documents/ena/wfp291271.pdf?_ga=2.150402166.1938373231.1599842970-1612731650.1597244470), [summary](https://www.fsinplatform.org/sites/default/files/resources/files/a-br324e.pdf))
 
@@ -1074,10 +1072,11 @@
 
 ## Global Slavery Index
 
-> Walk Free Foundation ([source](https://www.globalslaveryindex.org/))
+> Walk Free Foundation ([source](https://www.walkfree.org/global-slavery-index/))
 
-- 2018 Global Slavery Index ([full](https://downloads.globalslaveryindex.org/ephemeral/GSI-2018_FNL_190828_CO_DIGITAL_P-1657358106.pdf), [web](https://www.globalslaveryindex.org/2018/findings/highlights/))
-- 2016 Global Slavery Index ([full](https://downloads.globalslaveryindex.org/ephemeral/GSI-2016-Full-Report-1657358160.pdf))
+- 2023 Global Slavery Index ([web](https://www.walkfree.org/global-slavery-index/))
+- 2018 Global Slavery Index ([full](https://respect.international/wp-content/uploads/2018/07/The-Global-Slavery-Index-2018-Walk-Free-Foundation.pdf))
+- 2016 Global Slavery Index ([full](https://respect.international/wp-content/uploads/2018/07/The-Global-Slavery-Index-2016-Walk-Free-Foundation.pdf))
 - 2014 Global Slavery Index ([full](https://reporterbrasil.org.br/wp-content/uploads/2014/11/GlobalSlavery_2014_LR-FINAL.pdf))
 - 2013 Global Slavery Index ([full](http://lft.ee/admin/upload/files/GlobalSlaveryIndex_2013_Download_WEB1.pdf))
 
@@ -1126,12 +1125,13 @@
 
 ## Global Sustainable Development Report
 
-> United Nations Department of Economic and Social Affairs ([source](https://sustainabledevelopment.un.org/globalsdreport))
+> United Nations Department of Economic and Social Affairs ([source](https://sdgs.un.org/gsdr))
 
 - 2019 Global Sustainable Development Report – The future is now ([web](https://sustainabledevelopment.un.org/globalsdreport/2019))
 - 2016 Global Sustainable Development Report ([web](https://sustainabledevelopment.un.org/globalsdreport/2016))
-- 2015 Global Sustainable Development Report ([web](https://sustainabledevelopment.un.org/globalsdreport/2015))
-- 2014 Global Sustainable Development Report – Prototype edition ([web](https://sustainabledevelopment.un.org/globalsdreport/2014))
+- 2016 Global Sustainable Development Report ([web](https://sdgs.un.org/gsdr/gsdr2016))
+- 2015 Global Sustainable Development Report ([web](https://sdgs.un.org/publications/global-sustainable-development-report-2015-advance-unedited-version-gsdr-2015-17874))
+- 2014 Global Sustainable Development Report – Prototype edition ([web](https://sdgs.un.org/gsdr/gsdr2014))
 
 
 
@@ -1242,7 +1242,6 @@
 
 - 2020 Human Capital Index – Human capital in the time of COVID-19 ([web](https://www.worldbank.org/en/publication/human-capital))
 - 2018 Human Capital Project ([full](https://openknowledge.worldbank.org/bitstream/handle/10986/30498/33252.pdf?sequence=5&isAllowed=y))
-
 - 2017 Human Capital Report – Preparing people for the future of work ([web](http://reports.weforum.org/global-human-capital-report-2017/?doing_wp_cron=1600358662.9296650886535644531250))
 - 2016 Human Capital Report ([web](http://reports.weforum.org/human-capital-report-2016/))
 - 2015 Human Capital Report ([web](http://reports.weforum.org/human-capital-report-2015/))
@@ -1313,16 +1312,16 @@
 - 2016 Industrial Development Report – The role of technology and innovation in inclusive and sustainable industrial development ([web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2016))
 - 2013 Industrial Development Report – Sustaining employment growth: The role of manufacturing and structural change ([web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2013))
 - 2011 Industrial Development Report – Industrial energy efficiency for sustainable wealth creation: Capturing environmental, economic and social dividends ([web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2011))
-- 2009 Industrial Development Report – Breaking in and moving up: New industrial challenges for the bottom billion and the middle-income countries ([full](https://www.unido.org/sites/default/files/2009-02/IDR_2009_print_0.PDF), [summary](https://www.unido.org/sites/default/files/2009-02/IDR_SUMMARY_print_0.pdf), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2009))
-- 2005 Industrial Development Report – Capability building for catching-up: Historical, empirical and policy dimensions ([full](https://www.unido.org/sites/default/files/files/2019-03/UNIDO_Industrial_Development_Report_2005.pdf), [web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/industrial-development-report-2005))
-- 2004 Industrial Development Report – Industrialization, environment and the Millennium Development Goals in Sub-Saharan Africa: The new frontier in the fight against poverty ([full](https://open.unido.org/api/documents/4805380/download/Industrial%20Development%20Report%202004%20-%20Industrialization,%20Environment%20and%20the%20Millennium%20Development%20Goals%20in%20Sub-Saharan%20Africa%20-%20The%20new%20frontier%20in%20the%20fight%20against%20poverty), [web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2004))
-- 2002/03 Industrial Development Report – Competing through innovation and learning ([full](https://open.unido.org/api/documents/4803465/download/Industrial%20Development%20Report%202002-2003%20-%20Competing%20through%20Innovation%20and%20Learning), [web](https://www.unido.org/resources/publications/publications-type/sales-publications/industrial-development-report-2002-2003))
+- 2009 Industrial Development Report – Breaking in and moving up: New industrial challenges for the bottom billion and the middle-income countries ([web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2009), [full](https://www.unido.org/sites/default/files/2009-02/IDR_2009_print_0.PDF), [summary](https://www.unido.org/sites/default/files/2009-02/IDR_SUMMARY_print_0.pdf))
+- 2005 Industrial Development Report – Capability building for catching-up: Historical, empirical and policy dimensions ([web](https://www.unido.org/resources-publications-flagship-publications-industrial-development-report-series/industrial-development-report-2005), [full](https://www.unido.org/sites/default/files/files/2019-03/UNIDO_Industrial_Development_Report_2005.pdf))
+- 2004 Industrial Development Report – Industrialization, environment and the Millennium Development Goals in Sub-Saharan Africa: The new frontier in the fight against poverty ([web](https://www.unido.org/resources/publications/flagship-publications/industrial-development-report-series/industrial-development-report-2004), [full](https://www.un-ilibrary.org/content/books/9789210451253/read))
+- 2002/03 Industrial Development Report – Competing through innovation and learning ([web](https://www.unido.org/resources/publications/publications-type/sales-publications/industrial-development-report-2002-2003))
 
 
 
 ## International Debt Statistics
 
-> World Bank Group ([source](https://data.worldbank.org/products/ids))
+> World Bank Group ([source](https://openknowledge.worldbank.org/collections/8f676469-d666-503c-98c7-31495fc450ab))
 
 - 2022 International Debt Statistics ([web](https://openknowledge.worldbank.org/handle/10986/36289))
 - 2021 International Debt Statistics ([web](https://openknowledge.worldbank.org/handle/10986/34588))
@@ -1387,7 +1386,8 @@
 
 - 2020 Living Planet Report – Bending the curve of biodiversity loss ([web](https://livingplanet.panda.org/en-us/))
 - 2018 Living Planet Report – Aiming higher ([full](https://c402277.ssl.cf1.rackcdn.com/publications/1187/files/original/LPR2018_Full_Report_Spreads.pdf), [summary](https://s3.amazonaws.com/wwfassets/downloads/lpr2018_summary_report_spreads.pdf), [web](https://www.worldwildlife.org/pages/living-planet-report-2018))
-- 2016 Living Planet Report – Risk and resilience in a new era ([full](https://c402277.ssl.cf1.rackcdn.com/publications/964/files/original/lpr_living_planet_report_2016.pdf?1477582118&_ga=1.148678772.2122160181.1464121326), [summary](http://awsassets.panda.org/downloads/lpr_living_planet_report_2016_summary.pdf), [web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2016/))
+- 2018 Living Planet Report – Aiming higher ([web](https://www.worldwildlife.org/pages/living-planet-report-2018), [full](https://c402277.ssl.cf1.rackcdn.com/publications/1187/files/original/LPR2018_Full_Report_Spreads.pdf), [summary](https://s3.amazonaws.com/wwfassets/downloads/lpr2018_summary_report_spreads.pdf))
+- 2016 Living Planet Report – Risk and resilience in a new era ([web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2016/), [full](https://c402277.ssl.cf1.rackcdn.com/publications/964/files/original/lpr_living_planet_report_2016.pdf?1477582118&_ga=1.148678772.2122160181.1464121326), [summary](http://awsassets.panda.org/downloads/lpr_living_planet_report_2016_summary.pdf))
 - 2014 Living Planet Report – Species and spaces, people and places ([web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2014/))
 - 2012 Living Planet Report – Biodiversity, biocapacity and better choices ([web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2012/))
 - 2010 Living Planet Report – Biodiversity, biocapacity and development ([web](https://wwf.panda.org/knowledge_hub/all_publications/living_planet_report_timeline/lpr_2010/))
@@ -1526,7 +1526,7 @@
 - 2021 n/a
 - 2020 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2021/04/PPR-2020web.pdf))
 - 2019 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/PPR-2019-web.pdf))
-- 2018 Positive Peace Report (full)
+- 2018 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Positive-Peace-Report-2018.pdf))
 - 2017 Positive Peace Report ([full](https://www.visionofhumanity.org/wp-content/uploads/2020/10/Positive-Peace-Report-2017.pdf))
 
 
@@ -1557,62 +1557,63 @@
 
 ## Review of Maritime Transport
 
-> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/Review-of-Maritime-Transport-(Series).aspx))
+> United Nations Conference on Trade and Development ([source](https://unctad.org/topic/transport-and-trade-logistics/review-of-maritime-transport))
 
 - 2021 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2021))
 - 2020 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2020))
-- 2019 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2019))
-- 2018 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2018))
-  - 50 years of Review of Maritime Transport – Reflecting on the past, exploring the future ([web](https://unctad.org/webflyer/50-years-review-maritime-transport-1968-2018-reflecting-past-exploring-future))
-- 2017 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2017))
-- 2016 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2016))
-- 2015 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2015))
-- 2014 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2014))
-- 2013 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2013))
-- 2012 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2012))
-- 2011 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2011fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2011))
-- 2010 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2010fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2010-0))
-- 2009 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2009fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2009-0))
-- 2008 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2008fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2008-0))
-- 2007 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2007fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2007))
-- 2006 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2006fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2006))
-- 2005 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2005))
-- 2004 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2004fas_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2004))
-- 2003 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2003summary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2003))
-- 2002 Review of Maritime Transport ([summary](https://unctad.org/en/Docs/rmt2002summary_en.pdf), [web](https://unctad.org/webflyer/review-maritime-transport-2002))
-- 2001 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2001))
-- 2000 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-2000))
-- 1999 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1999))
-- 1998 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1998))
-- 1997 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1997))
+- 2020 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2020))
+- 2019 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2019))
+- 2018 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2018))
+  - 50 years of Review of Maritime Transport – Reflecting on the past, exploring the future ([web](https://unctad.org/publication/50-years-review-maritime-transport-1968-2018-reflecting-past-exploring-future))
+- 2017 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2017))
+- 2016 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2016))
+- 2015 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2015))
+- 2014 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2014))
+- 2013 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2013))
+- 2012 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2012))
+- 2011 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2011), [summary](https://unctad.org/en/Docs/rmt2011fas_en.pdf))
+- 2010 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2010), [summary](https://unctad.org/en/Docs/rmt2010fas_en.pdf))
+- 2009 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2009), [summary](https://unctad.org/en/Docs/rmt2009fas_en.pdf))
+- 2008 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2008), [summary](https://unctad.org/en/Docs/rmt2008fas_en.pdf))
+- 2007 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2007), [summary](https://unctad.org/en/Docs/rmt2007fas_en.pdf))
+- 2006 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2006), [summary](https://unctad.org/en/Docs/rmt2006fas_en.pdf))
+- 2005 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2005))
+- 2004 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2004), [summary](https://unctad.org/en/Docs/rmt2004fas_en.pdf))
+- 2003 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2003), [summary](https://unctad.org/en/Docs/rmt2003summary_en.pdf))
+- 2002 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2002), [summary](https://unctad.org/en/Docs/rmt2002summary_en.pdf))
+- 2001 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2001))
+- 2000 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-2000))
+- 1999 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1999))
+- 1998 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1998))
+- 1997 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1997))
 - 1996 n/a
-- 1995 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1995))
-- 1994 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1994))
-- 1993 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1993))
-- 1992 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1992))
-- 1991 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1991))
-- 1990 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1990))
-- 1989 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1989))
-- 1988 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1988))
-- 1987 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1987))
-- 1986 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1986))
-- 1985 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1985))
-- 1984 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1984))
-- 1983 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1983))
-- 1982 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1982))
-- 1981 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1981))
-- 1980 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1980))
-- 1979 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1979))
-- 1978 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1978))
-- 1977 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1977))
-- 1976 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1976))
-- 1975 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1975))
-- 1974 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1974))
-- 1972/73 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1972-73))
-- 1971 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1971))
-- 1970 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1970))
-- 1969 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1969))
-- 1968 Review of Maritime Transport ([web](https://unctad.org/webflyer/review-maritime-transport-1968))
+- 1995 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1995))
+- 1994 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1994))
+- 1993 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1993))
+- 1992 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1992))
+- 1991 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1991))
+- 1990 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1990))
+- 1989 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1989))
+- 1988 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1988))
+- 1987 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1987))
+- 1986 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1986))
+- 1985 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1985))
+- 1984 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1984))
+- 1983 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1983))
+- 1982 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1982))
+- 1981 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1981))
+- 1980 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1980))
+- 1979 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1979))
+- 1978 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1978))
+- 1977 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1977))
+- 1976 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1976))
+- 1975 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1975))
+- 1974 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1974))
+- 1972/73 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1972-73))
+- 1971 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1971))
+- 1970 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1970))
+- 1969 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1969))
+- 1968 Review of Maritime Transport ([web](https://unctad.org/publication/review-maritime-transport-1968))
 
 
 
@@ -1761,14 +1762,15 @@
 
 ## Technology and Innovation Report
 
-> United Nations Conference on Trade and Development ([source](https://unctad.org/en/pages/publications/Technology-Innovation-Report.aspx))
+> United Nations Conference on Trade and Development ([source](https://unctad.org/topic/science-technology-and-innovation/technology-innovation-report))
 
 - 2021 Technology and Innovation Report – Catching technological waves: Innovation with equality ([web](https://unctad.org/webflyer/technology-and-innovation-report-2021))
 - 2018 Technology and Innovation Report – Harnessing frontier technologies for sustainable development ([web](https://unctad.org/webflyer/technology-and-innovation-report-2018))
-- 2015 Technology and Innovation Report – Fostering innovation policies for industrial development ([web](https://unctad.org/webflyer/technology-and-innovation-report-2015))
-- 2012 Technology and Innovation Report – Innovation, technology and South-South collaboration ([web](https://unctad.org/webflyer/technology-and-innovation-report-2012))
-- 2011 Technology and Innovation Report – Powering development with renewable energy technologies ([web](https://unctad.org/webflyer/technology-and-innovation-report-2011))
-- 2010 Technology and Innovation Report – Enhancing food security in Africa through science, technology and innovation ([web](https://unctad.org/webflyer/technology-and-innovation-report-2010))
+- 2018 Technology and Innovation Report – Harnessing frontier technologies for sustainable development ([web](https://unctad.org/publication/technology-and-innovation-report-2018))
+- 2015 Technology and Innovation Report – Fostering innovation policies for industrial development ([web](https://unctad.org/publication/technology-and-innovation-report-2015))
+- 2012 Technology and Innovation Report – Innovation, technology and South-South collaboration ([web](https://unctad.org/publication/technology-and-innovation-report-2012))
+- 2011 Technology and Innovation Report – Powering development with renewable energy technologies ([web](https://unctad.org/publication/technology-and-innovation-report-2011))
+- 2010 Technology and Innovation Report – Enhancing food security in Africa through science, technology and innovation ([web](https://unctad.org/publication/technology-and-innovation-report-2010))
 
 
 
@@ -1859,42 +1861,43 @@
 > United Nations Conference on Trade and Development ([source](https://unctad.org/publications-search?f[0]=product%3A392))
 
 - 2021 The Least Developed Countries Report – The least developed countries in the post-COVID world: Learning from 50 years of experience ([web](https://unctad.org/webflyer/least-developed-countries-report-2021))
-- 2020 The Least Developed Countries Report – Productive capacities for the new decade ([web](https://unctad.org/webflyer/least-developed-countries-report-2020))
-- 2019 The Least Developed Countries Report – The present and future of external development finance: Old dependence, new challenges ([web](https://unctad.org/webflyer/least-developed-countries-report-2019))
-- 2018 The Least Developed Countries Report – Entrepreneurship for structural transformation: Beyond business as usual ([web](https://unctad.org/webflyer/least-developed-countries-report-2018))
-- 2017 The Least Developed Countries Report – Transformational energy access ([web](https://unctad.org/webflyer/least-developed-countries-report-2017))
-- 2016 The Least Developed Countries Report – The path to graduation and beyond: Making the most of the process ([web](https://unctad.org/webflyer/least-developed-countries-report-2016))
-- 2015 The Least Developed Countries Report – Transforming rural economies ([web](https://unctad.org/webflyer/least-developed-countries-report-2015))
-- 2014 The Least Developed Countries Report – Growth with structural transformation: A post-2015 development agenda ([web](https://unctad.org/webflyer/least-developed-countries-report-2014))
-- 2013 The Least Developed Countries Report – Growth with employment for inclusive and sustainable development ([web](https://unctad.org/webflyer/least-developed-countries-report-2013))
-- 2012 The Least Developed Countries Report – Harnessing remittances and diaspora knowledge to build productive capacities ([web](https://unctad.org/webflyer/least-developed-countries-report-2012))
-- 2011 The Least Developed Countries Report – The potential role of South-South cooperation for inclusive and sustainable development ([summary](https://unctad.org/en/Docs/ldc2011overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2011))
-- 2010 The Least Developed Countries Report – Towards a new international development architecture for LDCs ([summary](https://unctad.org/en/Docs/ldc2010overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2010))
-- 2009 The Least Developed Countries Report – The state and development governance ([summary](https://unctad.org/en/Docs/ldc2009overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2009))
-- 2008 The Least Developed Countries Report – Growth, poverty and the terms of development partnership ([summary](https://unctad.org/en/Docs/ldc2008overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2008))
-- 2007 The Least Developed Countries Report – Knowledge, technological learning and innovation for development ([summary](https://unctad.org/en/Docs/ldc2007overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2007))
-- 2006 The Least Developed Countries Report – Developing productive capacities ([summary](https://unctad.org/en/Docs/ldc2006overview_en.pdf), [web](https://unctad.org/webflyer/least-developed-countries-report-2006))
+- 2020 The Least Developed Countries Report – Productive capacities for the new decade ([web](https://unctad.org/publication/least-developed-countries-report-2020))
+- 2019 The Least Developed Countries Report – The present and future of external development finance: Old dependence, new challenges ([web](https://unctad.org/publication/least-developed-countries-report-2019))
+- 2018 The Least Developed Countries Report – Entrepreneurship for structural transformation: Beyond business as usual ([web](https://unctad.org/publication/least-developed-countries-report-2018))
+- 2017 The Least Developed Countries Report – Transformational energy access ([web](https://unctad.org/publication/least-developed-countries-report-2017))
+- 2016 The Least Developed Countries Report – The path to graduation and beyond: Making the most of the process ([web](https://unctad.org/publication/least-developed-countries-report-2016))
+- 2015 The Least Developed Countries Report – Transforming rural economies ([web](https://unctad.org/publication/least-developed-countries-report-2015))
+- 2014 The Least Developed Countries Report – Growth with structural transformation: A post-2015 development agenda ([web](https://unctad.org/publication/least-developed-countries-report-2014))
+- 2013 The Least Developed Countries Report – Growth with employment for inclusive and sustainable development ([web](https://unctad.org/publication/least-developed-countries-report-2013))
+- 2012 The Least Developed Countries Report – Harnessing remittances and diaspora knowledge to build productive capacities ([web](https://unctad.org/publication/least-developed-countries-report-2012))
+- 2011 The Least Developed Countries Report – The potential role of South-South cooperation for inclusive and sustainable development ([web](https://unctad.org/publication/least-developed-countries-report-2011), [summary](https://unctad.org/system/files/official-document/ldc2011overview_en.pdf))
+- 2010 The Least Developed Countries Report – Towards a new international development architecture for LDCs ([web](https://unctad.org/publication/least-developed-countries-report-2010), [summary](https://unctad.org/en/Docs/ldc2010overview_en.pdf))
+- 2009 The Least Developed Countries Report – The state and development governance ([web](https://unctad.org/publication/least-developed-countries-report-2009), [summary](https://unctad.org/system/files/official-document/ldc2009overview_en.pdf))
+- 2008 The Least Developed Countries Report – Growth, poverty and the terms of development partnership ([web](https://unctad.org/publication/least-developed-countries-report-2008), [summary](https://unctad.org/system/files/official-document/ldc2008overview_en.pdf))
+- 2007 The Least Developed Countries Report – Knowledge, technological learning and innovation for development ([web](https://unctad.org/publication/least-developed-countries-report-2007), [summary](https://unctad.org/system/files/official-document/ldc2007overview_en.pdf))
+- 2006 The Least Developed Countries Report – Developing productive capacities ([web](https://unctad.org/publication/least-developed-countries-report-2006), [summary](https://unctad.org/system/files/official-document/ldc2006overview_en.pdf))
 - 2005 n/a
-- 2004 The Least Developed Countries Report – Linking international trade with poverty reduction ([web](https://unctad.org/webflyer/least-developed-countries-report-2004))
+- 2004 The Least Developed Countries Report – Linking international trade with poverty reduction ([web](https://unctad.org/publication/least-developed-countries-report-2004))
 - 2003 n/a
-- 2002 The Least Developed Countries Report – Escaping the poverty trap ([web](https://unctad.org/webflyer/least-developed-countries-report-2002))
+- 2002 The Least Developed Countries Report – Escaping the poverty trap ([web](https://unctad.org/publication/least-developed-countries-report-2002))
 - 2001 n/a
-- 2000 The Least Developed Countries Report – Aid, private capital flows and external debt: The challenge of financing development in the LDCs ([web](https://unctad.org/webflyer/least-developed-countries-report-2000))
-- 1999 The Least Developed Countries Report ([web](https://unctad.org/webflyer/least-developed-countries-report-1999))
-- 1998 The Least Developed Countries Report ([web](https://unctad.org/webflyer/least-developed-countries-report-1998))
-- 1997 The Least Developed Countries Report ([web](https://unctad.org/webflyer/least-developed-countries-report-1997))
-- 1996 The Least Developed Countries Report ([web](https://unctad.org/webflyer/least-developed-countries-report-1996))
-- 1995 The Least Developed Countries Report ([summary](https://unctad.org/en/Docs/tb41(2)d4.en.pdf))
+- 2000 The Least Developed Countries Report – Aid, private capital flows and external debt: The challenge of financing development in the LDCs ([web](https://unctad.org/publication/least-developed-countries-report-2000))
+- 1999 The Least Developed Countries Report ([web](https://unctad.org/publication/least-developed-countries-report-1999))
+- 1998 The Least Developed Countries Report ([web](https://unctad.org/publication/least-developed-countries-report-1998))
+- 1997 The Least Developed Countries Report ([web](https://unctad.org/publication/least-developed-countries-report-1997))
+- 1996 The Least Developed Countries Report ([web](https://unctad.org/publication/least-developed-countries-report-1996))
+- 1995 The Least Developed Countries Report ([summary](https://unctad.org/system/files/official-document/tb41%282%29d4.en.pdf))
 
 
 
 ## The Network Readiness Index
 
-> Portulans Institute, World Economic Forum ([source 1](https://www.weforum.org/reports?utf8=%E2%9C%93&query=global+information+technology+report), [source 2](https://networkreadinessindex.org/))
+> Portulans Institute, World Economic Forum ([source](https://networkreadinessindex.org/))
 
 - 2021 The Network Readiness Index – Shaping the global recovery: How digital technologies can make the post-covid world more equal ([web](https://networkreadinessindex.org/))
-- 2020 The Network Readiness Index – Accelerating digital transformation in a post-COVID global economy ([full](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf), [web](https://networkreadinessindex.org/nri-2020-analysis/))
-- 2019 The Network Readiness Index – Towards a future-ready society ([full](https://networkreadinessindex.org/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf), [summary](https://networkreadinessindex.org/wp-content/uploads/2019/12/2019-NRI-Executive-Summary-1.pdf), [web](https://networkreadinessindex.org/nri-2019-analysis/))
+- 2021 The Network Readiness Index – Shaping the global recovery: How digital technologies can make the post-covid world more equal ([full](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf))
+- 2020 The Network Readiness Index – Accelerating digital transformation in a post-COVID global economy ([full](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf))
+- 2019 The Network Readiness Index – Towards a future-ready society ([full](https://networkreadinessindex.org/wp-content/uploads/2022/09/NRI_2019_Report.pdf), [summary](https://networkreadinessindex.org/wp-content/uploads/2019/12/2019-NRI-Executive-Summary-1.pdf))
 - 2016 The Global Information Technology Report – Innovating in the digital economy ([web](https://reports.weforum.org/global-information-technology-report-2016/))
 - 2015 The Global Information Technology Report – ICTs for inclusive growth ([web](https://reports.weforum.org/global-information-technology-report-2015/))
 - 2014 The Global Information Technology Report – Rewards and risks of big data ([web](https://reports.weforum.org/global-information-technology-report-2014/))
@@ -1909,13 +1912,13 @@
 - 2004/05 The Global Information Technology Report ([summary](https://www.scribd.com/document/6295869/Global-Information-Technology-Report-2004-2005-Executive-Summary)) 
 - 2003/04 The Global Information Technology Report ([summary](https://www.scribd.com/document/6295868/Global-Information-Technology-Report-2003-2004-Executive-Summary)) 
 - 2002/03 The Global Information Technology Report
-- 2001/02 The Global Information Technology Report – Readiness for the networked world ([full](http://www.caribbeanelections.com/eDocs/development_reports/gitr_2001_2002.pdf), [summary](https://cyber.harvard.edu/itg/libpubs/gitrr2002_execsumm.pdf)) 
+- 2001/02 The Global Information Technology Report – Readiness for the networked world ([summary](https://cyber.harvard.edu/itg/libpubs/gitrr2002_execsumm.pdf)) 
 
 
 
 ## The Space Report
 
-> Space Foundation ([source](https://www.thespacereport.org/pricing/))
+> Space Foundation ([source](https://www.thespacereport.org/quarterly-reports/))
 
 - 2021 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2021-4-quarterly-reports-pdf-download/)) **$**
 - 2020 The Space Report ([web](https://www.thespacereport.org/register/the-space-report-2020-4-quarterly-reports-pdf-download/)) **$**
@@ -1969,17 +1972,17 @@
 - 2007 The State of Food and Agriculture – Paying farmers for environmental services ([web](http://www.fao.org/publications/sofa/2007/en/))
 - 2006 The State of Food and Agriculture – Food aid for food security? ([web](http://www.fao.org/publications/sofa/2006/en/))
 - 2005 The State of Food and Agriculture – Agricultural trade and poverty: Can trade work for the poor? ([web](http://www.fao.org/3/a0050e/a0050e00.htm))
-- 2003/04 The State of Food and Agriculture – Agricultural biotechnology : Meeting the needs of the poor? ([full](http://www.fao.org/tempref/docrep/fao/006/y5160e/y5160e.pdf), [web](http://www.fao.org/3/Y5160E/Y5160E00.htm))
-- 2002 The State of Food and Agriculture – Agriculture and global public goods ten years after the Earth Summit ([full](http://www.fao.org/tempref/agl/AGLW/ESPIM/CD-ROM/documents/2B_e.pdf), [web](http://www.fao.org/3/y6000e/y6000e00.htm))
-- 2001 The State of Food and Agriculture – Economic impacts of transboundary plant pests and animal diseases ([full](http://www.fao.org/3/a-x9800e.pdf), [web](http://www.fao.org/3/x9800e/x9800e00.htm#TopOfPage))
+- 2003/04 The State of Food and Agriculture – Agricultural biotechnology : Meeting the needs of the poor? ([web](http://www.fao.org/3/Y5160E/Y5160E00.htm))
+- 2002 The State of Food and Agriculture – Agriculture and global public goods ten years after the Earth Summit ([web](http://www.fao.org/3/y6000e/y6000e00.htm))
+- 2001 The State of Food and Agriculture – Economic impacts of transboundary plant pests and animal diseases ([web](http://www.fao.org/3/x9800e/x9800e00.htm#TopOfPage), [full](https://www.fao.org/3/x9800e/x9800e.pdf))
 - 2000 The State of Food and Agriculture – World food and agriculture: Lessons from the past 50 years ([full](http://www.fao.org/3/x4400e/x4400e.pdf))
 - 1999 The State of Food and Agriculture ([full](http://www.fao.org/3/x3150e/x3150e.pdf))
 - 1998 The State of Food and Agriculture – Rural non-farm income in developing countries ([full](http://www.fao.org/3/w9500e/w9500e.pdf))
 - 1997 The State of Food and Agriculture – The agroprocessing industry and economic development ([full](http://www.fao.org/3/a-w5800e.pdf))
-- 1996 The State of Food and Agriculture – Food security: Some macroeconomic dimensions ([full](http://www.fao.org/3/w1358e/w1358e.pdf), [web](http://www.fao.org/3/w1358e/w1358e00.htm))
+- 1996 The State of Food and Agriculture – Food security: Some macroeconomic dimensions ([web](http://www.fao.org/3/w1358e/w1358e00.htm), [full](http://www.fao.org/3/w1358e/w1358e.pdf))
 - 1995 The State of Food and Agriculture – Agricultural trade: Entering a new era? ([full](http://www.fao.org/3/v6800e/v6800e.pdf))
 - 1994 The State of Food and Agriculture – Forest development and policy dilemmas ([full](http://www.fao.org/3/a-t4450e.pdf))
-- 1993 The State of Food and Agriculture – Water policies and agriculture ([full](http://www.fao.org/3/t0800e/t0800e.pdf), [web](http://www.fao.org/3/t0800e/t0800e00.htm))
+- 1993 The State of Food and Agriculture – Water policies and agriculture ([web](http://www.fao.org/3/t0800e/t0800e00.htm), [full](http://www.fao.org/3/t0800e/t0800e.pdf))
 - 1992 The State of Food and Agriculture – Marine fisheries and the law of the sea: A decade of change ([full](http://www.fao.org/3/a-t0656e.pdf))
 - 1991 The State of Food and Agriculture – Agricultural policies and issues: Lessons from the 1980s and prospects for the 1990s ([full](http://www.fao.org/3/a-t0496e.pdf))
 - 1990 The State of Food and Agriculture – Structural adjustment and agriculture ([full](http://www.fao.org/3/a-t0366e.pdf))
@@ -2030,7 +2033,7 @@
 
 ## The State of Food Security and Nutrition
 
-> Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofi/en/))
+> Food and Agriculture Organization of the United Nations ([source](https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en))
 
 - 2022 The State of Food Security and Nutrition – Repurposing food and agricultural policies to make healthy diets more affordable ([web](https://www.fao.org/documents/card/en/c/cc0639en/))
 - 2021 The State of Food Security and Nutrition – Transforming food systems for food security, improved nutrition and affordable healthy diets for all ([web](https://www.fao.org/documents/card/en/c/cb4474en/))
@@ -2061,7 +2064,7 @@
 
 ## The State of the World's Human Rights
 
-> Amnesty International ([source](https://www.amnesty.org/en/search/?q=&documentType=Annual+Report))
+> Amnesty International ([source](https://www.amnesty.org/en/search/The%20State%20of%20the%20World%27s%20Human%20Rights/))
 
 - 2021/22 Amnesty International Report – The State of the World's Human Rights ([web](https://www.amnesty.org/en/documents/pol10/4870/2022/en/))
 - 2020/21 Amnesty International Report – The State of the World's Human Rights ([web](https://www.amnesty.org/en/documents/pol10/3202/2021/en/))
@@ -2130,9 +2133,7 @@
 > United Nations Children’s Emergency Fund (UNICEF) ([source](https://www.unicef.org/reports/state-of-worlds-children))
 
 - 2021 The State of the World’s Children – On my mind: Promoting, protecting and caring for children's mental health ([web](https://www.unicef.org/reports/state-worlds-children-2021))
-- 2020 n/a
 - 2019 The State of the World’s Children – Children, food and nutrition: Growing well in a changing world ([web](https://www.unicef.org/reports/state-of-worlds-children-2019))
-- 2018 n/a
 - 2017 The State of the World’s Children – Children in a digital world ([web](https://www.unicef.org/reports/state-worlds-children-2017))
 - 2016 The State of the World’s Children – A fair chance for every child ([web](https://www.unicef.org/reports/state-worlds-children-2016))
 - 2015 The State of the World’s Children – Reimagine the future: Innovation for every child ([web](https://www.unicef.org/reports/state-worlds-children-2015))
@@ -2199,10 +2200,10 @@
 
 > Food and Agriculture Organization of the United Nations ([source](http://www.fao.org/publications/sofia/en/))
 
-- 2022 The State of World Fisheries and Aquaculture – Towards blue transformation ([web](https://www.fao.org/publications/sofia/2022/en/))
-- 2020 The State of World Fisheries and Aquaculture – Sustainability in action ([web](https://www.fao.org/publications/sofia/2020/en/))
-- 2018 The State of World Fisheries and Aquaculture – Meeting the Sustainable Development Goals ([web](http://www.fao.org/publications/sofia/2018/en/))
-- 2016 The State of World Fisheries and Aquaculture – Contributing to food security and nutrition for all ([web](http://www.fao.org/publications/sofia/2016/en/))
+- 2022 The State of World Fisheries and Aquaculture – Towards blue transformation ([web](https://www.fao.org/documents/card/en/c/cc0461en))
+- 2020 The State of World Fisheries and Aquaculture – Sustainability in action ([web](https://www.fao.org/documents/card/en/c/ca9229en))
+- 2018 The State of World Fisheries and Aquaculture – Meeting the Sustainable Development Goals ([web](https://www.fao.org/documents/card/en/c/i9540en))
+- 2016 The State of World Fisheries and Aquaculture – Contributing to food security and nutrition for all ([web](https://www.fao.org/documents/card/en/c/2c8bcf47-2214-4aeb-95b0-62ddef8a982a))
 - 2014 The State of World Fisheries and Aquaculture – Opportunities and challenges ([web](https://www.fao.org/documents/card/en/c/097d8007-49a4-4d65-88cd-fcaf6a969776/))
 - 2012 The State of World Fisheries and Aquaculture ([web](https://www.fao.org/publications/card/en/c/81ea54da-0f65-56c6-91d2-8257b8ac4136/))
 - 2010 The State of World Fisheries and Aquaculture ([web](https://www.fao.org/documents/card/en/c/f9f071ce-7bee-5107-a343-097685d0d683/))
@@ -2249,7 +2250,7 @@
 
 > United Nations Department of Economic and Social Affairs ([source](https://unstats.un.org/unsd/demographic-social/products/worldswomen/index.cshtml))
 
-- 2020 The World's Women ([summary](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW2020_ExecutiveSummary.pdf), [web](https://worlds-women-2020-data-undesa.hub.arcgis.com/))
+- 2020 The World's Women ([web](https://worlds-women-2020-data-undesa.hub.arcgis.com/), [summary](https://unstats.un.org/unsd/demographic-social/products/worldswomen/documents/WW2020_ExecutiveSummary.pdf))
 - 2015 The World's Women ([web](https://unstats.un.org/unsd/gender/worldswomen2015.html))
 - 2010 The World's Women ([web](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2010pub/))
 - 2005 The World's Women – Progress in statistics ([web](https://unstats.un.org/unsd/demographic-social/products/worldswomen/ww2005pub/))
@@ -2276,35 +2277,36 @@
 
 ## Trade and Development Report
 
-> United Nations Conference on Trade and Development ([source](https://unctad.org/en/Pages/Publications/TradeandDevelopmentReport.aspx))
+> United Nations Conference on Trade and Development ([source](https://unctad.org/topic/macroeconomics/trade-development-report))
 
 - 2021 Trade and Development Report – From recovery to resilience: The development dimension ([web](https://unctad.org/webflyer/trade-and-development-report-2021))
 - 2020 Trade and Development Report – From global pandemic to prosperity for all: Avoiding another lost decade ([web](https://unctad.org/webflyer/trade-and-development-report-2020))
-- 2019 Trade and Development Report – Financing a global green new deal ([web](https://unctad.org/webflyer/trade-and-development-report-2019))
-- 2018 Trade and Development Report – Power, platforms and the free trade delusion ([web](https://unctad.org/webflyer/trade-and-development-report-2018))
-- 2017 Trade and Development Report – Beyond austerity: Towards a global new deal ([web](https://unctad.org/webflyer/trade-and-development-report-2017))
-- 2016 Trade and Development Report – Structural transformation for inclusive and sustained growth ([web](https://unctad.org/webflyer/trade-and-development-report-2016))
-- 2015 Trade and Development Report – Making the international financial architecture work for development ([web](https://unctad.org/webflyer/trade-and-development-report-2015))
-- 2014 Trade and Development Report – Global governance and policy space for development ([web](https://unctad.org/webflyer/trade-and-development-report-2014))
-- 2013 Trade and Development Report – Adjusting to the changing dynamics of the world economy ([web](https://unctad.org/webflyer/trade-and-development-report-2013))
-- 2012 Trade and Development Report – Policies for inclusive and balanced growth ([web](https://unctad.org/webflyer/trade-and-development-report-2012))
-- 2011 Trade and Development Report – Post-crisis policy challenges in the world economy ([summary](https://unctad.org/en/Docs/tdr2011overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2011))
+- 2020 Trade and Development Report – From global pandemic to prosperity for all: Avoiding another lost decade ([web](https://unctad.org/publication/trade-and-development-report-2020))
+- 2019 Trade and Development Report – Financing a global green new deal ([web](https://unctad.org/publication/trade-and-development-report-2019))
+- 2018 Trade and Development Report – Power, platforms and the free trade delusion ([web](https://unctad.org/publication/trade-and-development-report-2018))
+- 2017 Trade and Development Report – Beyond austerity: Towards a global new deal ([web](https://unctad.org/publication/trade-and-development-report-2017))
+- 2016 Trade and Development Report – Structural transformation for inclusive and sustained growth ([web](https://unctad.org/publication/trade-and-development-report-2016))
+- 2015 Trade and Development Report – Making the international financial architecture work for development ([web](https://unctad.org/publication/trade-and-development-report-2015))
+- 2014 Trade and Development Report – Global governance and policy space for development ([web](https://unctad.org/publication/trade-and-development-report-2014))
+- 2013 Trade and Development Report – Adjusting to the changing dynamics of the world economy ([web](https://unctad.org/publication/trade-and-development-report-2013))
+- 2012 Trade and Development Report – Policies for inclusive and balanced growth ([web](https://unctad.org/publication/trade-and-development-report-2012))
+- 2011 Trade and Development Report – Post-crisis policy challenges in the world economy ([web](https://unctad.org/publication/trade-and-development-report-2011), [summary](https://unctad.org/en/Docs/tdr2011overview_en.pdf))
   - Three decades of thinking development ([full](https://unctad.org/en/PublicationsLibrary/gds2012d1_en.pdf))
-- 2010 Trade and Development Report – Employment, globalization and development ([summary](https://unctad.org/en/Docs/tdr2010overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2010))
-- 2009 Trade and Development Report – Responding to the global crisis, climate change mitigation and development ([summary](https://unctad.org/en/Docs/tdr2009overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2009))
-- 2008 Trade and Development Report – Commodity prices, capital flows and the financing of investment ([summary](https://unctad.org/en/Docs/tdr2008overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2008))
-- 2007 Trade and Development Report – Regional cooperation for development ([summary](https://unctad.org/system/files/official-document/tdr2007overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2007))
-- 2006 Trade and Development Report – Global partnership and national policies for development ([summary](https://unctad.org/en/Docs/tdr2006overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2006))
-- 2005 Trade and Development Report – New features of global interdependence ([summary](https://unctad.org/en/Docs/tdr2005overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2005))
-- 2004 Trade and Development Report – Policy coherence, development strategies and integration into the world economy ([summary](https://unctad.org/en/Docs/tdr2004overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2004))
-- 2003 Trade and Development Report – Capital accumulation, growth and structural change ([summary](https://unctad.org/system/files/official-document/TDR2003Overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-2003))
+- 2010 Trade and Development Report – Employment, globalization and development ([web](https://unctad.org/publication/trade-and-development-report-2010), [summary](https://unctad.org/en/Docs/tdr2010overview_en.pdf))
+- 2009 Trade and Development Report – Responding to the global crisis, climate change mitigation and development ([web](https://unctad.org/publication/trade-and-development-report-2009), [summary](https://unctad.org/en/Docs/tdr2009overview_en.pdf))
+- 2008 Trade and Development Report – Commodity prices, capital flows and the financing of investment ([web](https://unctad.org/publication/trade-and-development-report-2008), [summary](https://unctad.org/en/Docs/tdr2008overview_en.pdf))
+- 2007 Trade and Development Report – Regional cooperation for development ([web](https://unctad.org/publication/trade-and-development-report-2007), [summary](https://unctad.org/system/files/official-document/tdr2007overview_en.pdf))
+- 2006 Trade and Development Report – Global partnership and national policies for development ([web](https://unctad.org/publication/trade-and-development-report-2006), [summary](https://unctad.org/en/Docs/tdr2006overview_en.pdf))
+- 2005 Trade and Development Report – New features of global interdependence ([web](https://unctad.org/publication/trade-and-development-report-2005), [summary](https://unctad.org/en/Docs/tdr2005overview_en.pdf))
+- 2004 Trade and Development Report – Policy coherence, development strategies and integration into the world economy ([web](https://unctad.org/publication/trade-and-development-report-2004), [summary](https://unctad.org/en/Docs/tdr2004overview_en.pdf))
+- 2003 Trade and Development Report – Capital accumulation, growth and structural change ([web](https://unctad.org/publication/trade-and-development-report-2003), [summary](https://unctad.org/system/files/official-document/TDR2003Overview_en.pdf))
 - 2002 Trade and Development Report – Global trends and prospects, developing countries in world trade ([full](https://unctad.org/en/PublicationsLibrary/tdr2002_en.pdf), [summary](https://unctad.org/system/files/official-document/tdr2002overview_en.pdf))
-- 2001 Trade and Development Report – Global trends and prospects, financial architecture ([summary](https://unctad.org/en/Docs/tdr2001overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2100))
-- 2000 Trade and Development Report – Global economic growth and imbalances ([summary](https://unctad.org/en/Docs/tdr2000overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2098))
-- 1999 Trade and Development Report – Fragile recovery and risks trade, finance and growth ([summary](https://unctad.org/system/files/official-document/tdr1999overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2095))
-- 1998 Trade and Development Report – Financial instability, growth in Africa ([summary](https://unctad.org/system/files/official-document/tdr1998overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2093))
-- 1997 Trade and Development Report – Globalization, distribution and growth ([summary](https://unctad.org/system/files/official-document/tdr1997overview_en.pdf), [web](https://unctad.org/en/pages/PublicationArchive.aspx?publicationid=2091))
-- 1996 Trade and Development Report ([summary](https://unctad.org/en/Docs/tdr1996overview_en.pdf), [web](https://unctad.org/webflyer/trade-and-development-report-1996))
+- 2001 Trade and Development Report – Global trends and prospects, financial architecture ([web](https://unctad.org/publication/trade-and-development-report-2001), [summary](https://unctad.org/en/Docs/tdr2001overview_en.pdf))
+- 2000 Trade and Development Report – Global economic growth and imbalances ([web](https://unctad.org/publication/trade-and-development-report-2000), [summary](https://unctad.org/system/files/official-document/tdr2000overview_en.pdf))
+- 1999 Trade and Development Report – Fragile recovery and risks trade, finance and growth ([web](https://unctad.org/publication/trade-and-development-report-1999), [summary](https://unctad.org/system/files/official-document/tdr1999overview_en.pdf))
+- 1998 Trade and Development Report – Financial instability, growth in Africa ([web](https://unctad.org/publication/trade-and-development-report-1998), [summary](https://unctad.org/system/files/official-document/tdr1998overview_en.pdf))
+- 1997 Trade and Development Report – Globalization, distribution and growth ([web](https://unctad.org/publication/trade-and-development-report-1997), [summary](https://unctad.org/system/files/official-document/tdr1997overview_en.pdf))
+- 1996 Trade and Development Report ([web](https://unctad.org/publication/trade-and-development-report-1996), [summary](https://unctad.org/en/Docs/tdr1996overview_en.pdf))
 - 1995 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr15_en.pdf))
 - 1994 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr14_en.pdf))
 - 1993 Trade and Development Report ([full](https://unctad.org/en/PublicationsLibrary/tdr13_en.pdf))
@@ -2372,37 +2374,6 @@
 - 1998 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000112616/PDF/112616engo.pdf.multi))
 - 1996 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000102819/PDF/102819engo.pdf.multi))
 - 1993 World Science Report ([full](https://unesdoc.unesco.org/ark:/48223/pf0000095612/PDF/095612engo.pdf.multi))
-
-
-
-## UNHCR Global Report
-
-> United Nations Refugee Agency (UNHCR) ([source](https://reporting.unhcr.org/publications#tab-global_report))
-
-- 2021 UNHCR Global Report – The stories behind the numbers ([web](https://reporting.unhcr.org/globalreport2021/))
-- 2020 UNHCR Global Report ([full](https://reporting.unhcr.org/globalreport2020))
-- 2019 UNHCR Global Report – A decade of crisis, a decade of opportunity ([summary](https://reporting.unhcr.org/sites/default/files/gr2019/pdf/01_Intro.pdf), [web](https://www.unhcr.org/globalreport2019/))
-- 2018 UNHCR Global Report – A moment of transition ([full](https://reporting.unhcr.org/sites/default/files/gr2018/pdf/GR2018_English_Full_lowres.pdf))
-- 2017 UNHCR Global Report – A world in turmoil ([full](https://reporting.unhcr.org/sites/default/files/gr2017/pdf/GR2017_English_Full_lowres.pdf))
-- 2016 UNHCR Global Report – A watershed moment ([full](https://reporting.unhcr.org/sites/default/files/gr2016/pdf/Book_GR_2016_ENGLISH_complete.pdf))
-- 2015 UNHCR Global Report – Every life matters ([full](https://reporting.unhcr.org/sites/default/files/GR_2015_Eng.pdf))
-- 2014 UNHCR Global Report
-- 2013 UNHCR Global Report
-- 2012 UNHCR Global Report
-- 2011 UNHCR Global Report
-- 2010 UNHCR Global Report
-- 2009 UNHCR Global Report
-- 2008 UNHCR Global Report
-- 2007 UNHCR Global Report
-- 2006 UNHCR Global Report
-- 2005 UNHCR Global Report
-- 2004 UNHCR Global Report
-- 2003 UNHCR Global Report
-- 2002 UNHCR Global Report
-- 2001 UNHCR Global Report
-- 2000 UNHCR Global Report
-- 1999 UNHCR Global Report
-- 1998 UNHCR Global Report
 
 
 
@@ -2531,10 +2502,10 @@
 
 ## World Cities Report
 
-> United Nations Human Settlements Programme ([source 1](https://unhabitat.org/wcr/), [source 2](https://mirror.unhabitat.org/list.asp?typeid=15&catid=559))
+> United Nations Human Settlements Programme ([source](https://unhabitat.org/wcr/))
 
 - 2022 World Cities Report – Envisaging the future of cities ([web](https://unhabitat.org/wcr/))
-- 2020 World Cities Report – The value of sustainable urbanization ([web](https://unhabitat.org/World%20Cities%20Report%202020#:~:text=The%20World%20Cities%20Report%202020%20convincingly%20affirms%20that%20well%2Dplanned,leveraged%20in%20the%20fight%20against))
+- 2020 World Cities Report – The value of sustainable urbanization ([web](https://unhabitat.org/world-cities-report-2020-the-value-of-sustainable-urbanization#:%7E:text=The%20World%20Cities%20Report%202020%20convincingly%20affirms%20that%20well%2Dplanned,leveraged%20in%20the%20fight%20against))
 - 2016 World Cities Report – Urbanization and development: Emerging futures ([web](https://unhabitat.org/world-cities-report-2016))
 - 2012/13 State of the World's Cities – Prosperity of Cities ([web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=3387))
 - 2010/11 State of the World's Cities – Bridging the urban divide ([web](https://mirror.unhabitat.org/pmss/listItemDetails.aspx?publicationID=2917))
@@ -2597,7 +2568,7 @@
 
 ## World Drug Report
 
-> United Nations Office on Drugs and Crime ([source](https://wdr.unodc.org/wdr2020/en/previous-reports.html))
+> United Nations Office on Drugs and Crime ([source](https://www.unodc.org/unodc/en/data-and-analysis/drug-use-new.html))
 
 - 2021 World Drug Report ([web](https://www.unodc.org/unodc/en/data-and-analysis/wdr2021.html))
 - 2020 World Drug Report ([web](https://wdr.unodc.org/wdr2020/)) 
@@ -2806,22 +2777,22 @@
 - 2013 World Health Report – Research for universal health coverage ([web](https://apps.who.int/iris/handle/10665/85761))
 - 2012 n/a
 - 2011 n/a
-- 2010 World Health Report – Health systems financing: The path to universal coverage ([summary](https://apps.who.int/iris/handle/10665/70496), [web](https://apps.who.int/iris/handle/10665/44371))
+- 2010 World Health Report – Health systems financing: The path to universal coverage ([web](https://apps.who.int/iris/handle/10665/44371), [summary](https://apps.who.int/iris/handle/10665/70496))
 - 2009 n/a
-- 2008 World Health Report – Primary health care: Now more than ever ([summary](https://apps.who.int/iris/handle/10665/69863), [web](https://apps.who.int/iris/handle/10665/43949))
-- 2007 World Health Report – A safer future: Global public health security in the 21st century ([summary](https://apps.who.int/iris/handle/10665/69698), [web](https://apps.who.int/iris/handle/10665/43713))
-- 2006 World Health Report – Working together for health ([summary](https://apps.who.int/iris/handle/10665/69256), [web](https://apps.who.int/iris/handle/10665/43432))
+- 2008 World Health Report – Primary health care: Now more than ever ([web](https://apps.who.int/iris/handle/10665/43949), [summary](https://apps.who.int/iris/handle/10665/69863))
+- 2007 World Health Report – A safer future: Global public health security in the 21st century ([web](https://apps.who.int/iris/handle/10665/43713), [summary](https://apps.who.int/iris/handle/10665/69698))
+- 2006 World Health Report – Working together for health ([web](https://apps.who.int/iris/handle/10665/43432), [summary](https://apps.who.int/iris/handle/10665/69256))
 - 2005 World Health Report – Make every mother and child count ([summary](https://apps.who.int/iris/handle/10665/68962))
-- 2004 World Health Report – Changing history ([summary](https://apps.who.int/iris/handle/10665/68870), [web](https://apps.who.int/iris/handle/10665/42891))
+- 2004 World Health Report – Changing history ([web](https://apps.who.int/iris/handle/10665/42891), [summary](https://apps.who.int/iris/handle/10665/68870))
 - 2003 World Health Report – Shaping the future ([web](https://apps.who.int/iris/handle/10665/42789))
-- 2002 World Health Report – Reducing risks, promoting healthy life ([summary](https://apps.who.int/iris/handle/10665/67454), [web](https://apps.who.int/iris/handle/10665/42510))
+- 2002 World Health Report – Reducing risks, promoting healthy life ([web](https://apps.who.int/iris/handle/10665/42510), [summary](https://apps.who.int/iris/handle/10665/67454))
 - 2001 World Health Report – Mental health: New understanding, new hope ([web](https://apps.who.int/iris/handle/10665/42390))
 - 2000 World Health Report – Health systems: Improving performance ([web](https://apps.who.int/iris/handle/10665/42281))
 - 1999 World Health Report – Making a difference ([web](https://apps.who.int/iris/handle/10665/42167))
-- 1998 World Health Report – Life in the 21st century: A vision for all ([summary](https://apps.who.int/iris/handle/10665/63884), [web](https://apps.who.int/iris/handle/10665/42065))
-- 1997 World Health Report – Conquering suffering, enriching humanity ([summary](https://apps.who.int/iris/handle/10665/63376), [web](https://apps.who.int/iris/handle/10665/41900))
+- 1998 World Health Report – Life in the 21st century: A vision for all ([web](https://apps.who.int/iris/handle/10665/42065), [summary](https://apps.who.int/iris/handle/10665/63884))
+- 1997 World Health Report – Conquering suffering, enriching humanity ([web](https://apps.who.int/iris/handle/10665/41900), [summary](https://apps.who.int/iris/handle/10665/63376))
 - 1996 World Health Report – Fighting disease, fostering development ([summary](https://apps.who.int/iris/handle/10665/60924?search-result=true&query=1996+World+Health+Report+%E2%80%93+Fighting+disease%2C+fostering+development&scope=&rpp=10&sort_by=score&order=desc))
-- 1995 World Health Report – Bridging the caps ([summary](https://apps.who.int/iris/handle/10665/177478), [web](https://apps.who.int/iris/handle/10665/50245))
+- 1995 World Health Report – Bridging the caps ([web](https://apps.who.int/iris/handle/10665/50245), [summary](https://apps.who.int/iris/handle/10665/177478))
 
 
 
@@ -2829,17 +2800,18 @@
 
 > World Health Organization ([source](https://www.who.int/gho/publications/world_health_statistics/en/))
 
+- 2023 World Health Statistics ([web](https://www.who.int/publications/i/item/9789240074323))
 - 2022 World Health Statistics ([web](https://www.who.int/publications/i/item/9789240051157))
 - 2021 World Health Statistics ([web](https://www.who.int/data/stories/world-health-statistics-2021-a-visual-summary))
 - 2020 World Health Statistics ([web](https://www.who.int/data/gho/whs-2020-visual-summary))
-- 2019 World Health Statistics ([summary](https://apps.who.int/iris/bitstream/handle/10665/311696/WHO-DAD-2019.1-eng.pdf?ua=1), [web](https://www.who.int/publications/i/item/9789241565707))
+- 2019 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241565707), [summary](https://apps.who.int/iris/bitstream/handle/10665/311696/WHO-DAD-2019.1-eng.pdf?ua=1))
 - 2018 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241565585))
 - 2017 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241565486))
 - 2016 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241565264))
 - 2015 World Health Statistics ([web](https://www.who.int/publications/i/item/9789240694439))
-- 2014 World Health Statistics ([summary](https://apps.who.int/iris/bitstream/handle/10665/112739/WHO_HIS_HSI_14.1_eng.pdf?sequence=1), [web](https://www.who.int/publications/i/item/9789240692671))
-- 2013 World Health Statistics ([summary](https://apps.who.int/iris/bitstream/handle/10665/82058/WHO_HIS_HSI_13.1_eng.pdf?sequence=1), [web](https://www.who.int/publications/i/item/9789241564588))
-- 2012 World Health Statistics ([summary](https://apps.who.int/iris/bitstream/handle/10665/70889/WHO_IER_HSI_12.1_eng.pdf?sequence=1), [web](https://www.who.int/publications/i/item/9789241564441))
+- 2014 World Health Statistics ([web](https://www.who.int/publications/i/item/9789240692671), [summary](https://apps.who.int/iris/bitstream/handle/10665/112739/WHO_HIS_HSI_14.1_eng.pdf?sequence=1))
+- 2013 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241564588), [summary](https://apps.who.int/iris/bitstream/handle/10665/82058/WHO_HIS_HSI_13.1_eng.pdf?sequence=1))
+- 2012 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241564441), [summary](https://apps.who.int/iris/bitstream/handle/10665/70889/WHO_IER_HSI_12.1_eng.pdf?sequence=1))
 - 2011 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241564199))
 - 2010 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241563987))
 - 2009 World Health Statistics ([web](https://www.who.int/publications/i/item/9789241563819))
@@ -2888,44 +2860,44 @@
 - 2013 World Investment Report – Global value chains: Investment and trade for development ([web](https://unctad.org/webflyer/world-investment-report-2013))
 - 2012 World Investment Report – Towards a new generation of investment policies ([web](https://unctad.org/webflyer/world-investment-report-2012))
 - 2011 World Investment Report – Non-equity modes of international production and development ([web](https://unctad.org/webflyer/world-investment-report-2011))
-- 2010 World Investment Report – Investing in a low-carbon economy ([summary](https://unctad.org/en/Docs/wir2010overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2010))
-- 2009 World Investment Report – Transnational corporations, agricultural production and development ([summary](https://unctad.org/en/Docs/wir2009overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2009))
-- 2008 World Investment Report – Transnational corporations and the infrastructure challenge ([summary](https://unctad.org/en/Docs/wir2008overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2008))
-- 2007 World Investment Report – Transnational corporations, extractive industries and development ([summary](https://unctad.org/en/Docs/wir2007overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2007))
-- 2006 World Investment Report – FDI from developing and transition economies: Implications for development ([summary](https://unctad.org/en/Docs/wir2006overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2006))
-- 2005 World Investment Report – Transnational corporations and the internationalization of R&D ([summary](https://unctad.org/en/Docs/wir2005overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2005))
-- 2004 World Investment Report – The shift towards services ([summary](https://unctad.org/en/Docs/wir2004overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2004))
-- 2003 World Investment Report – FDI policies for development: National and international perspectives ([summary](https://unctad.org/en/Docs/wir2003overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2003))
-- 2002 World Investment Report – Transnational corporations and export competitiveness ([summary](https://unctad.org/en/Docs/wir2002overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2002))
-- 2001 World Investment Report – Promoting linkages ([summary](https://unctad.org/en/Docs/wir2001overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2001))
-- 2000 World Investment Report – Cross-border mergers and acquisitions and development ([summary](https://unctad.org/en/Docs/wir2000overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-2000))
-- 1999 World Investment Report – Foreign direct investment and the challenge of development ([summary](https://unctad.org/en/Docs/wir1999overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1999))
-- 1998 World Investment Report – Trends and determinants ([summary](https://unctad.org/en/Docs/wir1998overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1998))
-- 1997 World Investment Report – Transnational corporations, market structure and competition policy ([summary](https://unctad.org/en/Docs/wir1997overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1997))
-- 1996 World Investment Report – Investment, trade and international policy agreements ([summary](https://unctad.org/en/Docs/wir1996overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1996))
-- 1995 World Investment Report – Transnational corporations and competitiveness ([summary](https://unctad.org/en/Docs/wir1995overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1995))
-- 1994 World Investment Report – Transnational corporations, employment and the workplace ([summary](https://unctad.org/en/Docs/wir1994overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1994))
-- 1993 World Investment Report – Transnational corporations and integrated international production ([summary](https://unctad.org/en/Docs/wir1993overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1993))
-- 1992 World Investment Report – Transnational corporations as engines of growth ([summary](https://unctad.org/en/Docs/wir1992overview_en.pdf), [web](https://unctad.org/webflyer/world-investment-report-1992))
+- 2010 World Investment Report – Investing in a low-carbon economy ([web](https://unctad.org/webflyer/world-investment-report-2010), [summary](https://unctad.org/en/Docs/wir2010overview_en.pdf))
+- 2009 World Investment Report – Transnational corporations, agricultural production and development ([web](https://unctad.org/webflyer/world-investment-report-2009), [summary](https://unctad.org/en/Docs/wir2009overview_en.pdf))
+- 2008 World Investment Report – Transnational corporations and the infrastructure challenge ([web](https://unctad.org/webflyer/world-investment-report-2008), [summary](https://unctad.org/en/Docs/wir2008overview_en.pdf))
+- 2007 World Investment Report – Transnational corporations, extractive industries and development ([web](https://unctad.org/webflyer/world-investment-report-2007), [summary](https://unctad.org/en/Docs/wir2007overview_en.pdf))
+- 2006 World Investment Report – FDI from developing and transition economies: Implications for development ([web](https://unctad.org/webflyer/world-investment-report-2006), [summary](https://unctad.org/en/Docs/wir2006overview_en.pdf))
+- 2005 World Investment Report – Transnational corporations and the internationalization of R&D ([web](https://unctad.org/webflyer/world-investment-report-2005), [summary](https://unctad.org/en/Docs/wir2005overview_en.pdf))
+- 2004 World Investment Report – The shift towards services ([web](https://unctad.org/webflyer/world-investment-report-2004), [summary](https://unctad.org/en/Docs/wir2004overview_en.pdf))
+- 2003 World Investment Report – FDI policies for development: National and international perspectives ([web](https://unctad.org/webflyer/world-investment-report-2003), [summary](https://unctad.org/en/Docs/wir2003overview_en.pdf))
+- 2002 World Investment Report – Transnational corporations and export competitiveness ([web](https://unctad.org/webflyer/world-investment-report-2002), [summary](https://unctad.org/en/Docs/wir2002overview_en.pdf))
+- 2001 World Investment Report – Promoting linkages ([web](https://unctad.org/webflyer/world-investment-report-2001), [summary](https://unctad.org/en/Docs/wir2001overview_en.pdf))
+- 2000 World Investment Report – Cross-border mergers and acquisitions and development ([web](https://unctad.org/webflyer/world-investment-report-2000), [summary](https://unctad.org/en/Docs/wir2000overview_en.pdf))
+- 1999 World Investment Report – Foreign direct investment and the challenge of development ([web](https://unctad.org/webflyer/world-investment-report-1999), [summary](https://unctad.org/en/Docs/wir1999overview_en.pdf))
+- 1998 World Investment Report – Trends and determinants ([web](https://unctad.org/webflyer/world-investment-report-1998), [summary](https://unctad.org/en/Docs/wir1998overview_en.pdf))
+- 1997 World Investment Report – Transnational corporations, market structure and competition policy ([web](https://unctad.org/webflyer/world-investment-report-1997), [summary](https://unctad.org/en/Docs/wir1997overview_en.pdf))
+- 1996 World Investment Report – Investment, trade and international policy agreements ([web](https://unctad.org/webflyer/world-investment-report-1996), [summary](https://unctad.org/en/Docs/wir1996overview_en.pdf))
+- 1995 World Investment Report – Transnational corporations and competitiveness ([web](https://unctad.org/webflyer/world-investment-report-1995), [summary](https://unctad.org/en/Docs/wir1995overview_en.pdf))
+- 1994 World Investment Report – Transnational corporations, employment and the workplace ([web](https://unctad.org/webflyer/world-investment-report-1994), [summary](https://unctad.org/en/Docs/wir1994overview_en.pdf))
+- 1993 World Investment Report – Transnational corporations and integrated international production ([web](https://unctad.org/webflyer/world-investment-report-1993), [summary](https://unctad.org/en/Docs/wir1993overview_en.pdf))
+- 1992 World Investment Report – Transnational corporations as engines of growth ([web](https://unctad.org/webflyer/world-investment-report-1992), [summary](https://unctad.org/en/Docs/wir1992overview_en.pdf))
 - 1991 World Investment Report – The Triad in foreign direct investment ([web](https://unctad.org/webflyer/world-investment-report-1991))
 
 
 
 ## World Migration Report
 
-> International Organization for Migration ([source](https://worldmigrationreport.iom.int/))
+> International Organization for Migration ([source](https://worldmigrationreport.iom.int/all-world-migration-reports))
 
 - 2022 World Migration Report ([web](https://worldmigrationreport.iom.int/wmr-2022-interactive/))
 - 2020 World Migration Report ([web](https://worldmigrationreport.iom.int/wmr-2020-interactive/?lang=EN))
-- 2018 World Migration Report ([summary](https://publications.iom.int/system/files/pdf/wmr_2018_en_chapter1.pdf), [web](https://www.iom.int/wmr/2018))
-- 2015 World Migration Report – Migrants and cities: New partnerships to manage mobility ([web](https://worldmigrationreport.iom.int/world-migration-report-2015))
-- 2013 World Migration Report – Migrant well-being and development ([web](https://worldmigrationreport.iom.int/world-migration-report-2013))
-- 2011 World Migration Report – Communicating effectively about migration ([full](https://publications.iom.int/system/files/pdf/wmr2011_english.pdf), [web](https://worldmigrationreport.iom.int/world-migration-report-2011))
-- 2010 World Migration Report – The future of migration: Building capacities for change ([full](https://publications.iom.int/system/files/pdf/wmr_2010_english.pdf), [web](https://worldmigrationreport.iom.int/world-migration-report-2010))
-- 2008 World Migration Report – Managing labour mobility in the evolving global economy ([full](https://publications.iom.int/system/files/pdf/wmr_1.pdf), [web](https://worldmigrationreport.iom.int/world-migration-report-2008))
-- 2005 World Migration Report – Costs and benefits of international migration ([full](https://publications.iom.int/system/files/pdf/wmr_2005_3.pdf?language=en), [web](https://worldmigrationreport.iom.int/world-migration-report-2005))
-- 2003 World Migration Report – Managing migration: Challenges and responses for people on the move ([full](https://publications.iom.int/system/files/pdf/wmr_2003_1.pdf), [web](https://worldmigrationreport.iom.int/world-migration-report-2003))
-- 2000 World Migration Report ([full](https://publications.iom.int/system/files/pdf/wmr_2000_edited_0.pdf), [web](https://worldmigrationreport.iom.int/world-migration-report-2000))
+- 2018 World Migration Report ([web](https://publications.iom.int/books/world-migration-report-2018))
+- 2015 World Migration Report – Migrants and cities: New partnerships to manage mobility ([web](https://worldmigrationreport.iom.int/what-we-do/world-migration-report-2015))
+- 2013 World Migration Report – Migrant well-being and development ([web](https://worldmigrationreport.iom.int/what-we-do/world-migration-report-2013))
+- 2011 World Migration Report – Communicating effectively about migration ([web](https://worldmigrationreport.iom.int/cross-cutting-priorirites/world-migration-report-2011), [full](https://publications.iom.int/system/files/pdf/wmr2011_english.pdf))
+- 2010 World Migration Report – The future of migration: Building capacities for change ([web](https://worldmigrationreport.iom.int/cross-cutting-priorirites/world-migration-report-2010), [full](https://publications.iom.int/system/files/pdf/wmr_2010_english.pdf))
+- 2008 World Migration Report – Managing labour mobility in the evolving global economy ([web](https://worldmigrationreport.iom.int/cross-cutting-priorirites/world-migration-report-2008), [full](https://publications.iom.int/system/files/pdf/wmr_1.pdf))
+- 2005 World Migration Report – Costs and benefits of international migration ([full](https://publications.iom.int/system/files/pdf/wmr_2005_3.pdf?language=en))
+- 2003 World Migration Report – Managing migration: Challenges and responses for people on the move ([full](https://publications.iom.int/system/files/pdf/wmr_2003_1.pdf))
+- 2000 World Migration Report ([full](https://publications.iom.int/system/files/pdf/wmr_2000_edited_0.pdf))
 
 
 
@@ -3007,34 +2979,6 @@
 
 
 
-## World Steel in Figures
-
-> World Steel Association ([source](https://worldsteel.org/publications/bookshop/))
-
-- 2022 World Steel in Figures ([web](https://worldsteel.org/publications/bookshop/world-steel-in-figures-2022/))
-- 2021 World Steel in Figures 
-- 2020 World Steel in Figures
-- 2019 World Steel in Figures ([web](https://worldsteel.org/media-centre/press-releases/2019/world-steel-in-figures-2019-now-available/))
-- 2018 World Steel in Figures ([web](https://worldsteel.org/media-centre/press-releases/2018/world-steel-in-figures-2018-now-available/))
-- 2017 World Steel in Figures
-- 2016 World Steel in Figures
-- 2015 World Steel in Figures
-- 2014 World Steel in Figures
-- 2013 World Steel in Figures
-- 2012 World Steel in Figures
-- 2011 World Steel in Figures
-- 2010 World Steel in Figures
-- 2009 World Steel in Figures
-- 2008 World Steel in Figures
-- 2007 World Steel in Figures
-- 2006 World Steel in Figures
-- 2005 World Steel in Figures
-- 2004 World Steel in Figures
-- 2003 World Steel in Figures
-- 2002 World Steel in Figures
-
-
-
 ## World Trade Report
 
 > World Trade Organization ([source](https://www.wto.org/english/res_e/reser_e/wtr_e.htm))
@@ -3105,7 +3049,7 @@
 
 ## World Wealth Report
 
-> Capgemini ([source](https://worldwealthreport.com/))
+> Capgemini ([source](https://www.capgemini.com/insights/research-library/world-wealth-report/))
 
 - 2022 World Wealth Report ([full](https://worldwealthreport.com/pdf/Capgemini_WWR_2022_VFinal_Digital.pdf))
 - 2021 World Wealth Report
@@ -3163,7 +3107,7 @@
 
 ## WorldRiskReport
 
-> Bündnis Entwicklung Hilft, Ruhr University Bochum ([source](https://weltrisikobericht.de/weltrisikobericht-2021-e/))
+> Bündnis Entwicklung Hilft, Ruhr University Bochum ([source](https://weltrisikobericht.de/))
 
 - 2021 WorldRiskReport – Social protection ([full](https://weltrisikobericht.de//wp-content/uploads/2021/09/WorldRiskReport_2021_Online.pdf))
 - 2020 WorldRiskReport – Forced displacement and migration ([full](https://weltrisikobericht.de/wp-content/uploads/2020/09/WorldRiskReport-2020.pdf))
@@ -3185,13 +3129,14 @@
 
 - 2021 Worldwide Cost of Living ([summary](https://files.static-nzz.ch/2021/12/01/5fef9ee8-c25d-4291-8c5f-7c266524f809.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2021)) **$**
 - 2020 Worldwide Cost of Living ([summary](https://bluesyemre.files.wordpress.com/2020/03/worldwide-cost-of-living-2020.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2020/)) **$**
-- 2019 Worldwide Cost of Living ([summary](https://www.df.cl/noticias/site/artic/20190319/asocfile/20190319171329/reporte.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2019/)) **$**
-- 2018 Worldwide Cost of Living ([summary](https://qtxasset.com/cfoinnovation/field/field_p_files/white_paper/EIU_Costofliving2018.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2018/)) **$**
-- 2017 Worldwide Cost of Living ([summary](https://kjarninn.overcastcdn.com/documents/EconomistListi.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2017/)) **$**
-- 2016 Worldwide Cost of Living ([web](https://store.eiu.com/product/worldwide-cost-of-living-2016/)) **$**
-- 2015 Worldwide Cost of Living ([web](https://store.eiu.com/product/worldwide-cost-of-living-2015/)) **$**
-- 2014 Worldwide Cost of Living ([web](https://store.eiu.com/product/worldwide-cost-of-living-2014/)) **$**
-- 2013 Worldwide Cost of Living ([summary](http://www.iberglobal.com/files/cities_cost_living_eiu.pdf), [web](https://store.eiu.com/product/worldwide-cost-of-living-2013/)) **$**
+- 2020 Worldwide Cost of Living ([web](https://www.eiu.com/n/campaigns/worldwide-cost-of-living-2020/), [summary](https://bluesyemre.files.wordpress.com/2020/03/worldwide-cost-of-living-2020.pdf)) **$**
+- 2019 Worldwide Cost of Living ([web](https://www.eiu.com/n/campaigns/worldwide-cost-of-living-2019/), [summary](https://www.df.cl/noticias/site/artic/20190319/asocfile/20190319171329/reporte.pdf)) **$**
+- 2018 Worldwide Cost of Living ([web](https://www.eiu.com/n/campaigns/worldwide-cost-of-living-2018/), [summary](https://qtxasset.com/cfoinnovation/field/field_p_files/white_paper/EIU_Costofliving2018.pdf)) **$**
+- 2017 Worldwide Cost of Living ([summary](https://kjarninn.overcastcdn.com/documents/EconomistListi.pdf)) **$**
+- 2016 Worldwide Cost of Living ([summary](https://cdn.plataformaurbana.cl/wp-content/uploads/2016/05/eiu_wcol2016_freereport.pdf)) **$**
+- 2015 Worldwide Cost of Living ([summary](https://cdn.plataformaurbana.cl/wp-content/uploads/2015/03/wcol-march-2015-summary.pdf)) **$**
+- 2014 Worldwide Cost of Living ([summary](https://ciaotest.cc.columbia.edu/wps/eiu/0030358/f_0030358_24532.pdf)) **$**
+- 2013 Worldwide Cost of Living ([summary](http://www.iberglobal.com/files/cities_cost_living_eiu.pdf)) **$**
 
 
 
